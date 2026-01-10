@@ -1,10 +1,11 @@
 import os
 from typing import List
 from llama_index.core.schema import TextNode
-from node_parser import NodeParser
+from src.ingestion.node_parser import NodeParser
 import logging
 
 logger = logging.getLogger(__name__)
+
 class DocumentProcessor:
     def __init__(self) -> None:
         self.parser = NodeParser()

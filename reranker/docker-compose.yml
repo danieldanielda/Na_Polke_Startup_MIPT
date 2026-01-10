@@ -1,0 +1,26 @@
+version: '3.8'
+services:
+  text-embeddings:
+    image: ghcr.io/huggingface/text-embeddings-inference:1.8
+    container_name: reranker
+    ports:
+      - "8084:80"
+
+    #deploy:
+    #  resources:
+    #    reservations:
+    #      devices:
+    #        - driver: nvidia
+    #          count: all
+    #          capabilities: [gpu]
+
+    environment:
+      - API_KEY=${API_KEY}
+
+    volumes:
+      - /models/bge/bge-reranker-v2-m3:/data
+
+    restart: unless-stopped
+    command: >
+      --model-id /data
+      --api-key ${API_KEY}

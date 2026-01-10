@@ -1,0 +1,14 @@
+services:
+  agents-tool:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      shm_size: '6gb'
+    container_name: agents-tool
+    ports: 
+      - '8457:8457'
+
+    env_file:
+      - '.agents.env'
+    command: ["./entrypoint.sh"]
+    restart: unless-stopped

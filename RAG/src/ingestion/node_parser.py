@@ -30,24 +30,26 @@ class NodeParser:
                 file_name = Path(file_path).name
                 
                 for obj in items:
-                    # Формируем текст для эмбеддинга
                     text_parts = []
-                    if name := obj.get("name"):
-                        text_parts.append(f"Название: {name}")
-                    if brand := obj.get("brand"):
-                        text_parts.append(f"Бренд: {brand}")
+
+                    if title := obj.get("title"):
+                        text_parts.append(f"Название: {title}")
+
+
                     if desc := obj.get("description"):
                         text_parts.append(f"Описание: {desc}")
+
                     if ing := obj.get("ingredients"):
                         text_parts.append(f"Состав: {ing}")
-                    if product_type := obj.get("type"):
-                        text_parts.append(f"Тип продукта: {product_type}")
-                    if skin_type := obj.get("skin_type"):
-                        text_parts.append(f"Тип кожи: {skin_type}")
-                    
+
+                    if chars := obj.get("characteristics"):
+                        if product_type := chars.get("тип продукта"):
+                            text_parts.append(f"Тип продукта: {product_type}")
+                        if skin_type := chars.get("тип кожи"):
+                            text_parts.append(f"Тип кожи: {skin_type}")
+
                     full_text = "\n".join(text_parts) or json.dumps(obj, ensure_ascii=False)
 
-                    # ВАЖНО: Сохраняем только простые строковые метаданные для ChromaDB
                     doc = Document(
                         text=full_text,
                         id_=str(uuid.uuid4()),
@@ -56,11 +58,10 @@ class NodeParser:
                             "file_name": file_name,
                             "creation_date": current_date_utc,
                             "object_type": "cosmetic_product",
-                            # Сохраняем только простые поля, не весь объект
-                            "product_name": obj.get("name", ""),
-                            "product_brand": obj.get("brand", ""),
-                            "product_type": obj.get("type", ""),
-                            "skin_type": obj.get("skin_type", "")
+                            "product_name": obj.get("title", ""),
+                            "product_type": obj.get("characteristics", {}).get("тип продукта", ""),
+                            "skin_type": obj.get("characteristics", {}).get("тип кожи", ""),
+                            "article": obj.get("article", "")
                         }
                     )
                     documents.append(doc)

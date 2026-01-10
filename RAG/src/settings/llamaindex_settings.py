@@ -4,7 +4,7 @@ from llama_index.llms.openllm import OpenLLM
 
 import logging
 from src.services.embedding_inference import CustomTextEmbeddingsInference
-from config import RagSettings
+from src.settings.config import RagSettings
 
 logger = logging.getLogger(__name__)
 
@@ -34,13 +34,15 @@ async def initialize_settings(aclient: httpx.AsyncClient, client: httpx.Client):
     if not _initialized:
         try:
             logger.debug("Start to load models...")
-            Settings.embed_model = CustomTextEmbeddingsInference(
-                    model_name=settings.emb_model,  # MUST BE THE SAME AS IN OFFICIAL DOCS
-                    base_url=settings.emb_api,
-                    auth_token=settings.emb_api_key,
-                    timeout=60,  
-                    embed_batch_size=10,  # batch size for embedding
-                )
+            Settings.embed_model = settings.emb_model
+            #Settings.embed_model = CustomTextEmbeddingsInference(
+            #        model_name=settings.emb_model,  # MUST BE THE SAME AS IN OFFICIAL DOCS
+            #        base_url=settings.emb_api,
+            #        auth_token=settings.emb_api_key,
+            #        timeout=60,  
+            #       embed_batch_size=10,  # batch size for embedding
+            #   )
+            
             logger.debug("Emdeddig model is ready")
             Settings.llm = OpenLLM(
                 model=settings.model_name,
@@ -49,7 +51,6 @@ async def initialize_settings(aclient: httpx.AsyncClient, client: httpx.Client):
                 temperature=0.0,
                 is_chat_model=True,
                 is_function_calling_model=True,
-                context_window=32768,
                 messages_to_prompt=messages_to_prompt,
                 completion_to_prompt=completion_to_prompt,
                 async_http_client=aclient,

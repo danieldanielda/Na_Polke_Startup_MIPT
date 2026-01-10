@@ -1,8 +1,11 @@
 /venv
 /myenv
 .venv
-__pycache__
+__pycache__/
 uv.lock
 .rag.env
 .bot.env
 .agents.env
+models/
+build/
+rag.egg-info/
