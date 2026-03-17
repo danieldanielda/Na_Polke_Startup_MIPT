@@ -1,0 +1,888 @@
+[
+  {
+    "name": "Parfum",
+    "inci_name": "PARFUM",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Unfortunately, the term “fragrance” conceals numerous odorant molecules that are potentially irritating or even allergenic. It's hard to know what to do when you're allergic to a product and the information isn't very detailed. Nevertheless, to help us, Europe has regulated 24 molecules (more than 80 from 2026) which, when used above a certain concentration, must be mentioned in the INCI list (generally at the end), even though they are themselves part of a product's fragrance. This is the case, for example, with Limonene, linalool...",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Perfuming"
+    ],
+    "prevalence": "65.95% косметических средств",
+    "common_product_types": [
+      "Scented mist for children (100%)",
+      "Perfume set for children (100%)",
+      "Men's eau de cologne (100%)",
+      "Mixed cologne (100%)",
+      "Children's cologne (100%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Glycerin",
+    "inci_name": "GLYCERIN",
+    "cas_number": "56-81-5",
+    "einecs_number": "200-289-5",
+    "description": "Glycerol or glycerol is part of the family of polyalcohols, it can be produced synthetically from petroleum derivatives, or from animal or vegetable fats by saponification. It is in the form of a colorless liquid, hygroscopic (which absorbs moisture) and syrupy.Glycerine is used for its high moisturizing, occlusive (protects the skin of aggressions), emollient (smooth skin and hair) or humectant (allows a product to maintain its fluid appearance).It has been demonstrated (2005, Andersen) that it has anti-inflammatory power when incorporated into potentially irritating products, such as those using Sodium lauryl sulfate.",
+    "rating": "safe",
+    "functions": [
+      "Denaturant",
+      "Hair conditioning",
+      "Humectant",
+      "Oral care/hygiene agent",
+      "Skin conditioning",
+      "Skin protecting",
+      "Solvent",
+      "Viscosity controlling",
+      "Perfuming"
+    ],
+    "prevalence": "55.03% косметических средств",
+    "common_product_types": [
+      "Anti-aging night mask (96.32%)",
+      "Anti-aging set (95.68%)",
+      "Anti-aging night face cream (95.25%)",
+      "Anti-aging for men (95.2%)",
+      "Care set for men (95.08%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Aqua",
+    "inci_name": "AQUA",
+    "cas_number": "7732-18-5 - Water",
+    "einecs_number": "231-791-2",
+    "description": "Water is the most used ingredient in cosmetics: 83% of products contain it (percentage established from 50,000 products from the Inci Beauty App). Since water is of mineral origin, it can never be certified organic. This is why organic labels, to certify products, authorize fairly low minimums of organic ingredients (10% for Ecocert) on the total of a formula, taking into account that the presence of non-organic water is essential and often the majority in many cases.",
+    "rating": "safe",
+    "functions": [
+      "Solvent"
+    ],
+    "prevalence": "78.46% косметических средств",
+    "common_product_types": [
+      "Intimate wipes (100%)",
+      "Cleansing foam (100%)",
+      "Baby washing foam (100%)",
+      "Aftershave gel (100%)",
+      "Care set for men (100%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Mineral."
+  },
+  {
+    "name": "Citric Acid",
+    "inci_name": "CITRIC ACID",
+    "cas_number": "77-92-9 / 5949-29-1",
+    "einecs_number": "201-069-1",
+    "description": "Citric acid is one of the main active ingredients in lemon. It is often used to balance the pH (too basic) of cosmetic products. It is also present in some bath products (bath bombs, bath pebbles or \"magic powders\") because of its effervescent properties.",
+    "rating": "safe",
+    "functions": [
+      "pH regulator",
+      "Chelating",
+      "Masking"
+    ],
+    "prevalence": "35.02% косметических средств",
+    "common_product_types": [
+      "Men shower gel (91.1%)",
+      "Shower foam (90.42%)",
+      "Men's shampoo (88.71%)",
+      "Care set for men (88.52%)",
+      "Shower gel powder (86.05%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Natural."
+  },
+  {
+    "name": "Phenoxyethanol",
+    "inci_name": "PHENOXYETHANOL",
+    "cas_number": "122-99-6",
+    "einecs_number": "204-589-7",
+    "description": "Phenoxyethanol is a synthetic preservative known by the acronym of EGPhE, widely used in cosmetics and increasingly controversial. Since 2012, the ANSM (National Agency for the Safety of Medicines and Health Products) has recommended that this preservative not be used in cosmetic products intended for babies' seats and that its maximum content be set at 0.4% for other products for children under 3 years old. It also denounces its liver toxicity, its potentially harmful effects on reproduction as well as many other inconveniences: the conclusions of the 2012 ANSM report are alarming.In its opinion of May 2018, the Temporary Scientific Special Committee (CSST) responsible for the re-evaluation of phenoxyethanol at the European level, for its part concluded: \"The recommendation by the Ansm of non-use of phenoxyethanol in products It is advisable to extend it to wipes, which are very commonly used also for cleaning the seats of young children.In all other cosmetic products intended for children aged 3 and under, the maximum concentration of Phenoxyethanol could remain 1%. \" The CSST would therefore follow the ANSM for wipes but not for concentration. In any case, by law, phenoxyethanol is still allowed in baby wipes!Phenoxyethanol is produced by ethoxylation (a highly polluting chemical process) by reacting phenol and ethylene oxide at high temperature and pressure. Note, however, that phenoxyethanol is naturally present in green tea, but it is not this version of the compound that is used in cosmetics. Due to its manufacturing process, Phenoxyethanol is banned in Bio.",
+    "rating": "avoid",
+    "functions": [
+      "Antimicrobial",
+      "Preservative"
+    ],
+    "prevalence": "33.62% косметических средств",
+    "common_product_types": [
+      "Advent calendar (82.61%)",
+      "Gel and lacquer for men (74.7%)",
+      "Ink and body paint (74.68%)",
+      "Mascara base (73.33%)",
+      "Make-up set (70.83%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Linalool",
+    "inci_name": "LINALOOL",
+    "cas_number": "78-70-6",
+    "einecs_number": "201-134-4",
+    "description": "Linalool is an aromatic compound classified as a regulated allergen by Europe. It is naturally present in essential oils of thyme, lavender, lavandin, Scots pine or peppermint... It is also found in many extracts (lemon, orange, verbena...).",
+    "rating": "neutral",
+    "functions": [
+      "Deodorant",
+      "Perfuming"
+    ],
+    "prevalence": "30.27% косметических средств",
+    "common_product_types": [
+      "Men's cologne (96.64%)",
+      "Eau de parfum for men (95.6%)",
+      "Perfume set for men (94.86%)",
+      "Eau fraîche for women (94.33%)",
+      "Women fragrance set (92.43%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Natural."
+  },
+  {
+    "name": "Limonene",
+    "inci_name": "LIMONENE",
+    "cas_number": "138-86-3",
+    "einecs_number": "205-341-0/931-893-3",
+    "description": "Limonene is one of Europe's regulated allergens. It takes its name from the lemon in which it is present in significant quantities. In cosmetics, it is used for its fragrance.It exists in two different forms:- d-limonene is present in many plants, fruits and vegetables. It is also found in citrus peel, gherkins, celery and many essential oils.- the other isometric form, l-limonene, is found mainly in pine oils, turpentine and mint oils.",
+    "rating": "neutral",
+    "functions": [
+      "Deodorant",
+      "Solvent",
+      "Perfuming"
+    ],
+    "prevalence": "28.06% косметических средств",
+    "common_product_types": [
+      "Men's cologne (95.61%)",
+      "Perfume set for men (95.55%)",
+      "Eau de parfum for men (94.29%)",
+      "Eau fraîche for women (92.2%)",
+      "Perfume for women (88.7%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Natural."
+  },
+  {
+    "name": "Tocopherol",
+    "inci_name": "TOCOPHEROL",
+    "cas_number": "54-28-4 (gamma)/ 16698-35-4(beta) / 10191-41-0(DL) / 119-13-1 / 1406-18-4 / 1406-66-2 / 2074-53-5 (DL) / 59-02-9 (D)/7616-22-0 - Vitamin E",
+    "einecs_number": "200-201-5 / 240-747-1 / 233-466-0 / 204-299-0 /215-798-8 / - / 218-197-9 / 200-412-2 / -",
+    "description": "Tocopherol represents different components of Vitamin E. It is used in cosmetics for its antioxidant properties. This fat-soluble ingredient (which dissolves in oil) is found naturally in vegetable oils such as palm oil, sunflower oil or wheat germ ... In 2014, Tocopherol made the another ERC study and 13 other vitamin E derivatives. The agency concluded that it is safe. Note that Tocopherol can be of synthetic origin (made entirely in the laboratory).",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant",
+      "Masking",
+      "Skin conditioning - miscellaneous",
+      "Skin conditioning - occlusive"
+    ],
+    "prevalence": "25.64% косметических средств",
+    "common_product_types": [
+      "Anti-aging for men (67.6%)",
+      "Advent calendar (66.67%)",
+      "Anti-aging set (65.83%)",
+      "Solid perfume for women (65.59%)",
+      "Anti-aging night face cream (64.75%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Benzoate",
+    "inci_name": "SODIUM BENZOATE",
+    "cas_number": "532-32-1",
+    "einecs_number": "208-534-8",
+    "description": "Sodium benzoate is used as an antifungal preservative in cosmetics and in food under the name E211. It is therefore very effective against fungi, yeasts and bacteria. It is made quite easily with soda, water and benzoic acid. It is found naturally in some fruits such as plums, prunes or apples. It is authorized in organic.",
+    "rating": "neutral",
+    "functions": [
+      "Anticorrosive",
+      "Masking",
+      "Preservative"
+    ],
+    "prevalence": "25.6% косметических средств",
+    "common_product_types": [
+      "Men shower gel (83.5%)",
+      "Shower foam (78.33%)",
+      "Anti-dandruff shampoo (76.93%)",
+      "Shower gel (76.36%)",
+      "Intimate wipes (75.83%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Potassium Sorbate",
+    "inci_name": "POTASSIUM SORBATE",
+    "cas_number": "24634-61-5 / 590-00-1",
+    "einecs_number": "246-376-1 / -",
+    "description": "Potassium sorbate is used in cosmetics as a preservative. It is often found in food (E202) in dairy products (yogurt, cheese ...). This potassium salt of sorbic acid is present naturally in Sorbier. It is authorized in Bio.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Preservative"
+    ],
+    "prevalence": "19.04% косметических средств",
+    "common_product_types": [
+      "Shower gel powder (52.33%)",
+      "Intimate wipes (49.29%)",
+      "Moist toilet tissue (47.2%)",
+      "Personal hygiene (44.84%)",
+      "Scalp scrub (44.77%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Cetearyl Alcohol",
+    "inci_name": "CETEARYL ALCOHOL",
+    "cas_number": "67762-27-0 / 8005-44-5",
+    "einecs_number": "267-008-6 / -",
+    "description": "Cetearyl alcohol belongs to the family of fatty alcohols. It is used as emollient. It helps to thicken the creams and stabilize them. It softens and protects the skin without oily effect. Cetearyl alcohol contains mainly cetyl alcohol (Cetyl alcohol) and stearyl alcohol (Stearyl alcohol). It is authorized in organic.The CIR (Cosmetic Ingredient Review) in an annual report published in 2008, concluded the safety of fatty alcohols.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Emulsifying",
+      "Emulsion stabilising",
+      "Foam boosting",
+      "Opacifying",
+      "Surfactant",
+      "Viscosity controlling"
+    ],
+    "prevalence": "18.89% косметических средств",
+    "common_product_types": [
+      "Oxidizer and colour developer (92.47%)",
+      "Depilatory cream underarm & underarm (90.74%)",
+      "Body hair removal cream (86.38%)",
+      "Oxidative hair coloring (86.22%)",
+      "Facial hair removal cream (84.29%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Tocopheryl Acetate",
+    "inci_name": "TOCOPHERYL ACETATE",
+    "cas_number": "7695-91-2 / 58-95-7",
+    "einecs_number": "231-710-0 / 200-405-4",
+    "description": "Tocopherol acetate is a derivative of Vitamin E. It acts in cosmetics as an antioxidant. It can be produced synthetically or of natural origin, extract of soybean oil or sunflower for example. It is often used in cosmetics as an alternative to pure tocopherol because it is considered more stable and less acidic.It is authorized in organic, when it is of vegetable origin.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant",
+      "Skin conditioning"
+    ],
+    "prevalence": "18.93% косметических средств",
+    "common_product_types": [
+      "Advent calendar (65.22%)",
+      "Children sun cream (61.64%)",
+      "Lip make-up set (60.38%)",
+      "Anti-ageing sun cream (57.06%)",
+      "Adult sun cream (54.49%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Chloride",
+    "inci_name": "SODIUM CHLORIDE",
+    "cas_number": "7647-14-5",
+    "einecs_number": "231-598-3",
+    "description": "Sodium chloride is a sodium salt also known as table salt, commonly used in food for salting food. It is the basic material in the chemical industry to produce soda and chlorine. In cosmetics, it is often used as a thickener in shampoos and shower gels or in oral preparations to clean and eliminate odors. Table salt (depending on the concentration used) may tend in some cases to dry the skin and irritate the scalp. Sodium chloride is allowed in organic.",
+    "rating": "safe",
+    "functions": [
+      "Bulking",
+      "Masking",
+      "Oral care/hygiene agent",
+      "Viscosity controlling"
+    ],
+    "prevalence": "18.23% косметических средств",
+    "common_product_types": [
+      "Men shower gel (90.57%)",
+      "Anti-dandruff shampoo (85.34%)",
+      "Men's shampoo (83.86%)",
+      "Shower gel (80.25%)",
+      "Children shower gel (77.62%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Synthetic."
+  },
+  {
+    "name": "Ethylhexylglycerin",
+    "inci_name": "ETHYLHEXYLGLYCERIN",
+    "cas_number": "70445-33-9",
+    "einecs_number": "408-080-2",
+    "description": "Ethylhexylglycerin is made from glycerine, it is used in cosmetics as an emollient humectant, it improves the skin sensation of cosmetic formulations. It is also used in deodorants as an active ingredient, it inhibits the growth and multiplication of odor-causing bacteria, while not affecting skin flora. Although it is banned in organic, because of its manufacturing process, however, it does not break any particular concerns.",
+    "rating": "safe",
+    "functions": [
+      "Deodorant",
+      "Skin conditioning"
+    ],
+    "prevalence": "18.29% косметических средств",
+    "common_product_types": [
+      "Exfoliating pads (64.24%)",
+      "Anti-aging set (52.52%)",
+      "Cc cream (52.16%)",
+      "Anti-ageing neck and décolleté cream (50%)",
+      "Fabric mask (48.28%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Synthetic."
+  },
+  {
+    "name": "Propylene Glycol",
+    "inci_name": "PROPYLENE GLYCOL",
+    "cas_number": "57-55-6",
+    "einecs_number": "200-338-0",
+    "description": "Propylene Glycol is an organic compound (Dialcohol) made by hydrating propylene oxide. It occurs naturally in sesame seeds and mushrooms. It is used as a humectant, solvent, or binder in cosmetic products. It helps other ingredients penetrate the skin. Propylene Glycol is the main ingredient in electronic cigarettes.Propanediol (1,3-propanediol) and propylene glycol (1,2-propanediol) share the same empirical formula (C3H8O2), but their molecular structure is different.",
+    "rating": "neutral",
+    "functions": [
+      "Humectant",
+      "Masking",
+      "Solvent",
+      "Viscosity controlling",
+      "Skin conditioning - humectant",
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "18.11% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (63.53%)",
+      "Anti-dandruff shampoo (49.75%)",
+      "Moist toilet tissue (44.2%)",
+      "Hair straightening (40.55%)",
+      "Mouthwash (40.52%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Benzyl Alcohol",
+    "inci_name": "BENZYL ALCOHOL",
+    "cas_number": "100-51-6",
+    "einecs_number": "202-859-9",
+    "description": "Benzyl alcohol is one of the allergens regulated by Europe. It is mostly used as a preservative. It is naturally present in many plants and fruits, including Jasmine, garlic and Ylang-Ylang, as well as apricot, almond, apple and blackcurrant... Benzyl alcohol is authorized in organic farming.",
+    "rating": "neutral",
+    "functions": [
+      "Preservative",
+      "Solvent",
+      "Viscosity controlling",
+      "Perfuming"
+    ],
+    "prevalence": "17.37% косметических средств",
+    "common_product_types": [
+      "Women fragrance set (51.74%)",
+      "Perfume for women (48.07%)",
+      "Eau de toilette for women (40.04%)",
+      "Hair botox (40%)",
+      "Hair conditioner (37.74%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Dimethicone",
+    "inci_name": "DIMETHICONE",
+    "cas_number": "63148-62-9 / 9006-65-9 / 9016-00-6",
+    "einecs_number": "- / - / - /",
+    "description": "Dimethicone also called PDMS is a silicone that is not subject to any European restrictions. It is also the most used silicone in cosmetics. Its role is to produce a film of surface around the hair and on the skin, to protect them then (occlusive effect, with what that can imply). It also brings sweetness to the products and makes it easy to use creams and shampoos. It is a little \"the Swiss knife of the chemist\": it is used a little in all sauces, to make the products brighter, more pleasant and therefore more sellers, or to compensate for the drying effect of certain ingredients like surfactants.This inert component poses no problem for human health, one can only wonder if its effect is not only marketing and artificial. It is on the ecological aspect that the ingredient can have a very negative impact since it is very little biodegradable.",
+    "rating": "caution",
+    "functions": [
+      "Antifoaming",
+      "Emollient",
+      "Skin conditioning",
+      "Skin protecting"
+    ],
+    "prevalence": "16.4% косметических средств",
+    "common_product_types": [
+      "Make-up palette (66.15%)",
+      "Foundation (61.45%)",
+      "Cc cream (60.98%)",
+      "Body moisturizer for men (54.76%)",
+      "Eyebrow palette (53.93%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Xanthan Gum",
+    "inci_name": "XANTHAN GUM",
+    "cas_number": "11138-66-2",
+    "einecs_number": "234-394-2",
+    "description": "Xanthan gum is used in cosmetics as an emulsion stabilizer, film-forming agent or binder. It is obtained by the fermentation of a carbohydrate (for example glucose) with the bacterium Xanthomonas campestris. It is authorized in Bio.A 2016 study of the Cosmetic Ingredient Review (CIR) on microbial polysaccharide gums, of which Xanthan gum is a part, concludes that the ingredient is safe.Note that Xanthan gum is not regulated in Europe. In the United States, the FDA limits its use to 6% of the total ingredients in cosmetics.",
+    "rating": "safe",
+    "functions": [
+      "Binding agent",
+      "Emulsifying",
+      "Emulsion stabilising",
+      "Gel forming",
+      "Skin conditioning",
+      "Surfactant",
+      "Viscosity controlling"
+    ],
+    "prevalence": "17.35% косметических средств",
+    "common_product_types": [
+      "Shower gel powder (89.53%)",
+      "Anti-ageing sun cream (68.74%)",
+      "Anti-aging set (68.71%)",
+      "Fabric mask (63.65%)",
+      "Anti-aging for men (63.2%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Hydroxide",
+    "inci_name": "SODIUM HYDROXIDE",
+    "cas_number": "1310-73-2",
+    "einecs_number": "215-185-5",
+    "description": "Caustic soda is used in the preparation of many products (detergents, explosives ...). It is used to make sodium salts and to neutralize acids. In cosmetics, it allows the manufacture of solid soaps. Caustic soda is allowed in organic, it does not pose problems in the conditions of regulation.",
+    "rating": "safe",
+    "functions": [
+      "pH regulator",
+      "Denaturant"
+    ],
+    "prevalence": "15.95% косметических средств",
+    "common_product_types": [
+      "Anti-dandruff shampoo (59.64%)",
+      "Hand set (55.95%)",
+      "Baby cleansing milk (54.21%)",
+      "Scrubbing shower gel (53.48%)",
+      "Care set for men (53.28%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Ci 77891",
+    "inci_name": "CI 77891",
+    "cas_number": "13463-67-7 - White dye (Titanium dioxide)",
+    "einecs_number": "236-675-5",
+    "description": "Titanium dioxide is a very abundant mineral on earth: it is the 9th most abundant chemical element in the earth's crust. It can be used in cosmetics as a UV filter or as a white dye. When it is a UV filter, it can be reduced in the form of nanoparticles: the CSSC has approved the use of titanium dioxide in the form of nanoparticles in sun creams from 2014, in concentrations of less than 25%. The EC regulation 2016/1143 of July 2016 released the use of titanium dioxide in this form in cosmetics. Titanium Dioxide reduced to the size of nanoparticles is allowed in Bio, and removes the unsightly whitish effect caused by this mineral filter when used in its micrometric state, i.e. in its original size. Please note that the manufacturer has the obligation to mention next to the name of the ingredient the mention (NANO) or [NANO] in the INCI list, when this is the case.In 2006, the International Agency for Research on Cancer (IARC) classified titanium dioxide TiO2 in the group of substances \"possible carcinogenic to humans\" (group 2B): when inhaled regardless of the size of the nanoparticle or not. In 2016, ANSES submitted to ECHA (European Chemicals Agency) a proposal to classify titanium dioxide as an inhalation carcinogen (re-evaluation in category 1B).As you have understood, the case of Titanium Dioxide, the only UV filter authorized in Bio with Zinc Oxide is very complex. Nevertheless, we note that it mainly raises questions and controversies when inhaled/swallowed and/or is used in nanoparticle form.",
+    "rating": "avoid",
+    "functions": [
+      "Cosmetic colorant"
+    ],
+    "prevalence": "16.08% косметических средств",
+    "common_product_types": [
+      "Concealer (92.45%)",
+      "Make-up palette (89.75%)",
+      "Illuminators and complexion illuminator (89.61%)",
+      "Lip pencil (88.7%)",
+      "Eyeshadow (88.21%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Mineral."
+  },
+  {
+    "name": "Disodium Edta",
+    "inci_name": "DISODIUM EDTA",
+    "cas_number": "139-33-3 --- 6381-92-6",
+    "einecs_number": "205-358-3",
+    "description": "EDTA (EDTA and its main salts used in Disodium EDTA cosmetics, Tetrasodium EDTA, Trisodium EDTA) is a chelating agent that has been used since the 1930s and for which industrialists have complete control of processing and use. Its main property is to complex heavy metals. That is to say, it will somehow neutralize them by forming with them a complex, then serve them as carriers and evacuate them. It is therefore quite logically used in medicine to fight against heavy metal poisoning (lead for example).It is often used as a sequestrant (calcium, limestone ...) in soaps or shower gels, this allows to manage the \"hard\" water.The ingredient does not pose a problem for human health but its impact on the environment is disastrous: it is not biodegradable and is extremely harmful to nature. The sewage treatment plants do not hold him back and let him run into our rivers! Charcoal filters in our drinking water are not more effective at stopping it (so we are re-treating EDTA / Iron complexes). The problem is finally that he carries with him heavy metals, whose final destination is unknown.EDTA and its salts are banned in organic.",
+    "rating": "caution",
+    "functions": [
+      "Chelating",
+      "Viscosity controlling"
+    ],
+    "prevalence": "15.04% косметических средств",
+    "common_product_types": [
+      "Exfoliating pads (60.26%)",
+      "Fabric mask (50.92%)",
+      "Feet mask (47.64%)",
+      "Hair botox (46.67%)",
+      "Anti-aging night mask (40.44%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Cocamidopropyl Betaine",
+    "inci_name": "COCAMIDOPROPYL BETAINE",
+    "cas_number": "97862-59-4 (generic)/61789-40-0/70851-07-9/83138-08-3",
+    "einecs_number": "-/263-058-8/274-923-4/-",
+    "description": "Betaine cocamidopropyl or CAPB is amphoteric surfactant often used in shower gels and shampoos as a secondary TA. It has softened more aggressive surfactants such as sulfated anionics such as Sodium Laureth Sulfate or Sodium Lauryl Sulfate. This surfactant is made from coconut oil derivative and dimethylaminopropylamine, which does not make it a natural compound.It is one of the ingredients that is an exception in the COSMOS specifications: it is authorized in organic.",
+    "rating": "neutral",
+    "functions": [
+      "Antistatic",
+      "Cleansing",
+      "Foam boosting",
+      "Hair conditioning",
+      "Surfactant",
+      "Viscosity controlling",
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "13.96% косметических средств",
+    "common_product_types": [
+      "Men's shampoo (83%)",
+      "Anti-dandruff shampoo (80.13%)",
+      "Shower gel (79.89%)",
+      "Men shower gel (79.01%)",
+      "Children shower gel (77.62%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Citronellol",
+    "inci_name": "CITRONELLOL",
+    "cas_number": "106-22-9 / 26489-01-0 / 7540-51-4 / 1117-61-9",
+    "einecs_number": "203-375-0 / 247-737-6 / 231-415-7 / 214-250-5",
+    "description": "Citronellol is an odorant molecule that is one of the allergens regulated by Europe. It is present in geranium, citronella and rose essential oils.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "15.89% косметических средств",
+    "common_product_types": [
+      "Women fragrance set (77.91%)",
+      "Perfume for women (77.53%)",
+      "Eau de toilette for women (76.59%)",
+      "Perfume set for men (76.37%)",
+      "Eau de parfum for men (75.51%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Natural."
+  },
+  {
+    "name": "Panthenol",
+    "inci_name": "PANTHENOL",
+    "cas_number": "81-13-0 / 16485-10-2 - Provitamin B5",
+    "einecs_number": "201-327-3 / 240-540-6",
+    "description": "Panthenol is an alcohol widely used in cosmetics. This active ingredient goes into the formulation of shampoos and conditioners to make hair shiny and supple. Panthenol improves hydration, reduces itching and inflammation of the skin. It accelerates and improves the healing of epidermal wounds. It is often used in sunburn treatment products. When panthenol is applied topically, it penetrates the lower layers of the skin, is absorbed by skin cells and converted to pantothenic acid (more commonly known as vitamin B5). It is this penetration that allows essential hydration.The ingredient does not exist in its natural state in this form is prohibited in Bio, it's a shame!In a study published in December 2017, the CIR concluded that panthenol poses no health risk in cosmetics. However, other studies report contact irritations and allergies, but in much larger doses than those used in cosmetics.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "15.01% косметических средств",
+    "common_product_types": [
+      "Styling mousse (56.93%)",
+      "Eyelashes and eyebrows care (51.38%)",
+      "Styling spray (47.25%)",
+      "Gel and lacquer for men (46.99%)",
+      "Fall protection shampoo (45.33%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Synthetic."
+  },
+  {
+    "name": "Caprylic/Capric Triglyceride",
+    "inci_name": "CAPRYLIC/CAPRIC TRIGLYCERIDE",
+    "cas_number": "73398-61-5/ 65381-09-1",
+    "einecs_number": "277-452-2/ 265-724-3",
+    "description": "Caprylic / capric triglyceride is obtained from a vegetable oil extracted from coconut which is hydrogenated and hydrolysed. It is used in cosmetics in a large number of products and make-up. It is also often found in home-made cosmetics useful for the manufacture of light creams, dry oils, after-sun care ... It also serves as a base for diluting and applying essential or basic oils. to make plant extracts. It is widely used for its dispersive properties and is suitable for the most sensitive skin. It is authorized in organic.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Solvent",
+      "Perfuming",
+      "Skin conditioning - occlusive"
+    ],
+    "prevalence": "14.01% косметических средств",
+    "common_product_types": [
+      "Advent calendar (62.32%)",
+      "Anti-aging set (53.6%)",
+      "Anti-aging night face cream (51.83%)",
+      "Anti-aging day face cream (42.88%)",
+      "Care set (42.69%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Geraniol",
+    "inci_name": "GERANIOL",
+    "cas_number": "106-24-1",
+    "einecs_number": "203-377-1",
+    "description": "Geraniol, also known as rhodinol, is a monoterpene alcohol that is one of the allergens regulated by Europe. It is found in geranium and lemongrass essential oils, as well as rose and palmarosa oils. It is used in perfumery for its rose scent.",
+    "rating": "neutral",
+    "functions": [
+      "Tonic",
+      "Perfuming"
+    ],
+    "prevalence": "14.78% косметических средств",
+    "common_product_types": [
+      "Eau de parfum for men (83.71%)",
+      "Eau fraîche for women (79.43%)",
+      "Perfume set for men (78.77%)",
+      "Perfume for women (78.1%)",
+      "Eau de toilette for women (77.66%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Natural."
+  },
+  {
+    "name": "Caprylyl Glycol",
+    "inci_name": "CAPRYLYL GLYCOL",
+    "cas_number": "1117-86-8",
+    "einecs_number": "214-254-7",
+    "description": "Caprylyl Glycol is an alcohol derived from caprylic acid. It is found in the milk of some mammals, as well as in palm and coconut oils. It is an effective humectant (retains water) and emollient (softens the skin) providing a unique sensation on the skin, it has antimicrobial efficacy and improves that of traditional preservatives. For these reasons, it is used in a multitude of cosmetic products.",
+    "rating": "neutral",
+    "functions": [
+      "Deodorant",
+      "Emollient",
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "13.84% косметических средств",
+    "common_product_types": [
+      "Advent calendar (60.87%)",
+      "Anti-aging set (49.64%)",
+      "Children sun cream (49.34%)",
+      "Make-up set (47.14%)",
+      "Anti-ageing sun cream (42.71%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Ci 77491",
+    "inci_name": "CI 77491",
+    "cas_number": "1309-37-1 / 1317-61-9 / 1345-27-3 / 52357-70-7 / 1345-25-1 - Red dye (Iron trioxide)",
+    "einecs_number": "215-168-2 / 215-277-5 / 215-722-3 / 257-870-1 / 215-721-8",
+    "description": "CI 77491 is a mineral dye also known as iron trioxide. It gives the products its red color. It is often mixed with other iron oxides such as CI 77492 (yellow) and CI 77499 (black) to represent different shades. It is authorized in organic.",
+    "rating": "neutral",
+    "functions": [
+      "Cosmetic colorant"
+    ],
+    "prevalence": "13.66% косметических средств",
+    "common_product_types": [
+      "Bronze powder / sun powder (95.86%)",
+      "Eyebrow powder (95.77%)",
+      "Concealer (95.76%)",
+      "Foundation (95.3%)",
+      "Make-up palette (93.54%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Mineral."
+  },
+  {
+    "name": "Butyrospermum Parkii Butter",
+    "inci_name": "BUTYROSPERMUM PARKII BUTTER",
+    "cas_number": "194043-92-0 -  91080-23-8 - Shea Butter",
+    "einecs_number": "293-515-7",
+    "description": "Shea butter is obtained from the fruit (nuts) of shea tree, a tree mainly present on the African continent. It is composed mainly of triglycerides, fatty acids, esters of wax and active ingredients: among them, vitamins (A, D, E), resinous esters, phytosterols, latex.It is used in many cosmetics for its soothing and softening properties for the epidermis. It can also protect the skin and scalp from many external aggressions.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Viscosity controlling"
+    ],
+    "prevalence": "13.45% косметических средств",
+    "common_product_types": [
+      "Shea butter (97.09%)",
+      "Hand set (71.43%)",
+      "Hand mask (65.35%)",
+      "Lip balm (58.41%)",
+      "Anti-aging night face cream (56.74%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Hexyl Cinnamal",
+    "inci_name": "HEXYL CINNAMAL",
+    "cas_number": "101-86-0",
+    "einecs_number": "202-983-3/639-566-4",
+    "description": "This aromatic ingredient of synthetic origin is on Europe's list of regulated allergens. It is used as a perfuming agent for its jasmine-like scent.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "13.1% косметических средств",
+    "common_product_types": [
+      "Anti-dandruff shampoo (49.8%)",
+      "Hair straightening (43.96%)",
+      "Hair suncare (39.21%)",
+      "Eau de toilette for women (39.01%)",
+      "Hair perfume (38.15%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Synthetic."
+  },
+  {
+    "name": "Ci 77499",
+    "inci_name": "CI 77499",
+    "cas_number": "12227-89-3 / 1309-37-1 / 1317-61-9 / 1345-25-1 / 1345-27-3 / 52357-70-7 - Black dye (Iron tetroxide)",
+    "einecs_number": "235-442-5 / 215-168-2 / 215-277-5 / 215-721-8 / 215-722-3 / 257-870-1",
+    "description": "CI 77499 is a mineral dye also known as iron tetroxide. It gives the products its black color. It is often mixed with other iron oxides such as CI 77492 (yellow) and CI 77491 (yellow) to represent different shades. It is authorized in organic.",
+    "rating": "neutral",
+    "functions": [
+      "Cosmetic colorant"
+    ],
+    "prevalence": "12.6% косметических средств",
+    "common_product_types": [
+      "Concealer (95.23%)",
+      "Foundation (95.01%)",
+      "Eyebrow powder (94.37%)",
+      "Bronze powder / sun powder (94.1%)",
+      "Bb cream (92.92%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Mineral."
+  },
+  {
+    "name": "Glyceryl Stearate",
+    "inci_name": "GLYCERYL STEARATE",
+    "cas_number": "31566-31-1",
+    "einecs_number": "250-705-4/286-490-9",
+    "description": "Glycerol stearate is used as a non-ionic emulsifier or emollient in cosmetic products. It is widely used in moisturizers and is also found in hair care products for its antistatic properties. It can be derived from palm, olive or rapeseed oil... It is  confirmed organic.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Emulsifying"
+    ],
+    "prevalence": "12.02% косметических средств",
+    "common_product_types": [
+      "Hand mask (55.26%)",
+      "Hand set (54.76%)",
+      "Mascara (47.98%)",
+      "Hand cream (47%)",
+      "Anti-ageing neck and décolleté cream (45.65%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Synthetic."
+  },
+  {
+    "name": "Butylene Glycol",
+    "inci_name": "BUTYLENE GLYCOL",
+    "cas_number": "107-88-0 (i), 6290-03-5 (ii)",
+    "einecs_number": "203-529-7 (i), 228-532-0 (ii)",
+    "description": "Butylene Glycol is a chemical compound derived from petroleum, often used as humectant in skin care. It prevents the product from drying and makes the formulation more resistant to moisture. In sensitive individuals, butylene glycol may be irritating to skin, eyes and nasal passages, however it is considered the least irritating of all glycols. It can be authorized in organic, when it is bio-sourced and obtained by fermentation from sugar.",
+    "rating": "neutral",
+    "functions": [
+      "Humectant",
+      "Masking",
+      "Skin conditioning",
+      "Solvent",
+      "Viscosity controlling"
+    ],
+    "prevalence": "11.74% косметических средств",
+    "common_product_types": [
+      "Exfoliating pads (74.83%)",
+      "Fabric mask (63.49%)",
+      "Lip patch (55.88%)",
+      "Mask / patch (55.25%)",
+      "Feet mask (55.15%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Ci 19140",
+    "inci_name": "CI 19140",
+    "cas_number": "1934-21-0 - Yellow dye",
+    "einecs_number": "217-699-5",
+    "description": "CI 19140 is a yellow dye of synthetic origin. It is used in a wide range of cosmetic products, such as shower products and make-up.",
+    "rating": "neutral",
+    "functions": [
+      "Cosmetic colorant",
+      "Hair dyeing"
+    ],
+    "prevalence": "11.35% косметических средств",
+    "common_product_types": [
+      "Ephemeral tattoos (80.95%)",
+      "Nail polish (70.76%)",
+      "Advent calendar (66.67%)",
+      "Lacquer and lip ink (64.9%)",
+      "Lipstick (58.81%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Ci 77492",
+    "inci_name": "CI 77492",
+    "cas_number": "51274-00-1 / 1345-27-3 / 20344-49-4 / 52357-70-7 - Yellow dye (Iron oxide)",
+    "einecs_number": "257-098-5 / 215-722-3 / 215-570-8 / 257-670-1",
+    "description": "CI 77492 is a mineral colouring agent also known as Iron Oxide. It gives products their yellow colour. It is often mixed with other iron oxides such as CI 77491 (red) and CI 77499 (black) to represent different shades. It is authorised for use in organic products.",
+    "rating": "neutral",
+    "functions": [
+      "Cosmetic colorant"
+    ],
+    "prevalence": "11.45% косметических средств",
+    "common_product_types": [
+      "Concealer (95.7%)",
+      "Foundation (95.05%)",
+      "Bb cream (93.05%)",
+      "Eyebrow powder (92.96%)",
+      "Bronze powder / sun powder (92.26%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Mineral."
+  },
+  {
+    "name": "Helianthus Annuus Seed Oil",
+    "inci_name": "HELIANTHUS ANNUUS SEED OIL",
+    "cas_number": "84776-03-4 (generic)/ 8001-21-6/ 164250-88-8 (generic) - Sunflower seed oil",
+    "einecs_number": "-/ 232-273-9/ -",
+    "description": "This oil is obtained by pressing the seeds after harvesting sunflower. It is composed mainly of linoleic acid (fatty acid, omega 6) which allows a good hydration of the skin and vitamin E, an antioxidant. Sunflower oil is used in many treatments, it is often used as a base for floral oils. It is used as emollient (softens and softens the skin) or hair conditioner. It is also found in products to clean the skin, in babies in some liniments. It is allowed in organic.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Solvent",
+      "Skin conditioning - miscellaneous",
+      "Skin conditioning - occlusive"
+    ],
+    "prevalence": "11.59% косметических средств",
+    "common_product_types": [
+      "Baby massage oil (63.1%)",
+      "Cleansing oil (59.58%)",
+      "Cold wax strips for bikini line & underarms (57.14%)",
+      "Deodorant refill (53.76%)",
+      "Solid moisturising balm (49.25%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Silica",
+    "inci_name": "SILICA",
+    "cas_number": "7631-86-9 / 112945-52-5 / 60676-86-0",
+    "einecs_number": "231-545-4 / 262-373-8 /310-060-2",
+    "description": "Silica is a naturally occurring mineral in sandstone, clay and granite, as well as in some parts of plants and animals. It is used for various reasons in cosmetics: abrasive in toothpastes, opacifying in powder and blush, or absorbing in deodorants. Silica is allowed in Bio.",
+    "rating": "safe",
+    "functions": [
+      "Abrasive",
+      "Absorbent",
+      "Anticaking",
+      "Bulking",
+      "Opacifying",
+      "Viscosity controlling"
+    ],
+    "prevalence": "11.2% косметических средств",
+    "common_product_types": [
+      "Nail polish (71.43%)",
+      "Razor blades (69.32%)",
+      "Advent calendar (65.22%)",
+      "Eyeshadow (60.22%)",
+      "Make-up palette (57.58%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Mineral."
+  },
+  {
+    "name": "Sodium Hyaluronate",
+    "inci_name": "SODIUM HYALURONATE",
+    "cas_number": "9067-32-7",
+    "einecs_number": "-",
+    "description": "Sodium hyaluronate is the salt of hyaluronic acid. This active ingredient is appreciated for its moisturizing and plumping effect on the skin. It is a natural component of the connective tissue. It easily penetrates the epidermis and is then able to fix a large amount of water, up to 20 times its weight. For this reason, it is found in many cosmetics such as anti-aging, moisturizing creams or even foundations ...Discovered in the 1930s, hyaluronic acid is abundant in the dermis of young skin, but its quantity decreases with age: the skin appears more damaged, with wrinkles. Hyaluronic acid is a fairly large molecule that has difficulty penetrating the skin, and is much more effective injection. In a cosmetic, it is its salt that is used: sodium hyaluronate is a much smaller molecule, which penetrates more easily and can then move into the deep layers of the skin.This salt is a powerful humectant that attracts and holds water to it, making it the moisturizer of choice for the skin: it helps keep it \"wet\". As it attracts and binds to the water, it causes a slight swelling which reduces the appearance of lines and wrinkles, to give the skin a younger appearance.It is authorized in Bio.",
+    "rating": "safe",
+    "functions": [
+      "Humectant",
+      "Skin conditioning"
+    ],
+    "prevalence": "11.09% косметических средств",
+    "common_product_types": [
+      "Lip patch (72.06%)",
+      "Mask / patch (67.83%)",
+      "Fabric mask (63.41%)",
+      "Anti-aging set (54.68%)",
+      "Anti-aging eye serum (52.14%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Mica",
+    "inci_name": "MICA",
+    "cas_number": "12001-26-2",
+    "einecs_number": "310-127-6",
+    "description": "Mica is a mineral often used as a white dye in make-up products, it can also be used as an opacifier. It is also represented in the INCI list by its ColorIndex, CI 77019.",
+    "rating": "safe",
+    "functions": [
+      "Anticaking",
+      "Bulking",
+      "Cosmetic colorant",
+      "Opacifying"
+    ],
+    "prevalence": "10.99% косметических средств",
+    "common_product_types": [
+      "Make-up palette (96.07%)",
+      "Eyeshadow (94.12%)",
+      "Eyebrow palette (91.01%)",
+      "Illuminators and complexion illuminator (89.06%)",
+      "Bronze powder / sun powder (88.28%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Mineral."
+  },
+  {
+    "name": "Benzyl Salicylate",
+    "inci_name": "BENZYL SALICYLATE",
+    "cas_number": "118-58-1",
+    "einecs_number": "204-262-9",
+    "description": "Benzyl salicylate is one of Europe's regulated allergens. It is naturally produced by many plants and is used as a fragrance molecule in perfumed products: it is known for its light, balsamic, even musky scents. It is also a UV absorber, helping to stabilize products. The first sun creams were produced using this ingredient, but it was abandoned as it was not very effective.",
+    "rating": "neutral",
+    "functions": [
+      "Uv absorber",
+      "Perfuming"
+    ],
+    "prevalence": "10.65% косметических средств",
+    "common_product_types": [
+      "Perfume for women (60.21%)",
+      "Women fragrance set (52.35%)",
+      "Eau de toilette for women (49.39%)",
+      "Milking grease (46.24%)",
+      "Eau fraîche for women (40.43%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Natural."
+  }
+]

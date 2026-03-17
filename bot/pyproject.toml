@@ -1,0 +1,18 @@
+[project]
+name = "aiogram-bot"
+version = "0.1.0"
+description = "Telegram bot with QR scanning capabilities"
+readme = "README.md"
+requires-python = ">=3.12"
+
+dependencies = [
+    "pyzbar",
+    "aiogram>=3.0",
+    "opencv-python-headless",
+    "pyzbar",
+    "numpy",
+    "httpx>=0.24",
+    "pydantic>=2.0",
+    "pydantic-settings>=2.0",
+    "openai"
+]

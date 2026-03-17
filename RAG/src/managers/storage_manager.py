@@ -10,59 +10,104 @@ from src.settings.config import RagSettings
 logger = logging.getLogger(__name__)
 settings = RagSettings()
 
+# Global constant for the single storage directory
+GLOBAL_STORAGE_DIR = "global_documents"
+
+
 class DocumentStorageManager:
     """
-    Manages file storage operations for a specific user, including saving, listing, and deleting uploaded files.
-    This class is responsible only for file-level operations on the filesystem. It creates a per-user directory
-    and allows asynchronous file saving, listing, and deletion, typically used in the document ingestion pipeline.
+    Manages file storage operations for the global RAG collection.
+    This class is responsible only for file-level operations on the filesystem.
+    All documents are stored in a single global directory for centralized management.
 
     Attributes:
-        user_id (str): Unique identifier of the user, used to isolate storage paths.
-        user_dir (Path): The full path to the user's local storage directory.
+        global_dir (Path): The full path to the global storage directory.
     """
-    user_id: str
-    user_dir: Path
+    global_dir: Path
 
-    def __init__(self, user_id: str) -> None:
-        self.user_id = user_id
-        self.user_dir = self._get_user_storage_path()
+    def __init__(self) -> None:
+        """Initialize the global storage manager with the global directory path."""
+        self.global_dir = self._get_global_storage_path()
 
-    def _get_user_storage_path(self) -> Path:
-        """Returns the storage path for the user's documents."""
-        user_dir = Path(f"{settings.upload_files_dir}/user_{self.user_id}")
-        user_dir.mkdir(parents=True, exist_ok=True)
-        return user_dir
+    def _get_global_storage_path(self) -> Path:
+        """
+        Returns the global storage path for all documents.
+        Creates the directory if it does not exist.
+        
+        Returns:
+            Path: The global storage directory path
+        """
+        global_dir = Path(f"{settings.upload_files_dir}/{GLOBAL_STORAGE_DIR}")
+        global_dir.mkdir(parents=True, exist_ok=True)
+        return global_dir
 
-    async def save_uploaded_files(self, files: List[UploadFile]) -> List[str]:
-        """Saves uploaded files to user's directory and returns their paths."""
+    
+    async def save_uploaded_files(self, files) -> List[str]:
+        """
+        Saves uploaded files to the global directory and returns their paths.
+        
+        Args:
+            files: Either a single UploadFile or a list of UploadFile
+            
+        Returns:
+            List[str]: List of file paths where files were saved
+        """
+        # Преобразуем в список, если передан один файл
+        if not isinstance(files, list):
+            files = [files]
+            
         saved_paths = []
         for file in files:
-            file_path = self.user_dir / file.filename
-            async with aiofiles.open(file_path, "wb") as f:
-                await f.write(await file.read())
-            saved_paths.append(str(file_path))
+            try:
+                file_path = self.global_dir / file.filename
+                async with aiofiles.open(file_path, "wb") as f:
+                    content = await file.read()
+                    await f.write(content)
+                saved_paths.append(str(file_path))
+                logger.debug(f"Saved file: {file.filename}")
+            except Exception as e:
+                logger.error(f"Error saving file {file.filename}: {e}")
+                raise
+            finally:
+                await file.close()
+                
         return saved_paths
-
-
-    async def delete_user_files(self) -> bool:
-        """Deletes all files in user's directory except 'metadata'."""
+    
+    async def delete_all_files(self) -> bool:
+        """
+        Deletes all files in the global directory except metadata files.
+        
+        Returns:
+            bool: True if deletion was successful, False otherwise
+        """
         try:
-            for file_path in self.user_dir.glob("*"):
+            for file_path in self.global_dir.glob("*"):
                 if file_path.is_file() and file_path.name != "index_metadata.json":
                     file_path.unlink()
+            logger.info(f"Successfully deleted all files from global storage")
             return True
         except Exception as e:
-            logger.error(f"Error deleting files for user {self.user_id}: {e}")
-            return False  
+            logger.error(f"Error deleting files from global storage: {e}")
+            return False
 
-    async def get_user_files(self) -> List[str]:
-        """Returns list of file paths for the user."""
-        return [str(f) for f in self.user_dir.glob("*") if f.is_file()]
+    async def get_all_files(self) -> List[str]:
+        """
+        Returns list of all file paths in the global directory.
+        
+        Returns:
+            List[str]: List of file paths
+        """
+        return [str(f) for f in self.global_dir.glob("*") if f.is_file()]
 
-    async def get_user_files_with_date(self) -> List[dict]:
-        """Returns list of file metadata with creation date in 'YYYY-MM-DD' format."""
+    async def get_all_files_with_date(self) -> List[dict]:
+        """
+        Returns list of file metadata with creation date in 'YYYY-MM-DD' format.
+        
+        Returns:
+            List[dict]: List of file metadata dictionaries
+        """
         files_info = []
-        for f in self.user_dir.glob("*"):
+        for f in self.global_dir.glob("*"):
             if f.is_file() and f.name != "index_metadata.json":
                 stat = f.stat()
                 try:
@@ -88,22 +133,24 @@ class DocumentStorageManager:
 
     async def delete_file(self, filename: str) -> bool:
         """
-        Deletes a single file by its filename from the user's directory.
+        Deletes a single file by its filename from the global directory.
+        
         Args:
             filename (str): Name of the file to delete (e.g., "report.pdf").
+            
         Returns:
-            bool: True if deletion was successful, False otherwise.
+            bool: True if deletion was successful, False otherwise
         """
         try:
-            file_path = self.user_dir / filename
+            file_path = self.global_dir / filename
             if file_path.is_file():
                 file_path.unlink()
-                logger.debug(f"[{self.user_id}] Deleted file: {filename}")
+                logger.debug(f"Deleted file: {filename}")
                 return True
 
             else:
-                logger.warning(f"[{self.user_id}] File not found for deletion: {filename}")
+                logger.warning(f"File not found for deletion: {filename}")
                 return False
         except Exception as e:
-            logger.error(f"[{self.user_id}] Error deleting file {filename}: {e}", exc_info=True)
+            logger.error(f"Error deleting file {filename}: {e}", exc_info=True)
             return False

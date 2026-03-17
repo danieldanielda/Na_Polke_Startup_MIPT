@@ -1,0 +1,256 @@
+[
+  {
+    "name": "Ultramarines",
+    "inci_name": "ULTRAMARINES",
+    "cas_number": "1302-83-6 / 1317-97-1 / 1345-00-2 / 11118-33-5 / 12703-66-1 / 12769-96-9 / 57455-37-5 - Blue hair dye (Lazurite)",
+    "einecs_number": "215-111-1 / 215-711-3 / 235-811-0 / - / - / - / -",
+    "description": "Ultramarines — косметический ингредиент. Происхождение: Mineral.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "0.77% косметических средств",
+    "common_product_types": [
+      "Make-up palette (12.78%)",
+      "Eyeshadow (12.38%)",
+      "Make-up set (10.94%)",
+      "Eyes and kohl pencil (10.2%)",
+      "Eyeliner and kajal (10.15%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Mineral."
+  },
+  {
+    "name": "Ubiquinone",
+    "inci_name": "UBIQUINONE",
+    "cas_number": "303-98-0 / 1339-63-5 / 60684-33-5 - Coenzyme Q10",
+    "einecs_number": "206-147-9 / 215-668-0",
+    "description": "Ubiquinone — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.73% косметических средств",
+    "common_product_types": [
+      "Anti-aging / anti-spot hand cream (20.44%)",
+      "Anti-ageing sun cream (10.34%)",
+      "Anti-aging night face cream (10.08%)",
+      "Anti-aging eye contour care (7.44%)",
+      "Anti-aging day face cream (7.2%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Synthetic."
+  },
+  {
+    "name": "Undecane",
+    "inci_name": "UNDECANE",
+    "cas_number": "1120-21-4",
+    "einecs_number": "214-300-6",
+    "description": "Undecane — косметический ингредиент. Происхождение: Mineral.",
+    "rating": "neutral",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.54% косметических средств",
+    "common_product_types": [
+      "Concealer / concealer (4.51%)",
+      "Adult sun cream (2.91%)",
+      "Foundation (2.55%)",
+      "Children sun cream (2.09%)",
+      "Anti-aging day face cream (1.76%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Mineral."
+  },
+  {
+    "name": "Undaria Pinnatifida Extract",
+    "inci_name": "UNDARIA PINNATIFIDA EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Undaria Pinnatifida Extract — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Skin protecting"
+    ],
+    "prevalence": "0.29% косметических средств",
+    "common_product_types": [
+      "Anti-aging day face cream (1.49%)",
+      "Fabric mask (1.07%)",
+      "Face cream (0.67%)",
+      "Lipstick (0.35%)",
+      "Shower gel (0.34%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Ulmus Davidiana Root Extract",
+    "inci_name": "ULMUS DAVIDIANA ROOT EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Ulmus Davidiana Root Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Undecylenamidopropyl Betaine",
+    "inci_name": "UNDECYLENAMIDOPROPYL BETAINE",
+    "cas_number": "98510-75-9",
+    "einecs_number": "308-783-3",
+    "description": "Undecylenamidopropyl Betaine — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Cleansing",
+      "Foam boosting",
+      "Hair conditioning",
+      "Skin conditioning",
+      "Surfactant",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [
+      "Anti-dandruff shampoo (1.35%)",
+      "Classic shampoo (0.21%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Undecyl Alcohol",
+    "inci_name": "UNDECYL ALCOHOL",
+    "cas_number": "112-42-5",
+    "einecs_number": "203-970-5",
+    "description": "Undecyl Alcohol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Antiseborrhoeic",
+      "Emollient",
+      "Masking",
+      "Skin conditioning",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Urea",
+    "inci_name": "UREA",
+    "cas_number": "57-13-6",
+    "einecs_number": "200-315-5",
+    "description": "Urea is produced by mammals from the breakdown of proteins, it is excreted in the urine. It is naturally present in the epidermis and is part of the NMF. In cosmetics, urea is produced synthetically and does not come from an animal source.It helps to slow down the loss of moisture in a cosmetic product. In skin care, it increases the water content of the epidermis and acts as a humectant.Its manufacturing process makes urea banned from organic products.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "pH regulator",
+      "Humectant",
+      "Skin conditioning"
+    ],
+    "prevalence": "2.37% косметических средств",
+    "common_product_types": [
+      "Body hair removal cream (54.69%)",
+      "Cracks and crevices care (52.88%)",
+      "Anti-callus treatment (51.28%)",
+      "Feet mask (49.79%)",
+      "Feet moisturizers (32.42%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Synthetic."
+  },
+  {
+    "name": "Urtica Dioica Extract",
+    "inci_name": "URTICA DIOICA EXTRACT",
+    "cas_number": "84012-40-8 - Nettle extract",
+    "einecs_number": "281-685-5",
+    "description": "Urtica Dioica Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Anti dandruff",
+      "Astringent",
+      "Hair conditioning",
+      "Skin conditioning",
+      "Soothing",
+      "Tonic"
+    ],
+    "prevalence": "0.41% косметических средств",
+    "common_product_types": [
+      "Fall protection shampoo (7.42%)",
+      "Solid shampoo (2.28%)",
+      "Classic shampoo (2.1%)",
+      "Specific hair care (2.06%)",
+      "Anti-dandruff shampoo (1.51%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Undecylenic Acid",
+    "inci_name": "UNDECYLENIC ACID",
+    "cas_number": "112-38-9",
+    "einecs_number": "203-965-8",
+    "description": "Undecylenic Acid — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Antimicrobial",
+      "Emulsifying",
+      "Masking",
+      "Preservative",
+      "Surfactant"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [
+      "Lipstick (1.28%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Urtica Dioica Leaf Extract",
+    "inci_name": "URTICA DIOICA LEAF EXTRACT",
+    "cas_number": "84012-40-8 - Nettle extract",
+    "einecs_number": "281-685-5",
+    "description": "Urtica Dioica Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.42% косметических средств",
+    "common_product_types": [
+      "Fall protection shampoo (5.35%)",
+      "Solid shampoo (3.59%)",
+      "Classic shampoo (1.9%)",
+      "Specific hair care (1.77%)",
+      "Hair conditioner (1.36%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Urtica Dioica Root Extract",
+    "inci_name": "URTICA DIOICA ROOT EXTRACT",
+    "cas_number": "84012-40-8 - Nettle root extract",
+    "einecs_number": "281-685-5",
+    "description": "Urtica Dioica Root Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Urtica Dioica Leaf Water",
+    "inci_name": "URTICA DIOICA LEAF WATER",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Urtica Dioica Leaf Water — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning - humectant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  }
+]

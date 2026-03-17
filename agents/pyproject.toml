@@ -1,6 +1,11 @@
-name = "Crew AI API"
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "crew-agents"
 version = "0.1.0"
-description = "Crew AI agents"
+description = "Crew agents application"
 requires-python = ">=3.12"
 
 dependencies = [
@@ -72,6 +77,7 @@ dependencies = [
     "lance-namespace-urllib3-client",
     "lancedb",
     "lxml",
+    "litellm",
     "magic-filter",
     "markdown-it-py",
     "MarkupSafe",
@@ -126,7 +132,6 @@ dependencies = [
     "python-dotenv",
     "python-multipart",
     "pytube",
-    "pywin32",
     "PyYAML",
     "pyzbar",
     "referencing",

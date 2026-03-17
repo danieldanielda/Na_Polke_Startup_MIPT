@@ -6,7 +6,7 @@ from src.settings.config import RagSettings
 
 settings = RagSettings()
 
-async def load_prompts_from_yaml(Yaml_path: str):
+async def load_prompts_from_yaml(yaml_path: str):
     """
     Loads prompts from a YAML file.
     
@@ -17,7 +17,7 @@ async def load_prompts_from_yaml(Yaml_path: str):
         dict: A dictionary containing the prompts
     """
     
-    with open(Yaml_path, 'r', encoding='utf-8') as file:
+    with open(yaml_path, 'r', encoding='utf-8') as file:
         prompts = yaml.safe_load(file)
         
     return prompts

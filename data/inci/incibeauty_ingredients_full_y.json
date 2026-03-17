@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Yellow 11",
+    "inci_name": "YELLOW 11",
+    "cas_number": "83-08-9 / 8003-22-3",
+    "einecs_number": "201-453-9 / 232-318-2",
+    "description": "Yellow 11 — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Cosmetic colorant"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Yucca Schidigera Root Extract",
+    "inci_name": "YUCCA SCHIDIGERA ROOT EXTRACT",
+    "cas_number": "90147-57-2 (Generic) / 223749-05-1 - Yucca root extract",
+    "einecs_number": "290-449-0 / -",
+    "description": "Yucca Schidigera Root Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Yogurt Powder",
+    "inci_name": "YOGURT POWDER",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Yogurt Powder — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Hair conditioning"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [
+      "Shower gel (0.21%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  }
+]

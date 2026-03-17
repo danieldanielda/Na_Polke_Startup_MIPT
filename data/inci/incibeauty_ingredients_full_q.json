@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Quaternium-18",
+    "inci_name": "QUATERNIUM-18",
+    "cas_number": "61789-80-8",
+    "einecs_number": "263-090-2",
+    "description": "Quaternium-18 — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Antistatic",
+      "Hair conditioning",
+      "Surfactant"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [
+      "Hair conditioner (1.24%)",
+      "Specific hair care (0.59%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Quaternium-18 Bentonite",
+    "inci_name": "QUATERNIUM-18 BENTONITE",
+    "cas_number": "68953-58-2 / 1340-69-8",
+    "einecs_number": "273-219-4",
+    "description": "Quaternium-18 Bentonite — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [
+      "Lipstick (0.33%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Quaternium-80",
+    "inci_name": "QUATERNIUM-80",
+    "cas_number": "134737-05-6",
+    "einecs_number": "",
+    "description": "Quaternium-80 — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Antistatic",
+      "Hair conditioning"
+    ],
+    "prevalence": "0.38% косметических средств",
+    "common_product_types": [
+      "Detangler (leave-in) (4.74%)",
+      "Specific hair care (3.24%)",
+      "Hair mask (3.2%)",
+      "Oxidative hair coloring (2.86%)",
+      "Hair conditioner (2.36%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Quaternium-18 Hectorite",
+    "inci_name": "QUATERNIUM-18 HECTORITE",
+    "cas_number": "71011-27-3",
+    "einecs_number": "275-128-5",
+    "description": "Quaternium-18 Hectorite — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Quaternium-15",
+    "inci_name": "QUATERNIUM-15",
+    "cas_number": "4080-31-3 / 51229-78-8",
+    "einecs_number": "223-805-0 / 426-020-3",
+    "description": "Quaternium-15 — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "avoid",
+    "functions": [
+      "Antimicrobial",
+      "Preservative"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Quaternium-87",
+    "inci_name": "QUATERNIUM-87",
+    "cas_number": "92201-88-2",
+    "einecs_number": "931-745-8",
+    "description": "Quaternium-87 — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Cleansing",
+      "Hair conditioning",
+      "Surfactant"
+    ],
+    "prevalence": "0.28% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (4.63%)",
+      "Hair mask (3.78%)",
+      "Hair conditioner (3.58%)",
+      "Care for dry and damaged hair (3.55%)",
+      "Specific hair care (2.19%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Quaternium-97",
+    "inci_name": "QUATERNIUM-97",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Quaternium-97 — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Hair conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Quaternium-98",
+    "inci_name": "QUATERNIUM-98",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Quaternium-98 — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Emollient",
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Quinine",
+    "inci_name": "QUININE",
+    "cas_number": "130-95-0",
+    "einecs_number": "205-003-2",
+    "description": "Quinine — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Denaturant",
+      "Hair conditioning",
+      "Masking"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Quillaja Saponaria Bark Extract",
+    "inci_name": "QUILLAJA SAPONARIA BARK EXTRACT",
+    "cas_number": "68990-67-0 - Soapbark extract",
+    "einecs_number": "273-620-4",
+    "description": "Quillaja Saponaria Bark Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Anti dandruff",
+      "Cleansing",
+      "Emulsifying",
+      "Foaming",
+      "Masking",
+      "Moisturising",
+      "Skin conditioning",
+      "Surfactant"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [
+      "Classic shampoo (0.2%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  }
+]

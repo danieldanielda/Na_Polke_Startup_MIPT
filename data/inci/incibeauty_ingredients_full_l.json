@@ -1,0 +1,2506 @@
+[
+  {
+    "name": "L-Carvone",
+    "inci_name": "L-CARVONE",
+    "cas_number": "6485-40-1",
+    "einecs_number": "229-352-5",
+    "description": "L-Carvone — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Lactic Acid",
+    "inci_name": "LACTIC ACID",
+    "cas_number": "50-21-5",
+    "einecs_number": "200-018-0",
+    "description": "Lactic acid is a fruit acid (AHA). It is used in cosmetics as a PH regulator, helps soften and retain moisture in the skin, and give shine. It promotes the hydration of the skin and the evacuation of dead cells. Lactic acid is produced through a fermentation process using specific bacteria such as Lactobacillus. It is naturally present in milk, wine, some vegetables and fruits. It is authorized in organic.",
+    "rating": "safe",
+    "functions": [
+      "pH regulator",
+      "Humectant",
+      "Skin conditioning"
+    ],
+    "prevalence": "8.24% косметических средств",
+    "common_product_types": [
+      "Personal hygiene (73.98%)",
+      "Intimate wipes (58.06%)",
+      "Anti-callus treatment (44.44%)",
+      "Intimate care (36.23%)",
+      "Feet mask (34.33%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "L-Limonene",
+    "inci_name": "L-LIMONENE",
+    "cas_number": "5989-54-8",
+    "einecs_number": "227-815-6",
+    "description": "L-limonene is one of two isometric forms of limonene. It is found naturally in pine and mint oils. It is a regulated allergen in Europe.",
+    "rating": "neutral",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lac",
+    "inci_name": "LAC",
+    "cas_number": "8049-98-7 - Milk",
+    "einecs_number": "-",
+    "description": "Lac — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [
+      "Solid soap (0.42%)",
+      "Body moisturizer (0.3%)",
+      "Shower gel (0.3%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "L-Menthol",
+    "inci_name": "L-MENTHOL",
+    "cas_number": "2216-51-5",
+    "einecs_number": "218-690-9",
+    "description": "Naturally present in mint oil (Mentha arvensis, Mentha piperita), L-menthol is used to reconstitute mint scents in cosmetics. Among menthol isomers, L-menthol is the only one to provoke a sensation of cold. It is a regulated allergen in Europe.",
+    "rating": "neutral",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Laccaic Acid",
+    "inci_name": "LACCAIC ACID",
+    "cas_number": "60687-93-6",
+    "einecs_number": "",
+    "description": "Laccaic Acid — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Lactis Proteinum",
+    "inci_name": "LACTIS PROTEINUM",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Lactis Proteinum — косметический ингредиент. Происхождение: Animal.",
+    "rating": "safe",
+    "functions": [
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Animal."
+  },
+  {
+    "name": "Lactobacillus Ferment",
+    "inci_name": "LACTOBACILLUS FERMENT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Lactobacillus Ferment — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.69% косметических средств",
+    "common_product_types": [
+      "Anti-aging eye contour care (3.98%)",
+      "Eye contour care (3.43%)",
+      "Night face cream (2.54%)",
+      "Face moisturizing serum (2.43%)",
+      "Anti-blemish treatment (2.39%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Lactobacillus/Avena Sativa Ferment Extract Filtrate",
+    "inci_name": "LACTOBACILLUS/AVENA SATIVA FERMENT EXTRACT FILTRATE",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Lactobacillus/Avena Sativa Ferment Extract Filtrate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Lactobacillus/Citrus Junos Fruit Ferment Filtrate",
+    "inci_name": "LACTOBACILLUS/CITRUS JUNOS FRUIT FERMENT FILTRATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Lactobacillus/Citrus Junos Fruit Ferment Filtrate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lactobacillus/Chrysanthemum Sinense Flower Ferment Filtrate",
+    "inci_name": "LACTOBACILLUS/CHRYSANTHEMUM SINENSE FLOWER FERMENT FILTRATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Lactobacillus/Chrysanthemum Sinense Flower Ferment Filtrate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lactobacillus/Nelumbo Nucifera Flower Ferment Filtrate",
+    "inci_name": "LACTOBACILLUS/NELUMBO NUCIFERA FLOWER FERMENT FILTRATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Lactobacillus/Nelumbo Nucifera Flower Ferment Filtrate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lactobacillus/Soybean Ferment Extract",
+    "inci_name": "LACTOBACILLUS/SOYBEAN FERMENT EXTRACT",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Lactobacillus/Soybean Ferment Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.1% косметических средств",
+    "common_product_types": [
+      "Fabric mask (1.16%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lactoflavin",
+    "inci_name": "LACTOFLAVIN",
+    "cas_number": "83-88-5 - Yellow dye",
+    "einecs_number": "201-507-1",
+    "description": "Lactoflavin — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Cosmetic colorant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Lactobacillus/Taraxacum Officinale (Dandelion) Rhizome/Root Ferment Filtrate",
+    "inci_name": "LACTOBACILLUS/TARAXACUM OFFICINALE (DANDELION) RHIZOME/ROOT FERMENT FILTRATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Lactobacillus/Taraxacum Officinale (Dandelion) Rhizome/Root Ferment Filtrate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lagenaria Sphaerica Seed Oil",
+    "inci_name": "LAGENARIA SPHAERICA SEED OIL",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Lagenaria Sphaerica Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Laminaria Ochroleuca Extract",
+    "inci_name": "LAMINARIA OCHROLEUCA EXTRACT",
+    "cas_number": "92128-82-0 - Algae extract",
+    "einecs_number": "295-780-4",
+    "description": "Laminaria Ochroleuca Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.19% косметических средств",
+    "common_product_types": [
+      "Anti-ageing sun cream (5.34%)",
+      "Children sun cream (2.53%)",
+      "Adult sun cream (1.65%)",
+      "Face cream (0.77%)",
+      "Anti-aging day face cream (0.76%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lambda-Carrageenan",
+    "inci_name": "LAMBDA-CARRAGEENAN",
+    "cas_number": "9064-57-7",
+    "einecs_number": "",
+    "description": "Lambda-Carrageenan — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lamium Album Extract",
+    "inci_name": "LAMIUM ALBUM EXTRACT",
+    "cas_number": "84012-23-7 - White Nettle extract",
+    "einecs_number": "281-669-8",
+    "description": "Lamium Album Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent",
+      "Masking"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [
+      "Classic shampoo (0.28%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lanolin",
+    "inci_name": "LANOLIN",
+    "cas_number": "8006-54-0",
+    "einecs_number": "232-348-6",
+    "description": "Lanolin, also called wool fat or wool wax, is obtained by purification and refining of the suint (fat part of the wool). Lanolin is used to moisturize skin, hair and nails. It acts as a lubricant of the skin, which gives it a soft and smooth appearance. It helps to form emulsions and blends well with almost any other substance used in cosmetics and personal care products. Lanolin also has adhesive characteristics.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Emollient",
+      "Emulsifying",
+      "Hair conditioning",
+      "Skin conditioning",
+      "Surfactant"
+    ],
+    "prevalence": "1.04% косметических средств",
+    "common_product_types": [
+      "Nipples care (58.7%)",
+      "Diaper cream (32.92%)",
+      "Cracks and crevices care (26.18%)",
+      "Sunscreen lip balm (14.23%)",
+      "Lip cream (11.96%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Animal."
+  },
+  {
+    "name": "Lanolin Alcohol",
+    "inci_name": "LANOLIN ALCOHOL",
+    "cas_number": "8027-33-6",
+    "einecs_number": "232-430-1",
+    "description": "Lanolin Alcohol — косметический ингредиент. Происхождение: Animal.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Binding agent",
+      "Emollient",
+      "Emulsifying",
+      "Hair conditioning",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.31% косметических средств",
+    "common_product_types": [
+      "Diaper cream (6.17%)",
+      "Face and body moisturizer (4.4%)",
+      "Oxidative hair coloring (2.67%)",
+      "Body moisturizer (1.16%)",
+      "Liquid soap (0.89%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Animal."
+  },
+  {
+    "name": "Lanolin Cera",
+    "inci_name": "LANOLIN CERA",
+    "cas_number": "68201-49-0 - Lanolin wax",
+    "einecs_number": "269-220-4",
+    "description": "Lanolin Cera — косметический ингредиент. Происхождение: Animal.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Binding agent",
+      "Emollient",
+      "Emulsifying",
+      "Film forming",
+      "Foam boosting",
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Animal."
+  },
+  {
+    "name": "Lanolin Oil",
+    "inci_name": "LANOLIN OIL",
+    "cas_number": "70321-63-0 / 8038-43-5",
+    "einecs_number": "274-559-6 / -",
+    "description": "Lanolin Oil — косметический ингредиент. Происхождение: Animal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Hair conditioning"
+    ],
+    "prevalence": "0.18% косметических средств",
+    "common_product_types": [
+      "Lipstick (3.78%)",
+      "Eyeshadow (2.31%)",
+      "Gloss and lip gloss (1.18%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Animal."
+  },
+  {
+    "name": "Lapsana Communis Flower/Leaf/Stem Extract",
+    "inci_name": "LAPSANA COMMUNIS FLOWER/LEAF/STEM EXTRACT",
+    "cas_number": "90046-18-7 - Common nipplewort extract (flower/leaf/stem)",
+    "einecs_number": "289-986-3",
+    "description": "Lapsana Communis Flower/Leaf/Stem Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [
+      "Anti-aging day face cream (1.21%)",
+      "Foundation (0.91%)",
+      "Face cream (0.69%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lauramidopropyl Betaine",
+    "inci_name": "LAURAMIDOPROPYL BETAINE",
+    "cas_number": "4292-10-8",
+    "einecs_number": "224-292-6",
+    "description": "Lauramidopropyl Betaine — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Antistatic",
+      "Cleansing",
+      "Foam boosting",
+      "Hair conditioning",
+      "Skin conditioning",
+      "Surfactant",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.17% косметических средств",
+    "common_product_types": [
+      "Face cleansing gel (1.12%)",
+      "Classic shampoo (1.01%)",
+      "Liquid soap (0.61%)",
+      "Shower gel (0.2%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Laureth-10",
+    "inci_name": "LAURETH-10",
+    "cas_number": "9002-92-0 / 6540-99-4 / 68002-97-1",
+    "einecs_number": "500-002-6 / - / 500-182-6",
+    "description": "Laureth-10 is a very mild nonionic surfactant. It is produced by ethoxylation from lauric alcohol. The number 10 indicates the average number of ethylene oxide units repeated in the molecule. It is often used in cosmetics as an emulsifying agent (allows fatty substances to mix easily with water).",
+    "rating": "caution",
+    "functions": [
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "0.4% косметических средств",
+    "common_product_types": [
+      "Shampoo for colored/highlighted hair (4.62%)",
+      "Personal hygiene (2.87%)",
+      "Classic shampoo (2.51%)",
+      "Liquid soap (1.89%)",
+      "Shower gel (1.57%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Laureth-2",
+    "inci_name": "LAURETH-2",
+    "cas_number": "3055-93-4 / 9002-92-0 / 68439-50-9",
+    "einecs_number": "221-279-7 / 500-002-6 / 500-213-3",
+    "description": "Laureth-2 — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "0.71% косметических средств",
+    "common_product_types": [
+      "Shower oil (10.97%)",
+      "Shaving gel (10.26%)",
+      "Fall protection shampoo (7.42%)",
+      "Baby shower gel and cream (5.96%)",
+      "Baby shampoo (5.64%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Laureth-23",
+    "inci_name": "LAURETH-23",
+    "cas_number": "9002-92-0",
+    "einecs_number": "",
+    "description": "Laureth-23 is a nonionic surfactant prepared from lauryl alcohol and 23 moles of ethylene oxide: the number 23 therefore represents the average number of ethylene oxide molecules repeated in the molecule. It is used in cosmetics as an emulsifier and surfactant.It is used in cosmetics as a surfactant and emulsifier: HLB (16.9). It can be used to create oil-in-water emulsions.",
+    "rating": "caution",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "0.44% косметических средств",
+    "common_product_types": [
+      "Shaving cream (60.19%)",
+      "Body shaving gel and foam (33.33%)",
+      "Shaving gel (15.56%)",
+      "Men's shampoo (9%)",
+      "Anti-dandruff shampoo (4.29%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lactose",
+    "inci_name": "LACTOSE",
+    "cas_number": "63-42-3",
+    "einecs_number": "200-559-2",
+    "description": "Lactose — косметический ингредиент. Происхождение: Animal.",
+    "rating": "safe",
+    "functions": [
+      "Humectant",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.24% косметических средств",
+    "common_product_types": [
+      "Personal hygiene (1.9%)",
+      "Foaming bath and bath salts (1.31%)",
+      "Face scrub (1.27%)",
+      "Shower gel (1%)",
+      "Liquid soap (0.93%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Animal."
+  },
+  {
+    "name": "Laminaria Digitata Extract",
+    "inci_name": "LAMINARIA DIGITATA EXTRACT",
+    "cas_number": "90046-12-1 - Seaweed extract",
+    "einecs_number": "289-980-0",
+    "description": "Laminaria Digitata Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin protecting"
+    ],
+    "prevalence": "0.41% косметических средств",
+    "common_product_types": [
+      "Cellulite cream/gel/oil (7.26%)",
+      "Anti-aging eye contour care (2.65%)",
+      "Anti-aging day face cream (2.05%)",
+      "Day anti-ageing face serum (1.42%)",
+      "Face cream (1.25%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Laminaria Japonica Extract",
+    "inci_name": "LAMINARIA JAPONICA EXTRACT",
+    "cas_number": "223751-72-2 / 92128-82-0 - Brown algae",
+    "einecs_number": "",
+    "description": "Laminaria Japonica Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin protecting"
+    ],
+    "prevalence": "0.13% косметических средств",
+    "common_product_types": [
+      "Fabric mask (1.66%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Laureth-7",
+    "inci_name": "LAURETH-7",
+    "cas_number": "3055-97-8 / 68439-50-9 / 9002-92-0",
+    "einecs_number": "221-283-9 / 500-213-3 / 500-002-6",
+    "description": "Laureth-7 is a derivative of lauryl alcohol. It is obtained by ethoxylation: the number 7 in the ingredient represents the average number of ethylene oxide molecules repeated in the molecule. It is used in cosmetics as an emulsifier and surfactant.",
+    "rating": "caution",
+    "functions": [
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "1.2% косметических средств",
+    "common_product_types": [
+      "Concealer (10.46%)",
+      "Foundation (7.15%)",
+      "Eyebrow mascara and gel (5.24%)",
+      "Anti-aging eye contour care (5.07%)",
+      "Care set (4.91%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Laureth-9",
+    "inci_name": "LAURETH-9",
+    "cas_number": "3055-99-0 / 9002-92-0 / 68439-50-9",
+    "einecs_number": "221-284-4 / 500-002-6 / 500-213-3",
+    "description": "Laureth-9 — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Emulsifying"
+    ],
+    "prevalence": "0.24% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (1.43%)",
+      "Classic shampoo (1.01%)",
+      "Hair conditioner (0.93%)",
+      "Hair mask (0.78%)",
+      "Specific hair care (0.66%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Laminaria Saccharina Extract",
+    "inci_name": "LAMINARIA SACCHARINA EXTRACT",
+    "cas_number": "90046-14-3 - Brown Algae extract",
+    "einecs_number": "289-982-1",
+    "description": "Laminaria Saccharina Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin protecting"
+    ],
+    "prevalence": "0.18% косметических средств",
+    "common_product_types": [
+      "Foundation (2.56%)",
+      "Face cream (0.37%)",
+      "Hair conditioner (0.32%)",
+      "Classic shampoo (0.23%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lauric Acid",
+    "inci_name": "LAURIC ACID",
+    "cas_number": "143-07-7",
+    "einecs_number": "205-582-1",
+    "description": "Lauric Acid — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "0.84% косметических средств",
+    "common_product_types": [
+      "Facial cleansing foam (15.17%)",
+      "Oxidative hair coloring (9.28%)",
+      "Face cleansing cream (8.9%)",
+      "Shaving gel (8.03%)",
+      "Anti-blemish cleanser (4.73%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lauroyl Lysine",
+    "inci_name": "LAUROYL LYSINE",
+    "cas_number": "52315-75-0",
+    "einecs_number": "257-843-4",
+    "description": "Lauroyl Lysine — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Hair conditioning",
+      "Skin conditioning",
+      "Viscosity controlling"
+    ],
+    "prevalence": "1.27% косметических средств",
+    "common_product_types": [
+      "Compact powder (24.79%)",
+      "Bronze powder / sun powder (23.98%)",
+      "Blush (16.42%)",
+      "Eyeshadow (15.56%)",
+      "Loose powder (15.08%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Laurtrimonium Bromide",
+    "inci_name": "LAURTRIMONIUM BROMIDE",
+    "cas_number": "1119-94-4",
+    "einecs_number": "214-290-3",
+    "description": "Laurtrimonium Bromide — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Hair conditioning",
+      "Preservative"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Laureth-3",
+    "inci_name": "LAURETH-3",
+    "cas_number": "3055-94-5 / 68439-50-9",
+    "einecs_number": "221-280-2 / 500-213-3",
+    "description": "Laureth-3 — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "caution",
+    "functions": [
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "0.41% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (9.13%)",
+      "Shower oil (9.01%)",
+      "Classic shampoo (0.91%)",
+      "Shower gel (0.83%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Laurus Nobilis Leaf Oil",
+    "inci_name": "LAURUS NOBILIS LEAF OIL",
+    "cas_number": "8002-41-3 / 8007-48-5 - Laurel oil",
+    "einecs_number": "",
+    "description": "Laurus Nobilis Leaf Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Perfuming"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Laureth-4",
+    "inci_name": "LAURETH-4",
+    "cas_number": "5274-68-0 / 9002-92-0 / 68439-50-9",
+    "einecs_number": "226-097-1 / 500-002-6 / 500-213-3",
+    "description": "Laureth-4 is a derivative of lauryl alcohol. It is obtained by ethoxylation: the number 4 in the ingredient represents the average number of ethylene oxide molecules repeated in the molecule. It is used in cosmetics as an emulsifier and surfactant.",
+    "rating": "caution",
+    "functions": [
+      "Antistatic",
+      "Emulsifying",
+      "Masking",
+      "Surfactant"
+    ],
+    "prevalence": "1.35% косметических средств",
+    "common_product_types": [
+      "Shower oil (19.65%)",
+      "Styling mousse (16.48%)",
+      "Shower foam (15.56%)",
+      "Men's shampoo (13.43%)",
+      "Shampoo for colored/highlighted hair (11.3%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Laurtrimonium Chloride",
+    "inci_name": "LAURTRIMONIUM CHLORIDE",
+    "cas_number": "112-00-5",
+    "einecs_number": "203-927-0",
+    "description": "Laurtrimonium Chloride — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Antistatic",
+      "Emulsifying",
+      "Preservative"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [
+      "Styling gel (2.2%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Laurus Nobilis Fruit Oil",
+    "inci_name": "LAURUS NOBILIS FRUIT OIL",
+    "cas_number": "8007-48-5 - Laurel Berry Oil",
+    "einecs_number": "",
+    "description": "Laurus Nobilis Fruit Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [
+      "Solid soap (1.47%)",
+      "Liquid soap (0.71%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Laurus Nobilis Leaf Extract",
+    "inci_name": "LAURUS NOBILIS LEAF EXTRACT",
+    "cas_number": "84603-73-6",
+    "einecs_number": "283-272-5",
+    "description": "Laurus Nobilis Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Refreshing",
+      "Tonic"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lauryl Alcohol Diphosphonic Acid",
+    "inci_name": "LAURYL ALCOHOL DIPHOSPHONIC ACID",
+    "cas_number": "16610-63-2",
+    "einecs_number": "425-230-2",
+    "description": "Lauryl Alcohol Diphosphonic Acid — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Emulsion stabilising"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Lauryl Betaine",
+    "inci_name": "LAURYL BETAINE",
+    "cas_number": "683-10-3",
+    "einecs_number": "211-669-5",
+    "description": "Lauryl Betaine — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Cleansing",
+      "Hair conditioning",
+      "Skin conditioning",
+      "Surfactant"
+    ],
+    "prevalence": "0.14% косметических средств",
+    "common_product_types": [
+      "Classic shampoo (0.79%)",
+      "Shower gel (0.66%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Lavandula Angustifolia Angustifolia Herb Extract",
+    "inci_name": "LAVANDULA ANGUSTIFOLIA ANGUSTIFOLIA HERB EXTRACT",
+    "cas_number": "84776-65-8",
+    "einecs_number": "283-994-0",
+    "description": "Lavandula Angustifolia Angustifolia Herb Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lavandula Angustifolia Angustifolia Herb Oil",
+    "inci_name": "LAVANDULA ANGUSTIFOLIA ANGUSTIFOLIA HERB OIL",
+    "cas_number": "84776-65-8",
+    "einecs_number": "283-994-0",
+    "description": "Lavandula Angustifolia Angustifolia Herb Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lavandula Angustifolia Extract",
+    "inci_name": "LAVANDULA ANGUSTIFOLIA EXTRACT",
+    "cas_number": "90063-37-9 - Lavender extract",
+    "einecs_number": "289-995-2",
+    "description": "Lavandula Angustifolia Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.29% косметических средств",
+    "common_product_types": [
+      "Fabric mask (1.13%)",
+      "Foundation (0.36%)",
+      "Classic shampoo (0.32%)",
+      "Hair conditioner (0.31%)",
+      "Body moisturizer (0.23%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lavandula Angustifolia Flower",
+    "inci_name": "LAVANDULA ANGUSTIFOLIA FLOWER",
+    "cas_number": "90063-37-9 - Lavender flower",
+    "einecs_number": "289-995-2",
+    "description": "Lavandula Angustifolia Flower — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [
+      "Solid soap (0.57%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lavandula Angustifolia Flower Extract",
+    "inci_name": "LAVANDULA ANGUSTIFOLIA FLOWER EXTRACT",
+    "cas_number": "90063-37-9 - Lavender flower extract",
+    "einecs_number": "289-995-2",
+    "description": "Lavandula Angustifolia Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Cleansing",
+      "Deodorant",
+      "Masking",
+      "Refreshing",
+      "Tonic"
+    ],
+    "prevalence": "0.45% косметических средств",
+    "common_product_types": [
+      "Fabric mask (2.12%)",
+      "Classic shampoo (0.83%)",
+      "Liquid soap (0.81%)",
+      "Face lotion and toner (0.8%)",
+      "Shower gel (0.68%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lavandula Angustifolia Flower Powder",
+    "inci_name": "LAVANDULA ANGUSTIFOLIA FLOWER POWDER",
+    "cas_number": "90063-37-9",
+    "einecs_number": "289-995-2",
+    "description": "Lavandula Angustifolia Flower Powder — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lavandula Angustifolia Flower Water",
+    "inci_name": "LAVANDULA ANGUSTIFOLIA FLOWER WATER",
+    "cas_number": "90063-37-9 - Lavender flower water",
+    "einecs_number": "289-995-2",
+    "description": "Lavandula Angustifolia Flower Water — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.22% косметических средств",
+    "common_product_types": [
+      "Face lotion and toner (2%)",
+      "Face cream (0.39%)",
+      "Classic shampoo (0.36%)",
+      "Shower gel (0.28%)",
+      "Body moisturizer (0.2%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Laurus Nobilis Oil",
+    "inci_name": "LAURUS NOBILIS OIL",
+    "cas_number": "8002-41-3 / 8007-48-5 / 84603-73-6 - Laurel oil",
+    "einecs_number": "- / - / 283-272-5",
+    "description": "Laurus Nobilis Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Refreshing",
+      "Tonic"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lavandula Angustifolia Flower/Leaf/Stem",
+    "inci_name": "LAVANDULA ANGUSTIFOLIA FLOWER/LEAF/STEM",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Lavandula Angustifolia Flower/Leaf/Stem — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Antimicrobial",
+      "Antioxidant",
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Lavandula Angustifolia Flower/Leaf/Stem Extract",
+    "inci_name": "LAVANDULA ANGUSTIFOLIA FLOWER/LEAF/STEM EXTRACT",
+    "cas_number": "90063-37-9 / 84776-65-8 - Lavender extract (flower / leaf / stem)",
+    "einecs_number": "289-995-2 / 283-994-0",
+    "description": "Lavandula Angustifolia Flower/Leaf/Stem Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Oral care/hygiene agent",
+      "Skin conditioning",
+      "Perfuming",
+      "Flavouring agent"
+    ],
+    "prevalence": "0.1% косметических средств",
+    "common_product_types": [
+      "Lipstick (0.3%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lauryl Alcohol",
+    "inci_name": "LAURYL ALCOHOL",
+    "cas_number": "112-53-8",
+    "einecs_number": "203-982-0",
+    "description": "Lauryl Alcohol — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Emulsifying",
+      "Emulsion stabilising",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.5% косметических средств",
+    "common_product_types": [
+      "Shampoo for colored/highlighted hair (3.36%)",
+      "Oxidative hair coloring (2.74%)",
+      "Hair mask (2.2%)",
+      "Classic shampoo (1.69%)",
+      "Hair conditioner (1.53%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lavandula Angustifolia Flower/Leaf/Stem Water",
+    "inci_name": "LAVANDULA ANGUSTIFOLIA FLOWER/LEAF/STEM WATER",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Lavandula Angustifolia Flower/Leaf/Stem Water — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Humectant",
+      "Masking",
+      "Flavouring agent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Lauryl Glucoside",
+    "inci_name": "LAURYL GLUCOSIDE",
+    "cas_number": "110615-47-9",
+    "einecs_number": "",
+    "description": "Lauryl glucoside is a mild nonionic surfactant of plant origin. It is formed from palm / coconut oil and sugar. It produces little foam but can thicken solutions, it is also used to control if necessary the pH value. It is authorized in organic cosmetics.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Surfactant"
+    ],
+    "prevalence": "2.78% косметических средств",
+    "common_product_types": [
+      "2-in-1 shampoo and body wash for baby (23.4%)",
+      "Baby bubble bath (21.02%)",
+      "Baby shampoo (20.7%)",
+      "Baby shower gel and cream (20.67%)",
+      "Personal hygiene (18.07%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lavandula Angustifolia Herb Oil",
+    "inci_name": "LAVANDULA ANGUSTIFOLIA HERB OIL",
+    "cas_number": "90063-37-9 - Lavender herb oil",
+    "einecs_number": "289-995-2",
+    "description": "Lavandula Angustifolia Herb Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lavandula Angustifolia Oil",
+    "inci_name": "LAVANDULA ANGUSTIFOLIA OIL",
+    "cas_number": "8000-28-0 / 90063-37-9 - Lavender essential oil",
+    "einecs_number": "- / 289-995-2",
+    "description": "The essential oil of true lavender or fine lavender is highly concentrated in Linalool (it contains between 30 and 40%). It is attributed many analgesic, calming and even healing properties. It calms muscle excitement (cramps ..), regulates the nervous system or even promotes sleep. It is one of the most used essential oils in cosmetics.It contains the following allergens:- Linalool (very high concentration> 25%);- Geraniol (<1.5%)- Limonene (<2%)- Coumarin (<0.5%)",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Tonic"
+    ],
+    "prevalence": "1.56% косметических средств",
+    "common_product_types": [
+      "Massage (9.47%)",
+      "Stretch marks treatment (9.28%)",
+      "Feet moisturizers (8.52%)",
+      "Essential oil (6.87%)",
+      "Drugstore (4.22%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lavandula Angustifolia Flower Oil",
+    "inci_name": "LAVANDULA ANGUSTIFOLIA FLOWER OIL",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Lavandula Angustifolia Flower Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.13% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lavandula Angustifolia Water",
+    "inci_name": "LAVANDULA ANGUSTIFOLIA WATER",
+    "cas_number": "90063-37-9 - Lavender water",
+    "einecs_number": "289-995-2",
+    "description": "Lavandula Angustifolia Water — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [
+      "Classic shampoo (0.26%)",
+      "Shower gel (0.23%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lavandula Hybrida Abrial Herb Oil",
+    "inci_name": "LAVANDULA HYBRIDA ABRIAL HERB OIL",
+    "cas_number": "93455-96-0",
+    "einecs_number": "297-384-7",
+    "description": "Lavandula Hybrida Abrial Herb Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lavandula Hybrida Extract",
+    "inci_name": "LAVANDULA HYBRIDA EXTRACT",
+    "cas_number": "91722-69-9 - Lavender extract",
+    "einecs_number": "294-470-6",
+    "description": "Lavandula Hybrida Extract — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Emollient"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Lavandula Angustifolia Herb Extract",
+    "inci_name": "LAVANDULA ANGUSTIFOLIA HERB EXTRACT",
+    "cas_number": "90063-37-9",
+    "einecs_number": "289-995-2",
+    "description": "Lavandula Angustifolia Herb Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lavandula Angustifolia Flower Wax",
+    "inci_name": "LAVANDULA ANGUSTIFOLIA FLOWER WAX",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Lavandula Angustifolia Flower Wax — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Emollient",
+      "Skin conditioning",
+      "Skin protecting"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Lavandula Angustifolia Flower/Leaf/Stem Oil",
+    "inci_name": "LAVANDULA ANGUSTIFOLIA FLOWER/LEAF/STEM OIL",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Lavandula Angustifolia Flower/Leaf/Stem Oil — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Humectant",
+      "Masking",
+      "Flavouring agent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Lavandula Hybrida Herb Extract",
+    "inci_name": "LAVANDULA HYBRIDA HERB EXTRACT",
+    "cas_number": "91722-69-9",
+    "einecs_number": "294-470-6",
+    "description": "Lavandula Hybrida Herb Extract — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Lavandula Hybrida Flower Extract",
+    "inci_name": "LAVANDULA HYBRIDA FLOWER EXTRACT",
+    "cas_number": "91722-69-9",
+    "einecs_number": "294-470-6",
+    "description": "Lavandula Hybrida Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lavandula Hybrida Flower Water",
+    "inci_name": "LAVANDULA HYBRIDA FLOWER WATER",
+    "cas_number": "91722-69-9",
+    "einecs_number": "294-470-6",
+    "description": "Lavandula Hybrida Flower Water — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lavandula Hybrida Oil",
+    "inci_name": "LAVANDULA HYBRIDA OIL",
+    "cas_number": "8022-15-9 / 91722-69-9 - Hybrid Lavender oil",
+    "einecs_number": "- / 294-470-6",
+    "description": "Lavandula Hybrida Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Emollient"
+    ],
+    "prevalence": "0.45% косметических средств",
+    "common_product_types": [
+      "Massage (4.78%)",
+      "Essential oil (3.44%)",
+      "Solid shampoo (2.47%)",
+      "Drugstore (2.16%)",
+      "Foaming bath and bath salts (2.11%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lavandula Intermedia Extract",
+    "inci_name": "LAVANDULA INTERMEDIA EXTRACT",
+    "cas_number": "92623-76-2",
+    "einecs_number": "296-408-3",
+    "description": "Lavandula Intermedia Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lavandula Intermedia Flower/Leaf/Stem Oil",
+    "inci_name": "LAVANDULA INTERMEDIA FLOWER/LEAF/STEM OIL",
+    "cas_number": "92623-76-2",
+    "einecs_number": "296-408-3",
+    "description": "Lavandula Intermedia Flower/Leaf/Stem Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lavandula Intermedia Flower/Leaf/Stem Water",
+    "inci_name": "LAVANDULA INTERMEDIA FLOWER/LEAF/STEM WATER",
+    "cas_number": "922623-76-2",
+    "einecs_number": "296-408-3",
+    "description": "Lavandula Intermedia Flower/Leaf/Stem Water — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Lavandula Hybrida Grosso Herb Oil",
+    "inci_name": "LAVANDULA HYBRIDA GROSSO HERB OIL",
+    "cas_number": "93455-97-1 - Lavandin oil",
+    "einecs_number": "297-385-2",
+    "description": "Lavandula Hybrida Grosso Herb Oil — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [
+      "Solid soap (0.44%)"
+    ],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Lavandula Latifolia Herb Oil",
+    "inci_name": "LAVANDULA LATIFOLIA HERB OIL",
+    "cas_number": "84837-04-7",
+    "einecs_number": "284-290-6",
+    "description": "Lavandula Latifolia Herb Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lavandula Officinalis Flower Oil",
+    "inci_name": "LAVANDULA OFFICINALIS FLOWER OIL",
+    "cas_number": "84776-65-8 - Lavender flower oil",
+    "einecs_number": "283-994-0",
+    "description": "Lavandula Officinalis Flower Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lavandula Hybrida Herb Oil",
+    "inci_name": "LAVANDULA HYBRIDA HERB OIL",
+    "cas_number": "91722-69-9",
+    "einecs_number": "294-470-6",
+    "description": "Lavandula Hybrida Herb Oil — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Lavandula Spica Flower Oil",
+    "inci_name": "LAVANDULA SPICA FLOWER OIL",
+    "cas_number": "97722-12-8 - Lavender flower oil",
+    "einecs_number": "307-762-6",
+    "description": "Lavandula Spica Flower Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lavandula Hybrida Grosso Herb Extract",
+    "inci_name": "LAVANDULA HYBRIDA GROSSO HERB EXTRACT",
+    "cas_number": "93455-97-1",
+    "einecs_number": "297-385-2",
+    "description": "Lavandula Hybrida Grosso Herb Extract — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Lawsonia Inermis Extract",
+    "inci_name": "LAWSONIA INERMIS EXTRACT",
+    "cas_number": "84988-66-9 - Henna extract",
+    "einecs_number": "284-854-1",
+    "description": "Lawsonia Inermis Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antimicrobial",
+      "Antioxidant",
+      "Hair conditioning",
+      "Hair dyeing"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [
+      "Vegetal hair color (21.89%)",
+      "Classic shampoo (0.19%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lavandula Intermedia Flower/Leaf/Stem Extract",
+    "inci_name": "LAVANDULA INTERMEDIA FLOWER/LEAF/STEM EXTRACT",
+    "cas_number": "92623-76-2",
+    "einecs_number": "296-408-3",
+    "description": "Lavandula Intermedia Flower/Leaf/Stem Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Oral care/hygiene agent",
+      "Perfuming",
+      "Flavouring agent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lawsonia Inermis Leaf Extract",
+    "inci_name": "LAWSONIA INERMIS LEAF EXTRACT",
+    "cas_number": "84988-66-9 - Henna leaf extract",
+    "einecs_number": "284-854-1",
+    "description": "Lawsonia Inermis Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.12% косметических средств",
+    "common_product_types": [
+      "Vegetal hair color (52.53%)",
+      "Oxidative hair coloring (0.55%)",
+      "Classic shampoo (0.31%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lead Acetate",
+    "inci_name": "LEAD ACETATE",
+    "cas_number": "301-04-2 / 15347-57-6",
+    "einecs_number": "206-104-4 / 239-379-4",
+    "description": "Lead Acetate — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Lecithin",
+    "inci_name": "LECITHIN",
+    "cas_number": "8002-43-5 / 8030-76-0 (soybean)",
+    "einecs_number": "232-307-2 / 310-129-7",
+    "description": "Lecithin is a natural component of skin cell membranes, which are also found in animals and plants. In cosmetics, it is often extracted from soy. It gets along particularly well with our skin to promote its hydration and elasticity. It is used as an emulsifier to create oil-in-water emulsions or vice versa. It is allowed in organic.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Emollient",
+      "Emulsifying",
+      "Skin conditioning"
+    ],
+    "prevalence": "5.21% косметических средств",
+    "common_product_types": [
+      "Shaving gel (23.42%)",
+      "Anti-aging / anti-spot hand cream (20.89%)",
+      "Anti-ageing night time face serum (19.76%)",
+      "Anti-aging set (19.06%)",
+      "Foundation (17.79%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lavandula Intermedia Oil",
+    "inci_name": "LAVANDULA INTERMEDIA OIL",
+    "cas_number": "92623-76-2",
+    "einecs_number": "296-408-3",
+    "description": "Lavandula Intermedia Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lens Esculenta Fruit Extract",
+    "inci_name": "LENS ESCULENTA FRUIT EXTRACT",
+    "cas_number": "90063-40-4 - Lentil fruit extract",
+    "einecs_number": "289-998-9",
+    "description": "Lens Esculenta Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [
+      "Foundation (1.2%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Leontopodium Alpinum Extract",
+    "inci_name": "LEONTOPODIUM ALPINUM EXTRACT",
+    "cas_number": "391900-47-3 - Edelweiss extract",
+    "einecs_number": "-",
+    "description": "Leontopodium Alpinum Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.1% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lavandula Oil/Extract",
+    "inci_name": "LAVANDULA OIL/EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "This INCI designation, mandatory in Europe, refers to the presence of one or more species of lavender (Angustifolia, Intermedia, Hybrida) in the composition of the product, when their concentration exceeds 0.001% in leave-on products and 0.01% in rinse-off products.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.18% косметических средств",
+    "common_product_types": [
+      "Deodorant spray (1.62%)",
+      "Deodorant stick (1.31%)",
+      "Roll-on deodorant (1.09%)",
+      "Body moisturizer (0.32%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Leptospermum Petersonii Oil",
+    "inci_name": "LEPTOSPERMUM PETERSONII OIL",
+    "cas_number": "85085-43-4 - Lemon Tea tree oil",
+    "einecs_number": "285-372-4",
+    "description": "Leptospermum Petersonii Oil — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Perfuming"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Lavandula Stoechas Extract",
+    "inci_name": "LAVANDULA STOECHAS EXTRACT",
+    "cas_number": "90063-38-0 - Lavender extract",
+    "einecs_number": "289-996-8",
+    "description": "Lavandula Stoechas Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [
+      "Foundation (0.44%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lawsonia Inermis Flower/Fruit/Leaf Extract",
+    "inci_name": "LAWSONIA INERMIS FLOWER/FRUIT/LEAF EXTRACT",
+    "cas_number": "84988-66-9 - Henna extract (flower/fruit/leaf)",
+    "einecs_number": "284-854-1",
+    "description": "Lawsonia Inermis Flower/Fruit/Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Hair dyeing",
+      "Masking"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Leptospermum Scoparium Leaf Water",
+    "inci_name": "LEPTOSPERMUM SCOPARIUM LEAF WATER",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Leptospermum Scoparium Leaf Water — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Hydrotrope",
+      "Non-surfactant dispersant",
+      "Skin conditioning - humectant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Leuconostoc/Radish Root Ferment Filtrate",
+    "inci_name": "LEUCONOSTOC/RADISH ROOT FERMENT FILTRATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Obtained by fermenting radish roots, Leuconostoc/radish root ferment filtrate is used in cosmetics as a natural preservative. It is an alternative to more aggressive synthetic preservatives.",
+    "rating": "safe",
+    "functions": [
+      "Anti dandruff",
+      "Antimicrobial"
+    ],
+    "prevalence": "1.18% косметических средств",
+    "common_product_types": [
+      "Face lotion and toner (3.83%)",
+      "Day anti-ageing face serum (3.7%)",
+      "Detangler (leave-in) (3.45%)",
+      "Eye contour care (3.08%)",
+      "Hair mask (3.04%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Levulinic Acid",
+    "inci_name": "LEVULINIC ACID",
+    "cas_number": "123-76-2",
+    "einecs_number": "204-649-2",
+    "description": "Levulinic Acid — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "1.09% косметических средств",
+    "common_product_types": [
+      "Diaper cream (7%)",
+      "Micellar water (5.6%)",
+      "Night face cream (5.51%)",
+      "Baby milk and moisturizer (5.18%)",
+      "Eye contour care (4.92%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Lidocaine",
+    "inci_name": "LIDOCAINE",
+    "cas_number": "137-58-6",
+    "einecs_number": "205-302-8",
+    "description": "Lidocaine — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Unclassified"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Lidocaine Hcl",
+    "inci_name": "LIDOCAINE HCL",
+    "cas_number": "6108-05-0",
+    "einecs_number": "",
+    "description": "Lidocaine Hcl — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Unclassified"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Ledum Groenlandicum Extract",
+    "inci_name": "LEDUM GROENLANDICUM EXTRACT",
+    "cas_number": "90063-39-1 - Bog Labrador tea extract",
+    "einecs_number": "289-997-3",
+    "description": "Ledum Groenlandicum Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Tonic"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Leontopodium Alpinum Flower/Leaf Extract",
+    "inci_name": "LEONTOPODIUM ALPINUM FLOWER/LEAF EXTRACT",
+    "cas_number": "391900-47-3 - Edelweiss extract (flower/leaf)",
+    "einecs_number": "-",
+    "description": "Leontopodium Alpinum Flower/Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.11% косметических средств",
+    "common_product_types": [
+      "Anti-aging day face cream (0.76%)",
+      "Face cream (0.32%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lilium Candidum Flower Extract",
+    "inci_name": "LILIUM CANDIDUM FLOWER EXTRACT",
+    "cas_number": "84776-67-0 - White lily flower extract",
+    "einecs_number": "283-996-1",
+    "description": "Lilium Candidum Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.11% косметических средств",
+    "common_product_types": [
+      "Eyeshadow (0.71%)",
+      "Lipstick (0.28%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Limonene",
+    "inci_name": "LIMONENE",
+    "cas_number": "138-86-3",
+    "einecs_number": "205-341-0/931-893-3",
+    "description": "Limonene is one of Europe's regulated allergens. It takes its name from the lemon in which it is present in significant quantities. In cosmetics, it is used for its fragrance.It exists in two different forms:- d-limonene is present in many plants, fruits and vegetables. It is also found in citrus peel, gherkins, celery and many essential oils.- the other isometric form, l-limonene, is found mainly in pine oils, turpentine and mint oils.",
+    "rating": "neutral",
+    "functions": [
+      "Deodorant",
+      "Solvent",
+      "Perfuming"
+    ],
+    "prevalence": "28.06% косметических средств",
+    "common_product_types": [
+      "Men's cologne (95.61%)",
+      "Perfume set for men (95.55%)",
+      "Eau de parfum for men (94.29%)",
+      "Eau fraîche for women (92.2%)",
+      "Perfume for women (88.7%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Natural."
+  },
+  {
+    "name": "Leptospermum Scoparium Branch/Leaf Oil",
+    "inci_name": "LEPTOSPERMUM SCOPARIUM BRANCH/LEAF OIL",
+    "cas_number": "223749-44-8 - Manuka oil (branch/leaf)",
+    "einecs_number": "-",
+    "description": "Leptospermum Scoparium Branch/Leaf Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Tonic"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Leptospermum Scoparium Leaf Extract",
+    "inci_name": "LEPTOSPERMUM SCOPARIUM LEAF EXTRACT",
+    "cas_number": "223749-44-8 - Manuka leaf extract",
+    "einecs_number": "",
+    "description": "Leptospermum Scoparium Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lilium Candidum Bulb Extract",
+    "inci_name": "LILIUM CANDIDUM BULB EXTRACT",
+    "cas_number": "84776-67-0 - White lily bulb extract",
+    "einecs_number": "283-996-1",
+    "description": "Lilium Candidum Bulb Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [
+      "Foundation (0.6%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Linolenic Acid",
+    "inci_name": "LINOLENIC ACID",
+    "cas_number": "463-40-1 (CIS)",
+    "einecs_number": "207-334-8 (CIS)",
+    "description": "Linolenic Acid — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Cleansing",
+      "Emollient",
+      "Hair conditioning",
+      "Skin conditioning",
+      "Surfactant",
+      "Perfuming"
+    ],
+    "prevalence": "0.32% косметических средств",
+    "common_product_types": [
+      "Face cream (0.95%)",
+      "Face moisturizing serum (0.89%)",
+      "Specific hair care (0.81%)",
+      "Hair mask (0.72%)",
+      "Hair conditioner (0.57%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Linum Usitatissimum Flower Extract",
+    "inci_name": "LINUM USITATISSIMUM FLOWER EXTRACT",
+    "cas_number": "8001-26-1 - Linseed flower extract",
+    "einecs_number": "232-278-6",
+    "description": "Linum Usitatissimum Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [
+      "Hair conditioner (0.28%)",
+      "Classic shampoo (0.26%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Linum Usitatissimum Seed Extract",
+    "inci_name": "LINUM USITATISSIMUM SEED EXTRACT",
+    "cas_number": "8001-26-1 - Linseed seed extract",
+    "einecs_number": "232-278-6",
+    "description": "Linum Usitatissimum Seed Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "0.5% косметических средств",
+    "common_product_types": [
+      "Treatment for curly hair (6.63%)",
+      "Styling cream (6.29%)",
+      "Styling gel (2.7%)",
+      "Oxidative hair coloring (1.88%)",
+      "Specific hair care (1.81%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Linum Usitatissimum Seed Oil",
+    "inci_name": "LINUM USITATISSIMUM SEED OIL",
+    "cas_number": "8001-26-1 - Linseed seed oil",
+    "einecs_number": "232-278-6",
+    "description": "Linum Usitatissimum Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "0.86% косметических средств",
+    "common_product_types": [
+      "Treatment for curly hair (5.46%)",
+      "Hair oil (4.72%)",
+      "Styling cream (3.63%)",
+      "Specific hair care (3.11%)",
+      "Hair mask (2.82%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Linalyl Acetate",
+    "inci_name": "LINALYL ACETATE",
+    "cas_number": "115-95-7",
+    "einecs_number": "204-116-4",
+    "description": "Linalyl acetate is a natural aromatic compound found in lavender and bergamot essential oils. It is one of the regulated allergens in Europe.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "1.4% косметических средств",
+    "common_product_types": [
+      "Mixed scented mist (17.83%)",
+      "Heat-protective hair care (6.18%)",
+      "Scented mist for women (5.7%)",
+      "Eau de parfum for men (5.47%)",
+      "Care set (4.91%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Natural."
+  },
+  {
+    "name": "Limnanthes Alba Seed Oil",
+    "inci_name": "LIMNANTHES ALBA SEED OIL",
+    "cas_number": "153065-40-8 - Meadowfoam seed oil",
+    "einecs_number": "310-127-6",
+    "description": "Limnanthes Alba Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.66% косметических средств",
+    "common_product_types": [
+      "Lip oil (9.59%)",
+      "Sunscreen lip balm (6.26%)",
+      "Tinted lip balm (5.46%)",
+      "Oxidative hair coloring (4.39%)",
+      "Anti-aging day face cream (3.24%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Linalool",
+    "inci_name": "LINALOOL",
+    "cas_number": "78-70-6",
+    "einecs_number": "201-134-4",
+    "description": "Linalool is an aromatic compound classified as a regulated allergen by Europe. It is naturally present in essential oils of thyme, lavender, lavandin, Scots pine or peppermint... It is also found in many extracts (lemon, orange, verbena...).",
+    "rating": "neutral",
+    "functions": [
+      "Deodorant",
+      "Perfuming"
+    ],
+    "prevalence": "30.27% косметических средств",
+    "common_product_types": [
+      "Men's cologne (96.64%)",
+      "Eau de parfum for men (95.6%)",
+      "Perfume set for men (94.86%)",
+      "Eau fraîche for women (94.33%)",
+      "Women fragrance set (92.43%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Natural."
+  },
+  {
+    "name": "Lippia Citriodora Leaf/Flower Oil",
+    "inci_name": "LIPPIA CITRIODORA LEAF/FLOWER OIL",
+    "cas_number": "8024-12-2",
+    "einecs_number": "-",
+    "description": "Lippia Citriodora Leaf/Flower Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lippia Citrodora Flower Extract",
+    "inci_name": "LIPPIA CITRODORA FLOWER EXTRACT",
+    "cas_number": "85116-63-8 (generic)",
+    "einecs_number": "285-515-0",
+    "description": "Lippia Citrodora Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lippia Citrodora Flower Water",
+    "inci_name": "LIPPIA CITRODORA FLOWER WATER",
+    "cas_number": "85116-63-8 (generic)",
+    "einecs_number": "285-515-0",
+    "description": "Lippia Citrodora Flower Water — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lippia Citrodora Flower/Leaf/Stem Extract",
+    "inci_name": "LIPPIA CITRODORA FLOWER/LEAF/STEM EXTRACT",
+    "cas_number": "85116-63-8 (generic)",
+    "einecs_number": "285-515-0",
+    "description": "Lippia Citrodora Flower/Leaf/Stem Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lippia Citrodora Flower/Leaf/Stem Water",
+    "inci_name": "LIPPIA CITRODORA FLOWER/LEAF/STEM WATER",
+    "cas_number": "85116-63-8 (generic)",
+    "einecs_number": "285-515-0",
+    "description": "Lippia Citrodora Flower/Leaf/Stem Water — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Linoleic Acid",
+    "inci_name": "LINOLEIC ACID",
+    "cas_number": "60-33-3 (CIS)",
+    "einecs_number": "200-470-9 (CIS)",
+    "description": "Linoleic Acid — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Cleansing",
+      "Emollient",
+      "Hair conditioning",
+      "Skin conditioning",
+      "Surfactant"
+    ],
+    "prevalence": "0.74% косметических средств",
+    "common_product_types": [
+      "Hair oil (2.66%)",
+      "Lipstick (2.05%)",
+      "Treatment for curly hair (1.9%)",
+      "Specific hair care (1.75%)",
+      "Face cream (1.74%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Lippia Citrodora Leaf Water",
+    "inci_name": "LIPPIA CITRODORA LEAF WATER",
+    "cas_number": "85116-63-8 (generic)",
+    "einecs_number": "285-515-0",
+    "description": "Lippia Citrodora Leaf Water — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lippia Sidoides Leaf Oil",
+    "inci_name": "LIPPIA SIDOIDES LEAF OIL",
+    "cas_number": "8024-12-2",
+    "einecs_number": "-",
+    "description": "Lippia Sidoides Leaf Oil — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Perfuming",
+      "Flavouring agent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Liquidambar Orientalis Balsam Oil",
+    "inci_name": "LIQUIDAMBAR ORIENTALIS BALSAM OIL",
+    "cas_number": "94891-27-7",
+    "einecs_number": "305-627-6",
+    "description": "Liquidambar Orientalis Balsam Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lippia Alba Leaf/Stem Oil",
+    "inci_name": "LIPPIA ALBA LEAF/STEM OIL",
+    "cas_number": "8024-12-2",
+    "einecs_number": "-",
+    "description": "Lippia Alba Leaf/Stem Oil — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Antioxidant",
+      "Masking",
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Liquidambar Styraciflua Balsam Extract",
+    "inci_name": "LIQUIDAMBAR STYRACIFLUA BALSAM EXTRACT",
+    "cas_number": "94891-28-8 / 8046-19-3",
+    "einecs_number": "305-628-1 / 232-458-4",
+    "description": "Liquidambar Styraciflua Balsam Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lippia Citriodora Flower/Leaf/Stem Oil",
+    "inci_name": "LIPPIA CITRIODORA FLOWER/LEAF/STEM OIL",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Lippia Citriodora Flower/Leaf/Stem Oil — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Liquidambar Styraciflua Oil",
+    "inci_name": "LIQUIDAMBAR STYRACIFLUA OIL",
+    "cas_number": "8046-19-3  / 94891-28-8",
+    "einecs_number": "232-458-4  / 305-628-1",
+    "description": "Liquidambar Styraciflua Oil — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Litchi Chinensis Fruit Extract",
+    "inci_name": "LITCHI CHINENSIS FRUIT EXTRACT",
+    "cas_number": "91722-81-5 - Lychee extract",
+    "einecs_number": "294-483-7",
+    "description": "Litchi Chinensis Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [
+      "Lipstick (0.5%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lithium Hydroxide",
+    "inci_name": "LITHIUM HYDROXIDE",
+    "cas_number": "1310-65-2",
+    "einecs_number": "215-183-4",
+    "description": "Lithium Hydroxide — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "pH regulator",
+      "Hair waving or straightening"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Lippia Citriodora Leaf Oil",
+    "inci_name": "LIPPIA CITRIODORA LEAF OIL",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Lippia Citriodora Leaf Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lippia Citrodora Leaf Extract",
+    "inci_name": "LIPPIA CITRODORA LEAF EXTRACT",
+    "cas_number": "85116-63-8 (generic) - Lemon Verbana leaf extract",
+    "einecs_number": "285-515-0",
+    "description": "Lippia Citrodora Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Astringent",
+      "Perfuming"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [
+      "Hand cream (0.39%)",
+      "Shower gel (0.2%)",
+      "Classic shampoo (0.14%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lobelia Inflata",
+    "inci_name": "LOBELIA INFLATA",
+    "cas_number": "84696-23-1",
+    "einecs_number": "283-642-6",
+    "description": "Lobelia Inflata — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "avoid",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lobelia Inflata Extract",
+    "inci_name": "LOBELIA INFLATA EXTRACT",
+    "cas_number": "84696-23-1",
+    "einecs_number": "283-642-6",
+    "description": "Lobelia Inflata Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "avoid",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lonicera Caprifolium Extract",
+    "inci_name": "LONICERA CAPRIFOLIUM EXTRACT",
+    "cas_number": "84603-62-3 - Honeysuckle extract",
+    "einecs_number": "283-263-6",
+    "description": "Lonicera Caprifolium Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent",
+      "Masking"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Liquidambar Styraciflua Balsam Oil",
+    "inci_name": "LIQUIDAMBAR STYRACIFLUA BALSAM OIL",
+    "cas_number": "94891-28-8 / 8046-19-3",
+    "einecs_number": "305-628-1 / 232-458-4",
+    "description": "Liquidambar Styraciflua Balsam Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lonicera Caprifolium Flower Extract",
+    "inci_name": "LONICERA CAPRIFOLIUM FLOWER EXTRACT",
+    "cas_number": "84603-62-3 - Honeysuckle flower extract",
+    "einecs_number": "283-263-6",
+    "description": "Lonicera Caprifolium Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "0.2% косметических средств",
+    "common_product_types": [
+      "Anti-aging day face cream (0.67%)",
+      "Foundation (0.64%)",
+      "Face cream (0.46%)",
+      "Body moisturizer (0.26%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lonicera Japonica Extract",
+    "inci_name": "LONICERA JAPONICA EXTRACT",
+    "cas_number": "223749-79-9 (generic) - Japanese Honeysuckle extract",
+    "einecs_number": "",
+    "description": "Lonicera Japonica Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Liquidambar Orientalis Resin Extract",
+    "inci_name": "LIQUIDAMBAR ORIENTALIS RESIN EXTRACT",
+    "cas_number": "94891-27-7",
+    "einecs_number": "305-627-6",
+    "description": "Liquidambar Orientalis Resin Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lupinus Albus Seed Oil",
+    "inci_name": "LUPINUS ALBUS SEED OIL",
+    "cas_number": "225234-07-1 - White Lupin seed oil",
+    "einecs_number": "",
+    "description": "Lupinus Albus Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lithothamnion Calcareum Extract",
+    "inci_name": "LITHOTHAMNION CALCAREUM EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Lithothamnion Calcareum Extract — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.19% косметических средств",
+    "common_product_types": [
+      "Nail polish (9%)",
+      "Face cream (0.34%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Litsea Cubeba Fruit Oil",
+    "inci_name": "LITSEA CUBEBA FRUIT OIL",
+    "cas_number": "68855-99-2 / 90063-59-5 - May-Chang fruit oil",
+    "einecs_number": "- / 290-018-7",
+    "description": "Litsea Cubeba Fruit Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Tonic",
+      "Perfuming"
+    ],
+    "prevalence": "0.25% косметических средств",
+    "common_product_types": [
+      "Solid soap (1.34%)",
+      "Liquid soap (0.84%)",
+      "Shower gel (0.6%)",
+      "Hand cream (0.52%)",
+      "Face cream (0.35%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Luffa Cylindrica Seed Oil",
+    "inci_name": "LUFFA CYLINDRICA SEED OIL",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Luffa Cylindrica Seed Oil — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [
+      "Adult sun cream (0.57%)",
+      "Lipstick (0.3%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Lonicera Japonica Flower Extract",
+    "inci_name": "LONICERA JAPONICA FLOWER EXTRACT",
+    "cas_number": "223749-79-9 - Japanese Honeysuckle flower extract",
+    "einecs_number": "",
+    "description": "Lonicera Japonica Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.3% косметических средств",
+    "common_product_types": [
+      "Fabric mask (3%)",
+      "Anti-aging day face cream (0.8%)",
+      "Cream / gel mask (0.74%)",
+      "Face lotion and toner (0.71%)",
+      "Face moisturizing serum (0.67%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lysine",
+    "inci_name": "LYSINE",
+    "cas_number": "56-87-1",
+    "einecs_number": "200-294-2",
+    "description": "Lysine — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.48% косметических средств",
+    "common_product_types": [
+      "Bb cream (4.74%)",
+      "Foundation (2.86%)",
+      "Concealer / concealer (2.85%)",
+      "Face lotion and toner (0.88%)",
+      "Face moisturizing serum (0.87%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Lysolecithin",
+    "inci_name": "LYSOLECITHIN",
+    "cas_number": "85711-58-6",
+    "einecs_number": "288-318-8",
+    "description": "Lysolecithin — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emulsifying"
+    ],
+    "prevalence": "0.19% косметических средств",
+    "common_product_types": [
+      "Eye contour care (1.49%)",
+      "Day anti-ageing face serum (1.39%)",
+      "Face moisturizing serum (1.34%)",
+      "Face cream (0.92%)",
+      "Anti-aging day face cream (0.74%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Lycium Barbarum Fruit Extract",
+    "inci_name": "LYCIUM BARBARUM FRUIT EXTRACT",
+    "cas_number": "85085-46-7 - Goji berry",
+    "einecs_number": "285-375-0",
+    "description": "Lycium Barbarum Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent",
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.39% косметических средств",
+    "common_product_types": [
+      "Concealer / concealer (2.39%)",
+      "Shampoo for colored/highlighted hair (2.05%)",
+      "Day anti-ageing face serum (1.11%)",
+      "Face moisturizing serum (0.98%)",
+      "Cream / gel mask (0.94%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lycium Chinense Fruit Extract",
+    "inci_name": "LYCIUM CHINENSE FRUIT EXTRACT",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Lycium Chinense Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [
+      "Blush (1.17%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Lycopene",
+    "inci_name": "LYCOPENE",
+    "cas_number": "502-65-8 - Red dye",
+    "einecs_number": "207-949-1",
+    "description": "Lycopene — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Antioxidant"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [
+      "Adult sun cream (0.43%)",
+      "Lipstick (0.27%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Lysine Hcl",
+    "inci_name": "LYSINE HCL",
+    "cas_number": "657-27-2 / 10098-89-2 / 22834-80-6",
+    "einecs_number": "211-519-9 / 233-234-9 (L) / 245-258-7 (DL)",
+    "description": "Lysine Hcl — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.27% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (1.98%)",
+      "Hair conditioner (1.24%)",
+      "Anti-aging day face cream (0.94%)",
+      "Classic shampoo (0.9%)",
+      "Hair mask (0.82%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  }
+]

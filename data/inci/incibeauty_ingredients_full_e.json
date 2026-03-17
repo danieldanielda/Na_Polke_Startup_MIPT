@@ -1,0 +1,1374 @@
+[
+  {
+    "name": "Eclipta Prostrata Extract",
+    "inci_name": "ECLIPTA PROSTRATA EXTRACT",
+    "cas_number": "93165-22-1 - Bhringaraj extract",
+    "einecs_number": "296-907-6",
+    "description": "Eclipta Prostrata Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [
+      "Classic shampoo (0.16%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Echium Plantagineum Seed Oil",
+    "inci_name": "ECHIUM PLANTAGINEUM SEED OIL",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Echium Plantagineum Seed Oil — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Solvent"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [
+      "Adult sun cream (0.32%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Ecklonia Radiata Extract",
+    "inci_name": "ECKLONIA RADIATA EXTRACT",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Ecklonia Radiata Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [
+      "Hair conditioner (1.19%)",
+      "Classic shampoo (0.72%)",
+      "Hair mask (0.56%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Edta",
+    "inci_name": "EDTA",
+    "cas_number": "60-00-4 - Ethylenediaminetetraacetic acid",
+    "einecs_number": "200-449-4",
+    "description": "EDTA (EDTA and its main salts used in Disodium EDTA cosmetics, Tetrasodium EDTA, Trisodium EDTA) is a chelating agent that has been used since the 1930s and for which industrialists have complete control of processing and use. Its main property is to complex heavy metals. That is to say, it will somehow neutralize them by forming with them a complex, then serve them as carriers and evacuate them. It is therefore quite logically used in medicine to fight against heavy metal poisoning (lead for example).It is often used as a sequestrant (calcium, limestone ...) in soaps or shower gels, this allows to manage the \"hard\" water.The ingredient does not pose a problem for human health but its impact on the environment is disastrous: it is not biodegradable and is extremely harmful to nature. The sewage treatment plants do not hold him back and let him run into our rivers! Charcoal filters in our drinking water are not more effective at stopping it (so we are re-treating EDTA / Iron complexes). The problem is finally that he carries with him heavy metals, whose final destination is unknown.EDTA and its salts are banned in organic.",
+    "rating": "caution",
+    "functions": [
+      "Chelating"
+    ],
+    "prevalence": "1.16% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (24.48%)",
+      "Baby cleaning wipes (3.28%)",
+      "Shampoo for colored/highlighted hair (2.57%)",
+      "Hair conditioner (2.27%)",
+      "Liquid soap (1.96%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Echinacea Purpurea Extract",
+    "inci_name": "ECHINACEA PURPUREA EXTRACT",
+    "cas_number": "90028-20-9 - Coneflower extract",
+    "einecs_number": "289-808-4",
+    "description": "Echinacea Purpurea Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Moisturising",
+      "Skin conditioning",
+      "Tonic"
+    ],
+    "prevalence": "0.12% косметических средств",
+    "common_product_types": [
+      "Adult toothpaste (0.89%)",
+      "Classic shampoo (0.17%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Egg",
+    "inci_name": "EGG",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Egg — косметический ингредиент. Происхождение: Animal.",
+    "rating": "neutral",
+    "functions": [
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Animal."
+  },
+  {
+    "name": "Elaeis Guineensis Kernel Oil",
+    "inci_name": "ELAEIS GUINEENSIS KERNEL OIL",
+    "cas_number": "8023-79-8 - Palm kernel oil",
+    "einecs_number": "232-425-4",
+    "description": "Elaeis Guineensis Kernel Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient"
+    ],
+    "prevalence": "0.1% косметических средств",
+    "common_product_types": [
+      "Deodorant stick (2.75%)",
+      "Solid soap (0.94%)",
+      "Liquid soap (0.56%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Emblica Officinalis Fruit",
+    "inci_name": "EMBLICA OFFICINALIS FRUIT",
+    "cas_number": "90028-28-7 - Amla",
+    "einecs_number": "289-817-3",
+    "description": "Emblica Officinalis Fruit — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Elaeis Guineensis Oil",
+    "inci_name": "ELAEIS GUINEENSIS OIL",
+    "cas_number": "8002-75-3 - Palm oil",
+    "einecs_number": "232-316-1",
+    "description": "Elaeis Guineensis Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient"
+    ],
+    "prevalence": "0.44% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (2.63%)",
+      "Hair oil (2.31%)",
+      "Solid soap (2.02%)",
+      "Body moisturizer (1.74%)",
+      "Gloss and lip gloss (1.31%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Elettaria Cardamomum Seed Oil",
+    "inci_name": "ELETTARIA CARDAMOMUM SEED OIL",
+    "cas_number": "8000-66-6 / 85940-32-5 - Cardamom seed oil",
+    "einecs_number": "- / 288-922-1",
+    "description": "Elettaria Cardamomum Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Tonic",
+      "Perfuming"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Emerald",
+    "inci_name": "EMERALD",
+    "cas_number": "12415-33-7",
+    "einecs_number": "",
+    "description": "Emerald — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Abrasive"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Enzymes",
+    "inci_name": "ENZYMES",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Enzymes are proteins used in detergents that can remove some difficult tasks (herbs, blood ...). They can come from different sources (not always indicated on the package), mainly we find: GMOs and others. GMO enzymes can persist on dry laundry and cause allergies. Enzymes that are not genetically modified are often used in ecological detergents and destroyed during washing.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Epilobium Angustifolium Flower/Leaf/Stem Extract",
+    "inci_name": "EPILOBIUM ANGUSTIFOLIUM FLOWER/LEAF/STEM EXTRACT",
+    "cas_number": "90028-31-2 - Willowherb extract (flower/leaf/stem)",
+    "einecs_number": "289-821-5",
+    "description": "Epilobium Angustifolium Flower/Leaf/Stem Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.1% косметических средств",
+    "common_product_types": [
+      "Fabric mask (1.13%)",
+      "Cream / gel mask (0.61%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Epoxidized Soybean Oil",
+    "inci_name": "EPOXIDIZED SOYBEAN OIL",
+    "cas_number": "8013-07-8",
+    "einecs_number": "232-391-0",
+    "description": "Epoxidized Soybean Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Plasticiser"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Epoxy Resin",
+    "inci_name": "EPOXY RESIN",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Epoxy Resin — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Equisetum Arvense Extract",
+    "inci_name": "EQUISETUM ARVENSE EXTRACT",
+    "cas_number": "71011-23-9 - Horsetail extract",
+    "einecs_number": "275-123-8",
+    "description": "Equisetum Arvense Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent",
+      "Emollient",
+      "Soothing",
+      "Tonic"
+    ],
+    "prevalence": "0.55% косметических средств",
+    "common_product_types": [
+      "Fall protection shampoo (3.51%)",
+      "Specific hair care (1.67%)",
+      "Anti-aging day face cream (1.44%)",
+      "Hair conditioner (1.35%)",
+      "Classic shampoo (1.35%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Equisetum Arvense Leaf Extract",
+    "inci_name": "EQUISETUM ARVENSE LEAF EXTRACT",
+    "cas_number": "71011-23-9 - Horsetail leaf extract",
+    "einecs_number": "275-123-8",
+    "description": "Equisetum Arvense Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent",
+      "Emollient",
+      "Soothing",
+      "Tonic"
+    ],
+    "prevalence": "0.14% косметических средств",
+    "common_product_types": [
+      "Fall protection shampoo (3.59%)",
+      "Hair conditioner (0.52%)",
+      "Classic shampoo (0.49%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Erigeron Canadensis Flower Extract",
+    "inci_name": "ERIGERON CANADENSIS FLOWER EXTRACT",
+    "cas_number": "85166-76-3",
+    "einecs_number": "285-528-1",
+    "description": "Erigeron Canadensis Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant",
+      "Astringent",
+      "Emollient"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Erythritol",
+    "inci_name": "ERYTHRITOL",
+    "cas_number": "7541-59-5; 149-32-6",
+    "einecs_number": "231-418-3; 205-737-3",
+    "description": "Erythritol — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Humectant",
+      "Moisturising",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.45% косметических средств",
+    "common_product_types": [
+      "Solid shampoo (4.7%)",
+      "Fabric mask (4.62%)",
+      "Face moisturizing serum (1.49%)",
+      "Adult toothpaste (1.2%)",
+      "Classic shampoo (1.02%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Escin",
+    "inci_name": "ESCIN",
+    "cas_number": "6805-41-0",
+    "einecs_number": "229-880-6",
+    "description": "Escin is obtained from the seeds of horse chestnut. It is used for its toning properties and creates a pleasant sensation on the skin. It is allowed in organic.",
+    "rating": "safe",
+    "functions": [
+      "Tonic"
+    ],
+    "prevalence": "0.19% косметических средств",
+    "common_product_types": [
+      "Cellulite cream/gel/oil (13.41%)",
+      "Diet and slimming (10.78%)",
+      "Anti-aging eye contour care (4.09%)",
+      "Eye contour care (3.65%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Esculin",
+    "inci_name": "ESCULIN",
+    "cas_number": "531-75-9",
+    "einecs_number": "208-517-5",
+    "description": "Esculin is a coumarin extracted from the bark of horse chestnut (Aesculus hippocastanum). It is used in cosmetics for its antioxidant and toning properties.",
+    "rating": "safe",
+    "functions": [
+      "Stabilising",
+      "Tonic"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Ester Methilique De Colza",
+    "inci_name": "ESTER METHILIQUE DE COLZA",
+    "cas_number": "85586-25-0",
+    "einecs_number": "",
+    "description": "Rapeseed methyl ester is a mixture of methyl ester composed of C16 to C22 saturated and unsaturated fatty acids. Technically, rapeseed methyl ester is produced by chemical conversion of rapeseed oil, using methanol. It can be used as biofuel.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Enteromorpha Compressa Extract",
+    "inci_name": "ENTEROMORPHA COMPRESSA EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Enteromorpha Compressa Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin protecting"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [
+      "Body moisturizer (0.2%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Enantia Chlorantha Bark Extract",
+    "inci_name": "ENANTIA CHLORANTHA BARK EXTRACT",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Enantia Chlorantha Bark Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [
+      "Foundation (0.48%)",
+      "Face cream (0.46%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Emblica Officinalis Fruit Powder",
+    "inci_name": "EMBLICA OFFICINALIS FRUIT POWDER",
+    "cas_number": "90028-28-7 - Amla fruit powder",
+    "einecs_number": "289-817-3",
+    "description": "Emblica Officinalis Fruit Powder — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Hair conditioning"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [
+      "Vegetal hair color (19.53%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Emblica Officinalis Fruit Extract",
+    "inci_name": "EMBLICA OFFICINALIS FRUIT EXTRACT",
+    "cas_number": "90028-28-7 - Indian Grossberry extract",
+    "einecs_number": "289-817-3",
+    "description": "Emblica Officinalis Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.11% косметических средств",
+    "common_product_types": [
+      "Vegetal hair color (11.11%)",
+      "Hair oil (1.83%)",
+      "Specific hair care (0.56%)",
+      "Hair conditioner (0.34%)",
+      "Classic shampoo (0.31%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Ethanolamine",
+    "inci_name": "ETHANOLAMINE",
+    "cas_number": "141-43-5",
+    "einecs_number": "205-483-3",
+    "description": "Ethanolamine or also called Monoethanolamine (MEA) is a colorless liquid used mainly in hair coloring \"ammonia-free\" to replace it. It thus favors the opening of the scales of the cuticle before any permanent coloring. Ethanolamine is nevertheless manufactured from ethylene oxide and ammonia. MEA is a potential irritant / allergen for mucous membranes and skin",
+    "rating": "caution",
+    "functions": [
+      "pH regulator"
+    ],
+    "prevalence": "0.98% косметических средств",
+    "common_product_types": [
+      "Men's hair colouring (84.55%)",
+      "Oxidative hair coloring (59.16%)",
+      "Specific hair care (0.59%)",
+      "Classic shampoo (0.14%)"
+    ],
+    "note": "Требует осторожности при использовании. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Estratetraenol",
+    "inci_name": "ESTRATETRAENOL",
+    "cas_number": "1150-90-9",
+    "einecs_number": "-",
+    "description": "Estratetraenol — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Ethoxydiglycol",
+    "inci_name": "ETHOXYDIGLYCOL",
+    "cas_number": "111-90-0",
+    "einecs_number": "203-919-7",
+    "description": "Ethoxydiglycol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Humectant",
+      "Solvent",
+      "Perfuming"
+    ],
+    "prevalence": "0.43% косметических средств",
+    "common_product_types": [
+      "Self-tanner (10.76%)",
+      "Oxidative hair coloring (2.63%)",
+      "Face moisturizing serum (1.54%)",
+      "Day anti-ageing face serum (1.06%)",
+      "Specific hair care (0.79%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Ethoxyethanol",
+    "inci_name": "ETHOXYETHANOL",
+    "cas_number": "110-80-5",
+    "einecs_number": "203-804-1",
+    "description": "Ethoxyethanol — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "avoid",
+    "functions": [
+      "Solvent",
+      "Viscosity controlling"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Ethyl Acetate",
+    "inci_name": "ETHYL ACETATE",
+    "cas_number": "141-78-6",
+    "einecs_number": "205-500-4",
+    "description": "Ethyl acetate is a solvent widely used in nail polish and solvents. It is used for its ability to dissolve other substances, including nitrocellulose, or film-forming materials found in nail polish.It is a colorless liquid with a sweet smell (smell of fruit). It is also found in many flavors thanks to its ability to evaporate quickly on the skin. It does not usually make any issue. It is forbidden in organic.",
+    "rating": "safe",
+    "functions": [
+      "Solvent",
+      "Perfuming"
+    ],
+    "prevalence": "1.81% косметических средств",
+    "common_product_types": [
+      "Nail polish (91.6%)",
+      "Top coat (87.25%)",
+      "Nail hardener (83.77%)",
+      "Varnish base (82.17%)",
+      "Nail polish remover (49.39%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Synthetic."
+  },
+  {
+    "name": "Ethyl Ether",
+    "inci_name": "ETHYL ETHER",
+    "cas_number": "60-29-7",
+    "einecs_number": "200-467-2",
+    "description": "Ethyl Ether — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Solvent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Estradiol",
+    "inci_name": "ESTRADIOL",
+    "cas_number": "50-28-2",
+    "einecs_number": "200-023-8",
+    "description": "Estradiol — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Ethyl Perfluoroisobutyl Ether",
+    "inci_name": "ETHYL PERFLUOROISOBUTYL ETHER",
+    "cas_number": "163702-06-5",
+    "einecs_number": "",
+    "description": "Ethyl Perfluoroisobutyl Ether — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Solvent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Ethyl Pyrrolidone",
+    "inci_name": "ETHYL PYRROLIDONE",
+    "cas_number": "2687-91-4",
+    "einecs_number": "220-250-6",
+    "description": "Ethyl Pyrrolidone — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Solvent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Ethyl Acrylate",
+    "inci_name": "ETHYL ACRYLATE",
+    "cas_number": "140-88-5",
+    "einecs_number": "205-438-8",
+    "description": "Ethyl Acrylate — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Plasticiser"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Ethyl Vanillin",
+    "inci_name": "ETHYL VANILLIN",
+    "cas_number": "121-32-4",
+    "einecs_number": "204-464-7",
+    "description": "Ethyl Vanillin — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Soothing"
+    ],
+    "prevalence": "0.3% косметических средств",
+    "common_product_types": [
+      "Lipstick (7.6%)",
+      "Gloss and lip gloss (7.14%)",
+      "Tinted lip balm (5.17%)",
+      "Lip balm (1.88%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Ethyl Lauroyl Arginate Hcl",
+    "inci_name": "ETHYL LAUROYL ARGINATE HCL",
+    "cas_number": "60372-77-2",
+    "einecs_number": "434-630-6",
+    "description": "Ethyl Lauroyl Arginate Hcl — косметический ингредиент. Происхождение: Natural.",
+    "rating": "neutral",
+    "functions": [
+      "Anti dandruff",
+      "Hair conditioning",
+      "Preservative",
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "0.1% косметических средств",
+    "common_product_types": [
+      "Micellar water (1.71%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Natural."
+  },
+  {
+    "name": "Ethyl Benzoate",
+    "inci_name": "ETHYL BENZOATE",
+    "cas_number": "93-89-0",
+    "einecs_number": "202-284-3",
+    "description": "Ethyl Benzoate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Preservative"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Ethyl Perfluorobutyl Ether",
+    "inci_name": "ETHYL PERFLUOROBUTYL ETHER",
+    "cas_number": "163702-05-4",
+    "einecs_number": "",
+    "description": "Ethyl Perfluorobutyl Ether — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Solvent"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Ethylene/Propylene Copolymer",
+    "inci_name": "ETHYLENE/PROPYLENE COPOLYMER",
+    "cas_number": "9010-79-1",
+    "einecs_number": "",
+    "description": "Ethylene/Propylene Copolymer — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Abrasive",
+      "Bulking",
+      "Film forming"
+    ],
+    "prevalence": "0.27% косметических средств",
+    "common_product_types": [
+      "Eyes and kohl pencil (7.75%)",
+      "Eyeliner and kajal (7.24%)",
+      "Eyebrow pencil (6.72%)",
+      "Lipstick (5.75%)",
+      "Lip pencil (1.98%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Ethylene/Propylene/Styrene Copolymer",
+    "inci_name": "ETHYLENE/PROPYLENE/STYRENE COPOLYMER",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Ethylene/Propylene/Styrene Copolymer — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.37% косметических средств",
+    "common_product_types": [
+      "Gloss and lip gloss (13.96%)",
+      "Lip oil (10.77%)",
+      "Specific care for lips (10.2%)",
+      "Lipstick (3.69%)",
+      "Illuminators and complexion illuminator (1.91%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Ethylcellulose",
+    "inci_name": "ETHYLCELLULOSE",
+    "cas_number": "9004-57-3",
+    "einecs_number": "-",
+    "description": "Ethylcellulose — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Binding agent",
+      "Film forming",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.19% косметических средств",
+    "common_product_types": [
+      "Lacquer and lip ink (12.86%)",
+      "Eyebrow pencil (6.13%)",
+      "Gloss and lip gloss (2.11%)",
+      "Nail polish (1.22%)",
+      "Lipstick (0.82%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Ethylhexyl Ethylhexanoate",
+    "inci_name": "ETHYLHEXYL ETHYLHEXANOATE",
+    "cas_number": "7425-14-1",
+    "einecs_number": "231-057-1",
+    "description": "Ethylhexyl Ethylhexanoate — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Emollient",
+      "Masking"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Ethyl Tosylamide",
+    "inci_name": "ETHYL TOSYLAMIDE",
+    "cas_number": "80-39-7 / 1077-56-1",
+    "einecs_number": "201-275-1 / 214-073-3",
+    "description": "Ethyl Tosylamide — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Film forming",
+      "Plasticiser"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [
+      "Nail polish (5.69%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Ethylhexyl Polyhydroxystearate",
+    "inci_name": "ETHYLHEXYL POLYHYDROXYSTEARATE",
+    "cas_number": "1423155-00-3",
+    "einecs_number": "-",
+    "description": "Ethylhexyl Polyhydroxystearate — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Ethylhexyl Salicylate",
+    "inci_name": "ETHYLHEXYL SALICYLATE",
+    "cas_number": "118-60-5",
+    "einecs_number": "204-263-4",
+    "description": "Ethylhexyl Salicylate is a synthetic UVB filter. It absorbs UVB radiation (from 280 to 320 nm).",
+    "rating": "caution",
+    "functions": [
+      "Stabilising",
+      "Uv absorber",
+      "Uv filter"
+    ],
+    "prevalence": "3.36% косметических средств",
+    "common_product_types": [
+      "Children sun cream (56.25%)",
+      "Anti-ageing sun cream (51.72%)",
+      "Adult sun cream (51.29%)",
+      "Perfume set for men (42.81%)",
+      "Men's cologne (37.94%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Ethylenediamine",
+    "inci_name": "ETHYLENEDIAMINE",
+    "cas_number": "107-15-3",
+    "einecs_number": "203-468-6",
+    "description": "Ethylenediamine — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "avoid",
+    "functions": [
+      "Unclassified"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Ethylhexyl Dimethyl Paba",
+    "inci_name": "ETHYLHEXYL DIMETHYL PABA",
+    "cas_number": "21245-02-3",
+    "einecs_number": "244-289-3",
+    "description": "Ethylhexyl Dimethyl PABA is a chemical sunscreen authorized for use in cosmetics in Europe. It protects against UVB rays. Because of the way it is produced, it is associated with an orange flower on our application.",
+    "rating": "caution",
+    "functions": [
+      "Stabilising",
+      "Uv absorber",
+      "Uv filter"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [
+      "Adult sun cream (0.44%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Ethylhexyl Methoxycinnamate",
+    "inci_name": "ETHYLHEXYL METHOXYCINNAMATE",
+    "cas_number": "5466-77-3/83834-59-7 (trans-)",
+    "einecs_number": "226-775-7/ 629-661-9",
+    "description": "Ethylhexyl methoxycinnamate (octinoxate) is a chemical UVB filter (280 to 320 nm) used in sunscreens. It is suspected of being an endocrine disruptor for humans and aquatic life. It is notably implicated in the bleaching of coral reefs.",
+    "rating": "avoid",
+    "functions": [
+      "Stabilising",
+      "Uv absorber",
+      "Uv filter"
+    ],
+    "prevalence": "4.22% косметических средств",
+    "common_product_types": [
+      "Perfume set for men (59.25%)",
+      "Men's cologne (57.21%)",
+      "Eau de toilette for women (46.93%)",
+      "Men's eau de cologne (45.5%)",
+      "Women fragrance set (43.76%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Ethylhexyl Triazone",
+    "inci_name": "ETHYLHEXYL TRIAZONE",
+    "cas_number": "88122-99-0",
+    "einecs_number": "402-070-1",
+    "description": "Ethylhexyl triazone (EHT) is an organic (chemical) UV filter used in sunscreens. It absorbs UVB rays (280 to 320 nm). Aside from its less-than-virtuous chemical transformation, the ingredient is considered biodegradable (soluble) and poses no known problems once released into the environment.",
+    "rating": "caution",
+    "functions": [
+      "Stabilising",
+      "Uv absorber",
+      "Uv filter"
+    ],
+    "prevalence": "1.57% косметических средств",
+    "common_product_types": [
+      "Anti-ageing sun cream (65.52%)",
+      "Children sun cream (52.55%)",
+      "Adult sun cream (48.24%)",
+      "Sunscreen lip balm (35.95%)",
+      "Cc cream (13.51%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Ethylhexyl Palmitate",
+    "inci_name": "ETHYLHEXYL PALMITATE",
+    "cas_number": "29806-73-3",
+    "einecs_number": "249-862-1",
+    "description": "Ethylhexyl palmitate (octyl palmitate) is an ingredient used in cosmetics as a solvent, carrier or perfume fixative. Its possible natural origin makes it a choice alternative to silicones, since it offers a similar texture and feel on skin or hair.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Perfuming"
+    ],
+    "prevalence": "4.17% косметических средств",
+    "common_product_types": [
+      "Make-up palette (52.67%)",
+      "Lip make-up set (50.94%)",
+      "Contouring (40.41%)",
+      "Lip oil (35.1%)",
+      "Make-up set (33.33%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Etidronic Acid",
+    "inci_name": "ETIDRONIC ACID",
+    "cas_number": "2809-21-4",
+    "einecs_number": "220-552-8",
+    "description": "Etidronic acid is used as a chelating agent in cosmetics. It creates complexes with calcium, arsenic, iron and other metal ions to neutralize them. This makes it possible to manage the use of slightly \"hard\" waters, which could interfere with the surfactants of the product for example. Chelators are often used in water softeners. This molecule does not pose any problems for human health, its disadvantage is that, like EDTA, it is very little biodegradable, and the complexes it forms with metals are found scattered in nature.",
+    "rating": "caution",
+    "functions": [
+      "Chelating"
+    ],
+    "prevalence": "0.83% косметических средств",
+    "common_product_types": [
+      "Men's hair colouring (59.35%)",
+      "Oxidizer and colour developer (45.21%)",
+      "Solid baby soap (29.05%)",
+      "Oxidative hair coloring (24.2%)",
+      "Solid soap (12.89%)"
+    ],
+    "note": "Требует осторожности при использовании. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Etocrylene",
+    "inci_name": "ETOCRYLENE",
+    "cas_number": "5232-99-5",
+    "einecs_number": "226-029-0",
+    "description": "Etocrylene — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Uv absorber"
+    ],
+    "prevalence": "0.23% косметических средств",
+    "common_product_types": [
+      "Top coat (22.64%)",
+      "Varnish base (22.28%)",
+      "Nail polish (12.46%)",
+      "Nail care and treatments (11.68%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Ethylparaben",
+    "inci_name": "ETHYLPARABEN",
+    "cas_number": "120-47-8",
+    "einecs_number": "204-399-4",
+    "description": "Ethylparaben is an ethyl ester of para-hydroxybenzoic acid used in cosmetics as a preservative. This ingredient has been suspected for several years of being an endocrine disruptor. Although it has been withdrawn in 2022 from the substances to be assessed in Europe by CORAP, in 2023 the Dutch RIVM (National Institute for Public Health and the Environment) recommends further research into exposure to multiple products containing Butylparaben and the potential danger of exposure to a combination of different parabens.Serious uncertainties therefore still exist about the safety of parabens in cosmetics, and insofar as it is possible to do otherwise, following the precautionary principle, ethylparaben is associated with a red flower on our application.",
+    "rating": "avoid",
+    "functions": [
+      "Masking",
+      "Preservative"
+    ],
+    "prevalence": "1.55% косметических средств",
+    "common_product_types": [
+      "Styling hair wax (9.16%)",
+      "Styling cream (4.96%)",
+      "Feet moisturizers (4.79%)",
+      "Oxidative hair coloring (4.35%)",
+      "Cleansing milk (4.23%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Eucalyptus Globulus Leaf Extract",
+    "inci_name": "EUCALYPTUS GLOBULUS LEAF EXTRACT",
+    "cas_number": "84625-32-1 - Eucalyptus leaf extract",
+    "einecs_number": "283-406-2",
+    "description": "Eucalyptus Globulus Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "0.24% косметических средств",
+    "common_product_types": [
+      "Anti-dandruff shampoo (2.49%)",
+      "Fabric mask (0.78%)",
+      "Shower gel (0.43%)",
+      "Classic shampoo (0.42%)",
+      "Body moisturizer (0.28%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Ethylhexyl Stearate",
+    "inci_name": "ETHYLHEXYL STEARATE",
+    "cas_number": "22047-49-0",
+    "einecs_number": "244-754-0",
+    "description": "Ethylhexyl stearate is an ester of stearic acid and octyl alcohol. It is widely used in the cosmetics and skincare industry for its emollient, lubricating properties and light feel.",
+    "rating": "safe",
+    "functions": [
+      "Emollient"
+    ],
+    "prevalence": "1.65% косметических средств",
+    "common_product_types": [
+      "Feet moisturizers (12.79%)",
+      "After sun (11.79%)",
+      "Hand cream (9.08%)",
+      "Baby milk and moisturizer (8.1%)",
+      "Anti-aging night face cream (7.75%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Natural."
+  },
+  {
+    "name": "Ethylhexylglycerin",
+    "inci_name": "ETHYLHEXYLGLYCERIN",
+    "cas_number": "70445-33-9",
+    "einecs_number": "408-080-2",
+    "description": "Ethylhexylglycerin is made from glycerine, it is used in cosmetics as an emollient humectant, it improves the skin sensation of cosmetic formulations. It is also used in deodorants as an active ingredient, it inhibits the growth and multiplication of odor-causing bacteria, while not affecting skin flora. Although it is banned in organic, because of its manufacturing process, however, it does not break any particular concerns.",
+    "rating": "safe",
+    "functions": [
+      "Deodorant",
+      "Skin conditioning"
+    ],
+    "prevalence": "18.29% косметических средств",
+    "common_product_types": [
+      "Exfoliating pads (64.24%)",
+      "Anti-aging set (52.52%)",
+      "Cc cream (52.16%)",
+      "Anti-ageing neck and décolleté cream (50%)",
+      "Fabric mask (48.28%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Synthetic."
+  },
+  {
+    "name": "Eucalyptus Radiata Leaf/Stem Oil",
+    "inci_name": "EUCALYPTUS RADIATA LEAF/STEM OIL",
+    "cas_number": "92201-64-4 - Eucalyptus Radiate oil (Leaf/stem)",
+    "einecs_number": "295-995-3",
+    "description": "Eucalyptus Radiata Leaf/Stem Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Perfuming"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Eucalyptus Staigeriana Branch/Leaf Oil",
+    "inci_name": "EUCALYPTUS STAIGERIANA BRANCH/LEAF OIL",
+    "cas_number": "1627700-32-6",
+    "einecs_number": "",
+    "description": "Eucalyptus Staigeriana Branch/Leaf Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Eugenia Caryophyllus Bud Extract",
+    "inci_name": "EUGENIA CARYOPHYLLUS BUD EXTRACT",
+    "cas_number": "84961-50-2 - Clove extract",
+    "einecs_number": "284-638-7",
+    "description": "Eugenia Caryophyllus Bud Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Eugenia Caryophyllus Bud Oil",
+    "inci_name": "EUGENIA CARYOPHYLLUS BUD OIL",
+    "cas_number": "84961-50-2 - Clove bud oil",
+    "einecs_number": "284-638-7",
+    "description": "Eugenia Caryophyllus Bud Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Perfuming"
+    ],
+    "prevalence": "0.13% косметических средств",
+    "common_product_types": [
+      "Drugstore (1.89%)",
+      "Adult toothpaste (0.89%)",
+      "Solid soap (0.41%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Eucalyptus Globulus Leaf Oil",
+    "inci_name": "EUCALYPTUS GLOBULUS LEAF OIL",
+    "cas_number": "8000-48-4 / 84625-32-1 - Eucalyptus oil",
+    "einecs_number": "- / 283-406-2",
+    "description": "The Eucalyptus leaf has been used for hundreds of years in various remedies. For example, the plant is used in medicines to relieve the airways. In cosmetics, it is used for its flavor and antiseptic functions. It has recently been shown (Bachir, Selvakumar, 2012) that this oil may have an action in the anti-dandruff treatment of certain dandruff like Malassezia furfur. It is also effective against lice (pediculus humanus) by destroying the slow ones.It would take a whole treatise, to treat all the known benefits of this plant, however, the essential oil that contains it in pure form can be problematic, containing for example terpenes (volatile VOCs). Cineole, which is included, can also cause neuronal toxicity and convulsions at high doses.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "0.78% косметических средств",
+    "common_product_types": [
+      "Massage (7.25%)",
+      "Foaming bath and bath salts (4.46%)",
+      "Feet moisturizers (3.81%)",
+      "Drugstore (3.59%)",
+      "Essential oil (3.3%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Eugenia Caryophyllus Flower Oil",
+    "inci_name": "EUGENIA CARYOPHYLLUS FLOWER OIL",
+    "cas_number": "8000-34-8 / 84961-50-2 - Clove flower oil",
+    "einecs_number": "- / 284-638-7",
+    "description": "Eugenia Caryophyllus Flower Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.12% косметических средств",
+    "common_product_types": [
+      "Adult toothpaste (0.95%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Eucalyptus Globulus Leaf/Twig Oil",
+    "inci_name": "EUCALYPTUS GLOBULUS LEAF/TWIG OIL",
+    "cas_number": "84625-32-1 - Blue gum oil (leaf/twig)",
+    "einecs_number": "283-406-2",
+    "description": "Eucalyptus Globulus Leaf/Twig Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Perfuming"
+    ],
+    "prevalence": "0.16% косметических средств",
+    "common_product_types": [
+      "Adult toothpaste (1.36%)",
+      "Deodorant spray (0.64%)",
+      "Solid soap (0.37%)",
+      "Classic shampoo (0.15%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Eugenia Caryophyllus Stem Oil",
+    "inci_name": "EUGENIA CARYOPHYLLUS STEM OIL",
+    "cas_number": "84961-50-2",
+    "einecs_number": "284-638-7",
+    "description": "Eugenia Caryophyllus Stem Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Eugenia Caryophyllus Leaf Oil",
+    "inci_name": "EUGENIA CARYOPHYLLUS LEAF OIL",
+    "cas_number": "8015-97-2 / 8000-34-8 / 84961-50-2 - Clove Leaf Oil",
+    "einecs_number": "- / - / 284-638-7",
+    "description": "Eugenia Caryophyllus Leaf Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Skin conditioning",
+      "Tonic",
+      "Perfuming"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [
+      "Adult toothpaste (0.47%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Eucalyptus Citriodora Oil",
+    "inci_name": "EUCALYPTUS CITRIODORA OIL",
+    "cas_number": "8000-48-4 - Lemon Eucalyptus oil",
+    "einecs_number": "-",
+    "description": "Eucalyptus Citriodora Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Tonic"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [
+      "Drugstore (2.48%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Eugenol",
+    "inci_name": "EUGENOL",
+    "cas_number": "97-53-0",
+    "einecs_number": "202-589-1",
+    "description": "Eugenol is a naturally occurring phenolic aromatic compound found in cloves. It is used in the manufacture of vanillin and is used in cosmetics as a flavoring agent. It is used in dentistry as an analgesic and is used in surgical cements and certain dental pastes. It also has antiseptic properties; in the United States, for example, it is used as a pesticide, classified on the list of \"minimum risk pesticides.\" It is one of the allergens regulated by Europe.",
+    "rating": "neutral",
+    "functions": [
+      "Denaturant",
+      "Tonic",
+      "Perfuming"
+    ],
+    "prevalence": "4.57% косметических средств",
+    "common_product_types": [
+      "Eau de parfum for men (47.32%)",
+      "Mixed perfume water (41.91%)",
+      "Men's cologne (37.7%)",
+      "Men's eau de cologne (35.45%)",
+      "Perfume set for men (33.9%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Natural."
+  },
+  {
+    "name": "Euterpe Oleracea Fruit Extract",
+    "inci_name": "EUTERPE OLERACEA FRUIT EXTRACT",
+    "cas_number": "879496-95-4 (generic), 906351-38-0 (generic) - Acai berry",
+    "einecs_number": "",
+    "description": "Euterpe Oleracea Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.35% косметических средств",
+    "common_product_types": [
+      "Shampoo for colored/highlighted hair (2.09%)",
+      "Fabric mask (1.84%)",
+      "Cream / gel mask (1.13%)",
+      "Face moisturizing serum (1.01%)",
+      "Hair conditioner (0.93%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Euphrasia Officinalis Extract",
+    "inci_name": "EUPHRASIA OFFICINALIS EXTRACT",
+    "cas_number": "84625-36-5 - Eyebright extract",
+    "einecs_number": "283-410-4",
+    "description": "Euphrasia Officinalis Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antimicrobial",
+      "Astringent",
+      "Skin conditioning",
+      "Soothing",
+      "Tonic"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [
+      "Eye contour care (3.22%)",
+      "Anti-aging eye contour care (3.11%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Eugenyl Acetate",
+    "inci_name": "EUGENYL ACETATE",
+    "cas_number": "93-28-7",
+    "einecs_number": "202-235-6",
+    "description": "Eugenyl Acetate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Euterpe Oleracea Fruit Oil",
+    "inci_name": "EUTERPE OLERACEA FRUIT OIL",
+    "cas_number": "879496-95-4 ; 861902-11-6; 906351-38-0 - Acai oil",
+    "einecs_number": "",
+    "description": "Euterpe Oleracea Fruit Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.19% косметических средств",
+    "common_product_types": [
+      "Nail polish (2.47%)",
+      "Lipstick (0.7%)",
+      "Foundation (0.56%)",
+      "Body moisturizer (0.26%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Euphorbia Cerifera Cera",
+    "inci_name": "EUPHORBIA CERIFERA CERA",
+    "cas_number": "8006-44-8 - Candelilla wax",
+    "einecs_number": "232-347-0",
+    "description": "Euphorbia Cerifera Cera — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Astringent",
+      "Emulsion stabilising",
+      "Film forming",
+      "Skin conditioning",
+      "Viscosity controlling",
+      "Perfuming"
+    ],
+    "prevalence": "1.07% косметических средств",
+    "common_product_types": [
+      "Tinted lip balm (19.51%)",
+      "Lip pencil (14.63%)",
+      "Sunscreen lip balm (14.36%)",
+      "Lip balm (13.93%)",
+      "Make-up set (12.5%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Euterpe Oleracea Seed Powder",
+    "inci_name": "EUTERPE OLERACEA SEED POWDER",
+    "cas_number": "879496-95-4 ; 906351-38-0 - Acai berry powder",
+    "einecs_number": "",
+    "description": "Euterpe Oleracea Seed Powder — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Abrasive",
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Evernia Furfuracea Extract",
+    "inci_name": "EVERNIA FURFURACEA EXTRACT",
+    "cas_number": "90028-67-4 / 68648-41-9 / 68917-40-8 - Tree Mos extract",
+    "einecs_number": "289-860-8 / - / -",
+    "description": "This substance is a lichen that grows on the bark of trees. In cosmetics, it is used less and less. It is one of the 24 allergens regulated by Europe.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [
+      "Perfume for women (0.63%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Evernia Prunastri Extract",
+    "inci_name": "EVERNIA PRUNASTRI EXTRACT",
+    "cas_number": "90028-68-5 / 9000-50-4 / 68917-10-2 - Oakmoss extract",
+    "einecs_number": "289-861-3 / - / -",
+    "description": "This substance is a lichen which proliferates on the bark of trees and mainly on oaks. In cosmetics, \"Oak moss\" is used in particular in \"Cyprus\", a base for perfumes. It is one of the 24 allergens regulated by Europe.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.17% косметических средств",
+    "common_product_types": [
+      "Eau de parfum for men (5.83%)",
+      "Men's cologne (3.45%)",
+      "Eau de toilette for women (2.32%)",
+      "Perfume for women (1.65%)",
+      "Blush (1.32%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  }
+]

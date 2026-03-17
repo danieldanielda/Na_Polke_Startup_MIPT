@@ -1,0 +1,1310 @@
+[
+  {
+    "name": "Gamma-Linolenic Acid",
+    "inci_name": "GAMMA-LINOLENIC ACID",
+    "cas_number": "506-26-3",
+    "einecs_number": "",
+    "description": "Gamma-Linolenic Acid — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Unclassified"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Gallic Acid",
+    "inci_name": "GALLIC ACID",
+    "cas_number": "149-91-7",
+    "einecs_number": "205-749-9",
+    "description": "Gallic Acid — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Gamma-Terpinene",
+    "inci_name": "GAMMA-TERPINENE",
+    "cas_number": "99-85-4",
+    "einecs_number": "202-794-6",
+    "description": "Gamma-Terpinene — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Galactoarabinan",
+    "inci_name": "GALACTOARABINAN",
+    "cas_number": "9036-66-2",
+    "einecs_number": "232-910-0",
+    "description": "Galactoarabinan, often referred to as GA, is a polysaccharide extracted from western larch. It facilitates the distribution of ingredients in a product, so it is often found in solar products, it improves the SPF. Studies havealso shown that it can minimize fine lines, act as a gentle exfoliator and prevent moisture loss. It is a good moisturizing ingredient for the skin",
+    "rating": "safe",
+    "functions": [
+      "Film forming"
+    ],
+    "prevalence": "0.29% косметических средств",
+    "common_product_types": [
+      "Children sun cream (9.61%)",
+      "Eyebrow mascara and gel (5.87%)",
+      "Mascara (5.68%)",
+      "Adult sun cream (3.58%)",
+      "Foundation (0.83%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Garcinia Mangostana Fruit Extract",
+    "inci_name": "GARCINIA MANGOSTANA FRUIT EXTRACT",
+    "cas_number": "90045-25-3 - Mangosteen fruit extract",
+    "einecs_number": "289-884-9",
+    "description": "Garcinia Mangostana Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Gardenia Jasminoides Flower Extract",
+    "inci_name": "GARDENIA JASMINOIDES FLOWER EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Gardenia Jasminoides Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Garcinia Mangostana Seed Oil",
+    "inci_name": "GARCINIA MANGOSTANA SEED OIL",
+    "cas_number": "90045-25-3 - Mangosteen seed oil",
+    "einecs_number": "289-884-9",
+    "description": "Garcinia Mangostana Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Gardenia Jasminoides Fruit Extract",
+    "inci_name": "GARDENIA JASMINOIDES FRUIT EXTRACT",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Gardenia Jasminoides Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Cosmetic colorant"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Gardenia Tahitensis Flower",
+    "inci_name": "GARDENIA TAHITENSIS FLOWER",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Gardenia Tahitensis Flower — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.24% косметических средств",
+    "common_product_types": [
+      "Tanning oil (13.24%)",
+      "Hair oil (2.18%)",
+      "Body and face moisturizing oil (1.48%)",
+      "Oxidative hair coloring (1.23%)",
+      "Mascara (1.06%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Gardenia Florida Fruit Extract",
+    "inci_name": "GARDENIA FLORIDA FRUIT EXTRACT",
+    "cas_number": "92457-01-7 - Cape jasmine fruit extract",
+    "einecs_number": "296-280-9",
+    "description": "Gardenia Florida Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.1% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Gelidium Cartilagineum Extract",
+    "inci_name": "GELIDIUM CARTILAGINEUM EXTRACT",
+    "cas_number": "94945-01-4",
+    "einecs_number": "305-680-5",
+    "description": "Gelidium Cartilagineum Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin protecting"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [
+      "Fabric mask (0.56%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Geranial",
+    "inci_name": "GERANIAL",
+    "cas_number": "141-27-5",
+    "einecs_number": "205-476-5",
+    "description": "Geranial — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Geraniol",
+    "inci_name": "GERANIOL",
+    "cas_number": "106-24-1",
+    "einecs_number": "203-377-1",
+    "description": "Geraniol, also known as rhodinol, is a monoterpene alcohol that is one of the allergens regulated by Europe. It is found in geranium and lemongrass essential oils, as well as rose and palmarosa oils. It is used in perfumery for its rose scent.",
+    "rating": "neutral",
+    "functions": [
+      "Tonic",
+      "Perfuming"
+    ],
+    "prevalence": "14.78% косметических средств",
+    "common_product_types": [
+      "Eau de parfum for men (83.71%)",
+      "Eau fraîche for women (79.43%)",
+      "Perfume set for men (78.77%)",
+      "Perfume for women (78.1%)",
+      "Eau de toilette for women (77.66%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Natural."
+  },
+  {
+    "name": "Geranium Maculatum Oil",
+    "inci_name": "GERANIUM MACULATUM OIL",
+    "cas_number": "84650-10-2 - Geranium oil",
+    "einecs_number": "283-491-6",
+    "description": "Geranium Maculatum Oil — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Tonic"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Geranyl Acetate",
+    "inci_name": "GERANYL ACETATE",
+    "cas_number": "105-87-3",
+    "einecs_number": "203-341-5",
+    "description": "Geranyl acetate is an aromatic compound found in many essential oils, such as citronella, palmarosa, lemongrass, and coriander. With its floral and fruity (rose) scent, it is one of the allergens regulated in Europe.",
+    "rating": "neutral",
+    "functions": [
+      "Tonic",
+      "Perfuming"
+    ],
+    "prevalence": "0.59% косметических средств",
+    "common_product_types": [
+      "Eau de parfum for men (4.99%)",
+      "Scented mist for women (4.65%)",
+      "Perfume for women (4.29%)",
+      "Eau de toilette for women (3.14%)",
+      "Roll-on deodorant (2.75%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Natural."
+  },
+  {
+    "name": "Ginkgo Biloba Leaf Extract",
+    "inci_name": "GINKGO BILOBA LEAF EXTRACT",
+    "cas_number": "90045-36-6 - Ginkgo leaf extract",
+    "einecs_number": "289-896-4",
+    "description": "Ginkgo Biloba Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.44% косметических средств",
+    "common_product_types": [
+      "Fall protection shampoo (3.51%)",
+      "Self-tanner (3.46%)",
+      "Eye contour care (2.09%)",
+      "Day anti-ageing face serum (1.22%)",
+      "Fabric mask (1.06%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Gluconolactone",
+    "inci_name": "GLUCONOLACTONE",
+    "cas_number": "90-80-2",
+    "einecs_number": "202-016-5",
+    "description": "Gluconolactone — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Chelating",
+      "Skin conditioning"
+    ],
+    "prevalence": "1.4% косметических средств",
+    "common_product_types": [
+      "Exfoliating pads (27.81%)",
+      "Anti-blemish cleanser (6.5%)",
+      "Cleansing wipes (6.35%)",
+      "Anti-hair loss treatment (5.99%)",
+      "Anti-blemish serum (5.52%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Glucose",
+    "inci_name": "GLUCOSE",
+    "cas_number": "50-99-7",
+    "einecs_number": "200-075-1",
+    "description": "Glucose is a simple sugar that is in the form of a white solid crystal or in aqueous solution. It is naturally produced by plants during photosynthesis. It is used in many cosmetic products for its power of water retention (humectant). It is authorized in organic.",
+    "rating": "safe",
+    "functions": [
+      "Humectant"
+    ],
+    "prevalence": "1.84% косметических средств",
+    "common_product_types": [
+      "Mask / patch (12.44%)",
+      "Care set (7.31%)",
+      "Fabric mask (6.11%)",
+      "Face cream (6.06%)",
+      "Anti-aging day face cream (5.79%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Glutamic Acid",
+    "inci_name": "GLUTAMIC ACID",
+    "cas_number": "56-86-0",
+    "einecs_number": "200-293-7",
+    "description": "Glutamic Acid — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Hair conditioning",
+      "Humectant"
+    ],
+    "prevalence": "0.74% косметических средств",
+    "common_product_types": [
+      "Hair straightening (9.79%)",
+      "Hair conditioner (4.32%)",
+      "Hair mask (3.55%)",
+      "Care for dry and damaged hair (3.47%)",
+      "Specific hair care (2.55%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Synthetic."
+  },
+  {
+    "name": "Glutaral",
+    "inci_name": "GLUTARAL",
+    "cas_number": "111-30-8",
+    "einecs_number": "203-856-5",
+    "description": "Glutaral — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Masking",
+      "Preservative"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Glycereth-26",
+    "inci_name": "GLYCERETH-26",
+    "cas_number": "31694-55-0",
+    "einecs_number": "-",
+    "description": "Glycereth-26 — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Humectant",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.61% косметических средств",
+    "common_product_types": [
+      "Fabric mask (8.97%)",
+      "Face moisturizing serum (3.8%)",
+      "Anti-blemish serum (2.9%)",
+      "Day anti-ageing face serum (2.35%)",
+      "Cream / gel mask (2.28%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Genistein",
+    "inci_name": "GENISTEIN",
+    "cas_number": "446-72-0",
+    "einecs_number": "207-174-9",
+    "description": "Genistein — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Gaultheria Procumbens Leaf Oil",
+    "inci_name": "GAULTHERIA PROCUMBENS LEAF OIL",
+    "cas_number": "90045-28-6 - Wintergreen leaf oil",
+    "einecs_number": "289-888-0",
+    "description": "Gaultheria Procumbens Leaf Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Perfuming"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [
+      "Massage (5.12%)",
+      "Drugstore (2.16%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Gardenia Tahitensis Flower Extract",
+    "inci_name": "GARDENIA TAHITENSIS FLOWER EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Gardenia Tahitensis Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.38% косметических средств",
+    "common_product_types": [
+      "Milking grease (60.22%)",
+      "Tanning oil (21.08%)",
+      "After sun (4.09%)",
+      "Body and face moisturizing oil (2.7%)",
+      "Hair oil (2.25%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Gentiana Lutea Root Extract",
+    "inci_name": "GENTIANA LUTEA ROOT EXTRACT",
+    "cas_number": "72968-42-4 / 97676-22-7 - Gentian root extract",
+    "einecs_number": "277-139-0 / -",
+    "description": "Gentiana Lutea Root Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "0.11% косметических средств",
+    "common_product_types": [
+      "Fabric mask (0.72%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Glyceryl Betaine/Polyacrylic Acid Esters",
+    "inci_name": "GLYCERYL BETAINE/POLYACRYLIC ACID ESTERS",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Glyceryl Betaine/Polyacrylic Acid Esters — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Humectant",
+      "Skin conditioning",
+      "Viscosity controlling"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Glyceryl Acrylate/Acrylic Acid Copolymer",
+    "inci_name": "GLYCERYL ACRYLATE/ACRYLIC ACID COPOLYMER",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Glyceryl Acrylate/Acrylic Acid Copolymer — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Humectant",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.4% косметических средств",
+    "common_product_types": [
+      "Shaving gel (7.69%)",
+      "Fabric mask (5.93%)",
+      "Mask / patch (3.8%)",
+      "Face moisturizing serum (2.38%)",
+      "Eye contour care (2.02%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Glyceryl Caprylate",
+    "inci_name": "GLYCERYL CAPRYLATE",
+    "cas_number": "26402-26-6",
+    "einecs_number": "247-668-1",
+    "description": "Glyceryl caprylate is a monoester of glycerine with caprylic acid. It is mainly used as a co-emulsifier to stabilize O/W emulsions and surfactants. For its antimicrobial effects, it is most often used as a preservative, in the fight against acne to soften and moisturize. In some cases, its antimicrobial activity makes it possible to dispense with traditional preservatives.",
+    "rating": "safe",
+    "functions": [
+      "Deodorant",
+      "Emollient",
+      "Emulsifying"
+    ],
+    "prevalence": "3% косметических средств",
+    "common_product_types": [
+      "Baby cleansing milk (17.22%)",
+      "Care set (14.41%)",
+      "Baby milk and moisturizer (12.94%)",
+      "Bb cream (12.48%)",
+      "Eyes and kohl pencil (11.75%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Glyceryl Citrate Crosspolymer",
+    "inci_name": "GLYCERYL CITRATE CROSSPOLYMER",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "This polymer is obtained from glycerin and citric acid. It is easily biodegradable.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Glyceryl Linoleate",
+    "inci_name": "GLYCERYL LINOLEATE",
+    "cas_number": "26545-74-4(1)/ 37348-65-5(2)/ 2277-28-3(3)",
+    "einecs_number": "218-901-4 (1)/ 247-788-4 (2)",
+    "description": "Glyceryl Linoleate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Emulsifying",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.3% косметических средств",
+    "common_product_types": [
+      "Anti-aging day face cream (2.17%)",
+      "Eye contour care (1.45%)",
+      "Day anti-ageing face serum (1.37%)",
+      "Hair mask (1.36%)",
+      "Face cream (0.76%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Glycerin",
+    "inci_name": "GLYCERIN",
+    "cas_number": "56-81-5",
+    "einecs_number": "200-289-5",
+    "description": "Glycerol or glycerol is part of the family of polyalcohols, it can be produced synthetically from petroleum derivatives, or from animal or vegetable fats by saponification. It is in the form of a colorless liquid, hygroscopic (which absorbs moisture) and syrupy.Glycerine is used for its high moisturizing, occlusive (protects the skin of aggressions), emollient (smooth skin and hair) or humectant (allows a product to maintain its fluid appearance).It has been demonstrated (2005, Andersen) that it has anti-inflammatory power when incorporated into potentially irritating products, such as those using Sodium lauryl sulfate.",
+    "rating": "safe",
+    "functions": [
+      "Denaturant",
+      "Hair conditioning",
+      "Humectant",
+      "Oral care/hygiene agent",
+      "Skin conditioning",
+      "Skin protecting",
+      "Solvent",
+      "Viscosity controlling",
+      "Perfuming"
+    ],
+    "prevalence": "55.03% косметических средств",
+    "common_product_types": [
+      "Anti-aging night mask (96.32%)",
+      "Anti-aging set (95.68%)",
+      "Anti-aging night face cream (95.25%)",
+      "Anti-aging for men (95.2%)",
+      "Care set for men (95.08%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Glyceryl Rosinate",
+    "inci_name": "GLYCERYL ROSINATE",
+    "cas_number": "65997-13-9 / 8050-31-5",
+    "einecs_number": "266-042-9 / 232-482-5",
+    "description": "Glycerol rosinate is an ester of rosin and glycerol. Its high density allows it to keep oils suspended in water. Therefore, it is often used as a stabilizer in beverages and is quite common in chewing gum. In cosmetics, it is primarily used in wax for hair removal, mascaras, and lipsticks. It is permitted in organic/bio products.",
+    "rating": "neutral",
+    "functions": [
+      "Film forming",
+      "Perfuming"
+    ],
+    "prevalence": "0.22% косметических средств",
+    "common_product_types": [
+      "Roll-on wax (68.38%)",
+      "Pearl wax (68.04%)",
+      "Cold body wax strips (59.13%)",
+      "Pot wax (56.8%)",
+      "Cold wax strips for face (55.87%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Glyceryl Behenate",
+    "inci_name": "GLYCERYL BEHENATE",
+    "cas_number": "30233-64-8 / 6916-74-1",
+    "einecs_number": "250-097-0",
+    "description": "Glyceryl Behenate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Emulsifying"
+    ],
+    "prevalence": "0.53% косметических средств",
+    "common_product_types": [
+      "Mascara (8.41%)",
+      "Lip oil (6.64%)",
+      "Lip cream (5.58%)",
+      "Bb cream (3.38%)",
+      "Anti-aging night face cream (3%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Glyceryl Stearate",
+    "inci_name": "GLYCERYL STEARATE",
+    "cas_number": "31566-31-1",
+    "einecs_number": "250-705-4/286-490-9",
+    "description": "Glycerol stearate is used as a non-ionic emulsifier or emollient in cosmetic products. It is widely used in moisturizers and is also found in hair care products for its antistatic properties. It can be derived from palm, olive or rapeseed oil... It is  confirmed organic.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Emulsifying"
+    ],
+    "prevalence": "12.02% косметических средств",
+    "common_product_types": [
+      "Hand mask (55.26%)",
+      "Hand set (54.76%)",
+      "Mascara (47.98%)",
+      "Hand cream (47%)",
+      "Anti-ageing neck and décolleté cream (45.65%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Synthetic."
+  },
+  {
+    "name": "Glyceryl Laurate",
+    "inci_name": "GLYCERYL LAURATE",
+    "cas_number": "27215-38-4 / 142-18-7",
+    "einecs_number": "248-337-4 / 205-526-6",
+    "description": "Glyceryl Laurate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Emulsifying"
+    ],
+    "prevalence": "0.61% косметических средств",
+    "common_product_types": [
+      "Personal hygiene (3.88%)",
+      "Shampoo for colored/highlighted hair (3.14%)",
+      "Men shower gel (2.78%)",
+      "Shower gel (2.16%)",
+      "Deodorant stick (2.12%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Glyceryl Oleate",
+    "inci_name": "GLYCERYL OLEATE",
+    "cas_number": "25496-72-4 / 111-03-5",
+    "einecs_number": "247-038-6",
+    "description": "The glyceryl oleate is obtained from oils and fats of natural origin. It is a fatty acid ester that has softening and softening properties, it is used as a stabilizing agent in O / W (oil / water) type emulsions. Allowed in Bio.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Emulsifying",
+      "Perfuming"
+    ],
+    "prevalence": "4.2% косметических средств",
+    "common_product_types": [
+      "Shaving gel (36.75%)",
+      "Baby shower gel and cream (33.12%)",
+      "2-in-1 shampoo and body wash for baby (32.59%)",
+      "Body shaving gel and foam (31.67%)",
+      "Baby bubble bath (31.21%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Glyceryl Stearate Se",
+    "inci_name": "GLYCERYL STEARATE SE",
+    "cas_number": "11099-07-3",
+    "einecs_number": "234-325-6",
+    "description": "Glyceryl Stearate SE is a monoester of glycerine and stearic acid. The term “SE” designates a ‘Special’ grade that enhances the functions of classic “Glyceryl Stearate”. Of plant origin, it has a hydrophilic-lipophilic ratio (HLB) of 5 to 8 for creating water-in-oil emulsions. It emulsifies both aqueous and oily phases. It can also be used as a co-emulsifier, acting as a stabilizer and thickener in a wide range of cosmetics.",
+    "rating": "safe",
+    "functions": [
+      "Emulsifying"
+    ],
+    "prevalence": "2.44% косметических средств",
+    "common_product_types": [
+      "Anti-aging / anti-spot hand cream (19.56%)",
+      "Hand cream (15.7%)",
+      "Feet moisturizers (14.23%)",
+      "Oxidative hair coloring (12.33%)",
+      "Body moisturizer (11.1%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Glycine",
+    "inci_name": "GLYCINE",
+    "cas_number": "56-40-6",
+    "einecs_number": "200-272-2",
+    "description": "Glycine is a non-essential amino acid (produced by our bodies), not to be confused with its botanical namesake “Glycine Max”, which stands for soy, or with Glycine, a climbing plant common in our gardens, identified by its botanical name “Wisteria sinensis”,which have absolutely nothing to do with each other. In this case, glycine plays an essential role in protein synthesis, particularly that of our body's collagen. It is present in large quantities in the NMF (Natural Moisturizing Factors) of the skin. It can be used as a dietary supplement and in cosmetics, for its moisturizing, antioxidant and healing properties.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "pH regulator",
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "1.57% косметических средств",
+    "common_product_types": [
+      "Men's shampoo (8.86%)",
+      "Fall protection shampoo (6.07%)",
+      "Anti-hair loss treatment (5.99%)",
+      "Deodorant spray (5.82%)",
+      "Heat-protective hair care (5.25%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Animal."
+  },
+  {
+    "name": "Glyceryl Starch",
+    "inci_name": "GLYCERYL STARCH",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Glyceryl Starch — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Absorbent",
+      "Binding agent"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Glycine Max Seed Extract",
+    "inci_name": "GLYCINE MAX SEED EXTRACT",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Glycine Max Seed Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Hair conditioning",
+      "Skin conditioning",
+      "Skin protecting"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [
+      "Fabric mask (0.7%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Glycine Soja Extract",
+    "inci_name": "GLYCINE SOJA EXTRACT",
+    "cas_number": "84776-91-0 / 8001-22-7 - Soybean extract",
+    "einecs_number": "- / 232-274-4",
+    "description": "Glycine Soja Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [
+      "Lip balm (0.82%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Glycine Soja Germ Extract",
+    "inci_name": "GLYCINE SOJA GERM EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Glycine Soja Germ Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "0.12% косметических средств",
+    "common_product_types": [
+      "Fall protection shampoo (4.55%)",
+      "Anti-aging day face cream (0.82%)",
+      "Specific hair care (0.55%)",
+      "Classic shampoo (0.3%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Glycine Soja Oil",
+    "inci_name": "GLYCINE SOJA OIL",
+    "cas_number": "8001-22-7 - Soybean Oil",
+    "einecs_number": "232-274-4",
+    "description": "The soybean oil is extracted from soy beans. It is found in many products for its emollient, moisturizing and antioxidant properties. It is authorized in Bio.Avoid, however, if you are allergic to soy.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "3.64% косметических средств",
+    "common_product_types": [
+      "Ephemeral tattoos (80.95%)",
+      "Anti-ageing night time face serum (16.57%)",
+      "Beard oil (15.64%)",
+      "Stretch marks treatment (15.61%)",
+      "Shower oil (14.66%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Glyceryl Stearate Citrate",
+    "inci_name": "GLYCERYL STEARATE CITRATE",
+    "cas_number": "55840-13-6 / 86418-55-5",
+    "einecs_number": "259-855-5",
+    "description": "Glyceryl stearate citrate acts as an emulsifier (O/W) or emollient in cosmetic products.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Emulsifying",
+      "Skin conditioning"
+    ],
+    "prevalence": "2.22% косметических средств",
+    "common_product_types": [
+      "Anti-aging night face cream (21.76%)",
+      "Night face cream (16.45%)",
+      "Baby cleansing milk (16.12%)",
+      "Anti-aging set (15.83%)",
+      "Face moisturizer for men (15.56%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Glyceryl Undecylenate",
+    "inci_name": "GLYCERYL UNDECYLENATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Glyceryl Undecylenate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Emulsifying",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.42% косметических средств",
+    "common_product_types": [
+      "Eyes and kohl pencil (3.85%)",
+      "Lip pencil (2.32%)",
+      "Eyeshadow (1.59%)",
+      "Face cream (1.23%)",
+      "Anti-aging day face cream (1.16%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Glyceryl Polyacrylate",
+    "inci_name": "GLYCERYL POLYACRYLATE",
+    "cas_number": "104365-75-5",
+    "einecs_number": "",
+    "description": "Glyceryl Polyacrylate — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Film forming"
+    ],
+    "prevalence": "0.2% косметических средств",
+    "common_product_types": [
+      "Day anti-ageing face serum (1.37%)",
+      "Face cream (1.09%)",
+      "Face moisturizing serum (0.86%)",
+      "Anti-aging day face cream (0.82%)",
+      "Foundation (0.4%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Glycine Soja Oil Unsaponifiables",
+    "inci_name": "GLYCINE SOJA OIL UNSAPONIFIABLES",
+    "cas_number": "91770-67-1 - Soybean oil unsaponifiables",
+    "einecs_number": "294-853-8",
+    "description": "Glycine Soja Oil Unsaponifiables — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Glycine Soja Seed Extract",
+    "inci_name": "GLYCINE SOJA SEED EXTRACT",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Glycine Soja Seed Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.26% косметических средств",
+    "common_product_types": [
+      "Lipstick (1.27%)",
+      "Fabric mask (0.87%)",
+      "Face cream (0.56%)",
+      "Classic shampoo (0.21%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Glycine Max Extract",
+    "inci_name": "GLYCINE MAX EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Glycine Max Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant",
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Glycol Distearate",
+    "inci_name": "GLYCOL DISTEARATE",
+    "cas_number": "627-83-8",
+    "einecs_number": "211-014-3",
+    "description": "Glycol distearate is produced by the esterification of stearic acid or its esters with ethylene glycol. It comes in the form of a waxy white solid cream that is used to condition the skin or hair. It is also used as a thickener and gives the creams a pearly appearance. The ingredient can come from either animal origin (cows, pigs ...) or from plants such as soybean oil and canola oil.",
+    "rating": "neutral",
+    "functions": [
+      "Emollient",
+      "Emulsifying",
+      "Opacifying",
+      "Skin conditioning",
+      "Viscosity controlling"
+    ],
+    "prevalence": "4.03% косметических средств",
+    "common_product_types": [
+      "Anti-dandruff shampoo (57.71%)",
+      "Shampoo for colored/highlighted hair (46.16%)",
+      "Men's shampoo (35.43%)",
+      "Classic shampoo (33.88%)",
+      "Fall protection shampoo (24.1%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Glycol Stearate",
+    "inci_name": "GLYCOL STEARATE",
+    "cas_number": "111-60-4",
+    "einecs_number": "203-886-9",
+    "description": "Glycol Stearate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Emollient",
+      "Emulsifying",
+      "Opacifying",
+      "Surfactant"
+    ],
+    "prevalence": "0.51% косметических средств",
+    "common_product_types": [
+      "Shampoo for colored/highlighted hair (3.53%)",
+      "Classic shampoo (2.45%)",
+      "Body moisturizer (1.91%)",
+      "Shower gel (1.32%)",
+      "Liquid soap (1.16%)"
+    ],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Glycyrrhetinic Acid",
+    "inci_name": "GLYCYRRHETINIC ACID",
+    "cas_number": "471-53-4",
+    "einecs_number": "207-444-6",
+    "description": "Glycyrrhetinic Acid — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.25% косметических средств",
+    "common_product_types": [
+      "After sun (3.3%)",
+      "Adult sun cream (2.08%)",
+      "Children sun cream (1.65%)",
+      "Anti-aging day face cream (0.71%)",
+      "Face cream (0.63%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Glycolic Acid",
+    "inci_name": "GLYCOLIC ACID",
+    "cas_number": "79-14-1",
+    "einecs_number": "201-180-5",
+    "description": "Glycolic acid is a natural organic acid, also called alpha-hydroxy acids (AHA). It is usually made from sugar cane. It is used in mild peels and acid-based exfoliators. It accelerates the loss of dead cells and promotes cell renewal. Like other fruit acids, it is also used to smooth wrinkles, lighten the complexion, fade pigments and irregularities of the skin. It is not allowed in organic.",
+    "rating": "safe",
+    "functions": [
+      "pH regulator"
+    ],
+    "prevalence": "1.03% косметических средств",
+    "common_product_types": [
+      "Exfoliating pads (29.14%)",
+      "Feet mask (24.25%)",
+      "Scalp scrub (14.21%)",
+      "Anti-blemish serum (9.67%)",
+      "Face scrub (9.6%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Glycyrrhiza Glabra Root Powder",
+    "inci_name": "GLYCYRRHIZA GLABRA ROOT POWDER",
+    "cas_number": "84775-66-6 - Liquorice powder",
+    "einecs_number": "283-895-2",
+    "description": "Glycyrrhiza Glabra Root Powder — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Glycyrrhiza Glabra Root Extract",
+    "inci_name": "GLYCYRRHIZA GLABRA ROOT EXTRACT",
+    "cas_number": "84775-66-6 - Licorice root extract",
+    "einecs_number": "283-895-2",
+    "description": "Glycyrrhiza Glabra Root Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Bleaching",
+      "Emollient",
+      "Skin conditioning",
+      "Smoothing",
+      "Soothing",
+      "Perfuming"
+    ],
+    "prevalence": "1.15% косметических средств",
+    "common_product_types": [
+      "Brightening and anti-dark spots treatment (13.53%)",
+      "Fabric mask (7.43%)",
+      "Mask / patch (6.25%)",
+      "Bb cream (6.11%)",
+      "Anti-blemish treatment (3.89%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Glycyrrhiza Inflata Root Extract",
+    "inci_name": "GLYCYRRHIZA INFLATA ROOT EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Glycyrrhiza Inflata Root Extract — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.11% косметических средств",
+    "common_product_types": [
+      "Anti-ageing sun cream (6.45%)",
+      "Adult sun cream (2.14%)",
+      "Children sun cream (1.85%)",
+      "Face cream (0.3%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Glycyrrhiza Uralensis Root Extract",
+    "inci_name": "GLYCYRRHIZA URALENSIS ROOT EXTRACT",
+    "cas_number": "94349-91-4 - Chinese liquorice root extract",
+    "einecs_number": "305-209-3",
+    "description": "Glycyrrhiza Uralensis Root Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [
+      "Fabric mask (1.02%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Glyoxal",
+    "inci_name": "GLYOXAL",
+    "cas_number": "107-22-2",
+    "einecs_number": "203-474-9",
+    "description": "Glyoxal — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Antimicrobial",
+      "Perfuming"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (0.5%)",
+      "Classic shampoo (0.48%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Glyoxyloyl Carbocysteine",
+    "inci_name": "GLYOXYLOYL CARBOCYSTEINE",
+    "cas_number": "1268868-51-4",
+    "einecs_number": "",
+    "description": "Glyoxyloyl Carbocysteine — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Antistatic",
+      "Hair waving or straightening"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Glyoxyloyl Hydrolyzed Wheat Protein/Sericin",
+    "inci_name": "GLYOXYLOYL HYDROLYZED WHEAT PROTEIN/SERICIN",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Glyoxyloyl Hydrolyzed Wheat Protein/Sericin — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair conditioning",
+      "Hair waving or straightening"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Glyoxylic Acid",
+    "inci_name": "GLYOXYLIC ACID",
+    "cas_number": "298-12-4",
+    "einecs_number": "206-058-5",
+    "description": "In an article published in the New England Journal of Medicine in March 2024, French researchers warn that the use of glyoxylic acid in hair straightening products is associated with a risk of acute renal failure through the accumulation of calcium oxalate crystals in the kidneys.The researchers state that \"Given the potential nephrotoxicity of topical glyoxylic acid, products containing this compound should be avoided and, in our opinion, withdrawn from the market\".For these reasons, this ingredient is displayed in red on INCI Beauty.",
+    "rating": "avoid",
+    "functions": [
+      "Antistatic",
+      "pH regulator",
+      "Hair waving or straightening"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [
+      "Hair straightening (12.98%)",
+      "Shampoo for colored/highlighted hair (2.71%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Gold Thioethylamino Hyaluronic Acid",
+    "inci_name": "GOLD THIOETHYLAMINO HYALURONIC ACID",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Gold Thioethylamino Hyaluronic Acid — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Gold Aspartate/Glutamate",
+    "inci_name": "GOLD ASPARTATE/GLUTAMATE",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Gold Aspartate/Glutamate — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Gossypium Herbaceum Seed Extract",
+    "inci_name": "GOSSYPIUM HERBACEUM SEED EXTRACT",
+    "cas_number": "223749-08-4 - Cotton seed extract",
+    "einecs_number": "-",
+    "description": "Gossypium Herbaceum Seed Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.13% косметических средств",
+    "common_product_types": [
+      "Baby cleaning wipes (1.49%)",
+      "Liquid soap (0.77%)",
+      "Shower gel (0.27%)",
+      "Classic shampoo (0.14%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Gossypium Herbaceum Seed Oil",
+    "inci_name": "GOSSYPIUM HERBACEUM SEED OIL",
+    "cas_number": "8001-29-4 - Cotton seed oil",
+    "einecs_number": "232-280-7",
+    "description": "Gossypium Herbaceum Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.47% косметических средств",
+    "common_product_types": [
+      "Anti-aging day face cream (1.52%)",
+      "Gloss and lip gloss (1.23%)",
+      "Hair mask (0.92%)",
+      "Hand cream (0.87%)",
+      "Oxidative hair coloring (0.76%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Glyoxyloyl Keratin Amino Acids",
+    "inci_name": "GLYOXYLOYL KERATIN AMINO ACIDS",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Glyoxyloyl Keratin Amino Acids — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Antistatic",
+      "Hair waving or straightening"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Gold",
+    "inci_name": "GOLD",
+    "cas_number": "7440-57-5 - Yellow dye",
+    "einecs_number": "231-165-9",
+    "description": "Gold — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Cosmetic colorant",
+      "Slip modifier",
+      "Surface modifier",
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "0.24% косметических средств",
+    "common_product_types": [
+      "Mask / patch (6%)",
+      "Anti-aging day face cream (1.65%)",
+      "Day anti-ageing face serum (1.57%)",
+      "Cream / gel mask (0.92%)",
+      "Fabric mask (0.89%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Gossypium Herbaceum Extract",
+    "inci_name": "GOSSYPIUM HERBACEUM EXTRACT",
+    "cas_number": "223749-08-4 - Cotton extract",
+    "einecs_number": "-",
+    "description": "Gossypium Herbaceum Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.11% косметических средств",
+    "common_product_types": [
+      "Child shampoo (5.25%)",
+      "Foundation (0.41%)",
+      "Shower gel (0.29%)",
+      "Body moisturizer (0.2%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Gossypium Herbaceum Flower Extract",
+    "inci_name": "GOSSYPIUM HERBACEUM FLOWER EXTRACT",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Gossypium Herbaceum Flower Extract — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Humectant",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Guar Hydroxypropyltrimonium Chloride",
+    "inci_name": "GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE",
+    "cas_number": "65497-29-2",
+    "einecs_number": "-",
+    "description": "This ingredient is a synthetic quat (quaternary ammonium) derived from Guar gum. It acts as a conditioning agent for skin and hair, it also has antistatic properties. It is one of the synthetic molecules that are an exception in the COSMOS specifications: it is therefore authorized in organic. Note that Guar Gum is obtained from the seed of a legume (Cyamopsis tetragonoloba).",
+    "rating": "caution",
+    "functions": [
+      "Antistatic",
+      "Film forming",
+      "Skin conditioning",
+      "Viscosity controlling"
+    ],
+    "prevalence": "4.23% косметических средств",
+    "common_product_types": [
+      "Anti-dandruff shampoo (62.64%)",
+      "Shampoo for colored/highlighted hair (43.06%)",
+      "Men's shampoo (38.29%)",
+      "Classic shampoo (37.37%)",
+      "Fall protection shampoo (32.64%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Guanine",
+    "inci_name": "GUANINE",
+    "cas_number": "73-40-5",
+    "einecs_number": "200-799-8",
+    "description": "Guanine — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Cosmetic colorant",
+      "Opacifying"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  }
+]

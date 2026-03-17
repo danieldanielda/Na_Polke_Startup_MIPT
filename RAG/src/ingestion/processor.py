@@ -10,7 +10,7 @@ class DocumentProcessor:
     def __init__(self) -> None:
         self.parser = NodeParser()
 
-    async def aprocess_directory(self, user_id: str, directory_path: str, **kwargs) -> List[TextNode]:
+    async def aprocess_directory(self, directory_path: str, **kwargs) -> List[TextNode]:
         """Обрабатывает директорию с JSON файлами косметики"""
         file_paths = [
             os.path.join(directory_path, f)
@@ -28,12 +28,14 @@ class DocumentProcessor:
         documents = await self.parser.aload_documents(file_paths)
         
         # Создаём ноды (без чанкинга для JSON)
-        nodes = await self.parser.acreate_json_nodes(user_id=user_id, documents=documents)
+        nodes = await self.parser.acreate_json_nodes(documents=documents)
         
         logger.info(f"Created {len(nodes)} cosmetic product nodes from {len(file_paths)} files")
+        for i, node in enumerate(nodes):
+            logger.debug(f"Node {i} metadata: {node.metadata}")
         return nodes
 
-    async def process_single_file(self, user_id: str, file_path: str, **kwargs) -> List[TextNode]:
+    async def process_single_file(self, file_path: str, **kwargs) -> List[TextNode]:
         """Обрабатывает один JSON файл с косметикой"""
         if not os.path.exists(file_path):
             raise FileNotFoundError(f"File not found: {file_path}")
@@ -43,8 +45,10 @@ class DocumentProcessor:
         
         try:
             documents = await self.parser.aload_documents([file_path])
-            nodes = await self.parser.acreate_json_nodes(user_id=user_id, documents=documents)
+            nodes = await self.parser.acreate_json_nodes(documents=documents)
             logger.info(f"Successfully processed {file_path} into {len(nodes)} cosmetic product nodes")
+            for i, node in enumerate(nodes):
+                logger.debug(f"Node {i} metadata: {node.metadata}")
             return nodes
             
         except Exception as e:

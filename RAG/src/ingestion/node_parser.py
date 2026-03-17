@@ -7,6 +7,8 @@ from datetime import datetime, timezone
 from llama_index.core.schema import TextNode, Document
 import logging
 
+from src.services.chroma_manager import GLOBAL_COLLECTION_NAME
+
 logger = logging.getLogger(__name__)
 
 class NodeParser:
@@ -65,6 +67,7 @@ class NodeParser:
                         }
                     )
                     documents.append(doc)
+                    logger.debug(f"Document created with metadata: {doc.metadata}")
 
             except Exception as e:
                 logger.error(f"Failed to load JSON {file_path}: {e}")
@@ -72,16 +75,12 @@ class NodeParser:
 
         return documents
 
-    async def _get_user_collection_name(self, user_id: str) -> str:
-        """Генерирует имя коллекции для пользователя"""
-        return f"user_{user_id}"
-
-    async def acreate_json_nodes(self, user_id: str, documents: List[Document]) -> List[TextNode]:
+    async def acreate_json_nodes(self, documents: List[Document]) -> List[TextNode]:
         """
         Создаёт ноды для JSON с косметикой (без чанкинга).
         ВАЖНО: ChromaDB принимает только простые типы в метаданных (str, int, float, None).
         """
-        collection_id = await self._get_user_collection_name(user_id=user_id)
+        collection_id = GLOBAL_COLLECTION_NAME
         nodes = []
         
         for doc in documents:
@@ -108,5 +107,6 @@ class NodeParser:
                 excluded_llm_metadata_keys=["collection_id", "parent_id", "source_file"]
             )
             nodes.append(node)
+            logger.debug(f"Node created with safe_metadata: {safe_metadata}")
         
         return nodes

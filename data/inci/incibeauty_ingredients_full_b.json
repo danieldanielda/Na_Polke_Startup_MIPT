@@ -1,0 +1,2961 @@
+[
+  {
+    "name": "Balanites Aegyptiaca Kernel Oil",
+    "inci_name": "BALANITES AEGYPTIACA KERNEL OIL",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Balanites Aegyptiaca Kernel Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Babassuamidopropyl Betaine",
+    "inci_name": "BABASSUAMIDOPROPYL BETAINE",
+    "cas_number": "223704-95-8",
+    "einecs_number": "-",
+    "description": "Babassuamidopropyl Betaine — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Antistatic",
+      "Cleansing",
+      "Foam boosting",
+      "Hair conditioning",
+      "Skin conditioning",
+      "Surfactant",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [
+      "Classic shampoo (0.25%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Balanites Roxburghii Seed Oil",
+    "inci_name": "BALANITES ROXBURGHII SEED OIL",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Balanites Roxburghii Seed Oil — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [
+      "Anti-aging day face cream (0.8%)",
+      "Adult sun cream (0.31%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Bacopa Monniera Extract",
+    "inci_name": "BACOPA MONNIERA EXTRACT",
+    "cas_number": "93164-89-7",
+    "einecs_number": "296-871-1",
+    "description": "Bacopa Monniera Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Backhousia Citriodora Leaf Oil",
+    "inci_name": "BACKHOUSIA CITRIODORA LEAF OIL",
+    "cas_number": "84775-80-4 - Lemon myrtle leaf oil",
+    "einecs_number": "283-909-7",
+    "description": "Backhousia Citriodora Leaf Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Perfuming"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Bambusa Arundinacea Stem Extract",
+    "inci_name": "BAMBUSA ARUNDINACEA STEM EXTRACT",
+    "cas_number": "91771-32-3 - Bamboo stem extract",
+    "einecs_number": "294-922-2",
+    "description": "Bambusa Arundinacea Stem Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.24% косметических средств",
+    "common_product_types": [
+      "Face scrub (5.38%)",
+      "Body scrub (3.75%)",
+      "Foundation (1.58%)",
+      "Roll-on deodorant (1.08%)",
+      "Nail polish (0.72%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Bambusa Arundinacea Stem Powder",
+    "inci_name": "BAMBUSA ARUNDINACEA STEM POWDER",
+    "cas_number": "91771-32-3 - Bamboo stem powder",
+    "einecs_number": "294-922-2",
+    "description": "Bambusa Arundinacea Stem Powder — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Abrasive"
+    ],
+    "prevalence": "0.13% косметических средств",
+    "common_product_types": [
+      "Compact powder (1.97%)",
+      "Eyeshadow (1.59%)",
+      "Face scrub (1.43%)",
+      "Foundation (1.2%)",
+      "Lipstick (0.51%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Bambusa Vulgaris Extract",
+    "inci_name": "BAMBUSA VULGARIS EXTRACT",
+    "cas_number": "91771-33-4 - Bamboo extract",
+    "einecs_number": "294-923-8",
+    "description": "Bambusa Vulgaris Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.16% косметических средств",
+    "common_product_types": [
+      "Mascara (1.16%)",
+      "Nail polish (0.74%)",
+      "Fabric mask (0.7%)",
+      "Hair conditioner (0.3%)",
+      "Classic shampoo (0.22%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Bambusa Vulgaris Leaf/Stem Extract",
+    "inci_name": "BAMBUSA VULGARIS LEAF/STEM EXTRACT",
+    "cas_number": "91771-33-4 - Bamboo extract (Leaf/stem)",
+    "einecs_number": "294-923-8",
+    "description": "Bambusa Vulgaris Leaf/Stem Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Humectant",
+      "Oral care/hygiene agent"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (0.49%)",
+      "Classic shampoo (0.24%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Bambusa Vulgaris Sap Extract",
+    "inci_name": "BAMBUSA VULGARIS SAP EXTRACT",
+    "cas_number": "91771-33-4 - Bamboo sap extract",
+    "einecs_number": "294-923-8",
+    "description": "Bambusa Vulgaris Sap Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [
+      "Nail polish (0.63%)",
+      "Classic shampoo (0.14%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Basic Blue 124",
+    "inci_name": "BASIC BLUE 124",
+    "cas_number": "67846-56-4",
+    "einecs_number": "",
+    "description": "Basic Blue 124 — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Bambusa Vulgaris Shoot Extract",
+    "inci_name": "BAMBUSA VULGARIS SHOOT EXTRACT",
+    "cas_number": "91771-33-4 - Bamboo shoot extract",
+    "einecs_number": "294-923-8",
+    "description": "Bambusa Vulgaris Shoot Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant",
+      "Astringent",
+      "Emollient",
+      "Humectant",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [
+      "Hair conditioner (0.46%)",
+      "Classic shampoo (0.38%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Barium Sulfate",
+    "inci_name": "BARIUM SULFATE",
+    "cas_number": "7727-43-7",
+    "einecs_number": "231-784-4",
+    "description": "Barium Sulfate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Cosmetic colorant",
+      "Opacifying"
+    ],
+    "prevalence": "0.49% косметических средств",
+    "common_product_types": [
+      "Nail polish (13.28%)",
+      "Gloss and lip gloss (6.26%)",
+      "Lipstick (4.92%)",
+      "Lip pencil (3.58%)",
+      "Blush (3.35%)"
+    ],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Basic Blue 26",
+    "inci_name": "BASIC BLUE 26",
+    "cas_number": "2580-56-5",
+    "einecs_number": "219-943-6",
+    "description": "Basic Blue 26 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Basic Blue 3",
+    "inci_name": "BASIC BLUE 3",
+    "cas_number": "33203-82-6",
+    "einecs_number": "251-403-5",
+    "description": "Basic Blue 3 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Basic Blue 41",
+    "inci_name": "BASIC BLUE 41",
+    "cas_number": "12270-13-2",
+    "einecs_number": "235-546-0",
+    "description": "Basic Blue 41 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Basic Blue 7",
+    "inci_name": "BASIC BLUE 7",
+    "cas_number": "2390-60-5",
+    "einecs_number": "219-232-0",
+    "description": "Basic Blue 7 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Basic Blue 75",
+    "inci_name": "BASIC BLUE 75",
+    "cas_number": "73398-25-1 - Blue hair dye",
+    "einecs_number": "277-426-0",
+    "description": "Basic Blue 75 — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Basic Blue 9",
+    "inci_name": "BASIC BLUE 9",
+    "cas_number": "61-73-4 - Blue hair dye",
+    "einecs_number": "200-515-2",
+    "description": "Basic Blue 9 — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Basic Blue 99",
+    "inci_name": "BASIC BLUE 99",
+    "cas_number": "68123-13-7 - Blue Hair dye",
+    "einecs_number": "268-544-3",
+    "description": "Basic Blue 99 — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Hair conditioning",
+      "Hair dyeing"
+    ],
+    "prevalence": "0.13% косметических средств",
+    "common_product_types": [
+      "Treatment for coloured hair (5.73%)",
+      "Shampoo for colored/highlighted hair (2.97%)",
+      "Oxidative hair coloring (2.2%)",
+      "Hair mask (1.12%)",
+      "Classic shampoo (0.16%)"
+    ],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Basic Green 1",
+    "inci_name": "BASIC GREEN 1",
+    "cas_number": "633-03-4",
+    "einecs_number": "211-190-1",
+    "description": "Basic Green 1 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Basic Green 4",
+    "inci_name": "BASIC GREEN 4",
+    "cas_number": "569-64-2 - Green hair dye",
+    "einecs_number": "209-322-8",
+    "description": "Basic Green 4 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Basic Orange 1",
+    "inci_name": "BASIC ORANGE 1",
+    "cas_number": "4438-16-8",
+    "einecs_number": "224-654-3",
+    "description": "Basic Orange 1 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Basic Orange 2",
+    "inci_name": "BASIC ORANGE 2",
+    "cas_number": "532-82-1 - Orange hair dye",
+    "einecs_number": "208-545-8",
+    "description": "Basic Orange 2 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Basic Orange 31",
+    "inci_name": "BASIC ORANGE 31",
+    "cas_number": "97404-02-9 - Orange hair dye",
+    "einecs_number": "306-764-4",
+    "description": "Basic Orange 31 — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (0.78%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Basic Red 14",
+    "inci_name": "BASIC RED 14",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Basic Red 14 — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Basic Red 2",
+    "inci_name": "BASIC RED 2",
+    "cas_number": "477-73-6",
+    "einecs_number": "207-518-8",
+    "description": "Basic Red 2 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Basic Red 22",
+    "inci_name": "BASIC RED 22",
+    "cas_number": "12221-52-2",
+    "einecs_number": "",
+    "description": "Basic Red 22 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Basic Red 46",
+    "inci_name": "BASIC RED 46",
+    "cas_number": "12221-69-1 - Red hair dye",
+    "einecs_number": "",
+    "description": "Basic Red 46 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Basic Red 51",
+    "inci_name": "BASIC RED 51",
+    "cas_number": "77061-58-6 - Red hair dye",
+    "einecs_number": "278-601-4",
+    "description": "Basic Red 51 — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "0.13% косметических средств",
+    "common_product_types": [
+      "Treatment for coloured hair (5.46%)",
+      "Oxidative hair coloring (2.57%)",
+      "Shampoo for colored/highlighted hair (2.23%)",
+      "Hair mask (0.68%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Basic Red 76",
+    "inci_name": "BASIC RED 76",
+    "cas_number": "68391-30-0 - Red Hair dye",
+    "einecs_number": "269-941-4",
+    "description": "Basic Red 76 — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "0.12% косметических средств",
+    "common_product_types": [
+      "Treatment for coloured hair (7.06%)",
+      "Shampoo for colored/highlighted hair (2.88%)",
+      "Oxidative hair coloring (1.83%)",
+      "Hair mask (1.06%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Basic Brown 17",
+    "inci_name": "BASIC BROWN 17",
+    "cas_number": "68391-32-2 - Brown hair dye",
+    "einecs_number": "269-944-0",
+    "description": "Basic Brown 17 — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "0.1% косметических средств",
+    "common_product_types": [
+      "Treatment for coloured hair (8.39%)",
+      "Shampoo for colored/highlighted hair (2.23%)",
+      "Oxidative hair coloring (1.95%)",
+      "Hair mask (0.86%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Basic Brown 16",
+    "inci_name": "BASIC BROWN 16",
+    "cas_number": "26381-41-9 - Brown hair dye",
+    "einecs_number": "247-640-9",
+    "description": "Basic Brown 16 — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [
+      "Treatment for coloured hair (5.99%)",
+      "Shampoo for colored/highlighted hair (2.44%)",
+      "Oxidative hair coloring (1.22%)",
+      "Hair mask (0.75%)"
+    ],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Basic Red 1:1",
+    "inci_name": "BASIC RED 1:1",
+    "cas_number": "3068-39-1 - Red hair dye",
+    "einecs_number": "221-326-1",
+    "description": "Basic Red 1:1 — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Basic Red 1",
+    "inci_name": "BASIC RED 1",
+    "cas_number": "989-38-8 - Red hair dye",
+    "einecs_number": "213-584-9",
+    "description": "Basic Red 1 — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Basic Violet 10",
+    "inci_name": "BASIC VIOLET 10",
+    "cas_number": "81-88-9 - Violet hair dye",
+    "einecs_number": "201-383-9",
+    "description": "Basic Violet 10 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Cosmetic colorant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Basic Violet 11",
+    "inci_name": "BASIC VIOLET 11",
+    "cas_number": "73398-89-7 - Violet hair dye",
+    "einecs_number": "277-459-0",
+    "description": "Basic Violet 11 — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Basic Violet 16",
+    "inci_name": "BASIC VIOLET 16",
+    "cas_number": "6359-45-1 - Purple hair dye",
+    "einecs_number": "228-799-3",
+    "description": "Basic Violet 16 — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (0.56%)"
+    ],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Basic Violet 3",
+    "inci_name": "BASIC VIOLET 3",
+    "cas_number": "548-62-9",
+    "einecs_number": "208-953-6",
+    "description": "Basic Violet 3 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Basic Violet 2",
+    "inci_name": "BASIC VIOLET 2",
+    "cas_number": "3248-91-7 - Purple hair dye",
+    "einecs_number": "221-831-7",
+    "description": "Basic Violet 2 — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (1.4%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Basic Violet 4",
+    "inci_name": "BASIC VIOLET 4",
+    "cas_number": "2390-59-2",
+    "einecs_number": "219-231-5",
+    "description": "Basic Violet 4 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Basic Yellow 28",
+    "inci_name": "BASIC YELLOW 28",
+    "cas_number": "54060-92-3",
+    "einecs_number": "258-946-7",
+    "description": "Basic Yellow 28 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Basic Yellow 13",
+    "inci_name": "BASIC YELLOW 13",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Basic Yellow 13 — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Basic Violet 1",
+    "inci_name": "BASIC VIOLET 1",
+    "cas_number": "8004-87-3 - Violet hair dye",
+    "einecs_number": "",
+    "description": "Basic Violet 1 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Batyl Alcohol",
+    "inci_name": "BATYL ALCOHOL",
+    "cas_number": "544-62-7",
+    "einecs_number": "208-874-7",
+    "description": "Batyl Alcohol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Emollient",
+      "Emulsion stabilising",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Basic Violet 14",
+    "inci_name": "BASIC VIOLET 14",
+    "cas_number": "632-99-5 - Violet hair dye",
+    "einecs_number": "211-189-6",
+    "description": "Basic Violet 14 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Basic Yellow 57",
+    "inci_name": "BASIC YELLOW 57",
+    "cas_number": "68391-31-1 - Yellow hair dye",
+    "einecs_number": "269-943-5",
+    "description": "Basic Yellow 57 — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [
+      "Treatment for coloured hair (7.46%)",
+      "Shampoo for colored/highlighted hair (2.27%)",
+      "Oxidative hair coloring (1.31%)",
+      "Hair mask (0.68%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Basic Yellow 87",
+    "inci_name": "BASIC YELLOW 87",
+    "cas_number": "68259-00-7 - Yellow hair dye",
+    "einecs_number": "269-503-2",
+    "description": "Basic Yellow 87 — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (1.4%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Bee Venom",
+    "inci_name": "BEE VENOM",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Bee venom, also known as apitoxin, is a bitter, colorless liquid extracted from bees. It is used in cosmetics as an astringent due to the presence of an enzyme called hyaluronidase, and as a skin protection agent due to its anti-inflammatory properties.Bee venom has been used for medicinal purposes since antiquity. It is said to have numerous virtues, including being effective against diseases such as multiple sclerosis and cancer. However, several studies have shown that there is no evidence to support the efficacy of the venom against multiple sclerosis, and no study to date has demonstrated any effect in the prevention or treatment of cancer.",
+    "rating": "safe",
+    "functions": [
+      "Astringent",
+      "Skin protecting"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Animal."
+  },
+  {
+    "name": "Basic Yellow 40",
+    "inci_name": "BASIC YELLOW 40",
+    "cas_number": "29556-33-0 - Yellow hair dye",
+    "einecs_number": "249-694-9",
+    "description": "Basic Yellow 40 — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Synthetic."
+  },
+  {
+    "name": "Behenamidopropyl Dimethylamine",
+    "inci_name": "BEHENAMIDOPROPYL DIMETHYLAMINE",
+    "cas_number": "60270-33-9",
+    "einecs_number": "262-134-8",
+    "description": "Behenamidopropyl Dimethylamine — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Antistatic",
+      "Emulsifying"
+    ],
+    "prevalence": "0.39% косметических средств",
+    "common_product_types": [
+      "Hair mask (6%)",
+      "Hair conditioner (4.2%)",
+      "Oxidative hair coloring (1.79%)",
+      "Specific hair care (1.56%)",
+      "Classic shampoo (0.59%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Behenic Acid",
+    "inci_name": "BEHENIC ACID",
+    "cas_number": "112-85-6",
+    "einecs_number": "204-010-8",
+    "description": "Behenic Acid — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Opacifying",
+      "Surfactant"
+    ],
+    "prevalence": "0.16% косметических средств",
+    "common_product_types": [
+      "Mascara (3.87%)",
+      "Deodorant stick (1.28%)",
+      "Face cream (0.56%)",
+      "Foundation (0.54%)",
+      "Body moisturizer (0.23%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Behentrimonium Chloride",
+    "inci_name": "BEHENTRIMONIUM CHLORIDE",
+    "cas_number": "17301-53-0",
+    "einecs_number": "241-327-0",
+    "description": "Behentrimonium Chloride is a quaternary ammonium mainly used in cosmetics as an anti-static agent or hair conditioner. For this reason, it is mainly used in hair care products. It is banned in organic farming.In 2010, in an opinion report, the Scientific Committee on Consumer Safety (SCCS) concluded that ‘In addition to the fact that formulations of quaternary ammonium derivatives have an irritant potential, particularly when combinations of the compounds concerned are used, the SCCS indicates that the use of CETRIMONIUM CHLORIDE, STEARTRIMONIUM CHLORIDE and BEHENTRIMONIUM CHLORIDE do not pose a risk to consumer health’ when used within the regulated concentration limits (see below).",
+    "rating": "caution",
+    "functions": [
+      "Antistatic",
+      "Hair conditioning",
+      "Preservative"
+    ],
+    "prevalence": "3.06% косметических средств",
+    "common_product_types": [
+      "Hair mask (43.37%)",
+      "Hair conditioner (40.81%)",
+      "Treatment for coloured hair (39.81%)",
+      "Oxidative hair coloring (31.1%)",
+      "Hair straightening (27.33%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Behentrimonium Methosulfate",
+    "inci_name": "BEHENTRIMONIUM METHOSULFATE",
+    "cas_number": "81646-13-1 / 241148-21-0",
+    "einecs_number": "279-791-1",
+    "description": "This ingredient is classified as ecotoxic according to REACH (Aquatic Acute 1, Aquatic Chronic 2).",
+    "rating": "caution",
+    "functions": [
+      "Antistatic",
+      "Hair conditioning",
+      "Surfactant"
+    ],
+    "prevalence": "1.01% косметических средств",
+    "common_product_types": [
+      "Solid conditioner (21.07%)",
+      "Hair straightening (13.9%)",
+      "Detangler (leave-in) (9.55%)",
+      "Hair conditioner (9.37%)",
+      "Hair mask (8.69%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Bee Pollen Extract",
+    "inci_name": "BEE POLLEN EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Bee Pollen Extract — косметический ингредиент. Происхождение: Animal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Animal."
+  },
+  {
+    "name": "Benzaldehyde",
+    "inci_name": "BENZALDEHYDE",
+    "cas_number": "100-52-7",
+    "einecs_number": "202-860-4",
+    "description": "This ingredient is a synthetic aromatic compound with a bitter almond scent that is used in perfumes and scented cosmetic products. It is one of the allergens regulated in Europe.",
+    "rating": "neutral",
+    "functions": [
+      "Denaturant",
+      "Masking",
+      "Perfuming",
+      "Flavouring agent"
+    ],
+    "prevalence": "0.24% косметических средств",
+    "common_product_types": [
+      "Scented mist for women (3.14%)",
+      "Perfume for women (1.48%)",
+      "Lip balm (1.36%)",
+      "Gloss and lip gloss (1.34%)",
+      "Body moisturizer (0.8%)"
+    ],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Benzalkonium Bromide",
+    "inci_name": "BENZALKONIUM BROMIDE",
+    "cas_number": "91080-29-4",
+    "einecs_number": "293-522-5",
+    "description": "Benzalkonium Bromide — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Antimicrobial",
+      "Antistatic",
+      "Deodorant",
+      "Preservative",
+      "Surfactant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Behenyl Alcohol",
+    "inci_name": "BEHENYL ALCOHOL",
+    "cas_number": "661-19-8",
+    "einecs_number": "211-546-6",
+    "description": "Behenyl alcohol or Docosanol is a fatty alcohol. It is used in cosmetics as an emulsifier to keep oily parts well mixed with other liquids. It is also used as a thickener, to increase the foaming capacity of a product or to improve the stability of a foam. It makes the skin soft and its touch remains non-greasy after application. It is authorized in organic.In drugs, docosanol is used as an antiviral against herpes.The CIR (Cosmetic Ingredient Review) in an annual report published in 2008, concluded the safety of fatty alcohols.",
+    "rating": "safe",
+    "functions": [
+      "Binding agent",
+      "Emollient",
+      "Emulsion stabilising",
+      "Viscosity controlling"
+    ],
+    "prevalence": "1.8% косметических средств",
+    "common_product_types": [
+      "Anti-aging set (21.94%)",
+      "Anti-aging for men (17.2%)",
+      "Anti-aging day face cream (17.09%)",
+      "Anti-aging night face cream (16.07%)",
+      "Night face cream (12.76%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Bentonite",
+    "inci_name": "BENTONITE",
+    "cas_number": "1302-78-9 - Bentonite clay",
+    "einecs_number": "215-108-5",
+    "description": "Bentonite is a clay that usually comes from volcanic ash. It mainly consists of silica and aluminum as well as other minerals, including sodium, magnesium, calcium, iron oxide and potassium. Bentonite clay is used in cosmetics as a texturizer, filler, thickener and pigment binder.",
+    "rating": "safe",
+    "functions": [
+      "Absorbent",
+      "Bulking",
+      "Emulsion stabilising",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.63% косметических средств",
+    "common_product_types": [
+      "Anti-blemish mask (20.63%)",
+      "Cream / gel mask (8.92%)",
+      "Anti-blemish patches (7.54%)",
+      "Solid shampoo (3.2%)",
+      "Face scrub (2.7%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Mineral."
+  },
+  {
+    "name": "Bellis Perennis Flower Extract",
+    "inci_name": "BELLIS PERENNIS FLOWER EXTRACT",
+    "cas_number": "84776-11-4 - Daisy flower extract",
+    "einecs_number": "283-935-9",
+    "description": "Bellis Perennis Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.12% косметических средств",
+    "common_product_types": [
+      "Face cream (0.31%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Benzalkonium Saccharinate",
+    "inci_name": "BENZALKONIUM SACCHARINATE",
+    "cas_number": "68989-01-5",
+    "einecs_number": "273-545-7",
+    "description": "Benzalkonium Saccharinate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Antimicrobial",
+      "Antistatic",
+      "Deodorant",
+      "Preservative",
+      "Surfactant-dispersing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Behenyl Betaine",
+    "inci_name": "BEHENYL BETAINE",
+    "cas_number": "26920-62-7",
+    "einecs_number": "248-108-9",
+    "description": "Behenyl Betaine — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Cleansing",
+      "Foam boosting",
+      "Hair conditioning",
+      "Skin conditioning",
+      "Surfactant",
+      "Viscosity controlling"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Benzethonium Chloride",
+    "inci_name": "BENZETHONIUM CHLORIDE",
+    "cas_number": "121-54-0",
+    "einecs_number": "204-479-9",
+    "description": "Benzethonium Chloride — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Antimicrobial",
+      "Deodorant",
+      "Preservative",
+      "Surfactant-dispersing"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [
+      "Make-up remover lotion (4.98%)",
+      "Micellar water (1.78%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Benzoic Acid",
+    "inci_name": "BENZOIC ACID",
+    "cas_number": "65-85-0",
+    "einecs_number": "200-618-2",
+    "description": "Benzoic acid is used as a preservative in cosmetics. It is present naturally in the benzoin gum extracted from \"Styrax\" type trees, but is \"unfortunately\" often made in the laboratory from other chemicals. In food, it is used under the name E210. Benzoic acid is allowed in organic. It can irritate the eyes, skin, lungs and digestive tract, but generally does not pose a problem in regulatory concentrations.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Preservative",
+      "Ph adjusters"
+    ],
+    "prevalence": "5.03% косметических средств",
+    "common_product_types": [
+      "Moist toilet tissue (37.6%)",
+      "Face cleansing wipes (36%)",
+      "Cleansing wipes (29.82%)",
+      "Mouthwash (24.47%)",
+      "Baby cleaning wipes (19.9%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Benzophenone-12",
+    "inci_name": "BENZOPHENONE-12",
+    "cas_number": "1843-05-6",
+    "einecs_number": "217-421-2",
+    "description": "Benzophenone-12 — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Uv absorber"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Benzophenone",
+    "inci_name": "BENZOPHENONE",
+    "cas_number": "119-61-9",
+    "einecs_number": "204-337-6",
+    "description": "This ingredient has been banned in cosmetics in Europe since December 1, 2023.",
+    "rating": "avoid",
+    "functions": [
+      "Masking",
+      "Stabilising"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Benzalkonium Chloride",
+    "inci_name": "BENZALKONIUM CHLORIDE",
+    "cas_number": "63449-41-2 / 68391-01-5 / 68424-85-1 / 85409-22-9",
+    "einecs_number": "264-151-6 / 269-919-4 / 270-325-2 / 287-089-1",
+    "description": "Benzalkonium Chloride — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Antimicrobial",
+      "Antistatic",
+      "Deodorant",
+      "Preservative",
+      "Surfactant-dispersing"
+    ],
+    "prevalence": "0.31% косметических средств",
+    "common_product_types": [
+      "Face cleansing wipes (10.57%)",
+      "Deodorant and antiperspirant (9.04%)",
+      "Baby cleaning wipes (7.23%)",
+      "Drugstore (1.41%)",
+      "Liquid soap (0.9%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Benzophenone-4",
+    "inci_name": "BENZOPHENONE-4",
+    "cas_number": "4065-45-6",
+    "einecs_number": "223-772-2",
+    "description": "Benzophenone-4 (Sulisobenzone) is a chemical UV filter that protects the skin from UVB and UVA rays. It is suspected of polluting water and endangering aquatic life.",
+    "rating": "avoid",
+    "functions": [
+      "Stabilising",
+      "Uv absorber",
+      "Uv filter"
+    ],
+    "prevalence": "1.25% косметических средств",
+    "common_product_types": [
+      "Shampoo for colored/highlighted hair (12.17%)",
+      "Styling gel (11.07%)",
+      "Styling mousse (9.93%)",
+      "Treatment for coloured hair (9.59%)",
+      "Styling spray (7.18%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Benzophenone-5",
+    "inci_name": "BENZOPHENONE-5",
+    "cas_number": "6628-37-1",
+    "einecs_number": "613-918-7",
+    "description": "Benzophenone-5 (Sulisobenzone sodium) is a chemical UV filter that protects the skin against UVB and UVA radiation. It is suspected of polluting water and endangering aquatic fauna. It is the sodium salt of Benzophenone-4. Because of the way it is produced, it is associated with an orange flower on our application.",
+    "rating": "avoid",
+    "functions": [
+      "Stabilising",
+      "Uv absorber",
+      "Uv filter"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Benzisothiazolinone",
+    "inci_name": "BENZISOTHIAZOLINONE",
+    "cas_number": "2634-33-5",
+    "einecs_number": "220-120-9",
+    "description": "Benzisothiazolinone is a biocide used as a preservative in many products (paint, detergents, varnishes, adhesives ...). It has a fungicidal effect.",
+    "rating": "caution",
+    "functions": [
+      "Antimicrobial"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Benzophenone-8",
+    "inci_name": "BENZOPHENONE-8",
+    "cas_number": "131-53-3",
+    "einecs_number": "205-026-8",
+    "description": "Benzophenone-8 — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Uv absorber"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Benzophenone-1",
+    "inci_name": "BENZOPHENONE-1",
+    "cas_number": "131-56-6",
+    "einecs_number": "205-029-4",
+    "description": "Benzophenone-1 is a synthetic UVA absorber. It is suspected of being an endocrine disruptor for humans and aquatic life. It is notably implicated in the bleaching of coral reefs.",
+    "rating": "avoid",
+    "functions": [
+      "Stabilising",
+      "Uv absorber"
+    ],
+    "prevalence": "0.72% косметических средств",
+    "common_product_types": [
+      "Nail polish (39.65%)",
+      "Top coat (19.56%)",
+      "Varnish base (14.76%)",
+      "Nail care and treatments (13.57%)",
+      "Nail polish remover (5.06%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Benzophenone-2",
+    "inci_name": "BENZOPHENONE-2",
+    "cas_number": "131-55-5",
+    "einecs_number": "205-028-9",
+    "description": "Benzophenone-2 — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "avoid",
+    "functions": [
+      "Masking",
+      "Stabilising",
+      "Uv absorber"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Benzotriazolyl Dodecyl P-Cresol",
+    "inci_name": "BENZOTRIAZOLYL DODECYL P-CRESOL",
+    "cas_number": "125304-04-3",
+    "einecs_number": "",
+    "description": "Benzotriazolyl Dodecyl P-Cresol — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Uv absorber"
+    ],
+    "prevalence": "0.32% косметических средств",
+    "common_product_types": [
+      "Scented mist for women (1.86%)",
+      "Body scrub (1.64%)",
+      "Perfume for women (1.15%)",
+      "Gloss and lip gloss (1.1%)",
+      "Adult sun cream (0.75%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Benzophenone-9",
+    "inci_name": "BENZOPHENONE-9",
+    "cas_number": "76656-36-5",
+    "einecs_number": "278-520-4",
+    "description": "Benzophenone-9 — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Uv absorber"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Benzoyl Peroxide",
+    "inci_name": "BENZOYL PEROXIDE",
+    "cas_number": "94-36-0",
+    "einecs_number": "202-327-6",
+    "description": "Benzoyl Peroxide — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Oxidising"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Benzyl Benzoate",
+    "inci_name": "BENZYL BENZOATE",
+    "cas_number": "120-51-4",
+    "einecs_number": "204-402-9",
+    "description": "Benzyl benzoate is an odorant molecule that is one of the allergens regulated by Europe. It is found naturally in Peru and Tolu balsams, as well as in Jasmine and Ylang-ylang essential oils. Benzyl Benzoate is part of the reference treatment in France for scabies (an infectious skin disease).",
+    "rating": "neutral",
+    "functions": [
+      "Antimicrobial",
+      "Solvent",
+      "Perfuming"
+    ],
+    "prevalence": "5.43% косметических средств",
+    "common_product_types": [
+      "Women fragrance set (48.47%)",
+      "Perfume for women (47.25%)",
+      "Eau de toilette for women (41.47%)",
+      "Mixed perfume water (37.36%)",
+      "Eau de parfum for men (35.91%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Benzophenone-6",
+    "inci_name": "BENZOPHENONE-6",
+    "cas_number": "131-54-4",
+    "einecs_number": "205-027-3",
+    "description": "Benzophenone-6 — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Masking",
+      "Uv absorber"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Benzotriazole",
+    "inci_name": "BENZOTRIAZOLE",
+    "cas_number": "95-14-7",
+    "einecs_number": "202-394-1",
+    "description": "Benzotriazole — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Antimicrobial"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Benzophenone-3",
+    "inci_name": "BENZOPHENONE-3",
+    "cas_number": "131-57-7",
+    "einecs_number": "205-031-5",
+    "description": "Benzophenone-3 (Oxybenzone) is a synthetic UV filter that protects the skin against both UVB and UVA rays. It is suspected of being an endocrine disruptor for humans and aquatic life. It is notably implicated in the bleaching phenomenon of coral reefs.",
+    "rating": "avoid",
+    "functions": [
+      "Stabilising",
+      "Uv absorber",
+      "Uv filter"
+    ],
+    "prevalence": "0.78% косметических средств",
+    "common_product_types": [
+      "Sunscreen lip balm (10.31%)",
+      "Men's cologne (7.23%)",
+      "Nail care and treatments (6.41%)",
+      "Eau de toilette for women (4.82%)",
+      "Nail polish remover (4.8%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Benzyl Alcohol",
+    "inci_name": "BENZYL ALCOHOL",
+    "cas_number": "100-51-6",
+    "einecs_number": "202-859-9",
+    "description": "Benzyl alcohol is one of the allergens regulated by Europe. It is mostly used as a preservative. It is naturally present in many plants and fruits, including Jasmine, garlic and Ylang-Ylang, as well as apricot, almond, apple and blackcurrant... Benzyl alcohol is authorized in organic farming.",
+    "rating": "neutral",
+    "functions": [
+      "Preservative",
+      "Solvent",
+      "Viscosity controlling",
+      "Perfuming"
+    ],
+    "prevalence": "17.37% косметических средств",
+    "common_product_types": [
+      "Women fragrance set (51.74%)",
+      "Perfume for women (48.07%)",
+      "Eau de toilette for women (40.04%)",
+      "Hair botox (40%)",
+      "Hair conditioner (37.74%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Benzylhemiformal",
+    "inci_name": "BENZYLHEMIFORMAL",
+    "cas_number": "14548-60-8",
+    "einecs_number": "238-588-8",
+    "description": "Benzylhemiformal — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "avoid",
+    "functions": [
+      "Preservative"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Benzyl Cinnamate",
+    "inci_name": "BENZYL CINNAMATE",
+    "cas_number": "103-41-3",
+    "einecs_number": "203-109-3",
+    "description": "Benzyl cinnamate is one of the regulated allergens in Europe. It occurs naturally in Peruvian balsam, Tolu balsam, copaiba balsam, and benzoin. It is used as a flavoring in essential oils or can be produced in laboratories.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.5% косметических средств",
+    "common_product_types": [
+      "Mixed perfume water (10.48%)",
+      "Eau de parfum for men (8.09%)",
+      "Perfume for women (6.85%)",
+      "Eau de toilette for women (4.18%)",
+      "Men's cologne (3.31%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Benzylidene Camphor Sulfonic Acid",
+    "inci_name": "BENZYLIDENE CAMPHOR SULFONIC ACID",
+    "cas_number": "56039-58-8",
+    "einecs_number": "-",
+    "description": "Benzylidene camphor sulfonic acid is a chemical UV filter approved for use in cosmetics in Europe. It has a broad spectrum and absorbs both UVB and UVA rays. Due to its production method, it is associated with an orange flower in our app.",
+    "rating": "caution",
+    "functions": [
+      "Stabilising",
+      "Uv absorber",
+      "Uv filter"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Benzylparaben",
+    "inci_name": "BENZYLPARABEN",
+    "cas_number": "94-18-8",
+    "einecs_number": "202-311-9",
+    "description": "Benzylparaben — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Antimicrobial"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Berberis Vulgaris Bark Extract",
+    "inci_name": "BERBERIS VULGARIS BARK EXTRACT",
+    "cas_number": "84649-92-3 - Barberry bark extract",
+    "einecs_number": "283-473-8",
+    "description": "Berberis Vulgaris Bark Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Berberis Vulgaris Fruit Extract",
+    "inci_name": "BERBERIS VULGARIS FRUIT EXTRACT",
+    "cas_number": "84649-92-3 - Barberry fruit extract",
+    "einecs_number": "283-473-8",
+    "description": "Berberis Vulgaris Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Beta Vulgaris",
+    "inci_name": "BETA VULGARIS",
+    "cas_number": "7659-95-2 / 89957-88-0 / 89957-89-1",
+    "einecs_number": "231-628-5 / 289-609-2 / 289-610-8",
+    "description": "Must meet the purity criteria specified in Commission Directive 95/45 / EC (E 162)",
+    "rating": "neutral",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Beta Vulgaris Root Extract",
+    "inci_name": "BETA VULGARIS ROOT EXTRACT",
+    "cas_number": "89957-89-1 / 89957-90-4 - Beet extract",
+    "einecs_number": "289-610-8 / 289-611-3",
+    "description": "Beta Vulgaris Root Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.17% косметических средств",
+    "common_product_types": [
+      "Face moisturizing serum (0.81%)",
+      "Foundation (0.51%)",
+      "Face cream (0.48%)",
+      "Hair conditioner (0.43%)",
+      "Classic shampoo (0.31%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Beta Vulgaris Root Powder",
+    "inci_name": "BETA VULGARIS ROOT POWDER",
+    "cas_number": "89957-89-1 - Beet Powder",
+    "einecs_number": "289-610-8",
+    "description": "Beta Vulgaris Root Powder — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant",
+      "Binding agent",
+      "Hair dyeing"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Beta-Caryophyllene",
+    "inci_name": "BETA-CARYOPHYLLENE",
+    "cas_number": "87-44-5",
+    "einecs_number": "201-746-1",
+    "description": "Caryophyllene is a terpene with a woody, spicy, and earthy flavor. It is present in many essential oils and plants, particularly cannabis. It is one of the allergens regulated by Europe.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "0.4% косметических средств",
+    "common_product_types": [
+      "Eau de parfum for men (5.47%)",
+      "Perfume for women (3.88%)",
+      "Eau de toilette for women (2.32%)",
+      "Deodorant stick (2.03%)",
+      "Roll-on deodorant (1.54%)"
+    ],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Beta-Glucan",
+    "inci_name": "BETA-GLUCAN",
+    "cas_number": "1439905-58-4 / 53238-80-5 / 55965-23-6",
+    "einecs_number": "- / 258-443-2 / 310-127-6",
+    "description": "Beta-Glucan — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Bulking",
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "0.59% косметических средств",
+    "common_product_types": [
+      "Fabric mask (5.52%)",
+      "Mask / patch (5.09%)",
+      "Face moisturizing serum (3.07%)",
+      "Day anti-ageing face serum (1.92%)",
+      "Face lotion and toner (1.91%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Benzyl Salicylate",
+    "inci_name": "BENZYL SALICYLATE",
+    "cas_number": "118-58-1",
+    "einecs_number": "204-262-9",
+    "description": "Benzyl salicylate is one of Europe's regulated allergens. It is naturally produced by many plants and is used as a fragrance molecule in perfumed products: it is known for its light, balsamic, even musky scents. It is also a UV absorber, helping to stabilize products. The first sun creams were produced using this ingredient, but it was abandoned as it was not very effective.",
+    "rating": "neutral",
+    "functions": [
+      "Uv absorber",
+      "Perfuming"
+    ],
+    "prevalence": "10.65% косметических средств",
+    "common_product_types": [
+      "Perfume for women (60.21%)",
+      "Women fragrance set (52.35%)",
+      "Eau de toilette for women (49.39%)",
+      "Milking grease (46.24%)",
+      "Eau fraîche for women (40.43%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Natural."
+  },
+  {
+    "name": "Beta-Sitosterol",
+    "inci_name": "BETA-SITOSTEROL",
+    "cas_number": "83-46-5",
+    "einecs_number": "201-480-6",
+    "description": "Beta-Sitosterol — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emulsion stabilising",
+      "Masking",
+      "Skin conditioning",
+      "Stabilising"
+    ],
+    "prevalence": "0.86% косметических средств",
+    "common_product_types": [
+      "Anti-aging eye contour care (3.69%)",
+      "Lip balm (3.64%)",
+      "Anti-aging day face cream (3.24%)",
+      "Eye contour care (3.19%)",
+      "Night face cream (3.02%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Betaine",
+    "inci_name": "BETAINE",
+    "cas_number": "107-43-7",
+    "einecs_number": "203-490-6",
+    "description": "Betaine is used in cosmetics for its moisturizing power and its ability to protect the skin from irritation. It is also used in hair care to give them volume, improve their behavior and resistance. It is synthesized naturally by many plants, but also by some crustaceans. It is usually extracted from sugar beet or sugar cane.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Hair conditioning",
+      "Humectant",
+      "Skin conditioning",
+      "Viscosity controlling"
+    ],
+    "prevalence": "3.71% косметических средств",
+    "common_product_types": [
+      "Feet mask (31.55%)",
+      "Exfoliating pads (31.13%)",
+      "Fabric mask (29.33%)",
+      "Hand mask (18.86%)",
+      "Anti-aging ampoules (14.26%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Betaine Salicylate",
+    "inci_name": "BETAINE SALICYLATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Betaine Salicylate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Antimicrobial",
+      "Keratolytic"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Betula Alba Bark Extract",
+    "inci_name": "BETULA ALBA BARK EXTRACT",
+    "cas_number": "84012-15-7 - Birch bark extract",
+    "einecs_number": "281-660-9",
+    "description": "Betula Alba Bark Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Perfuming",
+      "Flavouring agent"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [
+      "Foundation (0.75%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Bertholletia Excelsa Seed Oil",
+    "inci_name": "BERTHOLLETIA EXCELSA SEED OIL",
+    "cas_number": "356065-50-4 - Brazil nut oil",
+    "einecs_number": "",
+    "description": "Bertholletia Excelsa Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.17% косметических средств",
+    "common_product_types": [
+      "Body scrub (1.33%)",
+      "Body moisturizer (1.14%)",
+      "Oxidative hair coloring (0.8%)",
+      "Hand cream (0.74%)",
+      "Hair mask (0.56%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Berberis Vulgaris Extract",
+    "inci_name": "BERBERIS VULGARIS EXTRACT",
+    "cas_number": "84649-92-3 - Barberry extract",
+    "einecs_number": "283-473-8",
+    "description": "Berberis Vulgaris Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Beta-Carotene",
+    "inci_name": "BETA-CAROTENE",
+    "cas_number": "7235-40-7",
+    "einecs_number": "230-636-6",
+    "description": "Beta-Carotene — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.54% косметических средств",
+    "common_product_types": [
+      "Tanning preparer (27.65%)",
+      "Tanning oil (20.83%)",
+      "Self-tanner (5.67%)",
+      "Adult sun cream (3.9%)",
+      "Children sun cream (3.14%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Betula Alba Leaf Extract",
+    "inci_name": "BETULA ALBA LEAF EXTRACT",
+    "cas_number": "84012-15-7 - Birch leaf extract",
+    "einecs_number": "281-660-9",
+    "description": "Betula Alba Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent",
+      "Cleansing",
+      "Masking",
+      "Skin conditioning",
+      "Soothing",
+      "Tonic"
+    ],
+    "prevalence": "0.26% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (1.79%)",
+      "Specific hair care (0.9%)",
+      "Classic shampoo (0.78%)",
+      "Hair conditioner (0.54%)",
+      "Shower gel (0.28%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Bha",
+    "inci_name": "BHA",
+    "cas_number": "25013-16-5 - Butylated hydroxyanisole",
+    "einecs_number": "246-563-8",
+    "description": "Bha — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Antioxidant",
+      "Masking"
+    ],
+    "prevalence": "0.44% косметических средств",
+    "common_product_types": [
+      "Nail art, false nails and accessories (31.7%)",
+      "Anti-aging day face cream (1.44%)",
+      "Gloss and lip gloss (1.39%)",
+      "Day anti-ageing face serum (1.16%)",
+      "Eyeshadow (0.82%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Bht",
+    "inci_name": "BHT",
+    "cas_number": "128-37-0 - Butylated hydroxytoluene",
+    "einecs_number": "204-881-4",
+    "description": "BHT or Butylhydroxytoluene is a phenol which is in the form of yellowish-white crystals. It is used for its antioxidant properties in cosmetics.IARC (International Center for Research on Cancer) classifies BHT among substances whose safety could not be established, the ARTAC (French Association for Therapeutic Anti-Cancer Research), class it, among the substances \"probably carcinogenic\".The substance is suspected to be an endocrine disruptor that can destabilize reproductive hormones in men and women. The molecule is also known as sensitizing, which can be a source of allergies.As far as it is possible in cosmetics to do otherwise, according to the precautionary principle, we classify this molecule in red on INCI Beauty.",
+    "rating": "avoid",
+    "functions": [
+      "Antioxidant",
+      "Masking"
+    ],
+    "prevalence": "7.45% косметических средств",
+    "common_product_types": [
+      "Razor blades (67.05%)",
+      "Beard razor (54.67%)",
+      "Men's eau de cologne (53.97%)",
+      "Men's cologne (51%)",
+      "Body razor (48.25%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Biotinoyl Tripeptide-1",
+    "inci_name": "BIOTINOYL TRIPEPTIDE-1",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Biotinoyl Tripeptide-1 — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Hair conditioning"
+    ],
+    "prevalence": "0.17% косметических средств",
+    "common_product_types": [
+      "Eyelashes and eyebrows care (28.46%)",
+      "Anti-hair loss treatment (8.48%)",
+      "Mascara (4.17%)",
+      "Fall protection shampoo (4.07%)",
+      "Specific hair care (0.83%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Biotin",
+    "inci_name": "BIOTIN",
+    "cas_number": "58-85-5 - Vitamin B7/H",
+    "einecs_number": "200-399-3",
+    "description": "Biotin — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Hair conditioning",
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "1.52% косметических средств",
+    "common_product_types": [
+      "Anti-hair loss treatment (25%)",
+      "Hair growth care (24.3%)",
+      "Fall protection shampoo (22.51%)",
+      "Eyelashes and eyebrows care (20.55%)",
+      "Cc cream (10.13%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Beta-Santalol",
+    "inci_name": "BETA-SANTALOL",
+    "cas_number": "77-42-9",
+    "einecs_number": "201-027-2",
+    "description": "Beta-Santalol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Bis(Pentaerythrityl Triacrylate) Pentaerythrityl Diacrylate/Ipdi Copolymer",
+    "inci_name": "BIS(PENTAERYTHRITYL TRIACRYLATE) PENTAERYTHRITYL DIACRYLATE/IPDI COPOLYMER",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Bis(Pentaerythrityl Triacrylate) Pentaerythrityl Diacrylate/Ipdi Copolymer — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Film forming"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Bis-(Hema/Ethylhexyl) Poly(1,4-Butanediol)-9/Tmdi/Ipdi Copolymer",
+    "inci_name": "BIS-(HEMA/ETHYLHEXYL) POLY(1,4-BUTANEDIOL)-9/TMDI/IPDI COPOLYMER",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Bis-(Hema/Ethylhexyl) Poly(1,4-Butanediol)-9/Tmdi/Ipdi Copolymer — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Binding agent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Betula Alba Juice",
+    "inci_name": "BETULA ALBA JUICE",
+    "cas_number": "84012-15-7 - Birch juice",
+    "einecs_number": "281-660-9",
+    "description": "Betula Alba Juice — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent",
+      "Tonic"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [
+      "Face cream (0.42%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Bis-4-Pca Dimethicone",
+    "inci_name": "BIS-4-PCA DIMETHICONE",
+    "cas_number": "179005-03-9",
+    "einecs_number": "",
+    "description": "Bis-4-Pca Dimethicone — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Hair conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Biosaccharide Gum-1",
+    "inci_name": "BIOSACCHARIDE GUM-1",
+    "cas_number": "194237-89-3",
+    "einecs_number": "",
+    "description": "This ingredient is a polysaccharide which is also called Fucocert or Fucogel. It is made up of an assembly of sugars, obtained by biotechnology from plant substrates such as corn. It is used as a moisturizing active, to create a biofilm that protects against dehydration, it helps stimulate cell renewal. It also has an interesting anti-aging activity so that it is often compared to hyaluronic acid.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.85% косметических средств",
+    "common_product_types": [
+      "Face moisturizer for men (8.78%)",
+      "Face moisturizing serum (5.12%)",
+      "Anti-blemish serum (4.77%)",
+      "Eye contour care (4.53%)",
+      "Bb cream (4.42%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Bis-Aminopropyl Dimethicone",
+    "inci_name": "BIS-AMINOPROPYL DIMETHICONE",
+    "cas_number": "106214-84-0",
+    "einecs_number": "-",
+    "description": "Bis-Aminopropyl Dimethicone — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Hair conditioning"
+    ],
+    "prevalence": "0.28% косметических средств",
+    "common_product_types": [
+      "Hair conditioner (7.32%)",
+      "Hair mask (4.59%)",
+      "Specific hair care (1.63%)",
+      "Classic shampoo (0.21%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Bis(Glyceryl Dimethacrylate) Pyromellitate",
+    "inci_name": "BIS(GLYCERYL DIMETHACRYLATE) PYROMELLITATE",
+    "cas_number": "148019-46-9",
+    "einecs_number": "",
+    "description": "Bis(Glyceryl Dimethacrylate) Pyromellitate — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Maintenance agent for nails"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Bis(Methacryloyloxyethyl) Phosphate",
+    "inci_name": "BIS(METHACRYLOYLOXYETHYL) PHOSPHATE",
+    "cas_number": "32435-46-4",
+    "einecs_number": "",
+    "description": "Bis(Methacryloyloxyethyl) Phosphate — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Maintenance agent for nails"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Bis-Diglyceryl Polyacyladipate-2",
+    "inci_name": "BIS-DIGLYCERYL POLYACYLADIPATE-2",
+    "cas_number": "82249-33-0",
+    "einecs_number": "406-144-4",
+    "description": "Bis-Diglyceryl Polyacyladipate-2 is a wax that gives cosmetic products a soft, smooth texture. It is a synthetic ingredient. It is widely used in lip care products, where it boosts the product's moisturizing power.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "1.6% косметических средств",
+    "common_product_types": [
+      "Make-up palette (27.81%)",
+      "Lipstick (23.84%)",
+      "Tinted lip balm (22.93%)",
+      "Make-up set (16.93%)",
+      "Sunscreen lip balm (16.69%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Synthetic."
+  },
+  {
+    "name": "Bis-Ethyl(Isostearylimidazoline) Isostearamide",
+    "inci_name": "BIS-ETHYL(ISOSTEARYLIMIDAZOLINE) ISOSTEARAMIDE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Bis-Ethyl(Isostearylimidazoline) Isostearamide — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Hair conditioning"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Bis-Ethylhexyl Poly(1,4-Butanediol)-13/Ipdi Copolymer",
+    "inci_name": "BIS-ETHYLHEXYL POLY(1,4-BUTANEDIOL)-13/IPDI COPOLYMER",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Bis-Ethylhexyl Poly(1,4-Butanediol)-13/Ipdi Copolymer — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Binding agent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Bis-(Isostearoyl/Oleoyl/Isopropyl) Dimonium Methosulfate",
+    "inci_name": "BIS-(ISOSTEAROYL/OLEOYL/ISOPROPYL) DIMONIUM METHOSULFATE",
+    "cas_number": "1474044-71-7",
+    "einecs_number": "",
+    "description": "Bis-(Isostearoyl/Oleoyl/Isopropyl) Dimonium Methosulfate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "caution",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [
+      "Hair conditioner (0.57%)",
+      "Hair mask (0.49%)",
+      "Classic shampoo (0.27%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Bis-Hea Poly(1,4-Butanediol)-9/Ipdi Copolymer",
+    "inci_name": "BIS-HEA POLY(1,4-BUTANEDIOL)-9/IPDI COPOLYMER",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Bis-Hea Poly(1,4-Butanediol)-9/Ipdi Copolymer — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Maintenance agent for nails"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Bis-Peg-18 Methyl Ether Dimethyl Silane",
+    "inci_name": "BIS-PEG-18 METHYL ETHER DIMETHYL SILANE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Bis-Peg-18 Methyl Ether Dimethyl Silane — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Emollient",
+      "Foam boosting",
+      "Hair conditioning",
+      "Humectant",
+      "Hydrotrope",
+      "Skin conditioning",
+      "Surfactant"
+    ],
+    "prevalence": "0.24% косметических средств",
+    "common_product_types": [
+      "Day anti-ageing face serum (2.08%)",
+      "Fabric mask (1.93%)",
+      "Face moisturizing serum (1.51%)",
+      "Anti-aging day face cream (1.06%)",
+      "Cream / gel mask (0.72%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Bis-Trimethylbenzoyl Phenylphosphine Oxide",
+    "inci_name": "BIS-TRIMETHYLBENZOYL PHENYLPHOSPHINE OXIDE",
+    "cas_number": "162881-26-7",
+    "einecs_number": "",
+    "description": "Bis-Trimethylbenzoyl Phenylphosphine Oxide — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Stabilising"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [
+      "Semi permanent polish (44.71%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Bis-Aminopropyl Diglycol Dimaleate",
+    "inci_name": "BIS-AMINOPROPYL DIGLYCOL DIMALEATE",
+    "cas_number": "1629579-82-3",
+    "einecs_number": "",
+    "description": "Bis-Aminopropyl Diglycol Dimaleate — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Hair conditioning",
+      "Hair waving or straightening",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Bishydroxyethyl Biscetyl Malonamide",
+    "inci_name": "BISHYDROXYETHYL BISCETYL MALONAMIDE",
+    "cas_number": "149591-38-8",
+    "einecs_number": "422-560-9",
+    "description": "Bishydroxyethyl Biscetyl Malonamide — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair conditioning",
+      "Skin conditioning",
+      "Skin protecting"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Bis-Diisopropanolamino-Pg-Propyl Disiloxane/Bis-Vinyl Dimethicone Copolymer",
+    "inci_name": "BIS-DIISOPROPANOLAMINO-PG-PROPYL DISILOXANE/BIS-VINYL DIMETHICONE COPOLYMER",
+    "cas_number": "2359671-63-7",
+    "einecs_number": "",
+    "description": "Bis-Diisopropanolamino-Pg-Propyl Disiloxane/Bis-Vinyl Dimethicone Copolymer — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Hair conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Bisabolol",
+    "inci_name": "BISABOLOL",
+    "cas_number": "515-69-5 / 23089-26-1",
+    "einecs_number": "208-205-9 / 245-423-3",
+    "description": "Bisabolol, also known as Levomenol, is obtained by distillation of certain essential oils, including wild camomile (Matricaria Recutita). It is in the form of a slightly fragrant oily liquid. It is used in cosmetics for its soothing properties, but is also known as an anti-inflammatory and healing agent. It is also for these functions (anti-irritant) that it is found in some toothpastes.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Skin conditioning",
+      "Soothing"
+    ],
+    "prevalence": "2.45% косметических средств",
+    "common_product_types": [
+      "After shave balm (30.68%)",
+      "After sun (21.12%)",
+      "Aftershave lotion (14.95%)",
+      "Anti-ageing night time face serum (14.17%)",
+      "Anti-redness care (13.43%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Bis-Ethylhexyl Poly(Caprolactone Neopentyl Glycol)/Ipdi Copolymer",
+    "inci_name": "BIS-ETHYLHEXYL POLY(CAPROLACTONE NEOPENTYL GLYCOL)/IPDI COPOLYMER",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Bis-Ethylhexyl Poly(Caprolactone Neopentyl Glycol)/Ipdi Copolymer — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Binding agent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Borago Officinalis Seed Oil",
+    "inci_name": "BORAGO OFFICINALIS SEED OIL",
+    "cas_number": "225234-12-8 - Borage seed oil",
+    "einecs_number": "",
+    "description": "Borago Officinalis Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.4% косметических средств",
+    "common_product_types": [
+      "Body and face moisturizing oil (3.03%)",
+      "Night face cream (3.02%)",
+      "Anti-aging day face cream (1.92%)",
+      "Eye contour care (1.74%)",
+      "Face cream (1.63%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Boric Acid",
+    "inci_name": "BORIC ACID",
+    "cas_number": "10043-35-3 / 11113-50-1",
+    "einecs_number": "233-139-2 / 234-343-4",
+    "description": "Boric acid prevents or delays bacterial growth and thus protects cosmetics and personal care products from bacteria. It is also used to regulate the pH of formulas, or to thicken certain products. It also has astringent properties (tightens the pores).",
+    "rating": "avoid",
+    "functions": [
+      "Antimicrobial",
+      "pH regulator",
+      "Denaturant"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine",
+    "inci_name": "BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
+    "cas_number": "187393-00-6",
+    "einecs_number": "-",
+    "description": "Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine (Bemotrizinol) is an organic (chemical) UV filter used in sunscreens. It has a broad spectrum and absorbs both UVA and UVB rays. Aside from its less-than-virtuous chemical transformation, the ingredient is considered biodegradable (soluble) and poses no known problems once released into the environment.",
+    "rating": "caution",
+    "functions": [
+      "Hair conditioning",
+      "Stabilising",
+      "Uv absorber",
+      "Uv filter"
+    ],
+    "prevalence": "1.77% косметических средств",
+    "common_product_types": [
+      "Anti-ageing sun cream (69.97%)",
+      "Children sun cream (61.4%)",
+      "Adult sun cream (53.32%)",
+      "Sunscreen lip balm (33.25%)",
+      "Cc cream (16.51%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Boswellia Carterii Gum Oil",
+    "inci_name": "BOSWELLIA CARTERII GUM OIL",
+    "cas_number": "89957-98-2 - Frankincense gum oil",
+    "einecs_number": "289-620-2",
+    "description": "Boswellia Carterii Gum Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Bixa Orellana Seed Oil",
+    "inci_name": "BIXA ORELLANA SEED OIL",
+    "cas_number": "89957-43-7 - Achiote seed oil",
+    "einecs_number": "289-561-2",
+    "description": "Bixa Orellana Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Humectant",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Boswellia Carterii Oil",
+    "inci_name": "BOSWELLIA CARTERII OIL",
+    "cas_number": "89957-98-2 / 8050-07-5 - Frankincense oil",
+    "einecs_number": "289-620-2 / 232-474-1",
+    "description": "Boswellia Carterii Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Tonic"
+    ],
+    "prevalence": "0.1% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Brassica Alcohol",
+    "inci_name": "BRASSICA ALCOHOL",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Brassica Alcohol — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Emulsion stabilising",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [
+      "Hair conditioner (0.9%)",
+      "Hair mask (0.75%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Bixa Orellana Seed Extract",
+    "inci_name": "BIXA ORELLANA SEED EXTRACT",
+    "cas_number": "89957-43-7 - Achiote seed extract",
+    "einecs_number": "289-561-2",
+    "description": "Bixa Orellana Seed Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.11% косметических средств",
+    "common_product_types": [
+      "Lipstick (0.85%)",
+      "Foundation (0.46%)",
+      "Adult sun cream (0.44%)",
+      "Classic shampoo (0.17%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Brassica Campestris/Aleurites Fordii Oil Copolymer",
+    "inci_name": "BRASSICA CAMPESTRIS/ALEURITES FORDII OIL COPOLYMER",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "This ingredient is a natural biodegradable polymer made from rapeseed oil and Tung oil (esterification, polymerization). It is easily degradable.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [
+      "Adult sun cream (0.51%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Brassica Nigra Seed Extract",
+    "inci_name": "BRASSICA NIGRA SEED EXTRACT",
+    "cas_number": "90064-15-6 - Black Mustard seed oil",
+    "einecs_number": "290-076-3",
+    "description": "Brassica Nigra Seed Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Brassica Oleracea Italica Extract",
+    "inci_name": "BRASSICA OLERACEA ITALICA EXTRACT",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Brassica Oleracea Italica Extract — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Astringent"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [
+      "Fabric mask (0.67%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Boron Nitride",
+    "inci_name": "BORON NITRIDE",
+    "cas_number": "10043-11-5",
+    "einecs_number": "701-292-9",
+    "description": "Boron Nitride — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Bulking",
+      "Slip modifier"
+    ],
+    "prevalence": "0.94% косметических средств",
+    "common_product_types": [
+      "Make-up palette (18.68%)",
+      "Bronze powder / sun powder (15.17%)",
+      "Compact powder (15.04%)",
+      "Loose powder (12.65%)",
+      "Eyeshadow (12.03%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Boswellia Serrata Oil",
+    "inci_name": "BOSWELLIA SERRATA OIL",
+    "cas_number": "97952-72-2 - Frankincense oil",
+    "einecs_number": "308-366-6",
+    "description": "Boswellia Serrata Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [
+      "Lipstick (0.24%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Brassica Oleracea Italica Sprout Extract",
+    "inci_name": "BRASSICA OLERACEA ITALICA SPROUT EXTRACT",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Brassica Oleracea Italica Sprout Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Brevoortia Oil",
+    "inci_name": "BREVOORTIA OIL",
+    "cas_number": "8002-50-4",
+    "einecs_number": "232-311-4",
+    "description": "Brevoortia Oil — косметический ингредиент. Происхождение: Animal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Solvent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Animal."
+  },
+  {
+    "name": "Brassicamidopropyl Dimethylamine",
+    "inci_name": "BRASSICAMIDOPROPYL DIMETHYLAMINE",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Brassicamidopropyl Dimethylamine — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.12% косметических средств",
+    "common_product_types": [
+      "Hair conditioner (1.7%)",
+      "Hair mask (1.55%)",
+      "Specific hair care (0.63%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Bromelain",
+    "inci_name": "BROMELAIN",
+    "cas_number": "9001-00-7 / 37189-34-7",
+    "einecs_number": "232-572-4 / 253-384-9",
+    "description": "Bromelain is a mixture of enzymes found in pineapple juice. In cosmetics, it has an effect on the smoothing and whitening of the skin, as well as on the elimination of freckles. Bromelain can act on the dead cells of the stratum corneum to degrade and detach them. It is allowed in organic.",
+    "rating": "safe",
+    "functions": [
+      "Keratolytic",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [
+      "Face scrub (1.3%)",
+      "Adult toothpaste (0.72%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Bromochlorophene",
+    "inci_name": "BROMOCHLOROPHENE",
+    "cas_number": "15435-29-7",
+    "einecs_number": "239-446-8",
+    "description": "Bromochlorophene — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Antimicrobial",
+      "Deodorant",
+      "Preservative"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Brassica Alba Seed Extract",
+    "inci_name": "BRASSICA ALBA SEED EXTRACT",
+    "cas_number": "84929-33-9 - White mustard seed extract",
+    "einecs_number": "284-517-9",
+    "description": "Brassica Alba Seed Extract — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Bromothymol Blue",
+    "inci_name": "BROMOTHYMOL BLUE",
+    "cas_number": "76-59-5 - Blue dye",
+    "einecs_number": "200-971-2",
+    "description": "Bromothymol Blue — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Cosmetic colorant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Buddleja Officinalis Flower Extract",
+    "inci_name": "BUDDLEJA OFFICINALIS FLOWER EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Buddleja Officinalis Flower Extract — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Uv filter"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [
+      "Adult sun cream (0.32%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Brassica Campestris Seed Oil",
+    "inci_name": "BRASSICA CAMPESTRIS SEED OIL",
+    "cas_number": "8002-13-9 / 90989-79-0 - Rapeseed oil",
+    "einecs_number": "232-299-0 / 292-737-1",
+    "description": "Brassica Campestris Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.48% косметических средств",
+    "common_product_types": [
+      "Shower oil (4.89%)",
+      "Body and face moisturizing oil (2.63%)",
+      "Lip balm (2.16%)",
+      "Anti-aging day face cream (1.76%)",
+      "Body moisturizer (1.67%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Butadiene",
+    "inci_name": "BUTADIENE",
+    "cas_number": "106-99-0; 25339-57-5",
+    "einecs_number": "203-450-8",
+    "description": "Butadiene — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Unclassified"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Bromocresol Green",
+    "inci_name": "BROMOCRESOL GREEN",
+    "cas_number": "76-60-8 - Green dye",
+    "einecs_number": "200-972-8",
+    "description": "Bromocresol Green — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Cosmetic colorant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Butane",
+    "inci_name": "BUTANE",
+    "cas_number": "106-97-8",
+    "einecs_number": "203-448-7",
+    "description": "Butane (like isobutane) is a refrigerant and aerosol used as a substitute for CFCs and HFCs to limit the impact on the ozone layer and the greenhouse effect. It has a low impact on the environment. It may have a weak anesthetic effect and / or an asphyxiant effect by depletion of the oxygen content. It is a low CO2 emitter.",
+    "rating": "neutral",
+    "functions": [
+      "Propellant"
+    ],
+    "prevalence": "1.83% косметических средств",
+    "common_product_types": [
+      "Dry shampoo (79.65%)",
+      "Deodorant spray (75.58%)",
+      "Shaving cream (74.54%)",
+      "Styling mousse (73.31%)",
+      "Shower foam (48.75%)"
+    ],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Brassica Oleracea Italica Seed Oil",
+    "inci_name": "BRASSICA OLERACEA ITALICA SEED OIL",
+    "cas_number": "223749-36-8 - Broccoli seed oil",
+    "einecs_number": "-",
+    "description": "Brassica Oleracea Italica Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [
+      "Solid shampoo (2.13%)",
+      "Hair conditioner (0.32%)",
+      "Classic shampoo (0.15%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Butyl Acetate",
+    "inci_name": "BUTYL ACETATE",
+    "cas_number": "123-86-4",
+    "einecs_number": "204-658-1",
+    "description": "Butyl acetate is a solvent used in nail polish. It is used in general with ethyl acetate to help dissolve nitrocellulose well. It allows a uniform distribution of colors, plastics or film-forming agents in nail polish. It is forbidden in organic.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Solvent"
+    ],
+    "prevalence": "1.72% косметических средств",
+    "common_product_types": [
+      "Nail polish (91.63%)",
+      "Top coat (87.25%)",
+      "Nail hardener (83.77%)",
+      "Varnish base (79.94%)",
+      "Nail care and treatments (43.97%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Synthetic."
+  },
+  {
+    "name": "Butyl Benzoate",
+    "inci_name": "BUTYL BENZOATE",
+    "cas_number": "136-60-7",
+    "einecs_number": "205-252-7",
+    "description": "Butyl Benzoate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Preservative"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Brilliant Black 1",
+    "inci_name": "BRILLIANT BLACK 1",
+    "cas_number": "2519-30-4 - Black hair dye",
+    "einecs_number": "219-746-5",
+    "description": "Brilliant Black 1 — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Butylated Pvp",
+    "inci_name": "BUTYLATED PVP",
+    "cas_number": "26160-96-3",
+    "einecs_number": "-",
+    "description": "Butylated Pvp — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Binding agent",
+      "Film forming",
+      "Hair fixing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Butylene Glycol",
+    "inci_name": "BUTYLENE GLYCOL",
+    "cas_number": "107-88-0 (i), 6290-03-5 (ii)",
+    "einecs_number": "203-529-7 (i), 228-532-0 (ii)",
+    "description": "Butylene Glycol is a chemical compound derived from petroleum, often used as humectant in skin care. It prevents the product from drying and makes the formulation more resistant to moisture. In sensitive individuals, butylene glycol may be irritating to skin, eyes and nasal passages, however it is considered the least irritating of all glycols. It can be authorized in organic, when it is bio-sourced and obtained by fermentation from sugar.",
+    "rating": "neutral",
+    "functions": [
+      "Humectant",
+      "Masking",
+      "Skin conditioning",
+      "Solvent",
+      "Viscosity controlling"
+    ],
+    "prevalence": "11.74% косметических средств",
+    "common_product_types": [
+      "Exfoliating pads (74.83%)",
+      "Fabric mask (63.49%)",
+      "Lip patch (55.88%)",
+      "Mask / patch (55.25%)",
+      "Feet mask (55.15%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Bumetrizole",
+    "inci_name": "BUMETRIZOLE",
+    "cas_number": "3896-11-5",
+    "einecs_number": "223-445-4",
+    "description": "Bumetrizole — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Uv absorber"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Butoxyethanol",
+    "inci_name": "BUTOXYETHANOL",
+    "cas_number": "111-76-2",
+    "einecs_number": "203-905-0",
+    "description": "Butoxyethanol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Solvent",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Butoxydiglycol",
+    "inci_name": "BUTOXYDIGLYCOL",
+    "cas_number": "112-34-5",
+    "einecs_number": "203-961-6",
+    "description": "Butoxydiglycol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Solvent",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Butyloctyl Salicylate",
+    "inci_name": "BUTYLOCTYL SALICYLATE",
+    "cas_number": "190085-41-7",
+    "einecs_number": "",
+    "description": "Butyloctyl Salicylate — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Hair conditioning",
+      "Skin conditioning",
+      "Solvent"
+    ],
+    "prevalence": "0.31% косметических средств",
+    "common_product_types": [
+      "Cc cream (18.39%)",
+      "Adult sun cream (6.75%)",
+      "Children sun cream (6.39%)",
+      "Anti-ageing sun cream (5.67%)",
+      "Bb cream (4.42%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Butylparaben",
+    "inci_name": "BUTYLPARABEN",
+    "cas_number": "94-26-8",
+    "einecs_number": "202-318-7",
+    "description": "Butylparaben is a long-chain paraben used in cosmetics as a preservative. It is suspected of being an endocrine disruptor, and even identified as such by the official scientific bodies of the main European countries: present on List I (List of substances identified as endocrine disruptors at EU level) of the EDLists website.Following the precautionary principle, and given the many doubts that persist concerning Butylparaben, the ingredient is associated with a red flower on our application.",
+    "rating": "avoid",
+    "functions": [
+      "Masking",
+      "Preservative"
+    ],
+    "prevalence": "0.77% косметических средств",
+    "common_product_types": [
+      "Feet moisturizers (3.12%)",
+      "Concealer / concealer (2.53%)",
+      "Compact powder (2.04%)",
+      "Treatment for curly hair (1.98%)",
+      "Mascara (1.76%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Butylphenyl Methylpropional",
+    "inci_name": "BUTYLPHENYL METHYLPROPIONAL",
+    "cas_number": "80-54-6",
+    "einecs_number": "201-289-8",
+    "description": "Lilial has been banned in Europe since March 1, 2022.",
+    "rating": "avoid",
+    "functions": [
+      "Masking",
+      "Perfuming"
+    ],
+    "prevalence": "1.53% косметических средств",
+    "common_product_types": [
+      "Styling mousse (5.43%)",
+      "Eau de toilette for women (5.32%)",
+      "Care for dry and damaged hair (5.21%)",
+      "Styling gel (4.63%)",
+      "Styling spray (4.09%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Butyrospermum Parkii Butter",
+    "inci_name": "BUTYROSPERMUM PARKII BUTTER",
+    "cas_number": "194043-92-0 -  91080-23-8 - Shea Butter",
+    "einecs_number": "293-515-7",
+    "description": "Shea butter is obtained from the fruit (nuts) of shea tree, a tree mainly present on the African continent. It is composed mainly of triglycerides, fatty acids, esters of wax and active ingredients: among them, vitamins (A, D, E), resinous esters, phytosterols, latex.It is used in many cosmetics for its soothing and softening properties for the epidermis. It can also protect the skin and scalp from many external aggressions.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Viscosity controlling"
+    ],
+    "prevalence": "13.45% косметических средств",
+    "common_product_types": [
+      "Shea butter (97.09%)",
+      "Hand set (71.43%)",
+      "Hand mask (65.35%)",
+      "Lip balm (58.41%)",
+      "Anti-aging night face cream (56.74%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Butyl Methoxydibenzoylmethane",
+    "inci_name": "BUTYL METHOXYDIBENZOYLMETHANE",
+    "cas_number": "70356-09-1",
+    "einecs_number": "274-581-6",
+    "description": "Butyl Methoxydibenzoylmethane (Avobenzone) is a synthetic UVA filter. It absorbs UVA radiation (from 320 to 400 nm). It is accompanied by an orange flower on our app due to its environmentally unfriendly production method.",
+    "rating": "caution",
+    "functions": [
+      "Stabilising",
+      "Uv absorber",
+      "Uv filter"
+    ],
+    "prevalence": "4.24% косметических средств",
+    "common_product_types": [
+      "Sunscreen lip balm (57.79%)",
+      "Children sun cream (57.62%)",
+      "Anti-ageing sun cream (56.62%)",
+      "Adult sun cream (55.45%)",
+      "Perfume set for men (55.14%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Butylene Glycol Dicaprylate/Dicaprate",
+    "inci_name": "BUTYLENE GLYCOL DICAPRYLATE/DICAPRATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Butylene Glycol Dicaprylate/Dicaprate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.35% косметических средств",
+    "common_product_types": [
+      "Cc cream (13.88%)",
+      "Children sun cream (8.81%)",
+      "Anti-ageing sun cream (8.01%)",
+      "Adult sun cream (4.69%)",
+      "Eau de toilette for women (4.6%)"
+    ],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Butyrospermum Parkii Butter Extract",
+    "inci_name": "BUTYROSPERMUM PARKII BUTTER EXTRACT",
+    "cas_number": "91080-23-8 - Shea butter extract",
+    "einecs_number": "293-515-7",
+    "description": "Butyrospermum Parkii Butter Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.43% косметических средств",
+    "common_product_types": [
+      "Body hair removal cream (14.32%)",
+      "Hand cream (1.55%)",
+      "Body moisturizer (1.19%)",
+      "Liquid soap (1.12%)",
+      "Face cream (1.08%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Butylene/Ethylene/Styrene Copolymer",
+    "inci_name": "BUTYLENE/ETHYLENE/STYRENE COPOLYMER",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Butylene/Ethylene/Styrene Copolymer — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.35% косметических средств",
+    "common_product_types": [
+      "Gloss and lip gloss (13.67%)",
+      "Lip oil (10.18%)",
+      "Specific care for lips (10.08%)",
+      "Lipstick (3.67%)",
+      "Lip balm (1.12%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Butyrospermum Parkii Oil",
+    "inci_name": "BUTYROSPERMUM PARKII OIL",
+    "cas_number": "91080-23-8 - Shea oil",
+    "einecs_number": "293-515-7",
+    "description": "Butyrospermum Parkii Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.22% косметических средств",
+    "common_product_types": [
+      "Solid soap (0.96%)",
+      "Body and face moisturizing oil (0.83%)",
+      "Hand cream (0.55%)",
+      "Body moisturizer (0.47%)",
+      "Hair mask (0.46%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Butyrospermum Parkii Seedcake Extract",
+    "inci_name": "BUTYROSPERMUM PARKII SEEDCAKE EXTRACT",
+    "cas_number": "91080-23-8 - Shea butter extract",
+    "einecs_number": "293-515-7",
+    "description": "Butyrospermum Parkii Seedcake Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin protecting"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [
+      "Foundation (0.6%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  }
+]

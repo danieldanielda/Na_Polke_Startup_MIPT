@@ -1,0 +1,983 @@
+[
+  {
+    "name": "Illite",
+    "inci_name": "ILLITE",
+    "cas_number": "12173-60-3 - Illite Clay",
+    "einecs_number": "",
+    "description": "Illite — косметический ингредиент. Происхождение: Mineral.",
+    "rating": "safe",
+    "functions": [
+      "Abrasive",
+      "Absorbent",
+      "Anticaking",
+      "Bulking"
+    ],
+    "prevalence": "0.37% косметических средств",
+    "common_product_types": [
+      "Clay and ghassoul (28.71%)",
+      "Solid shampoo (12.26%)",
+      "Anti-blemish mask (10.68%)",
+      "Cream / gel mask (5.95%)",
+      "Solid soap (3.46%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Mineral."
+  },
+  {
+    "name": "Imidazole",
+    "inci_name": "IMIDAZOLE",
+    "cas_number": "288-32-4",
+    "einecs_number": "206-019-2",
+    "description": "Imidazole — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "pH regulator"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Illicium Verum Fruit Extract",
+    "inci_name": "ILLICIUM VERUM FRUIT EXTRACT",
+    "cas_number": "84650-59-9 - Star Anise fruit extract",
+    "einecs_number": "283-518-1",
+    "description": "Illicium Verum Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "0.22% косметических средств",
+    "common_product_types": [
+      "Feet mask (10.73%)",
+      "Fabric mask (5.98%)",
+      "Mask / patch (3.68%)",
+      "Cream / gel mask (2.3%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Illicium Verum Fruit/Seed Oil",
+    "inci_name": "ILLICIUM VERUM FRUIT/SEED OIL",
+    "cas_number": "8007-70-3 / 84650-59-9 - Star Anise oil (Seed/fruit)",
+    "einecs_number": "- / 283-518-1",
+    "description": "Illicium Verum Fruit/Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Oral care/hygiene agent",
+      "Tonic"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [
+      "Adult toothpaste (0.47%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Imidazolidinyl Urea",
+    "inci_name": "IMIDAZOLIDINYL UREA",
+    "cas_number": "39236-46-9",
+    "einecs_number": "254-372-6",
+    "description": "Imidazolidinyl Urea is an antimicrobial preservative found in cosmetics. It is often used to protect against the damage caused by yeast, bacteria or mold included in the formulas. It is generally used with other preservatives in order to cover the widest possible spectrum.It is considered a liberator of formaldehyde in cosmetics.",
+    "rating": "avoid",
+    "functions": [
+      "Preservative"
+    ],
+    "prevalence": "1.19% косметических средств",
+    "common_product_types": [
+      "Detangler (leave-in) (2.78%)",
+      "Styling gel (2.34%)",
+      "Hair mask (2.07%)",
+      "Hand cream (1.74%)",
+      "Treatment for curly hair (1.66%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Indigofera Tinctoria",
+    "inci_name": "INDIGOFERA TINCTORIA",
+    "cas_number": "84775-63-3",
+    "einecs_number": "283-892-6",
+    "description": "Indigofera Tinctoria — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [
+      "Vegetal hair color (9.43%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Impatiens Capensis Extract",
+    "inci_name": "IMPATIENS CAPENSIS EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Impatiens Capensis Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent",
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Indigofera Tinctoria Extract",
+    "inci_name": "INDIGOFERA TINCTORIA EXTRACT",
+    "cas_number": "84775-63-3",
+    "einecs_number": "283-892-6",
+    "description": "Indigofera Tinctoria Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Indigofera Tinctoria Leaf",
+    "inci_name": "INDIGOFERA TINCTORIA LEAF",
+    "cas_number": "84775-63-3",
+    "einecs_number": "283-892-6",
+    "description": "Indigofera Tinctoria Leaf — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Imperata Cylindrica Root Extract",
+    "inci_name": "IMPERATA CYLINDRICA ROOT EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Imperata Cylindrica Root Extract — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.1% косметических средств",
+    "common_product_types": [
+      "Anti-aging day face cream (0.7%)",
+      "Face cream (0.66%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Indigofera Tinctoria Leaf Extract",
+    "inci_name": "INDIGOFERA TINCTORIA LEAF EXTRACT",
+    "cas_number": "84775-63-3",
+    "einecs_number": "283-892-6",
+    "description": "Indigofera Tinctoria Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Inulin",
+    "inci_name": "INULIN",
+    "cas_number": "9005-80-5",
+    "einecs_number": "232-684-3",
+    "description": "Inulin is a simple sugar (fructose) produced naturally by many plants. It is used instead of conventional sugars in food preparations. In cosmetics, it is used to soften skin and hair. It is used as a hair conditioner.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "1.08% косметических средств",
+    "common_product_types": [
+      "Children shower gel (6.49%)",
+      "Personal hygiene (5.68%)",
+      "Solid shampoo (5.67%)",
+      "Fall protection shampoo (5.19%)",
+      "2-in-1 shampoo and body wash for baby (4.7%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Indigofera Tinctoria Leaf Powder",
+    "inci_name": "INDIGOFERA TINCTORIA LEAF POWDER",
+    "cas_number": "84775-63-3",
+    "einecs_number": "283-892-6",
+    "description": "Indigofera Tinctoria Leaf Powder — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning",
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [
+      "Vegetal hair color (40.4%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Isatis Tinctoria Seed Oil",
+    "inci_name": "ISATIS TINCTORIA SEED OIL",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Isatis Tinctoria Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Ipomoea Batatas Root Extract",
+    "inci_name": "IPOMOEA BATATAS ROOT EXTRACT",
+    "cas_number": "223749-11-9 - Sweet Potato extract",
+    "einecs_number": "",
+    "description": "Ipomoea Batatas Root Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Iris Florentina Root Extract",
+    "inci_name": "IRIS FLORENTINA ROOT EXTRACT",
+    "cas_number": "90045-89-9 - Orris root extract",
+    "einecs_number": "289-954-9",
+    "description": "Iris Florentina Root Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Tonic"
+    ],
+    "prevalence": "0.16% косметических средств",
+    "common_product_types": [
+      "Anti-aging day face cream (0.91%)",
+      "Foundation (0.41%)",
+      "Face cream (0.37%)",
+      "Classic shampoo (0.16%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Isoamyl Allylglycolate",
+    "inci_name": "ISOAMYL ALLYLGLYCOLATE",
+    "cas_number": "67634-00-8",
+    "einecs_number": "266-803-5",
+    "description": "Isoamyl Allylglycolate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Isoamyl Laurate",
+    "inci_name": "ISOAMYL LAURATE",
+    "cas_number": "6309-51-9",
+    "einecs_number": "228-626-1",
+    "description": "Isoamyl Laurate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.86% косметических средств",
+    "common_product_types": [
+      "Lip pencil (6.62%)",
+      "Night face cream (4.78%)",
+      "Bb cream (4.03%)",
+      "Anti-aging night face cream (3.46%)",
+      "Concealer / concealer (2.74%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Isoamyl P-Methoxycinnamate",
+    "inci_name": "ISOAMYL P-METHOXYCINNAMATE",
+    "cas_number": "71617-10-2",
+    "einecs_number": "275-702-5",
+    "description": "Isoamyl P-Methoxycinnamate (Amiloxate) is a chemical UV filter authorized in Europe, which protects against UVB rays. Listed in CORAP since 2016, the ingredient is suspected of being an endocrine disruptor (Environment), and European health authorities are still awaiting additional information!ECHA (European Chemical Industry) concluded in 2018 that additional information was required to enable the competent authority of the evaluating Member State (Federal Office for Chemicals, Germany) to complete the assessment to determine whether the substance constitutes a hazard or a risk to the environment.The concern regarding the ingredient relates to the potential for environmental endocrine disruption in non-mammalian species (amphibians). The endocrine activity of the substance in amphibians needs to be clarified to determine whether it poses a hazard and/or a risk to the environment.",
+    "rating": "avoid",
+    "functions": [
+      "Stabilising",
+      "Uv absorber",
+      "Uv filter"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [
+      "Adult sun cream (1.58%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Isobutane",
+    "inci_name": "ISOBUTANE",
+    "cas_number": "75-28-5",
+    "einecs_number": "200-857-2",
+    "description": "Isobutane (like butane) is a refrigerant and aerosol used as a substitute for CFCs and HFCs to limit the impact on the ozone layer and the greenhouse effect. It has a low impact on the environment. It may have a weak anesthetic effect and / or an asphyxiant effect by depletion of the oxygen content. It is a low CO2 emitter.",
+    "rating": "neutral",
+    "functions": [
+      "Propellant"
+    ],
+    "prevalence": "1.84% косметических средств",
+    "common_product_types": [
+      "Shaving cream (77.93%)",
+      "Shaving gel (77.61%)",
+      "Deodorant spray (72.42%)",
+      "Dry shampoo (67.57%)",
+      "Body shaving gel and foam (65.56%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Synthetic."
+  },
+  {
+    "name": "Isobutylamido Thiazolyl Resorcinol",
+    "inci_name": "ISOBUTYLAMIDO THIAZOLYL RESORCINOL",
+    "cas_number": "1428450-95-6",
+    "einecs_number": "-",
+    "description": "Isobutylamido Thiazolyl Resorcinol — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Antioxidant",
+      "Bleaching",
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Isobutyl Benzoate",
+    "inci_name": "ISOBUTYL BENZOATE",
+    "cas_number": "120-50-3",
+    "einecs_number": "204-401-3",
+    "description": "Isobutyl Benzoate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Preservative",
+      "Solvent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Inositol",
+    "inci_name": "INOSITOL",
+    "cas_number": "87-89-8",
+    "einecs_number": "201-781-2",
+    "description": "Inositol — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Hair conditioning",
+      "Humectant"
+    ],
+    "prevalence": "0.53% косметических средств",
+    "common_product_types": [
+      "After sun (3.56%)",
+      "Day anti-ageing face serum (2.08%)",
+      "Anti-aging day face cream (1.96%)",
+      "Face moisturizing serum (1.39%)",
+      "Face cream (1.34%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Iodopropynyl Butylcarbamate",
+    "inci_name": "IODOPROPYNYL BUTYLCARBAMATE",
+    "cas_number": "55406-53-6",
+    "einecs_number": "259-627-5",
+    "description": "Iodopropynyl Butylcarbamate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Preservative"
+    ],
+    "prevalence": "1.2% косметических средств",
+    "common_product_types": [
+      "Styling gel (9.63%)",
+      "Styling hair wax (8.43%)",
+      "Styling cream (5.49%)",
+      "Cleansing wipes (5.49%)",
+      "Treatment for curly hair (4.69%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Isoamyl Alcohol",
+    "inci_name": "ISOAMYL ALCOHOL",
+    "cas_number": "123-51-3",
+    "einecs_number": "204-633-5",
+    "description": "Isoamyl Alcohol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming",
+      "Flavouring agent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Isodecyl Neopentanoate",
+    "inci_name": "ISODECYL NEOPENTANOATE",
+    "cas_number": "60209-82-7",
+    "einecs_number": "262-108-6",
+    "description": "Isodecyl Neopentanoate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.33% косметических средств",
+    "common_product_types": [
+      "Concealer / concealer (3.19%)",
+      "Foundation (1.52%)",
+      "Adult sun cream (1.43%)",
+      "Compact powder (1.37%)",
+      "Anti-aging day face cream (1.29%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Isododecane",
+    "inci_name": "ISODODECANE",
+    "cas_number": "31807-55-3 / 93685-81-5 / 13475-82-6",
+    "einecs_number": "250-816-8 / 297-629-8 / 236-757-0",
+    "description": "Isododecane is a branched-chain aliphatic hydrocarbon derived from petroleum. This mineral oil is an emollient, which improves the distribution of cosmetic products on the skin, offering a light, non-greasy feel. It is associated with an orange flower on our application, given its petrochemical origin.",
+    "rating": "caution",
+    "functions": [
+      "Emollient",
+      "Solvent",
+      "Perfuming"
+    ],
+    "prevalence": "2.98% косметических средств",
+    "common_product_types": [
+      "Eyelid primer and base (50%)",
+      "Lacquer and lip ink (41.3%)",
+      "Foundation (38.01%)",
+      "Eyebrow mascara and gel (32.44%)",
+      "Concealer (27.35%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Isoeicosane",
+    "inci_name": "ISOEICOSANE",
+    "cas_number": "93685-79-1",
+    "einecs_number": "297-627-7",
+    "description": "Isoeicosane — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Emollient",
+      "Skin conditioning",
+      "Solvent"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [
+      "Eyeshadow (0.49%)",
+      "Lipstick (0.37%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Isoeugenyl Acetate",
+    "inci_name": "ISOEUGENYL ACETATE",
+    "cas_number": "93-29-8",
+    "einecs_number": "202-236-1",
+    "description": "Isoeugenyl acetate is a synthetic aromatic compound found in cosmetics. It is an acetylated version of isoeugenol. It is one of the regulated allergens in Europe.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [
+      "Perfume for women (1.4%)",
+      "Body moisturizer (0.21%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Synthetic."
+  },
+  {
+    "name": "Isoeugenol",
+    "inci_name": "ISOEUGENOL",
+    "cas_number": "97-54-1",
+    "einecs_number": "202-590-7",
+    "description": "Isoeugenol is an aromatic compound that is one of the allergens regulated by Europe. It occurs naturally in the essential oils of ylang-ylang, clove, and cinnamon. Its aroma is both sweet and spicy.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming",
+      "Flavouring agent"
+    ],
+    "prevalence": "1.51% косметических средств",
+    "common_product_types": [
+      "Perfume for women (25.69%)",
+      "Mixed perfume water (25.51%)",
+      "Eau de parfum for men (25.21%)",
+      "Eau de toilette for women (21.81%)",
+      "Women fragrance set (18.81%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Natural."
+  },
+  {
+    "name": "Isobutylparaben",
+    "inci_name": "ISOBUTYLPARABEN",
+    "cas_number": "4247-02-3",
+    "einecs_number": "224-208-8",
+    "description": "This ingredient has been banned in cosmetics in Europe since July 30, 2015.",
+    "rating": "avoid",
+    "functions": [
+      "Antimicrobial"
+    ],
+    "prevalence": "0.16% косметических средств",
+    "common_product_types": [
+      "Body moisturizer (0.26%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Isocetyl Alcohol",
+    "inci_name": "ISOCETYL ALCOHOL",
+    "cas_number": "36311-34-9",
+    "einecs_number": "252-964-9",
+    "description": "Isocetyl Alcohol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Emollient",
+      "Skin conditioning",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Isopentyldiol",
+    "inci_name": "ISOPENTYLDIOL",
+    "cas_number": "50468-22-9 / 2568-33-4",
+    "einecs_number": "256-597-5 / 459-270-7",
+    "description": "Isopentyldiol — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Solvent"
+    ],
+    "prevalence": "0.28% косметических средств",
+    "common_product_types": [
+      "Fabric mask (0.88%)",
+      "Hair mask (0.62%)",
+      "Specific hair care (0.61%)",
+      "Eyeshadow (0.5%)",
+      "Face cream (0.3%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Isononyl Isononanoate",
+    "inci_name": "ISONONYL ISONONANOATE",
+    "cas_number": "59219-71-5 / 42131-25-9",
+    "einecs_number": "261-665-2 / -",
+    "description": "Isononyl Isononanoate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "1.58% косметических средств",
+    "common_product_types": [
+      "Contouring (19.18%)",
+      "Concealer / concealer (13.08%)",
+      "Make-up palette (10.96%)",
+      "Lipstick (9.07%)",
+      "Foundation and primer (8.57%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Isopropyl Benzoate",
+    "inci_name": "ISOPROPYL BENZOATE",
+    "cas_number": "939-48-0",
+    "einecs_number": "213-361-6",
+    "description": "Isopropyl Benzoate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Preservative"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Isopropyl Cloprostenate",
+    "inci_name": "ISOPROPYL CLOPROSTENATE",
+    "cas_number": "157283-66-4",
+    "einecs_number": "-",
+    "description": "Isopropyl Cloprostenate — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Hair conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Isononyl Alcohol",
+    "inci_name": "ISONONYL ALCOHOL",
+    "cas_number": "27458-94-2",
+    "einecs_number": "248-471-3",
+    "description": "Isononyl Alcohol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Isohexadecane",
+    "inci_name": "ISOHEXADECANE",
+    "cas_number": "4390-04-9, 60908-77-2, 93685-80-4",
+    "einecs_number": "224-506-8, -, 297-628-2",
+    "description": "Isohexadecane is a hydrocarbon derived from petroleum. It is an emollient that leaves the skin feeling silky-smooth. It is accompanied by an orange flower on INCI Beauty because of the way it is produced.",
+    "rating": "caution",
+    "functions": [
+      "Emollient",
+      "Solvent"
+    ],
+    "prevalence": "1.92% косметических средств",
+    "common_product_types": [
+      "Make-up remover lotion (20.72%)",
+      "Anti-aging night face cream (10.59%)",
+      "Anti-aging eye contour care (10.03%)",
+      "Anti-aging day face cream (9.53%)",
+      "Eyebrow mascara and gel (8.81%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Isoleucine",
+    "inci_name": "ISOLEUCINE",
+    "cas_number": "73-32-5 / 443-79-8",
+    "einecs_number": "200-798-2 / 207-139-8",
+    "description": "Isoleucine — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.58% косметических средств",
+    "common_product_types": [
+      "Fall protection shampoo (3.27%)",
+      "Detangler (leave-in) (2.78%)",
+      "Hair mask (2.55%)",
+      "Specific hair care (1.99%)",
+      "Hair conditioner (1.57%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Isopropyl Myristate",
+    "inci_name": "ISOPROPYL MYRISTATE",
+    "cas_number": "110-27-0",
+    "einecs_number": "203-751-4",
+    "description": "Isopropyl Myristate is an organic solvent. It is widely used in cosmetics and pharmaceuticals (in emulsion with water, to facilitate penetration of products into the skin).",
+    "rating": "safe",
+    "functions": [
+      "Binding agent",
+      "Emollient",
+      "Masking",
+      "Perfuming"
+    ],
+    "prevalence": "3.91% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (17.89%)",
+      "Dry shampoo (17.79%)",
+      "Deodorant spray (16.23%)",
+      "Body hair removal cream (15.02%)",
+      "Hair mask (12.79%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Isopropyl Titanium Triisostearate",
+    "inci_name": "ISOPROPYL TITANIUM TRIISOSTEARATE",
+    "cas_number": "61417-49-0",
+    "einecs_number": "262-774-8",
+    "description": "Isopropyl Titanium Triisostearate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Emulsifying"
+    ],
+    "prevalence": "0.43% косметических средств",
+    "common_product_types": [
+      "Concealer (5.76%)",
+      "Foundation (4.63%)",
+      "Lipstick (4.58%)",
+      "Bb cream (4.48%)",
+      "Nail polish (2.32%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Isopropyl Palmitate",
+    "inci_name": "ISOPROPYL PALMITATE",
+    "cas_number": "142-91-6",
+    "einecs_number": "205-571-1",
+    "description": "Isoporpyl palmitate is used in cosmetics as a skin lubricant. It makes it softer and smoother. It can also be used as a binder.",
+    "rating": "safe",
+    "functions": [
+      "Binding agent",
+      "Emollient",
+      "Masking",
+      "Perfuming"
+    ],
+    "prevalence": "2.75% косметических средств",
+    "common_product_types": [
+      "Shower foam (36.67%)",
+      "Shaving gel (19.15%)",
+      "Baby care oil (17.92%)",
+      "After shave balm (16.29%)",
+      "Body moisturizer (15.75%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Isopropylamine Dodecylbenzenesulfonate",
+    "inci_name": "ISOPROPYLAMINE DODECYLBENZENESULFONATE",
+    "cas_number": "26264-05-1",
+    "einecs_number": "247-556-2",
+    "description": "Isopropylamine Dodecylbenzenesulfonate — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Cleansing",
+      "Surfactant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Isopropylidenediphenyl Bisoxyhydroxypropyl Methacrylate",
+    "inci_name": "ISOPROPYLIDENEDIPHENYL BISOXYHYDROXYPROPYL METHACRYLATE",
+    "cas_number": "1565-94-2",
+    "einecs_number": "216-367-7",
+    "description": "Isopropylidenediphenyl Bisoxyhydroxypropyl Methacrylate — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Film forming"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Isopropylparaben",
+    "inci_name": "ISOPROPYLPARABEN",
+    "cas_number": "4191-73-5",
+    "einecs_number": "224-069-3",
+    "description": "Isopropylparaben — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "avoid",
+    "functions": [
+      "Preservative"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Isopropyl Alcohol",
+    "inci_name": "ISOPROPYL ALCOHOL",
+    "cas_number": "67-63-0",
+    "einecs_number": "200-661-7",
+    "description": "Isopropyl alcohol is one of the most widely used alcohols in cosmetics. Discovered in the 1920s, it is synthesized from a reaction between propylene and sulfuric acid, followed by hydrolysis. It is used as an antiseptic in cosmetic products: it is found for example in aftershave lotions, hand lotions.Note that the oxidation of isopropyl alcohol produces acetone.",
+    "rating": "neutral",
+    "functions": [
+      "Antifoaming",
+      "Solvent",
+      "Viscosity controlling",
+      "Perfuming"
+    ],
+    "prevalence": "4.46% косметических средств",
+    "common_product_types": [
+      "Nail polish (88.85%)",
+      "Top coat (75.6%)",
+      "Nail hardener (73.3%)",
+      "Varnish base (71.87%)",
+      "Nail care and treatments (42.59%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Synthetic."
+  },
+  {
+    "name": "Isostearyl Alcohol",
+    "inci_name": "ISOSTEARYL ALCOHOL",
+    "cas_number": "27458-93-1",
+    "einecs_number": "248-470-8",
+    "description": "Isostearyl alcohol is a fatty alcohol used. It is used in cosmetics as an emollient, that is, it softens and eases the skin. It is authorized in organic.The CIR (Cosmetic Ingredient Review) in an annual report published in 2008, concluded the safety of fatty alcohols.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.18% косметических средств",
+    "common_product_types": [
+      "Gloss and lip gloss (1.39%)",
+      "Lipstick (0.87%)",
+      "Oxidative hair coloring (0.74%)",
+      "Eyeshadow (0.66%)",
+      "Foundation (0.64%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Isostearyl Isostearate",
+    "inci_name": "ISOSTEARYL ISOSTEARATE",
+    "cas_number": "41669-30-1",
+    "einecs_number": "255-485-3",
+    "description": "Isostearyl Isostearate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Binding agent",
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.49% косметических средств",
+    "common_product_types": [
+      "Lipstick (5.04%)",
+      "Tinted lip balm (4.1%)",
+      "Gloss and lip gloss (2.65%)",
+      "Blush (2.09%)",
+      "Compact powder (1.7%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Isostearyl Neopentanoate",
+    "inci_name": "ISOSTEARYL NEOPENTANOATE",
+    "cas_number": "58958-60-4",
+    "einecs_number": "261-521-9",
+    "description": "Isostearyl Neopentanoate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Binding agent",
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.23% косметических средств",
+    "common_product_types": [
+      "Eyeshadow (5.01%)",
+      "Bronze powder / sun powder (4.37%)",
+      "Blush (3.15%)",
+      "Compact powder (2.91%)",
+      "Foundation (1%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Isotridecyl Alcohol",
+    "inci_name": "ISOTRIDECYL ALCOHOL",
+    "cas_number": "27458-92-0",
+    "einecs_number": "",
+    "description": "Isotridecyl Alcohol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Isosorbide Dicaprylate/Caprate",
+    "inci_name": "ISOSORBIDE DICAPRYLATE/CAPRATE",
+    "cas_number": "1215036-04-6",
+    "einecs_number": "",
+    "description": "Isosorbide Dicaprylate / Caprate is a resin (plasticizing agent) used in nail polish. There is little information about it, but it is often used in nail polishes that claim to be \"natural\". It is however not organic.",
+    "rating": "safe",
+    "functions": [
+      "Plasticiser"
+    ],
+    "prevalence": "0.1% косметических средств",
+    "common_product_types": [
+      "Nail polish (7.97%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Isostearamidopropyl Morpholine Lactate",
+    "inci_name": "ISOSTEARAMIDOPROPYL MORPHOLINE LACTATE",
+    "cas_number": "72300-24-4 / 133651-38-4",
+    "einecs_number": "- / -",
+    "description": "Isostearamidopropyl Morpholine Lactate — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Antistatic"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Isostearic Acid",
+    "inci_name": "ISOSTEARIC ACID",
+    "cas_number": "30399-84-9 / 2724-58-5",
+    "einecs_number": "250-178-0",
+    "description": "Isostearic Acid — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Binding agent",
+      "Cleansing",
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "0.45% косметических средств",
+    "common_product_types": [
+      "Tinted cream / gel (9.13%)",
+      "Concealer / concealer (5.86%)",
+      "Foundation (4.66%)",
+      "Concealer (3.51%)",
+      "Oxidative hair coloring (2.56%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Isopropyl Isostearate",
+    "inci_name": "ISOPROPYL ISOSTEARATE",
+    "cas_number": "31478-84-9 / 68171-33-5",
+    "einecs_number": "250-651-1 / 269-023-3",
+    "description": "Isopropyl Isostearate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Binding agent",
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.3% косметических средств",
+    "common_product_types": [
+      "Bronze powder / sun powder (4.37%)",
+      "Anti-aging day face cream (4.23%)",
+      "Blush (2.03%)",
+      "Compact powder (1.84%)",
+      "Eyeshadow (1.3%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  }
+]

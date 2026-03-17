@@ -1,0 +1,2636 @@
+[
+  {
+    "name": "Taed",
+    "inci_name": "TAED",
+    "cas_number": "10543-57-4",
+    "einecs_number": "234-123-8",
+    "description": "This ingredient used in laundry improves the whitening during washing.",
+    "rating": "neutral",
+    "functions": [
+      "Bleaching"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "T-Butyl Alcohol",
+    "inci_name": "T-BUTYL ALCOHOL",
+    "cas_number": "75-65-0",
+    "einecs_number": "200-889-7",
+    "description": "T-Butyl Alcohol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Denaturant",
+      "Solvent",
+      "Perfuming"
+    ],
+    "prevalence": "0.42% косметических средств",
+    "common_product_types": [
+      "Scented mist for women (2.71%)",
+      "Eau de toilette for women (2.57%)",
+      "Anti-aging day face cream (2.07%)",
+      "Adult sun cream (1.63%)",
+      "Day anti-ageing face serum (1.62%)"
+    ],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Tagetes Minuta Flower Oil",
+    "inci_name": "TAGETES MINUTA FLOWER OIL",
+    "cas_number": "91770-75-1 / 8016-84-0",
+    "einecs_number": "294-862-7",
+    "description": "Tagetes Minuta Flower Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Tagetes Patula Flower Extract",
+    "inci_name": "TAGETES PATULA FLOWER EXTRACT",
+    "cas_number": "91722-29-1",
+    "einecs_number": "294-431-3",
+    "description": "Tagetes Patula Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Tagetes Minuta Flower Extract",
+    "inci_name": "TAGETES MINUTA FLOWER EXTRACT",
+    "cas_number": "91770-75-1",
+    "einecs_number": "294-862-7",
+    "description": "Tagetes Minuta Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Talc",
+    "inci_name": "TALC",
+    "cas_number": "14807-96-6",
+    "einecs_number": "238-877-9",
+    "description": "Talc is a mineral powder widely used in blushes, foundation powders and even eye shadows. It is also used on the skin as a moisture absorber, hence its use on baby's bottom. In a cream or balm, it also helps reduce the feeling of oiliness.Several controversies exist about it:- in 2012, ANSES indicated that it was not possible to exclude the presence of asbestos fibers in certain Talc deposits.- some studies have also demonstrated irritation in children by inhalationIn 2016, Johnson & Johnson was ordered to pay $72 million to a family whose wife died of ovarian cancer and who had used talcum powder daily for 35 years on her genitals: The court n therefore not excluding that his cancer is due to this use. Since then, other trials have taken place.In July 2018, Johnson & Johnson was ordered to pay $4.69 billion in damages. 22 women and their families accused the brand that their wipes, composed of talc, had caused the ovarian cancers to which they suffered.During a recent study from December 2018 in Canada, scientists warned of the risks linked to inhalation and contact of Talc with the female genitals.For these reasons, and to the extent that it is possible to do otherwise, we have therefore decided to place this ingredient in red, if it is used in intimate hygiene products.",
+    "rating": "avoid",
+    "functions": [
+      "Abrasive",
+      "Absorbent",
+      "Anticaking",
+      "Bulking",
+      "Opacifying",
+      "Skin protecting",
+      "Slip modifier"
+    ],
+    "prevalence": "4.49% косметических средств",
+    "common_product_types": [
+      "Talc and powder (79.11%)",
+      "Eyebrow palette (74.16%)",
+      "Make-up palette (74.02%)",
+      "Compact powder (70.06%)",
+      "Bronze powder / sun powder (62.91%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Mineral."
+  },
+  {
+    "name": "Tapioca Starch",
+    "inci_name": "TAPIOCA STARCH",
+    "cas_number": "9005-25-8",
+    "einecs_number": "232-679-6",
+    "description": "Tapioca Starch — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.86% косметических средств",
+    "common_product_types": [
+      "Dry shampoo (9.68%)",
+      "Anti-ageing sun cream (8.9%)",
+      "Deodorant stick (8.53%)",
+      "After shave balm (8.33%)",
+      "Face moisturizer for men (7.55%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Tallow Alcohol",
+    "inci_name": "TALLOW ALCOHOL",
+    "cas_number": "99561-04-3",
+    "einecs_number": "308-980-4",
+    "description": "Tallow Alcohol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Emollient",
+      "Emulsifying",
+      "Emulsion stabilising",
+      "Refatting",
+      "Viscosity controlling"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Tar Oil",
+    "inci_name": "TAR OIL",
+    "cas_number": "8002-29-7",
+    "einecs_number": "232-306-1",
+    "description": "Tar Oil — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Tagetes Patula Flower Oil",
+    "inci_name": "TAGETES PATULA FLOWER OIL",
+    "cas_number": "91722-29-1 / 8016-84-0",
+    "einecs_number": "294-431-3 / -",
+    "description": "Tagetes Patula Flower Oil — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Taraktogenos Kurzii Seed Oil",
+    "inci_name": "TARAKTOGENOS KURZII SEED OIL",
+    "cas_number": "8001-74-9 - Chaulmoogra seed extract",
+    "einecs_number": "*616-787-4",
+    "description": "Taraktogenos Kurzii Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Tartaric Acid",
+    "inci_name": "TARTARIC ACID",
+    "cas_number": "133-37-9 / 147-71-7 / 87-69-4",
+    "einecs_number": "205-105-7 / 205-695-6 / 201-766-0",
+    "description": "Tartaric Acid — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "pH regulator",
+      "Masking"
+    ],
+    "prevalence": "0.57% косметических средств",
+    "common_product_types": [
+      "Mask / patch (6.19%)",
+      "Hair mask (5.78%)",
+      "Hair conditioner (4.63%)",
+      "Oxidative hair coloring (3.67%)",
+      "Treatment for curly hair (2.31%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Tbhq",
+    "inci_name": "TBHQ",
+    "cas_number": "1948-33-0",
+    "einecs_number": "217-752-2",
+    "description": "Tbhq — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Antioxidant",
+      "Masking",
+      "Perfuming"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Tea-Dodecylbenzenesulfonate",
+    "inci_name": "TEA-DODECYLBENZENESULFONATE",
+    "cas_number": "27323-41-7 / 68411-31-4",
+    "einecs_number": "248-406-9 / 270-116-6",
+    "description": "Tea-Dodecylbenzenesulfonate — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Cleansing",
+      "Foaming",
+      "Surfactant"
+    ],
+    "prevalence": "0.58% косметических средств",
+    "common_product_types": [
+      "Anti-dandruff shampoo (34.33%)",
+      "Men's shampoo (11.29%)",
+      "Fall protection shampoo (6.23%)",
+      "Classic shampoo (4.1%)",
+      "Shampoo for colored/highlighted hair (3.4%)"
+    ],
+    "note": "Требует осторожности при использовании. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Terephthalylidene Dicamphor Sulfonic Acid",
+    "inci_name": "TEREPHTHALYLIDENE DICAMPHOR SULFONIC ACID",
+    "cas_number": "92761-26-7 / 90457-82-2",
+    "einecs_number": "410-960-6",
+    "description": "Terephthalylidene dicamphor sulfonic acid (Ecamsule) is a soluble chemical UV filter that absorbs UVA rays (from 320 to 400 nm). Because of the way it is produced, it is associated with an orange flower on our application.",
+    "rating": "caution",
+    "functions": [
+      "Stabilising",
+      "Uv absorber",
+      "Uv filter"
+    ],
+    "prevalence": "0.12% косметических средств",
+    "common_product_types": [
+      "Anti-ageing sun cream (6.9%)",
+      "Adult sun cream (4.19%)",
+      "Children sun cream (2.53%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Tea-Salicylate",
+    "inci_name": "TEA-SALICYLATE",
+    "cas_number": "2174-16-5",
+    "einecs_number": "218-531-3",
+    "description": "Tea-Salicylate — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Preservative",
+      "Stabilising",
+      "Uv filter"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Terminalia Ferdinandiana Fruit Extract",
+    "inci_name": "TERMINALIA FERDINANDIANA FRUIT EXTRACT",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Terminalia Ferdinandiana Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant",
+      "Bleaching"
+    ],
+    "prevalence": "0.19% косметических средств",
+    "common_product_types": [
+      "Face moisturizing serum (0.93%)",
+      "Adult sun cream (0.79%)",
+      "Face cream (0.46%)",
+      "Foundation (0.37%)",
+      "Hair conditioner (0.29%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Terminalia Ferdinandiana Seed Oil",
+    "inci_name": "TERMINALIA FERDINANDIANA SEED OIL",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Terminalia Ferdinandiana Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant",
+      "Emollient",
+      "Hair conditioning",
+      "Humectant",
+      "Skin protecting"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Terpineol",
+    "inci_name": "TERPINEOL",
+    "cas_number": "8000-41-7",
+    "einecs_number": "232-268-1",
+    "description": "Terpineol is an aromatic compound naturally present in many plants, particularly cannabis. It is coveted for its floral, lilac-like aroma. It is one of the allergens regulated by Europe.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Perfuming"
+    ],
+    "prevalence": "0.71% косметических средств",
+    "common_product_types": [
+      "Deodorant stick (3.31%)",
+      "Roll-on deodorant (3%)",
+      "Perfume for women (2.85%)",
+      "Deodorant spray (2.71%)",
+      "Scented mist for women (2.32%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Natural."
+  },
+  {
+    "name": "Terpinolene",
+    "inci_name": "TERPINOLENE",
+    "cas_number": "586-62-9",
+    "einecs_number": "209-578-0",
+    "description": "Terpinolene is an aromatic component found naturally in many plants such as apple, rosemary and all varieties of Cannabis. It is used in cosmetics for its refreshing citrus notes. It is a regulated allergen in Europe.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.21% косметических средств",
+    "common_product_types": [
+      "Perfume for women (2.42%)",
+      "Eau de toilette for women (1.57%)",
+      "Deodorant spray (0.58%)",
+      "Body moisturizer (0.3%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Tetraaminopyrimidine Sulfate",
+    "inci_name": "TETRAAMINOPYRIMIDINE SULFATE",
+    "cas_number": "5392-28-9",
+    "einecs_number": "226-393-0",
+    "description": "Tetraaminopyrimidine Sulfate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Tetrabromophenol Blue",
+    "inci_name": "TETRABROMOPHENOL BLUE",
+    "cas_number": "4430-25-5 - Blue hair dye",
+    "einecs_number": "224-622-9",
+    "description": "Tetrabromophenol Blue — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Taraxacum Officinale Rhizome/Root Extract",
+    "inci_name": "TARAXACUM OFFICINALE RHIZOME/ROOT EXTRACT",
+    "cas_number": "68990-74-9 - Dandelion extract (rhizome/root)",
+    "einecs_number": "273-624-6",
+    "description": "Taraxacum Officinale Rhizome/Root Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Soothing"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [
+      "Fabric mask (0.69%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Tasmannia Lanceolata Fruit Extract",
+    "inci_name": "TASMANNIA LANCEOLATA FRUIT EXTRACT",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Tasmannia Lanceolata Fruit Extract — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Tea-Carbomer",
+    "inci_name": "TEA-CARBOMER",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Tea-Carbomer — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Gel forming",
+      "Viscosity controlling"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Tetrahexyldecyl Ascorbate",
+    "inci_name": "TETRAHEXYLDECYL ASCORBATE",
+    "cas_number": "183476-82-6; 1445760-15-5",
+    "einecs_number": "",
+    "description": "Tetrahexyldecyl Ascorbate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.31% косметических средств",
+    "common_product_types": [
+      "Concealer (6.23%)",
+      "Foundation (3.5%)",
+      "Compact powder (2.97%)",
+      "Lipstick (2.21%)",
+      "Gloss and lip gloss (1.9%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Tetrahydropyranyloxy Phenol",
+    "inci_name": "TETRAHYDROPYRANYLOXY PHENOL",
+    "cas_number": "53936-56-4",
+    "einecs_number": "",
+    "description": "Tetrahydropyranyloxy Phenol — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Bleaching"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Tetrahydroxypropyl Ethylenediamine",
+    "inci_name": "TETRAHYDROXYPROPYL ETHYLENEDIAMINE",
+    "cas_number": "102-60-3",
+    "einecs_number": "203-041-4",
+    "description": "Tetrahydroxypropyl Ethylenediamine — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Chelating"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [
+      "Styling gel (1.98%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Tetramethyl Acetyloctahydronaphthalenes",
+    "inci_name": "TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES",
+    "cas_number": "54464-57-2/ 54464-59-4/ 68155-66-8/ 68155-67-9",
+    "einecs_number": "259-174-3 / 259-175-9 / 268-978-3 / 268-979-9",
+    "description": "Tetramethyl acetyl octahydronaphthalene (TENA) is a synthetic ketone aromatic compound. It is one of the regulated allergens in Europe.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Perfuming",
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "1.52% косметических средств",
+    "common_product_types": [
+      "Mixed scented mist (23.64%)",
+      "Shower foam (8.75%)",
+      "Scented mist for women (8.41%)",
+      "Heat-protective hair care (8.28%)",
+      "Men shower gel (7.68%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Synthetic."
+  },
+  {
+    "name": "Tetramethylolglycoluril",
+    "inci_name": "TETRAMETHYLOLGLYCOLURIL",
+    "cas_number": "5395-50-6",
+    "einecs_number": "226-408-0",
+    "description": "Tetramethylolglycoluril — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Antimicrobial"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Tetrasodium Edta",
+    "inci_name": "TETRASODIUM EDTA",
+    "cas_number": "64-02-8",
+    "einecs_number": "200-573-9",
+    "description": "EDTA (EDTA and its main salts used in Disodium EDTA cosmetics, Tetrasodium EDTA, Trisodium EDTA) is a chelating agent that has been used since the 1930s and for which industrialists have complete control of processing and use. Its main property is to complex heavy metals. That is to say, it will somehow neutralize them by forming with them a complex, then serve them as carriers and evacuate them. It is therefore quite logically used in medicine to fight against heavy metal poisoning (lead for example).It is often used as a sequestrant (calcium, limestone ...) in soaps or shower gels, this allows to manage the \"hard\" water.The ingredient does not pose a problem for human health but its impact on the environment is disastrous: it is not biodegradable and is extremely harmful to nature. The sewage treatment plants do not hold him back and let him run into our rivers! Charcoal filters in our drinking water are not more effective at stopping it (so we are re-treating EDTA / Iron complexes). The problem is finally that he carries with him heavy metals, whose final destination is unknown.EDTA and its salts are banned in organic.",
+    "rating": "caution",
+    "functions": [
+      "Chelating"
+    ],
+    "prevalence": "6.36% косметических средств",
+    "common_product_types": [
+      "Solid baby soap (53.82%)",
+      "Oxidative hair coloring (35.77%)",
+      "Anti-dandruff shampoo (35.76%)",
+      "Solid soap (33.48%)",
+      "Exfoliating solid soap (33.33%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Terminalia Chebula Fruit Extract",
+    "inci_name": "TERMINALIA CHEBULA FRUIT EXTRACT",
+    "cas_number": "90131-48-9 - Chebulic myrobalan extract (fruit)",
+    "einecs_number": "290-359-1",
+    "description": "Terminalia Chebula Fruit Extract — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Tetraphenyl Dimethyl Disiloxane",
+    "inci_name": "TETRAPHENYL DIMETHYL DISILOXANE",
+    "cas_number": "807-28-3",
+    "einecs_number": "",
+    "description": "Tetraphenyl Dimethyl Disiloxane — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Theobroma Cacao Extract",
+    "inci_name": "THEOBROMA CACAO EXTRACT",
+    "cas_number": "84649-99-0 - Cocoa extract",
+    "einecs_number": "283-480-6",
+    "description": "Theobroma Cacao Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.25% косметических средств",
+    "common_product_types": [
+      "Face moisturizing serum (0.95%)",
+      "Fabric mask (0.8%)",
+      "Cream / gel mask (0.62%)",
+      "Face cream (0.53%)",
+      "Foundation (0.49%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Tetradecyl Aminobutyroylvalylaminobutyric Urea Trifluoroacetate",
+    "inci_name": "TETRADECYL AMINOBUTYROYLVALYLAMINOBUTYRIC UREA TRIFLUOROACETATE",
+    "cas_number": "934368-60-2",
+    "einecs_number": "-",
+    "description": "Tetradecyl Aminobutyroylvalylaminobutyric Urea Trifluoroacetate — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Theobroma Cacao Seed Extract",
+    "inci_name": "THEOBROMA CACAO SEED EXTRACT",
+    "cas_number": "84649-99-0 / 8002-31-1 - Cocoa seed extract",
+    "einecs_number": "283-480-6 / -",
+    "description": "Theobroma Cacao Seed Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant"
+    ],
+    "prevalence": "0.15% косметических средств",
+    "common_product_types": [
+      "Blush (1.2%)",
+      "Foundation (0.7%)",
+      "Adult sun cream (0.37%)",
+      "Face cream (0.34%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Tetrasodium Etidronate",
+    "inci_name": "TETRASODIUM ETIDRONATE",
+    "cas_number": "3794-83-0",
+    "einecs_number": "223-267-7",
+    "description": "Tetrasodium Etidronate is a close cousin of EDTA. It is used in cosmetics as a chelator and stabilizer. It allows the products to remain stable as much in terms of their color as their consistency. It fights as a chelator against limescale that can limit the action of surfactants. It is like EDTA little biodegradable.",
+    "rating": "caution",
+    "functions": [
+      "Chelating",
+      "Emulsion stabilising",
+      "Viscosity controlling"
+    ],
+    "prevalence": "1.02% косметических средств",
+    "common_product_types": [
+      "Solid soap (29.53%)",
+      "Solid baby soap (29.05%)",
+      "Exfoliating solid soap (28.48%)",
+      "Shaving soap (18.92%)",
+      "Oxidative hair coloring (17.25%)"
+    ],
+    "note": "Требует осторожности при использовании. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Tetrasodium Glutamate Diacetate",
+    "inci_name": "TETRASODIUM GLUTAMATE DIACETATE",
+    "cas_number": "51981-21-6",
+    "einecs_number": "257-573-7",
+    "description": "Tetrasodium Glutamate Diacetate is a synthetic chelating agent. Often proposed as an alternative to EDTA, its method of manufacture remains problematic for the environment: it uses cyanomethylation with highly toxic ingredients such as hydrogen cyanide and formaldehyde. For this reason, the molecule is accompanied by an orange flower on our application, which is exploded since the ingredient is biodegradable (high solubility over a wide PH range).",
+    "rating": "caution",
+    "functions": [
+      "Chelating"
+    ],
+    "prevalence": "3.12% косметических средств",
+    "common_product_types": [
+      "Solid shampoo (18.31%)",
+      "Solid cleanser (17.36%)",
+      "Liquid soap (15.86%)",
+      "Exfoliating solid soap (15.53%)",
+      "Solid soap (12.92%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Tetrasodium Pyrophosphate",
+    "inci_name": "TETRASODIUM PYROPHOSPHATE",
+    "cas_number": "7722-88-5",
+    "einecs_number": "231-767-1",
+    "description": "Tetrasodium Pyrophosphate — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "neutral",
+    "functions": [
+      "Anticaking",
+      "pH regulator",
+      "Chelating",
+      "Oral care/hygiene agent"
+    ],
+    "prevalence": "0.54% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (23.32%)",
+      "Adult toothpaste (13.51%)",
+      "Children toothpaste (3.87%)",
+      "Mouthwash (3.39%)",
+      "Cream / gel mask (1.78%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Synthetic."
+  },
+  {
+    "name": "Theophylline",
+    "inci_name": "THEOPHYLLINE",
+    "cas_number": "58-55-9",
+    "einecs_number": "200-385-7",
+    "description": "Theophylline — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Thuja Occidentalis Bark Extract",
+    "inci_name": "THUJA OCCIDENTALIS BARK EXTRACT",
+    "cas_number": "90131-58-1",
+    "einecs_number": "290-370-1",
+    "description": "Thuja Occidentalis Bark Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Thuja Occidentalis Leaf",
+    "inci_name": "THUJA OCCIDENTALIS LEAF",
+    "cas_number": "90131-58-1",
+    "einecs_number": "290-370-1",
+    "description": "Thuja Occidentalis Leaf — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Thuja Occidentalis Leaf Extract",
+    "inci_name": "THUJA OCCIDENTALIS LEAF EXTRACT",
+    "cas_number": "90131-58-1",
+    "einecs_number": "290-370-1",
+    "description": "Thuja Occidentalis Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Antioxidant",
+      "Bleaching",
+      "Hair conditioning",
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Thuja Occidentalis Leaf Oil",
+    "inci_name": "THUJA OCCIDENTALIS LEAF OIL",
+    "cas_number": "90131-58-1 / 8007-20-3",
+    "einecs_number": "290-370-1",
+    "description": "Thuja Occidentalis Leaf Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Tonic",
+      "Perfuming"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Thuja Occidentalis Root Extract",
+    "inci_name": "THUJA OCCIDENTALIS ROOT EXTRACT",
+    "cas_number": "90131-58-1",
+    "einecs_number": "290-370-1",
+    "description": "Thuja Occidentalis Root Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Thuja Occidentalis Stem Oil",
+    "inci_name": "THUJA OCCIDENTALIS STEM OIL",
+    "cas_number": "90131-58-1",
+    "einecs_number": "290-370-1",
+    "description": "Thuja Occidentalis Stem Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Theobroma Cacao Seed Butter",
+    "inci_name": "THEOBROMA CACAO SEED BUTTER",
+    "cas_number": "84649-99-0 / 8002-31-1 - Cocoa seed butter",
+    "einecs_number": "283-480-6 / -",
+    "description": "Theobroma Cacao Seed Butter — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Masking",
+      "Skin conditioning",
+      "Skin protecting"
+    ],
+    "prevalence": "2.39% косметических средств",
+    "common_product_types": [
+      "Solid conditioner (43.48%)",
+      "Solid moisturising balm (36.57%)",
+      "Solid deodorant (24.43%)",
+      "Sunscreen lip balm (19.14%)",
+      "Lip balm (16.72%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Thymus Satureioides Oil",
+    "inci_name": "THYMUS SATUREIOIDES OIL",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Thymus Satureioides Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Thymus Serpillum Extract",
+    "inci_name": "THYMUS SERPILLUM EXTRACT",
+    "cas_number": "84776-98-7 - Wild Thyme extract",
+    "einecs_number": "284-023-3",
+    "description": "Thymus Serpillum Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [
+      "Foundation (0.72%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Thymus Vulgaris Extract",
+    "inci_name": "THYMUS VULGARIS EXTRACT",
+    "cas_number": "84929-51-1 - Thyme extract",
+    "einecs_number": "284-535-7",
+    "description": "Thymus Vulgaris Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "0.18% косметических средств",
+    "common_product_types": [
+      "Classic shampoo (0.44%)",
+      "Hair conditioner (0.37%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Theobroma Grandiflorum Seed Butter",
+    "inci_name": "THEOBROMA GRANDIFLORUM SEED BUTTER",
+    "cas_number": "394236-97-6 - Cupuacu butter",
+    "einecs_number": "-",
+    "description": "Theobroma Grandiflorum Seed Butter — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.33% косметических средств",
+    "common_product_types": [
+      "Lip balm (1.39%)",
+      "Body moisturizer (0.92%)",
+      "Anti-aging day face cream (0.67%)",
+      "Hand cream (0.58%)",
+      "Face cream (0.53%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Thymus Vulgaris Flower/Leaf Oil",
+    "inci_name": "THYMUS VULGARIS FLOWER/LEAF OIL",
+    "cas_number": "84929-51-1 / 8007-46-3 - Thyme oil (flower/leaf)",
+    "einecs_number": "284-535-7 / -",
+    "description": "Thymus Vulgaris Flower/Leaf Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Skin conditioning",
+      "Tonic"
+    ],
+    "prevalence": "0.1% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Thioglycolic Acid",
+    "inci_name": "THIOGLYCOLIC ACID",
+    "cas_number": "68-11-1",
+    "einecs_number": "200-677-4",
+    "description": "Thioglycolic acid modifies the hair fibers to facilitate their restructuring: it is used, for example, in hair restructuring products. It is also used to chemically decompose unwanted hair so that it can then be removed by simply wiping it off. It is its potassium salt which is the most used today.",
+    "rating": "neutral",
+    "functions": [
+      "Antioxidant",
+      "Depilatory",
+      "Hair waving or straightening",
+      "Reducing"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [
+      "Body hair removal cream (10.8%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Threonine",
+    "inci_name": "THREONINE",
+    "cas_number": "72-19-5 / 80-68-2",
+    "einecs_number": "200-774-1 / 201-300-6",
+    "description": "Threonine — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Hair conditioning",
+      "Hair waving or straightening"
+    ],
+    "prevalence": "0.94% косметических средств",
+    "common_product_types": [
+      "Heat-protective hair care (7.93%)",
+      "Detangler (leave-in) (4.4%)",
+      "Fall protection shampoo (4.23%)",
+      "Care for dry and damaged hair (4.1%)",
+      "Oxidative hair coloring (4.1%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Thymus Vulgaris Leaf Oil",
+    "inci_name": "THYMUS VULGARIS LEAF OIL",
+    "cas_number": "84929-51-1 - Thyme leaf oil",
+    "einecs_number": "284-535-7",
+    "description": "Thymus Vulgaris Leaf Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antimicrobial",
+      "Antioxidant",
+      "Preservative"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Thymus Vulgaris Oil",
+    "inci_name": "THYMUS VULGARIS OIL",
+    "cas_number": "84929-51-1 - Thyme oil",
+    "einecs_number": "284-535-7",
+    "description": "Thymus Vulgaris Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Perfuming"
+    ],
+    "prevalence": "0.11% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Thuja Orientalis Leaf Oil",
+    "inci_name": "THUJA ORIENTALIS LEAF OIL",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Thuja Orientalis Leaf Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antimicrobial",
+      "Antioxidant",
+      "Skin protecting"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Thymus Vulgaris Flower/Leaf Extract",
+    "inci_name": "THYMUS VULGARIS FLOWER/LEAF EXTRACT",
+    "cas_number": "84929-51-1 - Thyme extract (flower / leaf)",
+    "einecs_number": "284-535-7",
+    "description": "Thymus Vulgaris Flower/Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Skin conditioning",
+      "Tonic"
+    ],
+    "prevalence": "0.16% косметических средств",
+    "common_product_types": [
+      "Personal hygiene (3.05%)",
+      "Foundation (0.36%)",
+      "Classic shampoo (0.35%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Thymus Vulgaris Leaf Extract",
+    "inci_name": "THYMUS VULGARIS LEAF EXTRACT",
+    "cas_number": "84929-51-1 - Thyme leaf extract",
+    "einecs_number": "284-535-7",
+    "description": "Thymus Vulgaris Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin protecting"
+    ],
+    "prevalence": "0.11% косметических средств",
+    "common_product_types": [
+      "Personal hygiene (1.55%)",
+      "Classic shampoo (0.18%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Thymus Zygis Flower Oil",
+    "inci_name": "THYMUS ZYGIS FLOWER OIL",
+    "cas_number": "85085-75-2",
+    "einecs_number": "285-397-0",
+    "description": "Thymus Zygis Flower Oil — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Thymus Zygis Oil",
+    "inci_name": "THYMUS ZYGIS OIL",
+    "cas_number": "85085-75-2 - Thyme oil",
+    "einecs_number": "285-397-0",
+    "description": "Thymus Zygis Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Tin Oxide",
+    "inci_name": "TIN OXIDE",
+    "cas_number": "18282-10-5",
+    "einecs_number": "242-159-0",
+    "description": "Tin oxide (CI 77861) is often used in cosmetics for its pigments, which can give a product a multi-colored effect, depending on the angle from which it is viewed. It is a mineral compound found naturally in cassiterite.",
+    "rating": "safe",
+    "functions": [
+      "Abrasive",
+      "Bulking",
+      "Opacifying",
+      "Viscosity controlling"
+    ],
+    "prevalence": "4.62% косметических средств",
+    "common_product_types": [
+      "Illuminators and complexion illuminator (58.2%)",
+      "Eyeshadow (57.45%)",
+      "Make-up palette (56.6%)",
+      "Gloss and lip gloss (45.29%)",
+      "Lacquer and lip ink (38.73%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Mineral."
+  },
+  {
+    "name": "Titanium Dioxide",
+    "inci_name": "TITANIUM DIOXIDE",
+    "cas_number": "13463-67-7 - UV filter (Titanium Dioxide)",
+    "einecs_number": "236-675-5",
+    "description": "Titanium dioxide is a very abundant mineral on earth: it is in fact the 9th most abundant chemical element in the earth's crust. It can be used in cosmetics as a UV filter or as a white colorant. When it is a UV filter, it can be reduced in the form of nanoparticles: the CSSC approved the use of titanium dioxide in the form of nanoparticles in sun creams from 2014, in concentrations less than 25%. EC Regulation 2016/1143 of July 2016 freed the use of Titanium dioxide in this form in cosmetics. Titanium Dioxide reduced to the size of nanoparticles is authorized in Organic, and makes it possible to eliminate the unsightly whitish effect caused by this mineral filter when it is used in its micrometric state, that is to say in its original size. Please note, however, that the manufacturer is required to mention (NANO) or [NANO] next to the name of the ingredient in the INCI list, when this is the case.In 2006, the International Agency for Research on Cancer (IARC) classified titanium dioxide TiO2 in the group of substances \"possible carcinogens in humans\" (group 2B): when inhaled regardless of the size of the Nano particle or not. In 2016, ANSES submitted to ECHA (European Chemicals Agency) a proposal for the classification of titanium dioxide as a carcinogen by inhalation (re-evaluation in category 1B).As you have understood, the case of Titanium Dioxide, the only UV filter authorized in Bio with Zinc oxide, is very complex. However, we note that it mainly raises questions and controversies when it is inhaled/swallowed and/or is used in the nanoparticle state.Titanium Dioxide (E171) has been banned since January 1, 2020 in France in food products, which is why we display it in red in dental hygiene products.",
+    "rating": "avoid",
+    "functions": [
+      "Cosmetic colorant",
+      "Opacifying",
+      "Uv absorber",
+      "Uv filter"
+    ],
+    "prevalence": "4.39% косметических средств",
+    "common_product_types": [
+      "Cc cream (50.66%)",
+      "Bb cream (42.63%)",
+      "Solid baby soap (33.94%)",
+      "Tinted cream / gel (29.47%)",
+      "Children sun cream (28.39%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Mineral."
+  },
+  {
+    "name": "Tocopherol",
+    "inci_name": "TOCOPHEROL",
+    "cas_number": "54-28-4 (gamma)/ 16698-35-4(beta) / 10191-41-0(DL) / 119-13-1 / 1406-18-4 / 1406-66-2 / 2074-53-5 (DL) / 59-02-9 (D)/7616-22-0 - Vitamin E",
+    "einecs_number": "200-201-5 / 240-747-1 / 233-466-0 / 204-299-0 /215-798-8 / - / 218-197-9 / 200-412-2 / -",
+    "description": "Tocopherol represents different components of Vitamin E. It is used in cosmetics for its antioxidant properties. This fat-soluble ingredient (which dissolves in oil) is found naturally in vegetable oils such as palm oil, sunflower oil or wheat germ ... In 2014, Tocopherol made the another ERC study and 13 other vitamin E derivatives. The agency concluded that it is safe. Note that Tocopherol can be of synthetic origin (made entirely in the laboratory).",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant",
+      "Masking",
+      "Skin conditioning - miscellaneous",
+      "Skin conditioning - occlusive"
+    ],
+    "prevalence": "25.64% косметических средств",
+    "common_product_types": [
+      "Anti-aging for men (67.6%)",
+      "Advent calendar (66.67%)",
+      "Anti-aging set (65.83%)",
+      "Solid perfume for women (65.59%)",
+      "Anti-aging night face cream (64.75%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Tilia Cordata Flower Extract",
+    "inci_name": "TILIA CORDATA FLOWER EXTRACT",
+    "cas_number": "84929-52-2 - Linden flower extract",
+    "einecs_number": "284-536-2",
+    "description": "Tilia Cordata Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.15% косметических средств",
+    "common_product_types": [
+      "Classic shampoo (0.41%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Tilia Cordata Oil",
+    "inci_name": "TILIA CORDATA OIL",
+    "cas_number": "68916-81-4 - Linden oil",
+    "einecs_number": "284-536-2",
+    "description": "Tilia Cordata Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Timonacic",
+    "inci_name": "TIMONACIC",
+    "cas_number": "444-27-9 / 34592-47-7",
+    "einecs_number": "207-146-6 / 252-106-3",
+    "description": "Timonacic — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Toluene-2,5-Diamine Sulfate",
+    "inci_name": "TOLUENE-2,5-DIAMINE SULFATE",
+    "cas_number": "615-50-9",
+    "einecs_number": "210-431-8",
+    "description": "Toluene is used as a hair colorant (its colorindex is CI 76042). It is highly allergenic and raises many questions about the safety of hairdressers and regular consumers.In a notice published in 2012, the European Scientific Committee on Consumer Safety (SCCS) concluded: \"Toluene-2,5-diamine is an extreme skin sensitizer. The frequency of allergic reactions among hairdressers and consumers remains a major concern for consumer safety.\"",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "0.64% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (39.82%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Tosylamide/Epoxy Resin",
+    "inci_name": "TOSYLAMIDE/EPOXY RESIN",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Tosylamide/Epoxy Resin — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Film forming",
+      "Plasticiser"
+    ],
+    "prevalence": "0.3% косметических средств",
+    "common_product_types": [
+      "Nail polish (21.45%)",
+      "Varnish base (14.21%)",
+      "Nail care and treatments (5.53%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Trans-2-Hexenal",
+    "inci_name": "TRANS-2-HEXENAL",
+    "cas_number": "6728-26-3",
+    "einecs_number": "229-778-1",
+    "description": "Trans-2-Hexenal — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Trans-Anethole",
+    "inci_name": "TRANS-ANETHOLE",
+    "cas_number": "4180-23-8 / 104-46-1",
+    "einecs_number": "224-052-0 / 203-205-5",
+    "description": "Trans-Anethole — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Trans-Rose Ketone-1",
+    "inci_name": "TRANS-ROSE KETONE-1",
+    "cas_number": "24720-09-0",
+    "einecs_number": "246-430-4",
+    "description": "Trans-Rose Ketone-1 — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Tocopheryl Acetate",
+    "inci_name": "TOCOPHERYL ACETATE",
+    "cas_number": "7695-91-2 / 58-95-7",
+    "einecs_number": "231-710-0 / 200-405-4",
+    "description": "Tocopherol acetate is a derivative of Vitamin E. It acts in cosmetics as an antioxidant. It can be produced synthetically or of natural origin, extract of soybean oil or sunflower for example. It is often used in cosmetics as an alternative to pure tocopherol because it is considered more stable and less acidic.It is authorized in organic, when it is of vegetable origin.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant",
+      "Skin conditioning"
+    ],
+    "prevalence": "18.93% косметических средств",
+    "common_product_types": [
+      "Advent calendar (65.22%)",
+      "Children sun cream (61.64%)",
+      "Lip make-up set (60.38%)",
+      "Anti-ageing sun cream (57.06%)",
+      "Adult sun cream (54.49%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Tocopheryl Glucoside",
+    "inci_name": "TOCOPHERYL GLUCOSIDE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Tocopheryl Glucoside — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [
+      "Adult sun cream (0.94%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Trans-Rose Ketone-3",
+    "inci_name": "TRANS-ROSE KETONE-3",
+    "cas_number": "71048-82-3",
+    "einecs_number": "275-156-8",
+    "description": "Trans-Rose Ketone-3 — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Transfluthrin",
+    "inci_name": "TRANSFLUTHRIN",
+    "cas_number": "118712-89-3",
+    "einecs_number": "",
+    "description": "Transfluthrin — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Trehalose",
+    "inci_name": "TREHALOSE",
+    "cas_number": "99-20-7",
+    "einecs_number": "202-739-6",
+    "description": "Trehalose is a sugar found naturally in certain plants, bacteria, insects and fungi... The ingredient is known for its ability to protect cells in extreme environmental conditions. In cosmetics, it thus acts as a moisturizing and protective agent, protecting skin and hair from dehydration, even in conditions of extreme dryness.",
+    "rating": "safe",
+    "functions": [
+      "Humectant",
+      "Moisturising"
+    ],
+    "prevalence": "1.69% косметических средств",
+    "common_product_types": [
+      "Fabric mask (18.09%)",
+      "Mask / patch (15.99%)",
+      "Tinted cream / gel (10.65%)",
+      "Feet mask (10.09%)",
+      "Care set (7.21%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Tremella Fuciformis Extract",
+    "inci_name": "TREMELLA FUCIFORMIS EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Tremella Fuciformis Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Humectant",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.1% косметических средств",
+    "common_product_types": [
+      "Fabric mask (0.98%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Triacontanyl Pvp",
+    "inci_name": "TRIACONTANYL PVP",
+    "cas_number": "136445-69-7",
+    "einecs_number": "-",
+    "description": "Triacontanyl Pvp — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Film forming",
+      "Humectant",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.27% косметических средств",
+    "common_product_types": [
+      "Children sun cream (14.11%)",
+      "Adult sun cream (7.92%)",
+      "Anti-ageing sun cream (5.78%)",
+      "Lipstick (0.41%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Toluene",
+    "inci_name": "TOLUENE",
+    "cas_number": "108-88-3",
+    "einecs_number": "203-625-9",
+    "description": "Toluene — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Antioxidant",
+      "Solvent"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Tributyl Citrate",
+    "inci_name": "TRIBUTYL CITRATE",
+    "cas_number": "77-94-1",
+    "einecs_number": "201-071-2",
+    "description": "Tributyl Citrate — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Film forming",
+      "Plasticiser",
+      "Solvent"
+    ],
+    "prevalence": "0.29% косметических средств",
+    "common_product_types": [
+      "Nail polish (8.98%)",
+      "Liquid soap (1.01%)",
+      "Oxidative hair coloring (1.01%)",
+      "Shower gel (0.52%)",
+      "Adult sun cream (0.43%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Triclocarban",
+    "inci_name": "TRICLOCARBAN",
+    "cas_number": "101-20-2",
+    "einecs_number": "202-924-1",
+    "description": "Triclocarban — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Antimicrobial",
+      "Deodorant",
+      "Preservative"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [
+      "Deodorant spray (0.51%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Triclosan",
+    "inci_name": "TRICLOSAN",
+    "cas_number": "3380-34-5",
+    "einecs_number": "222-182-2",
+    "description": "Triclosan — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "avoid",
+    "functions": [
+      "Antimicrobial",
+      "Deodorant",
+      "Preservative"
+    ],
+    "prevalence": "0.21% косметических средств",
+    "common_product_types": [
+      "Cream deodorant (3.84%)",
+      "Deodorant spray (2.14%)",
+      "Deodorant stick (1.75%)",
+      "Roll-on deodorant (1.5%)",
+      "Adult toothpaste (0.76%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Toluene-2,5-Diamine",
+    "inci_name": "TOLUENE-2,5-DIAMINE",
+    "cas_number": "95-70-5",
+    "einecs_number": "202-442-1",
+    "description": "Toluene-2,5-Diamine — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "0.21% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (17.95%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Trideceth-10",
+    "inci_name": "TRIDECETH-10",
+    "cas_number": "24938-91-8 / 69011-36-5",
+    "einecs_number": "*607-463-3 / 500-241-6",
+    "description": "Trideceth-10 — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Cleansing",
+      "Surfactant"
+    ],
+    "prevalence": "0.7% косметических средств",
+    "common_product_types": [
+      "Anti-dandruff shampoo (30.52%)",
+      "Shampoo for colored/highlighted hair (6.33%)",
+      "Oxidative hair coloring (6.3%)",
+      "Classic shampoo (4.06%)",
+      "Hair mask (3.97%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Trideceth-12",
+    "inci_name": "TRIDECETH-12",
+    "cas_number": "24938-91-8 / 69011-36-5",
+    "einecs_number": "*607-463-3 / 500-241-6",
+    "description": "Trideceth-12 — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "0.98% косметических средств",
+    "common_product_types": [
+      "Detangler (leave-in) (12.66%)",
+      "Treatment for coloured hair (10.92%)",
+      "Hair straightening (10.02%)",
+      "Hair mask (9.07%)",
+      "Heat-protective hair care (8.87%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Trideceth-6",
+    "inci_name": "TRIDECETH-6",
+    "cas_number": "24938-91-8 / 69011-36-5",
+    "einecs_number": "*607-463-3 / 500-241-6",
+    "description": "Trideceth-6 — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "0.96% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (11.75%)",
+      "Treatment for coloured hair (11.19%)",
+      "Hair straightening (11.16%)",
+      "Heat-protective hair care (7.82%)",
+      "Anti-frizz hair care (7.34%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Trideceth-9",
+    "inci_name": "TRIDECETH-9",
+    "cas_number": "24938-91-8 / 69011-36-5",
+    "einecs_number": "*607-463-3 / 500-241-6",
+    "description": "Trideceth-9 — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "0.43% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (2.04%)",
+      "Baby cleaning wipes (1.67%)",
+      "Face lotion and toner (1.04%)",
+      "Specific hair care (0.78%)",
+      "Cream / gel mask (0.66%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Tridecyl Alcohol",
+    "inci_name": "TRIDECYL ALCOHOL",
+    "cas_number": "112-70-9",
+    "einecs_number": "203-998-8",
+    "description": "Tridecyl Alcohol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Emollient",
+      "Emulsion stabilising",
+      "Masking",
+      "Refatting",
+      "Skin conditioning",
+      "Viscosity controlling"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Trans-Rose Ketone-2",
+    "inci_name": "TRANS-ROSE KETONE-2",
+    "cas_number": "23726-91-2",
+    "einecs_number": "245-842-1",
+    "description": "Trans-Rose Ketone-2 — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Tremella Fuciformis Sporocarp Extract",
+    "inci_name": "TREMELLA FUCIFORMIS SPOROCARP EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Tremella Fuciformis Sporocarp Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant",
+      "Hair conditioning",
+      "Humectant",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [
+      "Foundation (0.98%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Triethanolamine",
+    "inci_name": "TRIETHANOLAMINE",
+    "cas_number": "102-71-6",
+    "einecs_number": "203-049-8",
+    "description": "Triethanolamine or more commonly called TEA is a basic tertiary amine. It is often used as a pH adjuster or to thicken cosmetic formulas. Its manufacture results from the reaction of ethylene oxide (very toxic) with ammonia (also toxic).In the presence of nitrite, TEA forms nitrosamines known to be carcinogenic. Nevertheless, it must be imagined that the risk remains very low in a bathroom. However, beyond this aspect, many studies (including CIR) seem to indicate that TEA is toxic to the skin, the immune system and the respiratory tract in humans. One or more animal studies have shown effects on the sense organs at very low doses, particularly when used around the mouth, eyes and lips, and one or more in vitro tests on mammalian cells have shown positive mutation results.",
+    "rating": "caution",
+    "functions": [
+      "pH regulator",
+      "Emulsifying",
+      "Masking",
+      "Surfactant"
+    ],
+    "prevalence": "5.54% косметических средств",
+    "common_product_types": [
+      "Shaving cream (85.49%)",
+      "Shaving gel (79.83%)",
+      "Body shaving gel and foam (74.44%)",
+      "Styling gel (33.38%)",
+      "Aloe vera gel (30.16%)"
+    ],
+    "note": "Требует осторожности при использовании. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Tribehenin",
+    "inci_name": "TRIBEHENIN",
+    "cas_number": "18641-57-1",
+    "einecs_number": "242-471-7",
+    "description": "Tribehenin — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.91% косметических средств",
+    "common_product_types": [
+      "Concealer (14.77%)",
+      "Gloss and lip gloss (10.33%)",
+      "Tinted lip balm (9.85%)",
+      "Lipstick (7.98%)",
+      "Concealer / concealer (7.81%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Triethoxycaprylylsilane",
+    "inci_name": "TRIETHOXYCAPRYLYLSILANE",
+    "cas_number": "2943-75-1",
+    "einecs_number": "220-941-2",
+    "description": "Triethoxycaprylylsilane is a silicone used in cosmetics as a binder. It is often used to bind pigments together to form an even coating on the skin.",
+    "rating": "caution",
+    "functions": [
+      "Binding agent"
+    ],
+    "prevalence": "2.38% косметических средств",
+    "common_product_types": [
+      "Root touch-up (60.1%)",
+      "Cc cream (36.96%)",
+      "Foundation (30.33%)",
+      "Concealer (27.68%)",
+      "Concealer / concealer (23.35%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Triethylene Glycol",
+    "inci_name": "TRIETHYLENE GLYCOL",
+    "cas_number": "112-27-6",
+    "einecs_number": "203-953-2",
+    "description": "Triethylene Glycol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Viscosity controlling",
+      "Perfuming"
+    ],
+    "prevalence": "0.72% косметических средств",
+    "common_product_types": [
+      "Anti-dandruff shampoo (28.95%)",
+      "Shampoo for colored/highlighted hair (4.41%)",
+      "Hair mask (2.96%)",
+      "Classic shampoo (2.86%)",
+      "Liquid soap (1.34%)"
+    ],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Tridecane",
+    "inci_name": "TRIDECANE",
+    "cas_number": "629-50-5",
+    "einecs_number": "211-093-4",
+    "description": "Tridecane — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.55% косметических средств",
+    "common_product_types": [
+      "Concealer / concealer (4.55%)",
+      "Adult sun cream (2.93%)",
+      "Foundation (2.68%)",
+      "Children sun cream (2.09%)",
+      "Anti-aging day face cream (1.76%)"
+    ],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Tridecyl Salicylate",
+    "inci_name": "TRIDECYL SALICYLATE",
+    "cas_number": "19666-16-1",
+    "einecs_number": "243-214-1",
+    "description": "Tridecyl Salicylate — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Antistatic",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (1.35%)",
+      "Adult sun cream (0.32%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Tridecyl Trimellitate",
+    "inci_name": "TRIDECYL TRIMELLITATE",
+    "cas_number": "94109-09-8",
+    "einecs_number": "302-446-4",
+    "description": "Tridecyl Trimellitate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.82% косметических средств",
+    "common_product_types": [
+      "Lip oil (29.35%)",
+      "Gloss and lip gloss (13.75%)",
+      "Make-up palette (10.67%)",
+      "Tinted lip balm (9.76%)",
+      "Lipstick (8.42%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Trifluoroacetyl Tripeptide-2",
+    "inci_name": "TRIFLUOROACETYL TRIPEPTIDE-2",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Trifluoroacetyl Tripeptide-2 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Skin conditioning",
+      "Skin protecting"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Trifluoromethyl C1-4 Alkyl Dimethicone",
+    "inci_name": "TRIFLUOROMETHYL C1-4 ALKYL DIMETHICONE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Trifluoromethyl C1-4 Alkyl Dimethicone — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "avoid",
+    "functions": [
+      "Hair conditioning",
+      "Humectant",
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Trifluoropropyl Cyclopentasiloxane",
+    "inci_name": "TRIFLUOROPROPYL CYCLOPENTASILOXANE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Trifluoropropyl Cyclopentasiloxane — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "avoid",
+    "functions": [
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Triethyl Citrate",
+    "inci_name": "TRIETHYL CITRATE",
+    "cas_number": "77-93-0",
+    "einecs_number": "201-070-7",
+    "description": "Triethyl citrate is produced by a process of esterification of citric acid with ethanol. It is naturally present in small amounts in wine and is easily metabolized by the human body.In cosmetics, this ingredient is frequently used in deodorants formulated as alternatives to aluminum salts. Because of its ability to inhibit enzymatic decomposition of sweat components, it is an excellent active ingredient in the fight against body odor. Triethyl citrate also has antibacterial properties.It is authorized in organic.",
+    "rating": "safe",
+    "functions": [
+      "Deodorant",
+      "Masking",
+      "Plasticiser",
+      "Solvent",
+      "Viscosity controlling",
+      "Perfuming"
+    ],
+    "prevalence": "1.51% косметических средств",
+    "common_product_types": [
+      "Deodorant refill (73.12%)",
+      "Deodorant spray (29.21%)",
+      "Solid deodorant (22.14%)",
+      "Roll-on deodorant (21.59%)",
+      "Lacquer (13.99%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Trifluoropropyl Dimethicone",
+    "inci_name": "TRIFLUOROPROPYL DIMETHICONE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Trifluoropropyl Dimethicone — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "avoid",
+    "functions": [
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Triethylene Glycol Rosinate",
+    "inci_name": "TRIETHYLENE GLYCOL ROSINATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "This rosin derivative is exclusively used in cosmetics, depilatory waxes and wax strips. It is not used in organic products.",
+    "rating": "neutral",
+    "functions": [
+      "Film forming",
+      "Plasticiser"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [
+      "Cold wax strips for face (28.49%)",
+      "Cold body wax strips (25.65%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Trifluoropropyl Dimethicone/Trifluoropropyl Divinyldimethicone Crosspolymer",
+    "inci_name": "TRIFLUOROPROPYL DIMETHICONE/TRIFLUOROPROPYL DIVINYLDIMETHICONE CROSSPOLYMER",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Trifluoropropyl Dimethicone/Trifluoropropyl Divinyldimethicone Crosspolymer — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "avoid",
+    "functions": [
+      "Skin conditioning",
+      "Surfactant",
+      "Viscosity controlling"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Trifluoropropyldimethyl/Trimethylsiloxysilicate",
+    "inci_name": "TRIFLUOROPROPYLDIMETHYL/TRIMETHYLSILOXYSILICATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Trifluoropropyldimethyl/Trimethylsiloxysilicate — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Binding agent",
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [
+      "Foundation (0.81%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Trifolium Pratense Extract",
+    "inci_name": "TRIFOLIUM PRATENSE EXTRACT",
+    "cas_number": "85085-25-2",
+    "einecs_number": "285-356-7",
+    "description": "Trifolium Pratense Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Trifolium Pratense Flower Extract",
+    "inci_name": "TRIFOLIUM PRATENSE FLOWER EXTRACT",
+    "cas_number": "85085-25-2 - Clover flower extract",
+    "einecs_number": "285-356-7",
+    "description": "Trifolium Pratense Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent",
+      "Masking"
+    ],
+    "prevalence": "0.14% косметических средств",
+    "common_product_types": [
+      "Eyelashes and eyebrows care (8.89%)",
+      "Hair conditioner (0.38%)",
+      "Classic shampoo (0.25%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Trigonella Foenum-Graecum Seed Extract",
+    "inci_name": "TRIGONELLA FOENUM-GRAECUM SEED EXTRACT",
+    "cas_number": "84625-40-1 - Fenugreek seed extract",
+    "einecs_number": "283-415-1",
+    "description": "Trigonella Foenum-Graecum Seed Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "0.1% косметических средств",
+    "common_product_types": [
+      "Classic shampoo (0.23%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Trihydroxypalmitamidohydroxypropyl Myristyl Ether",
+    "inci_name": "TRIHYDROXYPALMITAMIDOHYDROXYPROPYL MYRISTYL ETHER",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Trihydroxypalmitamidohydroxypropyl Myristyl Ether — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [
+      "Nail polish (0.63%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Triethylhexanoin",
+    "inci_name": "TRIETHYLHEXANOIN",
+    "cas_number": "7360-38-5",
+    "einecs_number": "230-896-0",
+    "description": "Triethylhexanoin — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Hair conditioning",
+      "Masking",
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "0.6% косметических средств",
+    "common_product_types": [
+      "Eyebrow pencil (9.12%)",
+      "Make-up palette (6.46%)",
+      "Concealer / concealer (5.48%)",
+      "Concealer (3.84%)",
+      "Eyes and kohl pencil (3.79%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Trimethylbenzenepropanol",
+    "inci_name": "TRIMETHYLBENZENEPROPANOL",
+    "cas_number": "103694-68-4",
+    "einecs_number": "403-140-4",
+    "description": "Trimethylbenzenepropanol is a synthetic aromatic compound that gives cosmetic products the floral scent of lily of the valley. It is a regulated allergen in Europe.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Perfuming"
+    ],
+    "prevalence": "0.1% косметических средств",
+    "common_product_types": [
+      "Perfume for women (0.86%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Synthetic."
+  },
+  {
+    "name": "Trifluoropropyl Cyclotetrasiloxane",
+    "inci_name": "TRIFLUOROPROPYL CYCLOTETRASILOXANE",
+    "cas_number": "429-67-4",
+    "einecs_number": "207-060-9",
+    "description": "Trifluoropropyl Cyclotetrasiloxane — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "avoid",
+    "functions": [
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Triethylhexyl Trimellitate",
+    "inci_name": "TRIETHYLHEXYL TRIMELLITATE",
+    "cas_number": "3319-31-1",
+    "einecs_number": "222-020-0",
+    "description": "Triethylhexyl Trimellitate — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Emollient",
+      "Plasticiser",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Trimethylcyclopentenyl Dimethylisopentenol",
+    "inci_name": "TRIMETHYLCYCLOPENTENYL DIMETHYLISOPENTENOL",
+    "cas_number": "107898-54-4",
+    "einecs_number": "411-580-3",
+    "description": "Trimethylcyclopentenyl Dimethylisopentenol — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Trimethylcyclopentenyl Methylisopentenol",
+    "inci_name": "TRIMETHYLCYCLOPENTENYL METHYLISOPENTENOL",
+    "cas_number": "67801-20-1",
+    "einecs_number": "267-140-4",
+    "description": "Trimethylcyclopentenyl methylisopentenol (Ebanol) is a synthetic aromatic compound used in cosmetics. It is a regulated allergen in Europe.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.11% косметических средств",
+    "common_product_types": [
+      "Perfume for women (1.03%)",
+      "Deodorant spray (0.65%)",
+      "Body moisturizer (0.31%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Synthetic."
+  },
+  {
+    "name": "Trimethylolpropane Triacrylate",
+    "inci_name": "TRIMETHYLOLPROPANE TRIACRYLATE",
+    "cas_number": "15625-89-5",
+    "einecs_number": "239-701-3",
+    "description": "This ingredient has been banned in Europe since December 1, 2023.",
+    "rating": "avoid",
+    "functions": [
+      "Film forming",
+      "Hair conditioning",
+      "Hair fixing"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Trimethylolpropane Trimethacrylate",
+    "inci_name": "TRIMETHYLOLPROPANE TRIMETHACRYLATE",
+    "cas_number": "3290-92-4",
+    "einecs_number": "221-950-4",
+    "description": "Trimethylolpropane Trimethacrylate — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Film forming"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Trimethylpentanediyl Dibenzoate",
+    "inci_name": "TRIMETHYLPENTANEDIYL DIBENZOATE",
+    "cas_number": "68052-23-3",
+    "einecs_number": "268-316-3",
+    "description": "Trimethylpentanediyl Dibenzoate — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "safe",
+    "functions": [
+      "Plasticiser"
+    ],
+    "prevalence": "0.48% косметических средств",
+    "common_product_types": [
+      "Nail polish (29.05%)",
+      "Top coat (25.27%)",
+      "Varnish base (24.79%)",
+      "Nail care and treatments (11.68%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Synthetic."
+  },
+  {
+    "name": "Trimethylbenzoyl Diphenylphosphine Oxide",
+    "inci_name": "TRIMETHYLBENZOYL DIPHENYLPHOSPHINE OXIDE",
+    "cas_number": "75980-60-8",
+    "einecs_number": "278-355-8",
+    "description": "This ingredient has been banned in Europe since September 1, 2025, including in products intended for professionals.",
+    "rating": "avoid",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [
+      "Semi permanent polish (20.76%)",
+      "Nail polish (0.42%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Trimethylsiloxysilicate",
+    "inci_name": "TRIMETHYLSILOXYSILICATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Obtained from the reaction of silica and trimethylsilane, this silicone-derived polymer is used in cosmetics for its ability to form a silky-smooth film on the skin.",
+    "rating": "caution",
+    "functions": [
+      "Antifoaming",
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "2.34% косметических средств",
+    "common_product_types": [
+      "Concealer (35.23%)",
+      "Root touch-up (33.68%)",
+      "Eyelid primer and base (33.49%)",
+      "Eyebrow mascara and gel (29.76%)",
+      "Foundation (26.45%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Trimellitic Anhydride",
+    "inci_name": "TRIMELLITIC ANHYDRIDE",
+    "cas_number": "552-30-7",
+    "einecs_number": "",
+    "description": "Substance in the process of banning in Europe (Reach Annex XIV).",
+    "rating": "avoid",
+    "functions": [
+      "Unclassified"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Trihydroxystearin",
+    "inci_name": "TRIHYDROXYSTEARIN",
+    "cas_number": "139-44-6",
+    "einecs_number": "205-364-6",
+    "description": "Trihydroxystearin — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.76% косметических средств",
+    "common_product_types": [
+      "Cc cream (9.94%)",
+      "Lip oil (8.85%)",
+      "Lipstick (8.02%)",
+      "Concealer / concealer (7.32%)",
+      "Gloss and lip gloss (7.22%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Trimethylsilylamodimethicone",
+    "inci_name": "TRIMETHYLSILYLAMODIMETHICONE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Trimethylsilylamodimethicone — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Antistatic",
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Trioctyldodecyl Borate",
+    "inci_name": "TRIOCTYLDODECYL BORATE",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Trioctyldodecyl Borate — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Antimicrobial"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Triphenyl Phosphate",
+    "inci_name": "TRIPHENYL PHOSPHATE",
+    "cas_number": "115-86-6",
+    "einecs_number": "204-112-2",
+    "description": "Triphenyl phosphate will be included in the list of substances of very high concern (SVHC) under the European REACH regulation on November 7, 2024. It is categorized as an endocrine disruptor (Environment).",
+    "rating": "avoid",
+    "functions": [
+      "Plasticiser"
+    ],
+    "prevalence": "0.12% косметических средств",
+    "common_product_types": [
+      "Nail polish (7.94%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Tripotassium Edta",
+    "inci_name": "TRIPOTASSIUM EDTA",
+    "cas_number": "17572-97-3",
+    "einecs_number": "241-543-5",
+    "description": "Tripotassium Edta — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Chelating"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Tris(2,4-Di-Tert-Butylphenyl) Phosphite",
+    "inci_name": "TRIS(2,4-DI-TERT-BUTYLPHENYL) PHOSPHITE",
+    "cas_number": "31570-04-4",
+    "einecs_number": "",
+    "description": "Tris(2,4-Di-Tert-Butylphenyl) Phosphite — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [
+      "Razor blades (61.08%)",
+      "Beard razor (36.92%)",
+      "Body razor (30.42%)"
+    ],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Tris-Bht Mesitylene",
+    "inci_name": "TRIS-BHT MESITYLENE",
+    "cas_number": "1709-70-2",
+    "einecs_number": "216-971-0",
+    "description": "Tris-Bht Mesitylene — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Antioxidant"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [
+      "Eyeshadow (0.68%)",
+      "Nail polish (0.45%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Trimethylbenzophenone",
+    "inci_name": "TRIMETHYLBENZOPHENONE",
+    "cas_number": "954-16-5",
+    "einecs_number": "403-150-9",
+    "description": "Trimethylbenzophenone — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Stabilising"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Tris-Biphenyl Triazine",
+    "inci_name": "TRIS-BIPHENYL TRIAZINE",
+    "cas_number": "31274-51-8",
+    "einecs_number": "-",
+    "description": "Used in Nanoparticle sunscreens, Tris-biphenyl triazine is a chemical UV filter (UVA and UVB) authorized in Europe. It is prohibited in spray products. Because of the way it is produced, it is associated with an orange flower on our application.",
+    "rating": "caution",
+    "functions": [
+      "Stabilising",
+      "Uv absorber",
+      "Uv filter"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [
+      "Adult sun cream (2.31%)",
+      "Children sun cream (1.69%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Trimethylphenethyl Alcohol",
+    "inci_name": "TRIMETHYLPHENETHYL ALCOHOL",
+    "cas_number": "20834-59-7",
+    "einecs_number": "244-072-3",
+    "description": "Trimethylphenethyl Alcohol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Trisodium Edta",
+    "inci_name": "TRISODIUM EDTA",
+    "cas_number": "150-38-9",
+    "einecs_number": "205-758-8",
+    "description": "EDTA (EDTA and its main salts used in Disodium EDTA cosmetics, Tetrasodium EDTA, Trisodium EDTA) is a chelating agent that has been used since the 1930s and for which industrialists have complete control of processing and use. Its main property is to complex heavy metals. That is to say, it will somehow neutralize them by forming with them a complex, then serve them as carriers and evacuate them. It is therefore quite logically used in medicine to fight against heavy metal poisoning (lead for example).It is often used as a sequestrant (calcium, limestone ...) in soaps or shower gels, this allows to manage the \"hard\" water.The ingredient does not pose a problem for human health but its impact on the environment is disastrous: it is not biodegradable and is extremely harmful to nature. The sewage treatment plants do not hold him back and let him run into our rivers! Charcoal filters in our drinking water are not more effective at stopping it (so we are re-treating EDTA / Iron complexes). The problem is finally that he carries with him heavy metals, whose final destination is unknown.EDTA and its salts are banned in organic.",
+    "rating": "caution",
+    "functions": [
+      "Chelating"
+    ],
+    "prevalence": "0.63% косметических средств",
+    "common_product_types": [
+      "Children sun cream (9.49%)",
+      "Roll-on deodorant (7.32%)",
+      "Anti-ageing sun cream (7.23%)",
+      "Micellar water (5.65%)",
+      "Make-up remover lotion (5.62%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Tris-Hea Ipdi Isocyanurate Trimer",
+    "inci_name": "TRIS-HEA IPDI ISOCYANURATE TRIMER",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Tris-Hea Ipdi Isocyanurate Trimer — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Film forming"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [
+      "Nail polish (1.4%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Trisodium Hedta",
+    "inci_name": "TRISODIUM HEDTA",
+    "cas_number": "139-89-9",
+    "einecs_number": "205-381-9",
+    "description": "Trisodium Hedta — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Chelating"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [
+      "Hair conditioner (0.97%)",
+      "Oxidative hair coloring (0.66%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Trisodium Nta",
+    "inci_name": "TRISODIUM NTA",
+    "cas_number": "5064-31-3",
+    "einecs_number": "225-768-6",
+    "description": "Trisodium Nta — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Chelating"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Trisodium Phosphate",
+    "inci_name": "TRISODIUM PHOSPHATE",
+    "cas_number": "7601-54-9",
+    "einecs_number": "231-509-8",
+    "description": "Trisodium phosphate acts as a chelating agent and pH adjuster in cosmetics. It will help soften the water and eliminate some metals.",
+    "rating": "neutral",
+    "functions": [
+      "pH regulator",
+      "Chelating"
+    ],
+    "prevalence": "0.16% косметических средств",
+    "common_product_types": [
+      "Adult toothpaste (10.52%)",
+      "Children toothpaste (8.42%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Synthetic."
+  },
+  {
+    "name": "Tris(Nonylphenyl)Phosphite",
+    "inci_name": "TRIS(NONYLPHENYL)PHOSPHITE",
+    "cas_number": "26523-78-4",
+    "einecs_number": "247-759-6",
+    "description": "Tris(Nonylphenyl)Phosphite — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Antioxidant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Tris(Tetramethylhydroxypiperidinol) Citrate",
+    "inci_name": "TRIS(TETRAMETHYLHYDROXYPIPERIDINOL) CITRATE",
+    "cas_number": "220410-74-2",
+    "einecs_number": "429-370-5",
+    "description": "Tris(Tetramethylhydroxypiperidinol) Citrate — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Uv absorber"
+    ],
+    "prevalence": "0.48% косметических средств",
+    "common_product_types": [
+      "Women fragrance set (15.54%)",
+      "Perfume for women (10%)",
+      "Eau de toilette for women (6.64%)",
+      "Eau de parfum for men (6.3%)",
+      "Men's cologne (5.37%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Tris-Hydroxymethylnitromethane",
+    "inci_name": "TRIS-HYDROXYMETHYLNITROMETHANE",
+    "cas_number": "126-11-4",
+    "einecs_number": "204-769-5",
+    "description": "Tris-Hydroxymethylnitromethane — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Antimicrobial"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Trisodium Ethylenediamine Disuccinate",
+    "inci_name": "TRISODIUM ETHYLENEDIAMINE DISUCCINATE",
+    "cas_number": "20846-91-7 / 178949-82-1",
+    "einecs_number": "",
+    "description": "Trisodium Ethylenediamine Disuccinate is a structural isomer of EDTA: overall, it is the same formula, but in which the atoms are placed in a different order. The ingredient is used as EDTA as a chelating agent, that is, it forms complexes with metal ions that may affect the stability and / or appearance of cosmetic products.The big difference from EDTA is that this molecule is biodegradable",
+    "rating": "safe",
+    "functions": [
+      "Chelating"
+    ],
+    "prevalence": "1.3% косметических средств",
+    "common_product_types": [
+      "Anti-ageing sun cream (10.68%)",
+      "Shower oil (9.01%)",
+      "Concealer (8.81%)",
+      "Shampoo for colored/highlighted hair (7.85%)",
+      "Face moisturizer for men (7.7%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Synthetic."
+  },
+  {
+    "name": "Tromethamine",
+    "inci_name": "TROMETHAMINE",
+    "cas_number": "77-86-1",
+    "einecs_number": "201-064-4",
+    "description": "Tromethamine or THAM is a synthetic ingredient that is used in a variety of cosmetics and personal care products such as pH regulator and masking agent.",
+    "rating": "neutral",
+    "functions": [
+      "pH regulator",
+      "Masking"
+    ],
+    "prevalence": "0.95% косметических средств",
+    "common_product_types": [
+      "Fabric mask (9.15%)",
+      "Brightening and anti-dark spots treatment (6.01%)",
+      "Care set (5.79%)",
+      "Face moisturizing serum (4.66%)",
+      "Anti-aging eye contour care (4.61%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Tropaeolum Majus Flower/Leaf/Stem Extract",
+    "inci_name": "TROPAEOLUM MAJUS FLOWER/LEAF/STEM EXTRACT",
+    "cas_number": "84625-49-0 - Indian cress extract (flower/leaf/stem)",
+    "einecs_number": "283-419-3",
+    "description": "Tropaeolum Majus Flower/Leaf/Stem Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.1% косметических средств",
+    "common_product_types": [
+      "Foundation (1.52%)",
+      "Face cream (0.39%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Tropolone",
+    "inci_name": "TROPOLONE",
+    "cas_number": "533-75-5",
+    "einecs_number": "208-577-2",
+    "description": "Tropolone — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.39% косметических средств",
+    "common_product_types": [
+      "Mascara (5.55%)",
+      "Baby cleaning wipes (1.7%)",
+      "Blush (1.17%)",
+      "Eyeshadow (1.07%)",
+      "Anti-aging day face cream (1.03%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Triticum Vulgare Germ Extract",
+    "inci_name": "TRITICUM VULGARE GERM EXTRACT",
+    "cas_number": "84012-44-2 - Wheat germ extract",
+    "einecs_number": "281-689-7",
+    "description": "Triticum Vulgare Germ Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning",
+      "Skin protecting"
+    ],
+    "prevalence": "0.33% косметических средств",
+    "common_product_types": [
+      "Fall protection shampoo (5.35%)",
+      "Lipstick (1.58%)",
+      "Anti-aging day face cream (1.15%)",
+      "Specific hair care (1%)",
+      "Classic shampoo (0.64%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Triticum Vulgare Bran Extract",
+    "inci_name": "TRITICUM VULGARE BRAN EXTRACT",
+    "cas_number": "84012-44-2 - Wheat bran extract",
+    "einecs_number": "281-689-7",
+    "description": "Triticum Vulgare Bran Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning",
+      "Skin protecting"
+    ],
+    "prevalence": "0.15% косметических средств",
+    "common_product_types": [
+      "Lipstick (1.39%)",
+      "Oxidative hair coloring (1.08%)",
+      "Classic shampoo (0.43%)",
+      "Hair conditioner (0.41%)",
+      "Face cream (0.39%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Tuber Magnatum Extract",
+    "inci_name": "TUBER MAGNATUM EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Tuber Magnatum Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Triticum Vulgare Germ Oil",
+    "inci_name": "TRITICUM VULGARE GERM OIL",
+    "cas_number": "68917-73-7 / 8006-95-9 - Wheat germ oil",
+    "einecs_number": "- / 281-689-7",
+    "description": "Triticum Vulgare Germ Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Emollient",
+      "Humectant",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.93% косметических средств",
+    "common_product_types": [
+      "Stretch marks treatment (11.31%)",
+      "Shower oil (5.75%)",
+      "Massage (4.86%)",
+      "Night face cream (4.05%)",
+      "Oxidative hair coloring (3.44%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Triticum Vulgare Seed Extract",
+    "inci_name": "TRITICUM VULGARE SEED EXTRACT",
+    "cas_number": "84012-44-2 - Wheat seed extract",
+    "einecs_number": "281-689-7",
+    "description": "Triticum Vulgare Seed Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "pH regulator",
+      "Detangling",
+      "Skin conditioning",
+      "Skin protecting"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Turpentine",
+    "inci_name": "TURPENTINE",
+    "cas_number": "8006-64-2 / 9005-90-7 / 8052-14-0",
+    "einecs_number": "232-350-7 / 232-688-5 / -",
+    "description": "Turpentine is a fluid obtained by distilling resin harvested from living trees, mainly pines. It is a regulated allergen in Europe.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  }
+]

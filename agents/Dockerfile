@@ -1,13 +1,20 @@
-FROM python:3.11-slim
+FROM python:3.12-slim
 
 WORKDIR /app
 
-RUN apk update && apk gcc libc-dev g++ openssl libgcc tzdata icu-libc icu-data-full
+RUN apt-get update && apt-get install -y \
+    gcc \
+    libc6-dev \
+    g++ \
+    libssl-dev \
+    tzdata \
+    libicu-dev \
+    && apt-get clean && rm -rf /var/lib/apt/lists/*
 
 COPY pyproject.toml .
 
-RUN pip install uv
-RUN uv pip install .
+RUN pip install --no-cache-dir uv && \
+    uv pip install --system .
 
 COPY main.py .
 COPY crew.py .

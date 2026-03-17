@@ -1,0 +1,663 @@
+[
+  {
+    "name": "Vaccinium Corymbosum Seed Oil",
+    "inci_name": "VACCINIUM CORYMBOSUM SEED OIL",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Vaccinium Corymbosum Seed Oil — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant",
+      "Emollient"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Va/Crotonates/Vinyl Neodecanoate Copolymer",
+    "inci_name": "VA/CROTONATES/VINYL NEODECANOATE COPOLYMER",
+    "cas_number": "58748-38-2",
+    "einecs_number": "",
+    "description": "This copolymer is mainly used in lacquers, one in two lacquer contains it. It is a synthetic resin that helps to hold the hairstyle. It is prohibited in organic products.",
+    "rating": "caution",
+    "functions": [
+      "Antistatic",
+      "Film forming",
+      "Hair fixing"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [
+      "Lacquer (28.07%)",
+      "Styling spray (6.82%)",
+      "Oxidative hair coloring (0.49%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Vaccinium Angustifolium Fruit Extract",
+    "inci_name": "VACCINIUM ANGUSTIFOLIUM FRUIT EXTRACT",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Vaccinium Angustifolium Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin protecting",
+      "Soothing"
+    ],
+    "prevalence": "0.21% косметических средств",
+    "common_product_types": [
+      "Fabric mask (2.92%)",
+      "Cream / gel mask (1.02%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Vaccinium Macrocarpon Fruit Extract",
+    "inci_name": "VACCINIUM MACROCARPON FRUIT EXTRACT",
+    "cas_number": "91770-88-6 - Cranberry fruit extract",
+    "einecs_number": "294-875-8",
+    "description": "Vaccinium Macrocarpon Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent"
+    ],
+    "prevalence": "0.26% косметических средств",
+    "common_product_types": [
+      "Personal hygiene (2.01%)",
+      "Shampoo for colored/highlighted hair (1.83%)",
+      "Fabric mask (1.14%)",
+      "Cream / gel mask (1.08%)",
+      "Hand cream (0.41%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Vaccinium Macrocarpon Seed Oil",
+    "inci_name": "VACCINIUM MACROCARPON SEED OIL",
+    "cas_number": "91770-88-6 - Cranberry seed oil",
+    "einecs_number": "294-875-8",
+    "description": "Vaccinium Macrocarpon Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.14% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (1.39%)",
+      "Adult sun cream (0.42%)",
+      "Face cream (0.29%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Vaccinium Macrocarpon Seed Powder",
+    "inci_name": "VACCINIUM MACROCARPON SEED POWDER",
+    "cas_number": "91770-88-6 - Cranberry Seed Powder",
+    "einecs_number": "294-875-8",
+    "description": "Vaccinium Macrocarpon Seed Powder — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Abrasive"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Vaccinium Myrtillus Fruit Extract",
+    "inci_name": "VACCINIUM MYRTILLUS FRUIT EXTRACT",
+    "cas_number": "84082-34-8 - Blueberry fruit extract",
+    "einecs_number": "281-983-5",
+    "description": "Vaccinium Myrtillus Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "0.47% косметических средств",
+    "common_product_types": [
+      "Face scrub (3.76%)",
+      "Cream / gel mask (1.76%)",
+      "Face cleansing gel (1.73%)",
+      "Fabric mask (1.28%)",
+      "Body scrub (1.19%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Vaccinium Myrtillus Fruit/Leaf Extract",
+    "inci_name": "VACCINIUM MYRTILLUS FRUIT/LEAF EXTRACT",
+    "cas_number": "84082-34-8 - Bilberry extraxt (fruit/leaf)",
+    "einecs_number": "281-983-5",
+    "description": "Vaccinium Myrtillus Fruit/Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent",
+      "Refreshing",
+      "Skin conditioning",
+      "Tonic"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Vaccinium Myrtillus Leaf Extract",
+    "inci_name": "VACCINIUM MYRTILLUS LEAF EXTRACT",
+    "cas_number": "84082-34-8 - Bilberry leaf extract",
+    "einecs_number": "281-983-5",
+    "description": "Vaccinium Myrtillus Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent",
+      "Hair conditioning",
+      "Maintenance agent for nails",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [
+      "Classic shampoo (0.16%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Vaccinium Myrtillus Seed Oil",
+    "inci_name": "VACCINIUM MYRTILLUS SEED OIL",
+    "cas_number": "84082-34-8 - Blueberry seed oil",
+    "einecs_number": "281-983-5",
+    "description": "Vaccinium Myrtillus Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Vaccinium Vitis-Idaea Fruit Extract",
+    "inci_name": "VACCINIUM VITIS-IDAEA FRUIT EXTRACT",
+    "cas_number": "90131-85-4 - Ligonberry fruit extract",
+    "einecs_number": "290-400-3",
+    "description": "Vaccinium Vitis-Idaea Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Vaccinium Vitis-Idaea Seed Oil",
+    "inci_name": "VACCINIUM VITIS-IDAEA SEED OIL",
+    "cas_number": "90131-85-4 - Lingonberry seed oil",
+    "einecs_number": "290-400-3",
+    "description": "Vaccinium Vitis-Idaea Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant",
+      "Emollient",
+      "Skin conditioning",
+      "Skin protecting"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Valine",
+    "inci_name": "VALINE",
+    "cas_number": "516-06-3 / 640-68-6 / 72-18-4",
+    "einecs_number": "208-220-0 / 211-368-9 / 200-773-6",
+    "description": "Valine — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Hair conditioning",
+      "Masking",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.62% косметических средств",
+    "common_product_types": [
+      "Fall protection shampoo (3.43%)",
+      "Detangler (leave-in) (2.78%)",
+      "Hair mask (2.77%)",
+      "Specific hair care (2.18%)",
+      "Treatment for curly hair (1.66%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Vanilla Planifolia Fruit",
+    "inci_name": "VANILLA PLANIFOLIA FRUIT",
+    "cas_number": "8024-06-4 / 84650-63-5 - Vanilla",
+    "einecs_number": "- / 283-521-8",
+    "description": "Vanilla Planifolia Fruit — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Skin protecting",
+      "Smoothing"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Vanilla Planifolia Fruit Extract",
+    "inci_name": "VANILLA PLANIFOLIA FRUIT EXTRACT",
+    "cas_number": "8024-06-4 / 84650-63-5 - Vanilla extract",
+    "einecs_number": "- / 283-521-8",
+    "description": "Vanilla Planifolia Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Skin protecting",
+      "Smoothing"
+    ],
+    "prevalence": "0.54% косметических средств",
+    "common_product_types": [
+      "Shower gel (2.3%)",
+      "Foaming bath and bath salts (1.9%)",
+      "Body scrub (1.86%)",
+      "Body moisturizer (1.58%)",
+      "Lip balm (1.54%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Vanilla Planifolia Fruit Oil",
+    "inci_name": "VANILLA PLANIFOLIA FRUIT OIL",
+    "cas_number": "8024-06-4 / 84650-63-5 - Vanilla oil",
+    "einecs_number": "- / 283-521-8",
+    "description": "Vanilla Planifolia Fruit Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Verbena Officinalis Leaf Extract",
+    "inci_name": "VERBENA OFFICINALIS LEAF EXTRACT",
+    "cas_number": "84961-67-1 - Verbena Leaf Extract",
+    "einecs_number": "284-657-0",
+    "description": "Verbena Officinalis Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [
+      "Shower gel (0.29%)",
+      "Classic shampoo (0.14%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Vaccinium Vulcanorum Fruit Extract",
+    "inci_name": "VACCINIUM VULCANORUM FRUIT EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Vaccinium Vulcanorum Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Vanillin",
+    "inci_name": "VANILLIN",
+    "cas_number": "121-33-5",
+    "einecs_number": "204-465-2",
+    "description": "Vanillin is a natural flavor compound found in vanilla pods. It is one of the allergens regulated by Europe.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "1.16% косметических средств",
+    "common_product_types": [
+      "Mixed scented mist (19.77%)",
+      "Lip oil (13.42%)",
+      "Sunscreen lip balm (11.04%)",
+      "Tinted lip balm (8.68%)",
+      "Lacquer and lip ink (8.47%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Vetiveria Zizanoides Root Oil",
+    "inci_name": "VETIVERIA ZIZANOIDES ROOT OIL",
+    "cas_number": "8016-96-4 / 84238-29-9 - Vetiver root oil",
+    "einecs_number": "- / 282-490-8",
+    "description": "Vetiveria Zizanoides Root Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Tonic",
+      "Perfuming"
+    ],
+    "prevalence": "0.12% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Vetiveria Zizanoides Extract",
+    "inci_name": "VETIVERIA ZIZANOIDES EXTRACT",
+    "cas_number": "84238-29-9 - Vetiver extract",
+    "einecs_number": "282-490-8",
+    "description": "Vetiveria Zizanoides Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Vinylamine/Vinyl Alcohol Copolymer",
+    "inci_name": "VINYLAMINE/VINYL ALCOHOL COPOLYMER",
+    "cas_number": "29499-22-7",
+    "einecs_number": "",
+    "description": "Vinylamine/Vinyl Alcohol Copolymer — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Film forming",
+      "Hair fixing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Viper Venom",
+    "inci_name": "VIPER VENOM",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Viper Venom — косметический ингредиент. Происхождение: Animal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Animal."
+  },
+  {
+    "name": "Vitis Vinifera Fruit Water",
+    "inci_name": "VITIS VINIFERA FRUIT WATER",
+    "cas_number": "85594-37-2 / 84929-27-1 - Grape fruit water",
+    "einecs_number": "287-896-9 / 284-511-6",
+    "description": "Vitis Vinifera Fruit Water — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [
+      "Face cleansing gel (1.07%)",
+      "Face lotion and toner (0.77%)",
+      "Face cream (0.51%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Vitis Vinifera Leaf Extract",
+    "inci_name": "VITIS VINIFERA LEAF EXTRACT",
+    "cas_number": "85594-37-2 / 84929-27-1 - Grape leaf extract",
+    "einecs_number": "287-896-9 / 284-511-6",
+    "description": "Vitis Vinifera Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.22% косметических средств",
+    "common_product_types": [
+      "Heavy legs care (22.46%)",
+      "Anti-aging day face cream (0.67%)",
+      "Face cream (0.33%)",
+      "Body moisturizer (0.27%)",
+      "Classic shampoo (0.25%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer",
+    "inci_name": "VINYL DIMETHICONE/METHICONE SILSESQUIOXANE CROSSPOLYMER",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.44% косметических средств",
+    "common_product_types": [
+      "Cc cream (8.63%)",
+      "Lipstick (6.23%)",
+      "Foundation and primer (6.03%)",
+      "Foundation (5.21%)",
+      "Bb cream (4.48%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Vitis Vinifera Seed Extract",
+    "inci_name": "VITIS VINIFERA SEED EXTRACT",
+    "cas_number": "84929-27-1 - Grape seed extract",
+    "einecs_number": "284-511-6",
+    "description": "Vitis Vinifera Seed Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Anti dandruff",
+      "Antimicrobial",
+      "Antioxidant",
+      "Oral care/hygiene agent",
+      "Skin protecting",
+      "Uv absorber"
+    ],
+    "prevalence": "0.36% косметических средств",
+    "common_product_types": [
+      "Anti-aging day face cream (0.95%)",
+      "Adult sun cream (0.61%)",
+      "Fabric mask (0.58%)",
+      "Hair conditioner (0.56%)",
+      "Oxidative hair coloring (0.5%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Vitis Vinifera Fruit Extract",
+    "inci_name": "VITIS VINIFERA FRUIT EXTRACT",
+    "cas_number": "85594-37-2 / 84929-27-1 - Grape extract",
+    "einecs_number": "287-896-9 / 284-511-6",
+    "description": "Vitis Vinifera Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.35% косметических средств",
+    "common_product_types": [
+      "Cream / gel mask (1.43%)",
+      "Fabric mask (1.07%)",
+      "Face lotion and toner (1.03%)",
+      "Anti-aging day face cream (0.76%)",
+      "Face moisturizing serum (0.69%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Viola Tricolor Extract",
+    "inci_name": "VIOLA TRICOLOR EXTRACT",
+    "cas_number": "84012-42-0 - Pansy extract",
+    "einecs_number": "281-687-6",
+    "description": "Viola Tricolor Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin protecting",
+      "Soothing"
+    ],
+    "prevalence": "0.12% косметических средств",
+    "common_product_types": [
+      "Foundation (0.55%)",
+      "Face cream (0.39%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Vitis Vinifera Seed Oil",
+    "inci_name": "VITIS VINIFERA SEED OIL",
+    "cas_number": "85594-37-2 / 84929-27-1 / 8024-22-4 - Grape seed oil",
+    "einecs_number": "287-896-9 / 284-511-6 / -",
+    "description": "Vitis Vinifera Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "2.17% косметических средств",
+    "common_product_types": [
+      "Body razor (31.12%)",
+      "Beard oil (25.42%)",
+      "Razor blades (25.28%)",
+      "Face cleansing oil (12.92%)",
+      "Cleansing oil (12.57%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Vp/Eicosene Copolymer",
+    "inci_name": "VP/EICOSENE COPOLYMER",
+    "cas_number": "28211-18-9",
+    "einecs_number": "",
+    "description": "Vp/Eicosene Copolymer — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Binding agent",
+      "Film forming",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.6% косметических средств",
+    "common_product_types": [
+      "Mascara (29.04%)",
+      "Make-up set (16.93%)",
+      "Children sun cream (8.4%)",
+      "Eyebrow pencil (7.15%)",
+      "Adult sun cream (6.46%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Vitis Vinifera Juice",
+    "inci_name": "VITIS VINIFERA JUICE",
+    "cas_number": "85594-37-2 / 84929-27-1 - Grape juice",
+    "einecs_number": "287-896-9 / 284-511-6",
+    "description": "Vitis Vinifera Juice — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Vitis Vinifera Vine Extract",
+    "inci_name": "VITIS VINIFERA VINE EXTRACT",
+    "cas_number": "85594-37-2 / 84929-27-1 - Grape vine extract",
+    "einecs_number": "287-896-9 / 284-511-6",
+    "description": "Vitis Vinifera Vine Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Vp/Hexadecene Copolymer",
+    "inci_name": "VP/HEXADECENE COPOLYMER",
+    "cas_number": "32440-50-9/63231-81-2",
+    "einecs_number": "-/-",
+    "description": "Vp/Hexadecene Copolymer — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Binding agent",
+      "Film forming",
+      "Hair fixing",
+      "Viscosity controlling",
+      "Non-surfactant dispersant"
+    ],
+    "prevalence": "0.73% косметических средств",
+    "common_product_types": [
+      "Children sun cream (15.92%)",
+      "Gloss and lip gloss (8.16%)",
+      "Lipstick (8.12%)",
+      "Mascara (7.71%)",
+      "Adult sun cream (7.15%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Vitis Vinifera Oil",
+    "inci_name": "VITIS VINIFERA OIL",
+    "cas_number": "8016-21-5 / 84929-27-1 - Grape seed oil",
+    "einecs_number": "232-403-4 / 284-511-6",
+    "description": "Vitis Vinifera Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Vp/Va Copolymer",
+    "inci_name": "VP/VA COPOLYMER",
+    "cas_number": "25086-89-9",
+    "einecs_number": "",
+    "description": "The VP / VA copolymer is a large molecule consisting of N-vinylpyrrolidone (PV) and vinyl acetate (VA) monomers. This film-forming agent is mainly used in hair care, it helps the hair to maintain their style by preventing them from absorbing moisture. When it dries, it forms a thin layer on the skin, hair or nails. It is forbidden in organic.",
+    "rating": "caution",
+    "functions": [
+      "Binding agent",
+      "Film forming",
+      "Hair fixing"
+    ],
+    "prevalence": "0.75% косметических средств",
+    "common_product_types": [
+      "Styling mousse (36.61%)",
+      "Gel and lacquer for men (31.93%)",
+      "Styling gel (23.75%)",
+      "Styling spray (20.35%)",
+      "Styling hair wax (17.9%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Vp/Polycarbamyl Polyglycol Ester",
+    "inci_name": "VP/POLYCARBAMYL POLYGLYCOL ESTER",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Vp/Polycarbamyl Polyglycol Ester — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Film forming"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  }
+]

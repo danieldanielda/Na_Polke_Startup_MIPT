@@ -1,0 +1,495 @@
+[
+  {
+    "name": "Zea Mays Oil",
+    "inci_name": "ZEA MAYS OIL",
+    "cas_number": "8001-30-7 - Corn oil",
+    "einecs_number": "232-281-2",
+    "description": "Zea Mays Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emulsifying",
+      "Hair conditioning",
+      "Masking",
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "0.44% косметических средств",
+    "common_product_types": [
+      "Hair oil (2.53%)",
+      "Lipstick (1.6%)",
+      "Anti-aging day face cream (1.34%)",
+      "Specific hair care (1.03%)",
+      "Adult sun cream (0.91%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Zanthoxylum Bungeanum Fruit Extract",
+    "inci_name": "ZANTHOXYLUM BUNGEANUM FRUIT EXTRACT",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Zanthoxylum Bungeanum Fruit Extract — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (0.66%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Zea Mays Germ Oil",
+    "inci_name": "ZEA MAYS GERM OIL",
+    "cas_number": "8001-30-7 - Corn oil",
+    "einecs_number": "232-281-2",
+    "description": "Zea Mays Germ Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.18% косметических средств",
+    "common_product_types": [
+      "Hair oil (1.8%)",
+      "Anti-aging day face cream (0.94%)",
+      "Oxidative hair coloring (0.55%)",
+      "Face cream (0.39%)",
+      "Adult sun cream (0.3%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Zanthoxylum Piperitum Fruit Extract",
+    "inci_name": "ZANTHOXYLUM PIPERITUM FRUIT EXTRACT",
+    "cas_number": "97404-53-0 - Sichuan pepper extract",
+    "einecs_number": "306-820-8",
+    "description": "Zanthoxylum Piperitum Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [
+      "Fabric mask (1.77%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Zea Mays Kernel Extract",
+    "inci_name": "ZEA MAYS KERNEL EXTRACT",
+    "cas_number": "84696-06-0 - Corn grain extract",
+    "einecs_number": "-",
+    "description": "Zea Mays Kernel Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Binding agent",
+      "Bulking"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Zea Mays Starch",
+    "inci_name": "ZEA MAYS STARCH",
+    "cas_number": "9005-25-8 - Corn starch",
+    "einecs_number": "232-679-6",
+    "description": "Cornstarch (or corn starch) is the starch derived from the corn kernel. Starch is obtained from the endosperm of the kernel. It is used primarily in cosmetics for its absorbent and mattifying properties.",
+    "rating": "safe",
+    "functions": [
+      "Abrasive",
+      "Absorbent",
+      "Anticaking",
+      "Skin protecting",
+      "Viscosity controlling"
+    ],
+    "prevalence": "1.87% косметических средств",
+    "common_product_types": [
+      "Solid deodorant (43.13%)",
+      "Cream deodorant (34%)",
+      "Talc and powder (24.34%)",
+      "Solid conditioner (22.41%)",
+      "Compact powder (20.21%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Zinc Acetate",
+    "inci_name": "ZINC ACETATE",
+    "cas_number": "557-34-6(anhydrous)/5970-45-6 (hydrate)",
+    "einecs_number": "209-170-2/-",
+    "description": "Zinc Acetate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Antimicrobial",
+      "Astringent",
+      "Oral care/hygiene agent",
+      "Skin protecting"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Zinc Citrate",
+    "inci_name": "ZINC CITRATE",
+    "cas_number": "546-46-3",
+    "einecs_number": "208-901-2",
+    "description": "Zinc citrate is mainly used in oral hygiene products as an antimicrobial agent. It works particularly well with Triclosan (although this ingredient is particularly controversial and suspected to be an endocrine disruptor). It is also an active against scale that can support the action of fluoride.",
+    "rating": "neutral",
+    "functions": [
+      "Antimicrobial",
+      "Antiplaque",
+      "Oral care/hygiene agent"
+    ],
+    "prevalence": "0.2% косметических средств",
+    "common_product_types": [
+      "Adult toothpaste (12.53%)",
+      "Mouthwash (2.82%)",
+      "Roll-on deodorant (1.55%)",
+      "Deodorant spray (0.52%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Zinc Chloride",
+    "inci_name": "ZINC CHLORIDE",
+    "cas_number": "7646-85-7",
+    "einecs_number": "231-592-0",
+    "description": "Zinc Chloride — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Antimicrobial",
+      "Astringent",
+      "Oral care/hygiene agent",
+      "Soothing"
+    ],
+    "prevalence": "0.23% косметических средств",
+    "common_product_types": [
+      "Mouthwash (14.83%)",
+      "Adult toothpaste (4.11%)",
+      "Foundation (1.14%)",
+      "Classic shampoo (0.24%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Zea Mays Silk Extract",
+    "inci_name": "ZEA MAYS SILK EXTRACT",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Zea Mays Silk Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [
+      "Hair conditioner (0.44%)",
+      "Classic shampoo (0.23%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Zinc Pca",
+    "inci_name": "ZINC PCA",
+    "cas_number": "68107-75-5 / 15454-75-8",
+    "einecs_number": "268-475-9 / 239-473-5",
+    "description": "Zinc PCA is in the form of a white powder. This ingredient is known as sweet. It is used for its seboregulating properties (even anti-dandruff). It is also indicated for its anti-inflammatory and antibacterial properties to combat acne and various skin problems. It is authorized in organic.",
+    "rating": "neutral",
+    "functions": [
+      "Humectant",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.68% косметических средств",
+    "common_product_types": [
+      "Anti-blemish serum (12.57%)",
+      "Anti-blemish treatment (11.32%)",
+      "Anti-blemish cleanser (10.73%)",
+      "Fall protection shampoo (4.71%)",
+      "Face cleansing gel (4.32%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Natural."
+  },
+  {
+    "name": "Zinc Pyrithione",
+    "inci_name": "ZINC PYRITHIONE",
+    "cas_number": "13463-41-7",
+    "einecs_number": "236-671-3",
+    "description": "Zinc pyrithione has been banned in cosmetics in Europe since March 1, 2022.",
+    "rating": "avoid",
+    "functions": [
+      "Anti dandruff",
+      "Antiseborrhoeic",
+      "Hair conditioning",
+      "Preservative"
+    ],
+    "prevalence": "0.17% косметических средств",
+    "common_product_types": [
+      "Anti-dandruff shampoo (15.84%)",
+      "Classic shampoo (0.38%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Zinc Stearate",
+    "inci_name": "ZINC STEARATE",
+    "cas_number": "557-05-1",
+    "einecs_number": "209-151-9",
+    "description": "White dye",
+    "rating": "neutral",
+    "functions": [
+      "Anticaking",
+      "Cosmetic colorant",
+      "Viscosity controlling",
+      "Slip modifier"
+    ],
+    "prevalence": "1.31% косметических средств",
+    "common_product_types": [
+      "Bronze powder / sun powder (38.24%)",
+      "Compact powder (33.78%)",
+      "Eyeshadow (30.6%)",
+      "Blush (25.46%)",
+      "Make-up palette (21.63%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Zinc Sulfate",
+    "inci_name": "ZINC SULFATE",
+    "cas_number": "7446-19-7 (monohydrate)/ 7446-20-0 (heptahydrate) / 7733-02-0 (anhydrous)",
+    "einecs_number": "231-793-3 / - / -",
+    "description": "Zinc sulfate is a chemical compound created from Zinc and sulfuric acid. It is used primarily as an antimicrobial agent in bath products, dental care and hygiene products.Zinc sulfate is highly ecotoxic (Aquatic Acute 1, Aquatic Chronic 1) according to REACH.",
+    "rating": "caution",
+    "functions": [
+      "Antimicrobial",
+      "Antiplaque",
+      "Astringent",
+      "Oral care/hygiene agent"
+    ],
+    "prevalence": "0.49% косметических средств",
+    "common_product_types": [
+      "Nail polish (11.6%)",
+      "Anti-blemish treatment (3.94%)",
+      "Baby milk and moisturizer (2.48%)",
+      "Adult toothpaste (1.76%)",
+      "Anti-dandruff shampoo (1.74%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Zingiber Cassumunar Root Oil",
+    "inci_name": "ZINGIBER CASSUMUNAR ROOT OIL",
+    "cas_number": "84696-15-1 / 8007-08-7",
+    "einecs_number": "283-634-2 / -",
+    "description": "Zingiber Cassumunar Root Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Zingiber Officinale Extract",
+    "inci_name": "ZINGIBER OFFICINALE EXTRACT",
+    "cas_number": "84696-15-1 - Ginger extract",
+    "einecs_number": "283-634-2",
+    "description": "Zingiber Officinale Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Zingiber Officinale Root Extract",
+    "inci_name": "ZINGIBER OFFICINALE ROOT EXTRACT",
+    "cas_number": "84696-15-1 - Ginger root extract",
+    "einecs_number": "283-634-2",
+    "description": "Zingiber Officinale Root Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Skin conditioning",
+      "Tonic",
+      "Perfuming"
+    ],
+    "prevalence": "0.71% косметических средств",
+    "common_product_types": [
+      "Anti-hair loss treatment (7.75%)",
+      "Fall protection shampoo (5.51%)",
+      "Fabric mask (3.07%)",
+      "Cream / gel mask (2.17%)",
+      "Eyeshadow (1.34%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Zingiber Officinale Root Oil",
+    "inci_name": "ZINGIBER OFFICINALE ROOT OIL",
+    "cas_number": "8007-08-7 - Ginger root oil",
+    "einecs_number": "-",
+    "description": "Zingiber Officinale Root Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Skin conditioning",
+      "Tonic",
+      "Perfuming"
+    ],
+    "prevalence": "0.22% косметических средств",
+    "common_product_types": [
+      "Massage (3.58%)",
+      "Classic shampoo (0.21%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Zingiber Officinale Water",
+    "inci_name": "ZINGIBER OFFICINALE WATER",
+    "cas_number": "84696-15-1 - Ginger water",
+    "einecs_number": "283-634-2",
+    "description": "Zingiber Officinale Water — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Zirconium Dioxide",
+    "inci_name": "ZIRCONIUM DIOXIDE",
+    "cas_number": "1314-23-4",
+    "einecs_number": "215-227-2",
+    "description": "Zirconium Dioxide — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Opacifying"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Zirconium Silicate",
+    "inci_name": "ZIRCONIUM SILICATE",
+    "cas_number": "10101-52-7 / 1344-21-4",
+    "einecs_number": "233-252-7 / 215-690-0",
+    "description": "Zirconium Silicate — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Abrasive",
+      "Opacifying"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Zinc Gluconate",
+    "inci_name": "ZINC GLUCONATE",
+    "cas_number": "4468-02-4",
+    "einecs_number": "224-736-9",
+    "description": "Zinc Gluconate is used in cosmetics for its antiseptic and astringent properties. It is often used in acne treatment products, it accelerates the healing of wounds and helps the body to transform essential fatty acids used by the skin for healing. It is also found in deodorants and toothpastes.",
+    "rating": "neutral",
+    "functions": [
+      "Antimicrobial",
+      "Deodorant",
+      "Oral care/hygiene agent",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.61% косметических средств",
+    "common_product_types": [
+      "Anti-blemish cleanser (8.78%)",
+      "Anti-blemish treatment (6.63%)",
+      "Fall protection shampoo (4.39%)",
+      "Face cleansing gel (4.2%)",
+      "Anti-blemish serum (2.97%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Zinc Oxide",
+    "inci_name": "ZINC OXIDE",
+    "cas_number": "1314-13-2",
+    "einecs_number": "215-222-5",
+    "description": "Zinc oxide is a mineral used in cosmetics as a white colourant (CI 77947) or as a UV filter. Its authorisation as a UV filter is recent, following a European Union directive in April 2016. It allowed for organic use.\"On 23 September 2014, the Scientific Committee on Consumer Safety (SCCS) concluded that zinc oxide is safe when used as a colourant in its non-nano uncoated form in cosmetic products for applicationapplication. However, the SCCS also considered that, given the pulmonary inflammation caused by zinc oxide particles after inhalation, zinc oxide in cosmetic products likely to expose the consumer's lungs to zinc oxide by inhalation is a cause for concern\". : Extract from the EU regulation of 3 August 2017.Following this opinion, Europe has banned all use of Zinc Oxide in spray cosmetics since 24 February 2018.",
+    "rating": "neutral",
+    "functions": [
+      "Antimicrobial",
+      "Bulking",
+      "Cosmetic colorant",
+      "Oral care/hygiene agent",
+      "Skin protecting",
+      "Stabilising",
+      "Uv absorber",
+      "Uv filter"
+    ],
+    "prevalence": "1.7% косметических средств",
+    "common_product_types": [
+      "Diaper cream (72.29%)",
+      "Cc cream (30.77%)",
+      "Talc and powder (24.95%)",
+      "Solid deodorant (20.23%)",
+      "Bb cream (19.56%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Mineral."
+  },
+  {
+    "name": "Zinc Glutamate",
+    "inci_name": "ZINC GLUTAMATE",
+    "cas_number": "1949-15-1",
+    "einecs_number": "-",
+    "description": "Zinc Glutamate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Deodorant",
+      "Hair conditioning",
+      "Oral care/hygiene agent",
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Zinc Phenolsulfonate",
+    "inci_name": "ZINC PHENOLSULFONATE",
+    "cas_number": "127-82-2",
+    "einecs_number": "204-867-8",
+    "description": "Zinc Phenolsulfonate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Antimicrobial",
+      "Astringent",
+      "Deodorant"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Ziziphus Spina-Christi Leaf",
+    "inci_name": "ZIZIPHUS SPINA-CHRISTI LEAF",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Ziziphus Spina-Christi Leaf — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Unclassified"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [
+      "Vegetal hair color (9.93%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  }
+]

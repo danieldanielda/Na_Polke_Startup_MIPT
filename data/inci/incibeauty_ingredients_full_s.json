@@ -1,0 +1,5451 @@
+[
+  {
+    "name": "Saccharide Isomerate",
+    "inci_name": "SACCHARIDE ISOMERATE",
+    "cas_number": "100843-69-4",
+    "einecs_number": "",
+    "description": "Saccharide Isomerate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Humectant"
+    ],
+    "prevalence": "0.97% косметических средств",
+    "common_product_types": [
+      "Men shower gel (5.88%)",
+      "Self-tanner (5.08%)",
+      "Fabric mask (4.61%)",
+      "Brightening and anti-dark spots treatment (4.11%)",
+      "Night face cream (3.93%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Saccharin",
+    "inci_name": "SACCHARIN",
+    "cas_number": "81-07-2",
+    "einecs_number": "201-321-0",
+    "description": "Saccharin — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Oral care/hygiene agent"
+    ],
+    "prevalence": "0.14% косметических средств",
+    "common_product_types": [
+      "Sunscreen lip balm (7.85%)",
+      "Children toothpaste (3.2%)",
+      "Lip balm (3.06%)",
+      "Adult toothpaste (2.09%)",
+      "Mouthwash (2%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Saccharomyces/Selenium Ferment",
+    "inci_name": "SACCHAROMYCES/SELENIUM FERMENT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Saccharomyces/Selenium Ferment — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Unclassified"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Saccharomyces/Camellia Sinensis Leaf/Cladosiphon Okamuranus/Rice Ferment Filtrate",
+    "inci_name": "SACCHAROMYCES/CAMELLIA SINENSIS LEAF/CLADOSIPHON OKAMURANUS/RICE FERMENT FILTRATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Saccharomyces/Camellia Sinensis Leaf/Cladosiphon Okamuranus/Rice Ferment Filtrate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Saccharomyces Cerevisiae Extract",
+    "inci_name": "SACCHAROMYCES CEREVISIAE EXTRACT",
+    "cas_number": "84604-16-0 - Yeast extract",
+    "einecs_number": "283-294-5",
+    "description": "Saccharomyces Cerevisiae Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.13% косметических средств",
+    "common_product_types": [
+      "Eye contour care (1.66%)",
+      "Lipstick (0.44%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Saccharomyces/Xylinum/Black Tea Ferment",
+    "inci_name": "SACCHAROMYCES/XYLINUM/BLACK TEA FERMENT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Saccharomyces/Xylinum/Black Tea Ferment — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.11% косметических средств",
+    "common_product_types": [
+      "Anti-aging day face cream (0.85%)",
+      "Foundation (0.57%)",
+      "Face cream (0.4%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Saccharomyces/Zinc/Magnesium/Calcium/Germanium/Selenium Ferment",
+    "inci_name": "SACCHAROMYCES/ZINC/MAGNESIUM/CALCIUM/GERMANIUM/SELENIUM FERMENT",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Saccharomyces/Zinc/Magnesium/Calcium/Germanium/Selenium Ferment — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Unclassified"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Salicylaldehyde",
+    "inci_name": "SALICYLALDEHYDE",
+    "cas_number": "90-02-8",
+    "einecs_number": "201-961-0",
+    "description": "Salicylaldehyde — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Saccharum Officinarum Extract",
+    "inci_name": "SACCHARUM OFFICINARUM EXTRACT",
+    "cas_number": "91722-22-4 - Sugar cane extract",
+    "einecs_number": "294-424-5",
+    "description": "Saccharum Officinarum Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Moisturising",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.53% косметических средств",
+    "common_product_types": [
+      "Face scrub (4.41%)",
+      "Body scrub (4.09%)",
+      "Shampoo for colored/highlighted hair (2.01%)",
+      "Cream / gel mask (1.96%)",
+      "Face lotion and toner (1.7%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Salicornia Herbacea Extract",
+    "inci_name": "SALICORNIA HERBACEA EXTRACT",
+    "cas_number": "91845-47-5 - Glasswort extract",
+    "einecs_number": "295-221-4",
+    "description": "Salicornia Herbacea Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.14% косметических средств",
+    "common_product_types": [
+      "Lipstick (1.2%)",
+      "Face cream (0.7%)",
+      "Foundation (0.37%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Salix Alba Bark Extract",
+    "inci_name": "SALIX ALBA BARK EXTRACT",
+    "cas_number": "84082-82-6 - White willow bark extract",
+    "einecs_number": "282-029-0",
+    "description": "Salix Alba Bark Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent",
+      "Hair conditioning",
+      "Skin conditioning",
+      "Soothing",
+      "Tonic"
+    ],
+    "prevalence": "0.45% косметических средств",
+    "common_product_types": [
+      "Anti-blemish treatment (4.49%)",
+      "Face lotion and toner (2.58%)",
+      "Face cleansing gel (2.27%)",
+      "Facial cleansing foam (1.97%)",
+      "Fabric mask (1.95%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Salix Phylicifolia Extract",
+    "inci_name": "SALIX PHYLICIFOLIA EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Salix Phylicifolia Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Salvia Hispanica Herb Oil",
+    "inci_name": "SALVIA HISPANICA HERB OIL",
+    "cas_number": "93384-40-8",
+    "einecs_number": "297-250-8",
+    "description": "Salvia Hispanica Herb Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Salvia Hispanica Seed Extract",
+    "inci_name": "SALVIA HISPANICA SEED EXTRACT",
+    "cas_number": "93384-40-8 - Chia seed extract",
+    "einecs_number": "297-250-8",
+    "description": "Salvia Hispanica Seed Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.2% косметических средств",
+    "common_product_types": [
+      "Treatment for curly hair (3.52%)",
+      "Hair mask (0.63%)",
+      "Specific hair care (0.6%)",
+      "Fabric mask (0.59%)",
+      "Foundation (0.52%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Salvia Officinalis Extract",
+    "inci_name": "SALVIA OFFICINALIS EXTRACT",
+    "cas_number": "8022-56-8 / 84082-79-1 - Sage extract",
+    "einecs_number": "282-025-9 / 282-025-9",
+    "description": "Salvia Officinalis Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Anti dandruff",
+      "Antimicrobial",
+      "Antioxidant",
+      "Astringent",
+      "Cleansing",
+      "Deodorant",
+      "Skin conditioning",
+      "Skin protecting",
+      "Soothing",
+      "Tonic"
+    ],
+    "prevalence": "0.2% косметических средств",
+    "common_product_types": [
+      "Adult toothpaste (1%)",
+      "Classic shampoo (0.34%)",
+      "Hair conditioner (0.28%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Salvia Hispanica Seed Oil",
+    "inci_name": "SALVIA HISPANICA SEED OIL",
+    "cas_number": "93384-40-8 - Chia seed oil",
+    "einecs_number": "297-250-8",
+    "description": "Salvia Hispanica Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Moisturising",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.16% косметических средств",
+    "common_product_types": [
+      "Body and face moisturizing oil (0.78%)",
+      "Face cream (0.29%)",
+      "Classic shampoo (0.14%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Salvia Officinalis Leaf Extract",
+    "inci_name": "SALVIA OFFICINALIS LEAF EXTRACT",
+    "cas_number": "84082-79-1 / 8022-56-8 - Sage leaf extract",
+    "einecs_number": "282-025-9 / -",
+    "description": "Salvia Officinalis Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Anti dandruff",
+      "Cleansing",
+      "Oral care/hygiene agent",
+      "Skin conditioning",
+      "Tonic"
+    ],
+    "prevalence": "0.66% косметических средств",
+    "common_product_types": [
+      "Personal hygiene (3.7%)",
+      "Fall protection shampoo (3.35%)",
+      "Mouthwash (3.31%)",
+      "Adult toothpaste (2.39%)",
+      "Facial cleansing foam (2.01%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Salvia Officinalis Oil",
+    "inci_name": "SALVIA OFFICINALIS OIL",
+    "cas_number": "8022-56-8 / 84776-73-8 - Sage oil",
+    "einecs_number": "- / 282-025-9",
+    "description": "Salvia Officinalis Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Tonic"
+    ],
+    "prevalence": "0.3% косметических средств",
+    "common_product_types": [
+      "Roll-on deodorant (3.16%)",
+      "Deodorant stick (1.72%)",
+      "Adult toothpaste (1.68%)",
+      "Deodorant spray (1.23%)",
+      "Face cream (0.47%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Salvia Sclarea Extract",
+    "inci_name": "SALVIA SCLAREA EXTRACT",
+    "cas_number": "84775-83-7 - Clary Sage extract",
+    "einecs_number": "283-911-8",
+    "description": "Salvia Sclarea Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antiseborrhoeic",
+      "Astringent",
+      "Skin conditioning",
+      "Soothing"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [
+      "Face cream (0.3%)",
+      "Classic shampoo (0.14%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Salvia Sclarea Flower Oil",
+    "inci_name": "SALVIA SCLAREA FLOWER OIL",
+    "cas_number": "84775-83-7 - Clary sage flower oil",
+    "einecs_number": "283-911-8",
+    "description": "Salvia Sclarea Flower Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Salvia Sclarea Oil",
+    "inci_name": "SALVIA SCLAREA OIL",
+    "cas_number": "8016-63-5 / 84775-83-7 - Clary sage oil",
+    "einecs_number": "- / 283-911-8",
+    "description": "Salvia Sclarea Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Tonic"
+    ],
+    "prevalence": "0.18% косметических средств",
+    "common_product_types": [
+      "Classic shampoo (0.2%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Salvia Sclarea Seed Oil",
+    "inci_name": "SALVIA SCLAREA SEED OIL",
+    "cas_number": "8016-63-5 / 84775-83-7 - Sage seed oil",
+    "einecs_number": "- / 283-911-8",
+    "description": "Salvia Sclarea Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sambucus Canadensis Extract",
+    "inci_name": "SAMBUCUS CANADENSIS EXTRACT",
+    "cas_number": "91722-58-6",
+    "einecs_number": "294-458-0",
+    "description": "Sambucus Canadensis Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sambucus Nigra Fruit Extract",
+    "inci_name": "SAMBUCUS NIGRA FRUIT EXTRACT",
+    "cas_number": "84603-58-7 - Elderberry fruit extract",
+    "einecs_number": "283-259-4",
+    "description": "Sambucus Nigra Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Salicylic Acid",
+    "inci_name": "SALICYLIC ACID",
+    "cas_number": "69-72-7",
+    "einecs_number": "200-712-3",
+    "description": "Salicylic acid is naturally present in many fruits or certain plants such as willow bark. It is used in cosmetics as a preservative, hair conditioner or for its smoothing and regenerating effects. Salicylic acid is also often used as a keratolytic in anti-dandruff shampoos, particularly for the treatment of oily dandruff (steatoid pityriasis).In an opinion published in September 2018, the European Scientific Committee on Consumer Safety (SCCS) concludes that salicylic acid is not a problem if used under the regulatory conditions (see below), however it states that: 'This opinion does not apply to products that are administered orally such as toothpastes and mouthwashes. Products to be sprayed that could result in exposure of the consumer's lung by inhalation are also excluded\". Salicylic acid is allowed in Organic.Salicylic acid is classified CMR category 2: Suspected CMR effect, but insufficient information is available.* CMR means Carcinogenic, Mutagenic and Reprotoxic",
+    "rating": "avoid",
+    "functions": [
+      "Anti dandruff",
+      "Hair conditioning",
+      "Keratolytic",
+      "Masking",
+      "Preservative",
+      "Skin conditioning"
+    ],
+    "prevalence": "3.39% косметических средств",
+    "common_product_types": [
+      "Anti-blemish cleanser (50.08%)",
+      "Anti-blemish patches (37.43%)",
+      "Anti-blemish treatment (35.46%)",
+      "Facial cleanser for men (24.78%)",
+      "Anti-blemish serum (24.1%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Natural."
+  },
+  {
+    "name": "Salix Nigra Bark Extract",
+    "inci_name": "SALIX NIGRA BARK EXTRACT",
+    "cas_number": "84650-64-6 - Black willow bark extract",
+    "einecs_number": "283-522-3",
+    "description": "Salix Nigra Bark Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin protecting"
+    ],
+    "prevalence": "0.11% косметических средств",
+    "common_product_types": [
+      "Classic shampoo (0.16%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Santalol",
+    "inci_name": "SANTALOL",
+    "cas_number": "11031-45-1",
+    "einecs_number": "234-262-4",
+    "description": "Santalol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Salvia Officinalis Leaf Oil",
+    "inci_name": "SALVIA OFFICINALIS LEAF OIL",
+    "cas_number": "8022-56-8 (generic)/ 84082-79-1 (generic)",
+    "einecs_number": "-/ 282-025-9",
+    "description": "Salvia Officinalis Leaf Oil — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Perfuming",
+      "Flavouring agent",
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Santalum Album Oil",
+    "inci_name": "SANTALUM ALBUM OIL",
+    "cas_number": "8006-87-9 / 84787-70-2 - Sandalwood oil",
+    "einecs_number": "- / 284-211-1",
+    "description": "Santalum Album Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.13% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Santalum Album Seed Oil",
+    "inci_name": "SANTALUM ALBUM SEED OIL",
+    "cas_number": "246866-27-3 - Sandalwood seed oil",
+    "einecs_number": "",
+    "description": "Santalum Album Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Santalum Album Wood Oil",
+    "inci_name": "SANTALUM ALBUM WOOD OIL",
+    "cas_number": "84787-70-2",
+    "einecs_number": "284-111-1",
+    "description": "Santalum Album Wood Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Santalum Austrocaledonicum Wood Oil",
+    "inci_name": "SANTALUM AUSTROCALEDONICUM WOOD OIL",
+    "cas_number": "91845-48-6 - Sandal wood oil",
+    "einecs_number": "295-223-5",
+    "description": "Santalum Austrocaledonicum Wood Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Perfuming",
+      "Flavouring agent"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Santalum Spicatum Seed Oil",
+    "inci_name": "SANTALUM SPICATUM SEED OIL",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Santalum Spicatum Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Saponaria Officinalis Leaf Extract",
+    "inci_name": "SAPONARIA OFFICINALIS LEAF EXTRACT",
+    "cas_number": "84775-97-3 - Saponary leaf extract",
+    "einecs_number": "283-921-2",
+    "description": "Saponaria Officinalis Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antimicrobial",
+      "Cleansing"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [
+      "Facial cleansing foam (2.14%)",
+      "Classic shampoo (0.26%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Satureia Montana Oil",
+    "inci_name": "SATUREIA MONTANA OIL",
+    "cas_number": "90106-57-3 - Mountain savory oil",
+    "einecs_number": "290-280-2",
+    "description": "Satureia Montana Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Scentenal",
+    "inci_name": "SCENTENAL",
+    "cas_number": "86803-90-9",
+    "einecs_number": "",
+    "description": "Scentenal — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Sambucus Nigra Flower Extract",
+    "inci_name": "SAMBUCUS NIGRA FLOWER EXTRACT",
+    "cas_number": "84603-58-7 - Black elderberry flower extract",
+    "einecs_number": "283-259-4",
+    "description": "Sambucus Nigra Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Refreshing",
+      "Skin conditioning",
+      "Soothing",
+      "Tonic"
+    ],
+    "prevalence": "0.16% косметических средств",
+    "common_product_types": [
+      "Face cream (0.38%)",
+      "Body moisturizer (0.27%)",
+      "Classic shampoo (0.19%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Schizandra Chinensis Fruit Extract",
+    "inci_name": "SCHIZANDRA CHINENSIS FRUIT EXTRACT",
+    "cas_number": "223748-53-6 - Five-flavor fruit extract",
+    "einecs_number": "",
+    "description": "Schizandra Chinensis Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [
+      "Fabric mask (0.84%)",
+      "Cream / gel mask (0.61%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sambucus Nigra Seed Oil",
+    "inci_name": "SAMBUCUS NIGRA SEED OIL",
+    "cas_number": "68916-55-2 // 84603-58-7 - Elderberry seed oil",
+    "einecs_number": "283-259-1 (EINECS)",
+    "description": "Sambucus Nigra Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sclareol",
+    "inci_name": "SCLAREOL",
+    "cas_number": "515-03-7",
+    "einecs_number": "208-194-0",
+    "description": "Sclareol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Sapindus Trifoliatus Fruit Extract",
+    "inci_name": "SAPINDUS TRIFOLIATUS FRUIT EXTRACT",
+    "cas_number": "223748-41-2",
+    "einecs_number": "-",
+    "description": "Sapindus Trifoliatus Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sclerotium Gum",
+    "inci_name": "SCLEROTIUM GUM",
+    "cas_number": "39464-87-4 - Sclerotium rolfssii gum",
+    "einecs_number": "254-464-6",
+    "description": "Sclerotium Gum — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emulsion stabilising",
+      "Skin conditioning",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.83% косметических средств",
+    "common_product_types": [
+      "Day anti-ageing face serum (6.13%)",
+      "Face moisturizing serum (5.73%)",
+      "Anti-aging eye contour care (5.19%)",
+      "Anti-blemish serum (4.9%)",
+      "Eye contour care (4.57%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Schinziophyton Rautanenii Kernel Oil",
+    "inci_name": "SCHINZIOPHYTON RAUTANENII KERNEL OIL",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Schinziophyton Rautanenii Kernel Oil — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emollient"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Saponins",
+    "inci_name": "SAPONINS",
+    "cas_number": "8047-15-2 / 11006-75-0 / 72231-29-9",
+    "einecs_number": "232-462-6 / - / -",
+    "description": "Saponins — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sea Water Extract",
+    "inci_name": "SEA WATER EXTRACT",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Sea Water Extract — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.15% косметических средств",
+    "common_product_types": [
+      "Fabric mask (1.21%)",
+      "Cream / gel mask (0.66%)",
+      "Foundation (0.54%)",
+      "Face cream (0.39%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sec-Butyl Alcohol",
+    "inci_name": "SEC-BUTYL ALCOHOL",
+    "cas_number": "78-92-2",
+    "einecs_number": "201-158-5",
+    "description": "Sec-Butyl Alcohol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Solvent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Selenium Aspartate",
+    "inci_name": "SELENIUM ASPARTATE",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Selenium Aspartate — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Selenium Sulfide",
+    "inci_name": "SELENIUM SULFIDE",
+    "cas_number": "7488-56-4",
+    "einecs_number": "231-303-8",
+    "description": "Selenium disulfide is a salt composed of sulfur and selenium. It is used as antifungal agent in shampoos for the treatment of dandruff and seborrheic dermatitis associated with the scalp and fungi of the genus Malassezia. Note that it can cause color changes on hair dyes.",
+    "rating": "neutral",
+    "functions": [
+      "Anti dandruff",
+      "Hair conditioning"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [
+      "Anti-dandruff shampoo (1.79%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Schizandra Chinensis Fruit Oil",
+    "inci_name": "SCHIZANDRA CHINENSIS FRUIT OIL",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Schizandra Chinensis Fruit Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sclerocarya Birrea Seed Oil",
+    "inci_name": "SCLEROCARYA BIRREA SEED OIL",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sclerocarya Birrea Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Hair conditioning",
+      "Humectant"
+    ],
+    "prevalence": "0.45% косметических средств",
+    "common_product_types": [
+      "Hair oil (4.01%)",
+      "Eyes and kohl pencil (3.04%)",
+      "Mascara (1.81%)",
+      "Lip pencil (1.77%)",
+      "Specific hair care (1.41%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sesamum Indicum Seed",
+    "inci_name": "SESAMUM INDICUM SEED",
+    "cas_number": "8008-74-0",
+    "einecs_number": "232-370-6",
+    "description": "Sesamum Indicum Seed — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Abrasive"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sesamum Indicum Seed Extract",
+    "inci_name": "SESAMUM INDICUM SEED EXTRACT",
+    "cas_number": "8008-74-0 - Sesame seed extract",
+    "einecs_number": "232-370-6",
+    "description": "Sesamum Indicum Seed Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Hair conditioning",
+      "Skin conditioning",
+      "Smoothing",
+      "Soothing"
+    ],
+    "prevalence": "0.11% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sesamum Indicum Seed Oil",
+    "inci_name": "SESAMUM INDICUM SEED OIL",
+    "cas_number": "8008-74-0 - Sesame seed oil",
+    "einecs_number": "232-370-6",
+    "description": "Sesamum Indicum Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Hair conditioning",
+      "Masking",
+      "Skin conditioning"
+    ],
+    "prevalence": "1.35% косметических средств",
+    "common_product_types": [
+      "Beard oil (16.2%)",
+      "Massage (15.1%)",
+      "Cleansing oil (12.28%)",
+      "Face anti-aging oil (11.34%)",
+      "Body and face moisturizing oil (8.74%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Shea Butteramidopropyl Betaine",
+    "inci_name": "SHEA BUTTERAMIDOPROPYL BETAINE",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Shea Butteramidopropyl Betaine — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Cleansing",
+      "Foam boosting",
+      "Surfactant"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Scutellaria Baicalensis Root Extract",
+    "inci_name": "SCUTELLARIA BAICALENSIS ROOT EXTRACT",
+    "cas_number": "94279-99-9 - Baikal skullcap root extract",
+    "einecs_number": "304-845-9",
+    "description": "Scutellaria Baicalensis Root Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent",
+      "Humectant",
+      "Soothing"
+    ],
+    "prevalence": "0.61% косметических средств",
+    "common_product_types": [
+      "Mask / patch (8.12%)",
+      "Fabric mask (7.87%)",
+      "Fall protection shampoo (3.67%)",
+      "Anti-blemish treatment (2.79%)",
+      "Cream / gel mask (2.43%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Shellac",
+    "inci_name": "SHELLAC",
+    "cas_number": "9000-59-3",
+    "einecs_number": "232-549-9",
+    "description": "Shellac or shellac is a resinous material obtained from the secretions of a specific insect species: an Asian scale called Kerria lacca. It is used in cosmetics in hairspray, eyeliners and mascara.",
+    "rating": "safe",
+    "functions": [
+      "Binding agent",
+      "Emollient",
+      "Film forming",
+      "Hair fixing",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Animal."
+  },
+  {
+    "name": "Serica Powder",
+    "inci_name": "SERICA POWDER",
+    "cas_number": "9009-99-8 - Silk powder",
+    "einecs_number": "-",
+    "description": "Serica Powder — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Bulking",
+      "Hair conditioning",
+      "Skin conditioning",
+      "Smoothing"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [
+      "Mascara (1.93%)",
+      "Lipstick (1.12%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Serenoa Serrulata Fruit Extract",
+    "inci_name": "SERENOA SERRULATA FRUIT EXTRACT",
+    "cas_number": "84604-15-9 - Saw Palmetto extract (fruit)",
+    "einecs_number": "283-292-4",
+    "description": "Serenoa Serrulata Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.17% косметических средств",
+    "common_product_types": [
+      "Anti-hair loss treatment (6.58%)",
+      "Fall protection shampoo (4.79%)",
+      "Specific hair care (0.68%)",
+      "Classic shampoo (0.45%)",
+      "Hair conditioner (0.41%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Silica",
+    "inci_name": "SILICA",
+    "cas_number": "7631-86-9 / 112945-52-5 / 60676-86-0",
+    "einecs_number": "231-545-4 / 262-373-8 /310-060-2",
+    "description": "Silica is a naturally occurring mineral in sandstone, clay and granite, as well as in some parts of plants and animals. It is used for various reasons in cosmetics: abrasive in toothpastes, opacifying in powder and blush, or absorbing in deodorants. Silica is allowed in Bio.",
+    "rating": "safe",
+    "functions": [
+      "Abrasive",
+      "Absorbent",
+      "Anticaking",
+      "Bulking",
+      "Opacifying",
+      "Viscosity controlling"
+    ],
+    "prevalence": "11.2% косметических средств",
+    "common_product_types": [
+      "Nail polish (71.43%)",
+      "Razor blades (69.32%)",
+      "Advent calendar (65.22%)",
+      "Eyeshadow (60.22%)",
+      "Make-up palette (57.58%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Mineral."
+  },
+  {
+    "name": "Silica Dimethyl Silylate",
+    "inci_name": "SILICA DIMETHYL SILYLATE",
+    "cas_number": "68611-44-9",
+    "einecs_number": "271-893-4",
+    "description": "Silica Dimethyl Silylate is a hydrophobic fumed silica used in cosmetics for its thickening properties. It can be used to form transparent gels with oils such as mineral oils, or vegetable oils such as castor oil. It is widely used to improve the look and hold of lipsticks, and in certain hair care products, such as dry shampoos, it enhances product adhesion and improves volume.",
+    "rating": "safe",
+    "functions": [
+      "Anticaking",
+      "Antifoaming",
+      "Emollient",
+      "Emulsion stabilising",
+      "Viscosity controlling"
+    ],
+    "prevalence": "1.78% косметических средств",
+    "common_product_types": [
+      "Gloss and lip gloss (39.97%)",
+      "Lip oil (24.19%)",
+      "Make-up set (17.45%)",
+      "Lacquer and lip ink (15.43%)",
+      "Specific care for lips (14.95%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Silica Silylate",
+    "inci_name": "SILICA SILYLATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Silica Silylate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Anticaking",
+      "Antifoaming",
+      "Bulking",
+      "Emollient",
+      "Emulsion stabilising",
+      "Skin conditioning",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.55% косметических средств",
+    "common_product_types": [
+      "Styling powder (60.87%)",
+      "Foundation (7.48%)",
+      "Concealer (5.96%)",
+      "Eyeliner and kajal (5.11%)",
+      "Gloss and lip gloss (4.9%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Silicone Quaternium-18",
+    "inci_name": "SILICONE QUATERNIUM-18",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Silicone Quaternium-18 — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Emollient",
+      "Hair conditioning"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [
+      "Hair conditioner (0.59%)",
+      "Hair mask (0.58%)",
+      "Classic shampoo (0.26%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Serine",
+    "inci_name": "SERINE",
+    "cas_number": "302-84-1 / 56-45-1",
+    "einecs_number": "206-130-6 / 200-274-3",
+    "description": "Serine — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Hair conditioning",
+      "Masking",
+      "Skin conditioning"
+    ],
+    "prevalence": "1.44% косметических средств",
+    "common_product_types": [
+      "Hair straightening (18.22%)",
+      "Heat-protective hair care (9.45%)",
+      "Care for dry and damaged hair (6.23%)",
+      "Oxidative hair coloring (5.85%)",
+      "Treatment for coloured hair (5.46%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Silicone",
+    "inci_name": "SILICONE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Silicone — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Sheep Milk",
+    "inci_name": "SHEEP MILK",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Sheep Milk — косметический ингредиент. Происхождение: Animal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Animal."
+  },
+  {
+    "name": "Silk Extract",
+    "inci_name": "SILK EXTRACT",
+    "cas_number": "91079-16-2",
+    "einecs_number": "",
+    "description": "Silk Extract — косметический ингредиент. Происхождение: Animal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Animal."
+  },
+  {
+    "name": "Silver Chloride",
+    "inci_name": "SILVER CHLORIDE",
+    "cas_number": "7783-90-6",
+    "einecs_number": "232-033-3",
+    "description": "Silver Chloride — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Preservative"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [
+      "Adult sun cream (0.32%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Silver Nitrate",
+    "inci_name": "SILVER NITRATE",
+    "cas_number": "7761-88-8",
+    "einecs_number": "231-853-9",
+    "description": "Silver Nitrate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Silver Sulfate",
+    "inci_name": "SILVER SULFATE",
+    "cas_number": "10294-26-5",
+    "einecs_number": "233-653-7",
+    "description": "This ingredient is ecotoxic (Aquatic Acute 1, Aquatic Chronic 1).",
+    "rating": "caution",
+    "functions": [
+      "Antimicrobial"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Silybum Marianum Extract",
+    "inci_name": "SILYBUM MARIANUM EXTRACT",
+    "cas_number": "84604-20-6 - Milk thistle extract",
+    "einecs_number": "283-298-7",
+    "description": "Silybum Marianum Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [
+      "Face cream (0.29%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Silybum Marianum Fruit Extract",
+    "inci_name": "SILYBUM MARIANUM FRUIT EXTRACT",
+    "cas_number": "84604-20-6 - Milk thistle fruit extract",
+    "einecs_number": "283-298-7",
+    "description": "Silybum Marianum Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Silybum Marianum Seed Extract",
+    "inci_name": "SILYBUM MARIANUM SEED EXTRACT",
+    "cas_number": "84604-20-6",
+    "einecs_number": "283-298-7",
+    "description": "Silybum Marianum Seed Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Silybum Marianum Seed Oil",
+    "inci_name": "SILYBUM MARIANUM SEED OIL",
+    "cas_number": "84604-20-6 - Milk Thistle seed oil",
+    "einecs_number": "283-298-7",
+    "description": "Silybum Marianum Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [
+      "Anti-aging day face cream (0.95%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sigesbeckia Orientalis Extract",
+    "inci_name": "SIGESBECKIA ORIENTALIS EXTRACT",
+    "cas_number": "90106-87-9 - St. Paul's wort extract",
+    "einecs_number": "290-313-0",
+    "description": "Sigesbeckia Orientalis Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Tonic"
+    ],
+    "prevalence": "0.11% косметических средств",
+    "common_product_types": [
+      "Anti-aging eye contour care (2.36%)",
+      "Anti-aging day face cream (1.27%)",
+      "Foundation (0.66%)",
+      "Face cream (0.5%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Silicone Quaternium-26",
+    "inci_name": "SILICONE QUATERNIUM-26",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Silicone Quaternium-26 — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Emollient",
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [
+      "Hair conditioner (0.48%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Silk Amino Acids",
+    "inci_name": "SILK AMINO ACIDS",
+    "cas_number": "96690-41-4",
+    "einecs_number": "306-235-8",
+    "description": "Silk Amino Acids — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Hair conditioning",
+      "Humectant",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.27% косметических средств",
+    "common_product_types": [
+      "Treatment for curly hair (1.94%)",
+      "Oxidative hair coloring (1.68%)",
+      "Specific hair care (1.6%)",
+      "Hair conditioner (1.13%)",
+      "Hair mask (1.03%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Snail Extract",
+    "inci_name": "SNAIL EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Snail Extract — косметический ингредиент. Происхождение: Animal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Animal."
+  },
+  {
+    "name": "Snail Secretion Filtrate",
+    "inci_name": "SNAIL SECRETION FILTRATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Snail Secretion Filtrate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.33% косметических средств",
+    "common_product_types": [
+      "Cc cream (12.57%)",
+      "Fabric mask (2.02%)",
+      "Anti-aging day face cream (1.79%)",
+      "Face moisturizing serum (1.45%)",
+      "Face cream (1.27%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sodium Acetate",
+    "inci_name": "SODIUM ACETATE",
+    "cas_number": "127-09-3",
+    "einecs_number": "204-823-8",
+    "description": "Sodium Acetate — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "safe",
+    "functions": [
+      "pH regulator",
+      "Masking"
+    ],
+    "prevalence": "0.54% косметических средств",
+    "common_product_types": [
+      "Child shampoo (5.14%)",
+      "Shampoo for colored/highlighted hair (4.89%)",
+      "Classic shampoo (3.8%)",
+      "Mascara (2.19%)",
+      "Oxidative hair coloring (2.16%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sodium Acetylated Hyaluronate",
+    "inci_name": "SODIUM ACETYLATED HYALURONATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Acetylated Hyaluronate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Humectant"
+    ],
+    "prevalence": "0.53% косметических средств",
+    "common_product_types": [
+      "Mask / patch (4.9%)",
+      "Fabric mask (4.87%)",
+      "Face moisturizing serum (3.75%)",
+      "Day anti-ageing face serum (3.32%)",
+      "Anti-aging eye contour care (3.06%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Silver Citrate",
+    "inci_name": "SILVER CITRATE",
+    "cas_number": "36701-38-9",
+    "einecs_number": "-",
+    "description": "Silver Citrate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Antimicrobial",
+      "Deodorant",
+      "Preservative"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer",
+    "inci_name": "SODIUM ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Anticaking",
+      "Emulsion stabilising",
+      "Film forming",
+      "Opacifying",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.56% косметических средств",
+    "common_product_types": [
+      "Anti-aging night face cream (5.01%)",
+      "Anti-aging eye contour care (3.58%)",
+      "Anti-aging day face cream (3.26%)",
+      "Foundation and primer (2.78%)",
+      "Face cream (2.54%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Sodium Acrylate/Vinyl Alcohol Copolymer",
+    "inci_name": "SODIUM ACRYLATE/VINYL ALCOHOL COPOLYMER",
+    "cas_number": "27599-56-0 / 58374-38-2",
+    "einecs_number": "",
+    "description": "Sodium Acrylate/Vinyl Alcohol Copolymer — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Antistatic",
+      "Binding agent",
+      "Emulsion stabilising",
+      "Film forming",
+      "Viscosity controlling"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Simmondsia Chinensis Seed Oil",
+    "inci_name": "SIMMONDSIA CHINENSIS SEED OIL",
+    "cas_number": "90045-98-0 - Jojoba seed oil",
+    "einecs_number": "289-964-3",
+    "description": "Jojoba oil is a liquid wax used to soften and moisturize  the skin. It creates a light lipid film, without a greasy feeling. It is known to help prevent bacteria that cause blackheads and acne, and also has notable antioxidant properties. It is often associated with hair care. It is permitted in organic formulations.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "6.18% косметических средств",
+    "common_product_types": [
+      "Beard oil (49.72%)",
+      "Lip oil (41.89%)",
+      "Cleansing oil (27.84%)",
+      "Face anti-aging oil (25.94%)",
+      "Face cleansing oil (25.56%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Simethicone",
+    "inci_name": "SIMETHICONE",
+    "cas_number": "8050-81-5",
+    "einecs_number": "",
+    "description": "Simethicone — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Antifoaming",
+      "Emollient",
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.41% косметических средств",
+    "common_product_types": [
+      "Mascara (7.89%)",
+      "Eyeliner and kajal (5.15%)",
+      "Oxidative hair coloring (2.78%)",
+      "Deodorant stick (1.28%)",
+      "Gloss and lip gloss (1.12%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sodium Anisate",
+    "inci_name": "SODIUM ANISATE",
+    "cas_number": "536-45-8",
+    "einecs_number": "208-634-1",
+    "description": "Sodium Anisate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Antimicrobial",
+      "Masking",
+      "Flavouring agent",
+      "Ph adjusters"
+    ],
+    "prevalence": "1.02% косметических средств",
+    "common_product_types": [
+      "Eye contour care (5.21%)",
+      "Care set (4.48%)",
+      "Face cream (4.31%)",
+      "Night face cream (4.17%)",
+      "Anti-aging night face cream (3.62%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sodium Acrylate/Methylstyrene/Styrene Copolymer",
+    "inci_name": "SODIUM ACRYLATE/METHYLSTYRENE/STYRENE COPOLYMER",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Acrylate/Methylstyrene/Styrene Copolymer — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Binding agent",
+      "Maintenance agent for nails"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Simmondsia Chinensis Seed Extract",
+    "inci_name": "SIMMONDSIA CHINENSIS SEED EXTRACT",
+    "cas_number": "90045-98-0 - Jojoba seed extract",
+    "einecs_number": "289-964-3",
+    "description": "Simmondsia Chinensis Seed Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Abrasive",
+      "Emollient",
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.15% косметических средств",
+    "common_product_types": [
+      "Hair conditioner (0.28%)",
+      "Classic shampoo (0.26%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Arganate",
+    "inci_name": "SODIUM ARGANATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Arganate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Surfactant"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [
+      "Solid soap (0.45%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Ascorbyl Phosphate",
+    "inci_name": "SODIUM ASCORBYL PHOSPHATE",
+    "cas_number": "66170-10-3",
+    "einecs_number": "425-180-1",
+    "description": "Sodium Ascorbyl Phosphate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant"
+    ],
+    "prevalence": "0.97% косметических средств",
+    "common_product_types": [
+      "Brightening and anti-dark spots treatment (6.72%)",
+      "Face moisturizing serum (5.34%)",
+      "Day anti-ageing face serum (4.03%)",
+      "Anti-blemish serum (3.18%)",
+      "Anti-aging day face cream (3.08%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sodium Avocadate",
+    "inci_name": "SODIUM AVOCADATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Avocadate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Arachidate",
+    "inci_name": "SODIUM ARACHIDATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Arachidate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "pH regulator",
+      "Emulsifying",
+      "Emulsion stabilising",
+      "Surfactant",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [
+      "Solid soap (0.66%)"
+    ],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Sodium Babassuate",
+    "inci_name": "SODIUM BABASSUATE",
+    "cas_number": "226993-74-4 - Saponified Babassu oil",
+    "einecs_number": "-",
+    "description": "Sodium Babassuate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Surfactant"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sodium Baobabate",
+    "inci_name": "SODIUM BAOBABATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Saponified baobab oil",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Alkyl Sulfate",
+    "inci_name": "SODIUM ALKYL SULFATE",
+    "cas_number": "68955-19-1",
+    "einecs_number": "",
+    "description": "This ingredient is ecotoxic: REACH (Aquatic Chronic 3).",
+    "rating": "caution",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Sodium Acrylates Copolymer",
+    "inci_name": "SODIUM ACRYLATES COPOLYMER",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Sodium Acrylates Copolymer — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Binding agent",
+      "Film forming",
+      "Opacifying",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.52% косметических средств",
+    "common_product_types": [
+      "Anti-aging night face cream (3.41%)",
+      "Anti-aging day face cream (2.89%)",
+      "Anti-aging eye contour care (2.36%)",
+      "Eye contour care (2.23%)",
+      "Face cream (2.11%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Sodium Benzoate",
+    "inci_name": "SODIUM BENZOATE",
+    "cas_number": "532-32-1",
+    "einecs_number": "208-534-8",
+    "description": "Sodium benzoate is used as an antifungal preservative in cosmetics and in food under the name E211. It is therefore very effective against fungi, yeasts and bacteria. It is made quite easily with soda, water and benzoic acid. It is found naturally in some fruits such as plums, prunes or apples. It is authorized in organic.",
+    "rating": "neutral",
+    "functions": [
+      "Anticorrosive",
+      "Masking",
+      "Preservative"
+    ],
+    "prevalence": "25.6% косметических средств",
+    "common_product_types": [
+      "Men shower gel (83.5%)",
+      "Shower foam (78.33%)",
+      "Anti-dandruff shampoo (76.93%)",
+      "Shower gel (76.36%)",
+      "Intimate wipes (75.83%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sodium Benzotriazolyl Butylphenol Sulfonate",
+    "inci_name": "SODIUM BENZOTRIAZOLYL BUTYLPHENOL SULFONATE",
+    "cas_number": "92484-48-5",
+    "einecs_number": "403-080-9",
+    "description": "Sodium Benzotriazolyl Butylphenol Sulfonate — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Uv absorber"
+    ],
+    "prevalence": "0.22% косметических средств",
+    "common_product_types": [
+      "Face cleansing gel (1.39%)",
+      "Body scrub (1.24%)",
+      "Liquid soap (1.01%)",
+      "Oxidative hair coloring (1.01%)",
+      "Shower gel (0.58%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Sodium Bicarbonate",
+    "inci_name": "SODIUM BICARBONATE",
+    "cas_number": "144-55-8",
+    "einecs_number": "205-633-8",
+    "description": "Sodium bicarbonate or monosodium carbonate is naturally present in some mineral waters. On an industrial scale, it is produced from limestone, salt and ammonia (Solvay process). It is used in cosmetics for its abrasive properties and anti-bacterial properties. For these reasons, there are many toothpastes and dental hygiene products. It is also used to reduce volatile sulfur compounds that cause bad breath.",
+    "rating": "safe",
+    "functions": [
+      "Abrasive",
+      "pH regulator",
+      "Deodorant",
+      "Oral care/hygiene agent",
+      "Skin protecting"
+    ],
+    "prevalence": "1.11% косметических средств",
+    "common_product_types": [
+      "Chewable toothpaste (65%)",
+      "Solid deodorant (57.63%)",
+      "Deodorant refill (48.39%)",
+      "Cream deodorant (43.69%)",
+      "Foot bath (38.39%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sodium Bisulfite",
+    "inci_name": "SODIUM BISULFITE",
+    "cas_number": "7631-90-5",
+    "einecs_number": "231-548-0",
+    "description": "Sodium Bisulfite — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Antioxidant",
+      "Hair waving or straightening",
+      "Preservative",
+      "Reducing"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (1.6%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Sodium Blackseedate",
+    "inci_name": "SODIUM BLACKSEEDATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Blackseedate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Butylparaben",
+    "inci_name": "SODIUM BUTYLPARABEN",
+    "cas_number": "36457-20-2",
+    "einecs_number": "253-049-7",
+    "description": "Sodium Butylparaben — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "avoid",
+    "functions": [
+      "Preservative"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sodium Apricot Kernelate",
+    "inci_name": "SODIUM APRICOT KERNELATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Apricot Kernelate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Avocadoate",
+    "inci_name": "SODIUM AVOCADOATE",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Sodium Avocadoate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Camelina Sativa",
+    "inci_name": "SODIUM CAMELINA SATIVA",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Camelina Sativa — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sodium C12-18 Alkyl Sulfate",
+    "inci_name": "SODIUM C12-18 ALKYL SULFATE",
+    "cas_number": "68955-19-1",
+    "einecs_number": "273-257-1",
+    "description": "This ingredient is Ecotoxic (Aquatic Chronic 3).",
+    "rating": "caution",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Foaming",
+      "Surfactant"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [
+      "Foaming bath and bath salts (2.11%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Sodium Canolate",
+    "inci_name": "SODIUM CANOLATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Canolate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [
+      "Solid soap (0.92%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Carbomer",
+    "inci_name": "SODIUM CARBOMER",
+    "cas_number": "73298-57-4",
+    "einecs_number": "",
+    "description": "Sodium Carbomer — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Emulsion stabilising",
+      "Film forming",
+      "Gel forming",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.27% косметических средств",
+    "common_product_types": [
+      "Anti-aging day face cream (1.37%)",
+      "Face cream (1.15%)",
+      "Body moisturizer (1.1%)",
+      "Cream / gel mask (0.71%)",
+      "Hand cream (0.66%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Sodium Beeswax",
+    "inci_name": "SODIUM BEESWAX",
+    "cas_number": "97721-96-5 - Beeswax",
+    "einecs_number": "307-744-8",
+    "description": "Sodium Beeswax — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emulsifying",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sodium Carrageenan",
+    "inci_name": "SODIUM CARRAGEENAN",
+    "cas_number": "9061-82-9 / 60616-95-7",
+    "einecs_number": "- / -",
+    "description": "Sodium Carrageenan — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Binding agent",
+      "Emulsion stabilising",
+      "Film forming",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.13% косметических средств",
+    "common_product_types": [
+      "Face moisturizing serum (0.89%)",
+      "Foundation (0.85%)",
+      "Face cream (0.82%)",
+      "Anti-aging day face cream (0.67%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Caseinate",
+    "inci_name": "SODIUM CASEINATE",
+    "cas_number": "9005-46-3",
+    "einecs_number": "",
+    "description": "Sodium Caseinate — косметический ингредиент. Происхождение: Animal.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Animal."
+  },
+  {
+    "name": "Sodium Castorate",
+    "inci_name": "SODIUM CASTORATE",
+    "cas_number": "8013-06-7 - Saponified Castor oil",
+    "einecs_number": "232-390-5",
+    "description": "Sodium Castorate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "0.11% косметических средств",
+    "common_product_types": [
+      "Solid shampoo (6.44%)",
+      "Solid soap (3.49%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Cetearyl Sulfate",
+    "inci_name": "SODIUM CETEARYL SULFATE",
+    "cas_number": "59186-41-3",
+    "einecs_number": "",
+    "description": "Cetearyl Sulfate sodium is an anionic surfactant obtained by mixing Sodium Stearyl Sulfate and Sodium Cetyl Sulphate. Even though it is allowed in organic products, like any sulphated derivative, it is potentially irritating and unecological.",
+    "rating": "neutral",
+    "functions": [
+      "Cleansing",
+      "Foaming",
+      "Surfactant"
+    ],
+    "prevalence": "1.46% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (23.74%)",
+      "Body hair removal cream (13.85%)",
+      "Hand cream (12.35%)",
+      "Feet moisturizers (10.2%)",
+      "Face cleansing milk (9.56%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Borate",
+    "inci_name": "SODIUM BORATE",
+    "cas_number": "1330-43-4 / 1303-96-4",
+    "einecs_number": "215-540-4",
+    "description": "Sodium Borate — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "pH regulator"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Sodium Chlorate",
+    "inci_name": "SODIUM CHLORATE",
+    "cas_number": "7775-09-9",
+    "einecs_number": "231-887-4",
+    "description": "Sodium Chlorate — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "avoid",
+    "functions": [
+      "Deodorant",
+      "Oxidising"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sodium Chloride",
+    "inci_name": "SODIUM CHLORIDE",
+    "cas_number": "7647-14-5",
+    "einecs_number": "231-598-3",
+    "description": "Sodium chloride is a sodium salt also known as table salt, commonly used in food for salting food. It is the basic material in the chemical industry to produce soda and chlorine. In cosmetics, it is often used as a thickener in shampoos and shower gels or in oral preparations to clean and eliminate odors. Table salt (depending on the concentration used) may tend in some cases to dry the skin and irritate the scalp. Sodium chloride is allowed in organic.",
+    "rating": "safe",
+    "functions": [
+      "Bulking",
+      "Masking",
+      "Oral care/hygiene agent",
+      "Viscosity controlling"
+    ],
+    "prevalence": "18.23% косметических средств",
+    "common_product_types": [
+      "Men shower gel (90.57%)",
+      "Anti-dandruff shampoo (85.34%)",
+      "Men's shampoo (83.86%)",
+      "Shower gel (80.25%)",
+      "Children shower gel (77.62%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sodium Chlorite",
+    "inci_name": "SODIUM CHLORITE",
+    "cas_number": "7758-19-2",
+    "einecs_number": "231-836-6",
+    "description": "Sodium Chlorite — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Oral care/hygiene agent",
+      "Oxidising"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Sodium C14-16 Olefin Sulfonate",
+    "inci_name": "SODIUM C14-16 OLEFIN SULFONATE",
+    "cas_number": "68439-57-6",
+    "einecs_number": "270-407-8/931-534-0",
+    "description": "This ingredient is used in cosmetics as anionic surfactant, it produces abundant foam. It can cause irritation but is known to be milder than a Sodium Lauryl Sulfate for example.It does not break environmental problems and is biodegradable.",
+    "rating": "neutral",
+    "functions": [
+      "Cleansing",
+      "Foaming",
+      "Surfactant"
+    ],
+    "prevalence": "1.02% косметических средств",
+    "common_product_types": [
+      "Children toothpaste (9.17%)",
+      "Classic shampoo (6.95%)",
+      "Shampoo for colored/highlighted hair (6.76%)",
+      "Fall protection shampoo (5.99%)",
+      "Adult toothpaste (5.57%)"
+    ],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Sodium Coco-Sulfate",
+    "inci_name": "SODIUM COCO-SULFATE",
+    "cas_number": "97375-27-4 - Sodium coco sulfate",
+    "einecs_number": "306-683-4",
+    "description": "Sodium coconut sulphate or SCS is an anionic surfactant obtained by sulphonation of fatty acids from the coconut. It comes in the form of a solid that is widely used as a base for solid shampoos. It is authorized in Bio.",
+    "rating": "neutral",
+    "functions": [
+      "Surfactant"
+    ],
+    "prevalence": "1.34% косметических средств",
+    "common_product_types": [
+      "Solid shampoo (32.36%)",
+      "Solid conditioner (17.06%)",
+      "Solid cleanser (16.32%)",
+      "Children shower gel (14.83%)",
+      "Child shampoo (9.44%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Cannabis Sativa",
+    "inci_name": "SODIUM CANNABIS SATIVA",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Cannabis Sativa — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Cocoamphoacetate",
+    "inci_name": "SODIUM COCOAMPHOACETATE",
+    "cas_number": "90387-76-1",
+    "einecs_number": "291-352-6/931-291-0",
+    "description": "Sodium cocoamphoacetate is an amphoteric surfactant derived from coconut oil. It is authorized in organic.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Foaming",
+      "Hair conditioning",
+      "Surfactant"
+    ],
+    "prevalence": "1.15% косметических средств",
+    "common_product_types": [
+      "Shower oil (15.09%)",
+      "2-in-1 shampoo and body wash for baby (13.33%)",
+      "Baby shower gel and cream (13%)",
+      "Facial cleansing foam (9.81%)",
+      "Child shampoo (9.34%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Cocoate",
+    "inci_name": "SODIUM COCOATE",
+    "cas_number": "61789-31-9 - Saponified coconut oil",
+    "einecs_number": "263-050-4",
+    "description": "Sodium Cocoate is a chemical compound obtained by saponifying coconut oil, i.e. by making it react with some caustic soda. It is used as a principal ingredient in the composition of solid soaps used in cosmetics.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "0.9% косметических средств",
+    "common_product_types": [
+      "Exfoliating solid soap (32.69%)",
+      "Solid soap (31.55%)",
+      "Shaving soap (31.08%)",
+      "Solid baby soap (23.24%)",
+      "Solid cleanser (14.77%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Coceth Sulfate",
+    "inci_name": "SODIUM COCETH SULFATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Coceth Sulphate is an anionic surfactant equivalent to Sodium Laureth Sulfate. It is found mainly in some makeup remover and bath products.",
+    "rating": "caution",
+    "functions": [
+      "Cleansing",
+      "Foaming",
+      "Surfactant"
+    ],
+    "prevalence": "0.25% косметических средств",
+    "common_product_types": [
+      "Micellar water (2.49%)",
+      "Classic shampoo (1.17%)",
+      "Liquid soap (0.53%)",
+      "Shower gel (0.48%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Carbonate",
+    "inci_name": "SODIUM CARBONATE",
+    "cas_number": "497-19-8",
+    "einecs_number": "207-838-8",
+    "description": "Sodium Carbonate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "pH regulator",
+      "Bulking"
+    ],
+    "prevalence": "0.29% косметических средств",
+    "common_product_types": [
+      "Foaming bath and bath salts (8.13%)",
+      "Adult toothpaste (1.9%)",
+      "Hand cream (0.44%)",
+      "Body moisturizer (0.22%)",
+      "Classic shampoo (0.18%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sodium Cocoa Butterate",
+    "inci_name": "SODIUM COCOA BUTTERATE",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Sodium Cocoa Butterate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Surfactant"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [
+      "Solid soap (1.3%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sodium Decyl Sulfate",
+    "inci_name": "SODIUM DECYL SULFATE",
+    "cas_number": "142-87-0",
+    "einecs_number": "205-568-5",
+    "description": "This ingredient is ecotoxic: REACH (Aquatic Chronic 3).",
+    "rating": "caution",
+    "functions": [
+      "Cleansing",
+      "Foam boosting",
+      "Surfactant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Sodium Cocoyl Alaninate",
+    "inci_name": "SODIUM COCOYL ALANINATE",
+    "cas_number": "90170-45-9",
+    "einecs_number": "290-478-9",
+    "description": "Sodium Cocoyl Alaninate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Hair conditioning",
+      "Surfactant"
+    ],
+    "prevalence": "0.1% косметических средств",
+    "common_product_types": [
+      "Face cleansing gel (1.02%)",
+      "Classic shampoo (0.58%)",
+      "Shower gel (0.42%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sodium Dextran Sulfate",
+    "inci_name": "SODIUM DEXTRAN SULFATE",
+    "cas_number": "9011-18-1",
+    "einecs_number": "",
+    "description": "Sodium Dextran Sulfate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Gel forming",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [
+      "Eye contour care (1.81%)"
+    ],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Sodium Erythorbate",
+    "inci_name": "SODIUM ERYTHORBATE",
+    "cas_number": "6381-77-7",
+    "einecs_number": "228-973-9",
+    "description": "Sodium Erythorbate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (3.26%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sodium Citrate",
+    "inci_name": "SODIUM CITRATE",
+    "cas_number": "68-04-2 / 6132-04-3",
+    "einecs_number": "200-675-3",
+    "description": "Sodium citrate is a sodium salt of citric acid. It is generally used in cosmetics as a PH regulator. It is authorized in Bio.",
+    "rating": "safe",
+    "functions": [
+      "pH regulator",
+      "Chelating",
+      "Masking"
+    ],
+    "prevalence": "4.14% косметических средств",
+    "common_product_types": [
+      "Anti-dandruff shampoo (35.87%)",
+      "Moist toilet tissue (31.4%)",
+      "Baby cleaning wipes (23.61%)",
+      "Face cleansing wipes (17.29%)",
+      "Cleansing wipes (16.79%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Ethylparaben",
+    "inci_name": "SODIUM ETHYLPARABEN",
+    "cas_number": "35285-68-8",
+    "einecs_number": "252-487-6",
+    "description": "Sodium Ethylparaben — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "avoid",
+    "functions": [
+      "Preservative"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sodium Fluorosilicate",
+    "inci_name": "SODIUM FLUOROSILICATE",
+    "cas_number": "16893-85-9",
+    "einecs_number": "240-934-8",
+    "description": "Sodium Fluorosilicate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Antiplaque",
+      "Oral care/hygiene agent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Sodium Formate",
+    "inci_name": "SODIUM FORMATE",
+    "cas_number": "141-53-7",
+    "einecs_number": "205-488-0",
+    "description": "Sodium Formate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Preservative"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [
+      "Classic shampoo (0.34%)",
+      "Shower gel (0.29%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Sodium Gluconate",
+    "inci_name": "SODIUM GLUCONATE",
+    "cas_number": "527-07-1 / 14906-97-9",
+    "einecs_number": "208-407-7 / 238-976-7",
+    "description": "Sodium Gluconate is a chelating agent that neutralizes metal ions in cosmetics.  This sodium salt of gluconic acid improves cleansing, prevents oil rancidity and prevents product degradation over time. It is also used as a food additive under the name E576.",
+    "rating": "safe",
+    "functions": [
+      "Chelating",
+      "Skin conditioning"
+    ],
+    "prevalence": "1.75% косметических средств",
+    "common_product_types": [
+      "Body hair removal cream (39.2%)",
+      "Care set (7.21%)",
+      "Anti-ageing sun cream (6.01%)",
+      "Adult toothpaste (5.56%)",
+      "Personal hygiene (4.99%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Grapeseedate",
+    "inci_name": "SODIUM GRAPESEEDATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Grapeseedate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [
+      "Solid soap (0.42%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sodium Hazelnutate",
+    "inci_name": "SODIUM HAZELNUTATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Hazelnutate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Hempseedate",
+    "inci_name": "SODIUM HEMPSEEDATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Hempseedate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Fluoride",
+    "inci_name": "SODIUM FLUORIDE",
+    "cas_number": "7681-49-4",
+    "einecs_number": "231-667-8",
+    "description": "Sodium fluoride is an inorganic type fluorine salt used in oral hygiene products for the prevention of cavities. In this range, it is also the most used ingredient in toothpastes and mouthwashes.The fluoride concentration should not exceed 1500 ppm (F) in a \"cosmetic\" toothpaste. However, this dose can be bypassed if the product is a medicine and is subject to a Marketing Authorization (MA), in which case it can only be purchased in pharmacies.",
+    "rating": "neutral",
+    "functions": [
+      "Antiplaque",
+      "Oral care/hygiene agent"
+    ],
+    "prevalence": "1.1% косметических средств",
+    "common_product_types": [
+      "Mouthwash (65.81%)",
+      "Adult toothpaste (63.61%)",
+      "Children toothpaste (62.89%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sodium Cocoyl Glutamate",
+    "inci_name": "SODIUM COCOYL GLUTAMATE",
+    "cas_number": "68187-32-6",
+    "einecs_number": "269-087-2",
+    "description": "Sodium Cocoyl Glutamate is made from coconut oil fatty acids and an amino acid, glutamate (present in the structural protein (collagen) of human skin). It is a rather mild anionic surfactant, used in organic formulas.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Surfactant"
+    ],
+    "prevalence": "1.3% косметических средств",
+    "common_product_types": [
+      "Facial cleansing foam (14.95%)",
+      "Baby shower gel and cream (12.91%)",
+      "2-in-1 shampoo and body wash for baby (12.65%)",
+      "Face cleansing gel (8.15%)",
+      "Face cleansing cream (7.7%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Hyaluronate Crosspolymer",
+    "inci_name": "SODIUM HYALURONATE CROSSPOLYMER",
+    "cas_number": "105524-32-1",
+    "einecs_number": "",
+    "description": "Sodium Hyaluronate Crosspolymer — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Humectant",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.61% косметических средств",
+    "common_product_types": [
+      "Face moisturizing serum (5.03%)",
+      "Fabric mask (3.98%)",
+      "Mask / patch (3.55%)",
+      "Anti-blemish serum (2.9%)",
+      "Anti-aging eye contour care (2.83%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Sodium Hyaluronate Crosspolymer-3",
+    "inci_name": "SODIUM HYALURONATE CROSSPOLYMER-3",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Hyaluronate Crosspolymer-3 — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Humectant",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Sodium Hyaluronate Crosspolymer-4",
+    "inci_name": "SODIUM HYALURONATE CROSSPOLYMER-4",
+    "cas_number": "781214-94-6",
+    "einecs_number": "",
+    "description": "Sodium Hyaluronate Crosspolymer-4 — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Emollient",
+      "Humectant",
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Sodium Hydroxide",
+    "inci_name": "SODIUM HYDROXIDE",
+    "cas_number": "1310-73-2",
+    "einecs_number": "215-185-5",
+    "description": "Caustic soda is used in the preparation of many products (detergents, explosives ...). It is used to make sodium salts and to neutralize acids. In cosmetics, it allows the manufacture of solid soaps. Caustic soda is allowed in organic, it does not pose problems in the conditions of regulation.",
+    "rating": "safe",
+    "functions": [
+      "pH regulator",
+      "Denaturant"
+    ],
+    "prevalence": "15.95% косметических средств",
+    "common_product_types": [
+      "Anti-dandruff shampoo (59.64%)",
+      "Hand set (55.95%)",
+      "Baby cleansing milk (54.21%)",
+      "Scrubbing shower gel (53.48%)",
+      "Care set for men (53.28%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sodium Dehydroacetate",
+    "inci_name": "SODIUM DEHYDROACETATE",
+    "cas_number": "4418-26-2",
+    "einecs_number": "224-580-1",
+    "description": "Sodium dehydroacetate is a preservative used in cosmetics for its antimicrobial properties. Although the ingredient seems to pose few health problems, note that its concentration is limited and that it is forbidden in aerosol-type products. It is permitted in organic products.",
+    "rating": "neutral",
+    "functions": [
+      "Preservative"
+    ],
+    "prevalence": "2.32% косметических средств",
+    "common_product_types": [
+      "Mascara (24.72%)",
+      "Eyeliner and kajal (20.08%)",
+      "Make-up set (19.79%)",
+      "Foundation (17.61%)",
+      "Bronze powder / sun powder (16.63%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sodium Hypochlorite",
+    "inci_name": "SODIUM HYPOCHLORITE",
+    "cas_number": "7681-52-9",
+    "einecs_number": "231-668-3",
+    "description": "Sodium hypochlorite is a chemical compound often used in aqueous solution as a disinfectant and bleaching agent. He enters the composition of the bleach.",
+    "rating": "caution",
+    "functions": [
+      "Oxidising"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sodium Hyaluronate",
+    "inci_name": "SODIUM HYALURONATE",
+    "cas_number": "9067-32-7",
+    "einecs_number": "-",
+    "description": "Sodium hyaluronate is the salt of hyaluronic acid. This active ingredient is appreciated for its moisturizing and plumping effect on the skin. It is a natural component of the connective tissue. It easily penetrates the epidermis and is then able to fix a large amount of water, up to 20 times its weight. For this reason, it is found in many cosmetics such as anti-aging, moisturizing creams or even foundations ...Discovered in the 1930s, hyaluronic acid is abundant in the dermis of young skin, but its quantity decreases with age: the skin appears more damaged, with wrinkles. Hyaluronic acid is a fairly large molecule that has difficulty penetrating the skin, and is much more effective injection. In a cosmetic, it is its salt that is used: sodium hyaluronate is a much smaller molecule, which penetrates more easily and can then move into the deep layers of the skin.This salt is a powerful humectant that attracts and holds water to it, making it the moisturizer of choice for the skin: it helps keep it \"wet\". As it attracts and binds to the water, it causes a slight swelling which reduces the appearance of lines and wrinkles, to give the skin a younger appearance.It is authorized in Bio.",
+    "rating": "safe",
+    "functions": [
+      "Humectant",
+      "Skin conditioning"
+    ],
+    "prevalence": "11.09% косметических средств",
+    "common_product_types": [
+      "Lip patch (72.06%)",
+      "Mask / patch (67.83%)",
+      "Fabric mask (63.41%)",
+      "Anti-aging set (54.68%)",
+      "Anti-aging eye serum (52.14%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Jojobate",
+    "inci_name": "SODIUM JOJOBATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Jojobate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Lactate",
+    "inci_name": "SODIUM LACTATE",
+    "cas_number": "72-17-3 / 867-56-1",
+    "einecs_number": "200-772-0 / 212-762-3",
+    "description": "Sodium lactate is the sodium salt of lactic acid, a type of alpha-hydroxy acid (AHA). It is produced by the fermentation of sugars, e.g. from corn or sugar beet. It contains no milk proteins. It can therefore be used by people with a milk allergy or lactose intolerance. It is used as a food additive under the name E325. It is used in cosmetics for its antioxidant, antimicrobial and moisturizing properties.",
+    "rating": "safe",
+    "functions": [
+      "pH regulator",
+      "Humectant",
+      "Keratolytic"
+    ],
+    "prevalence": "2.34% косметических средств",
+    "common_product_types": [
+      "Day anti-ageing face serum (7.77%)",
+      "Anti-aging day face cream (7.58%)",
+      "Anti-aging night face cream (6.93%)",
+      "Feet moisturizers (6.24%)",
+      "Night face cream (6.11%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Cocoyl Isethionate",
+    "inci_name": "SODIUM COCOYL ISETHIONATE",
+    "cas_number": "61789-32-0 / 58969-27-0",
+    "einecs_number": "263-052-5",
+    "description": "Sodium Cocoyl Isethionate or SCI is a mild anionic surfactant without sulfate. Derived from the fatty acids of coconut oil and isethionic acid, it has a very good foaming power. It is found in natural products such as solid shampoos.SCI is produced by ethoxylation, which makes it a not very ecological ingredient. It is prohibited in the COSMOS specifications.",
+    "rating": "caution",
+    "functions": [
+      "Cleansing",
+      "Hair conditioning",
+      "Surfactant"
+    ],
+    "prevalence": "1.15% косметических средств",
+    "common_product_types": [
+      "Solid shampoo (48.98%)",
+      "Solid cleanser (32.64%)",
+      "Solid toothpaste (24.19%)",
+      "Baby shampoo (13.73%)",
+      "Face cleansing cream (13%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Laureth Sulfate",
+    "inci_name": "SODIUM LAURETH SULFATE",
+    "cas_number": "3088-31-1 / 9004-82-4 / 68891-38-3 / 1335-72-4 / 68585-34-2 / 91648-56-5",
+    "einecs_number": "221-416-0/ - / 500-234-8 / - / 500-223-8 / 293-918-8",
+    "description": "Sodium Laureth Sulphate (SLES) is an anionic surfactant used in cosmetics for its detergent properties. It is therefore very present in shower gels and shampoos. It is produced from Sodium Lauryl Sulphate (SLS) by ethoxylation, a very polluting chemical transformation, which is why it is prohibited in organic products. Sodium Laureth Sulphate is reputed to be less irritating than Sodium Lauryl Sulphate although the latter is more natural and authorized in Organic, it is the chemical transformation that has softened it and increased its foaming power.This ingredient is classified as ecotoxic according to REACH (Aquatic Chronic 3).",
+    "rating": "caution",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Foaming",
+      "Surfactant"
+    ],
+    "prevalence": "9.71% косметических средств",
+    "common_product_types": [
+      "Anti-dandruff shampoo (81.05%)",
+      "Men shower gel (77.46%)",
+      "Men's shampoo (73.71%)",
+      "Shower foam (62.22%)",
+      "Liquid soap (61.87%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sodium Hyaluronate Crosspolymer-5",
+    "inci_name": "SODIUM HYALURONATE CROSSPOLYMER-5",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Hyaluronate Crosspolymer-5 — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Emollient",
+      "Humectant",
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Sodium Lauroyl Glutamate",
+    "inci_name": "SODIUM LAUROYL GLUTAMATE",
+    "cas_number": "29923-31-7 / 29923-34-0 / 42926-22-7 / 98984-78-2",
+    "einecs_number": "249-958-3 / - / - / -",
+    "description": "Sodium Lauroyl Glutamate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Hair conditioning",
+      "Surfactant"
+    ],
+    "prevalence": "0.72% косметических средств",
+    "common_product_types": [
+      "Chewable toothpaste (42%)",
+      "Baby shower gel and cream (5.6%)",
+      "Facial cleansing foam (4.97%)",
+      "Bb cream (4.87%)",
+      "Baby shampoo (4.14%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Hydroxymethylglycinate",
+    "inci_name": "SODIUM HYDROXYMETHYLGLYCINATE",
+    "cas_number": "70161-44-3",
+    "einecs_number": "274-357-8",
+    "description": "Sodium hydroxymethylglycinate is used as a preservative in cosmetics as an alternative to parabens. It acts on its own on a fairly broad spectrum of microbes and bacteria of all kinds. Nevertheless, some studies show that it can release formaldehyde (known carcinogen, irritant and allergen) under certain conditions which, let's face it, seem infrequent. Moreover, when this is the case, the quantities released are negligible. However, considering that it is possible to do otherwise, we classify this ingredient in red on Inci Beauty. The ingredient is reputed to be very irritating to the skin and eyes, and seems to give off a very strong rancid odor even below the concentrations authorized by Europe. This leads manufacturers to dilute it too much and therefore reduce its preservative effect or to use too many masking agents.",
+    "rating": "avoid",
+    "functions": [
+      "Hair conditioning",
+      "Preservative"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [
+      "Styling gel (2.02%)",
+      "Classic shampoo (0.14%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sodium Lauroyl Lactylate",
+    "inci_name": "SODIUM LAUROYL LACTYLATE",
+    "cas_number": "13557-75-0",
+    "einecs_number": "236-942-6",
+    "description": "Sodium Lauroyl Lactylate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emulsifying"
+    ],
+    "prevalence": "0.45% косметических средств",
+    "common_product_types": [
+      "Face and body moisturizer (2.39%)",
+      "Facial cleansing foam (1.97%)",
+      "Anti-aging day face cream (1.8%)",
+      "Face cleansing gel (1.54%)",
+      "Face cream (1.51%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sodium Laurate",
+    "inci_name": "SODIUM LAURATE",
+    "cas_number": "629-25-4 - Saponified lauric acid",
+    "einecs_number": "211-082-4",
+    "description": "Sodium Laurate is a chemical compound obtained by saponification of lauric acid (contained in coconut oil, palm oil, etc.), i.e. by reacting it with caustic soda. It is used as a basic ingredient in the composition of cosmetic solid soaps.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "0.26% косметических средств",
+    "common_product_types": [
+      "Solid soap (8.93%)",
+      "Classic shampoo (0.44%)",
+      "Shower gel (0.19%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Lauroyl Sarcosinate",
+    "inci_name": "SODIUM LAUROYL SARCOSINATE",
+    "cas_number": "137-16-6",
+    "einecs_number": "205-281-5",
+    "description": "Lauroyl Sarconisate sodium is a much milder anionic surfactant than sulfated compounds. Derived from fatty acid and natural amine, it is used in the composition of mild cleansing products and is also used in toothpastes.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Cleansing",
+      "Emulsifying",
+      "Foaming",
+      "Hair conditioning",
+      "Skin conditioning",
+      "Surfactant",
+      "Viscosity controlling"
+    ],
+    "prevalence": "1.09% косметических средств",
+    "common_product_types": [
+      "Shower foam (9.72%)",
+      "Facial cleansing foam (9.64%)",
+      "Children toothpaste (7.97%)",
+      "Shampoo for colored/highlighted hair (7.16%)",
+      "Face cleansing gel (7.03%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Isethionate",
+    "inci_name": "SODIUM ISETHIONATE",
+    "cas_number": "1562-00-1",
+    "einecs_number": "216-343-6",
+    "description": "Sodium Isethionate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Cleansing",
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.24% косметических средств",
+    "common_product_types": [
+      "Solid shampoo (2.71%)",
+      "Shower gel (2.56%)",
+      "Solid soap (2.09%)",
+      "Men shower gel (2%)",
+      "Body scrub (1.21%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sodium Lauroyl Aspartate",
+    "inci_name": "SODIUM LAUROYL ASPARTATE",
+    "cas_number": "41489-18-3",
+    "einecs_number": "",
+    "description": "Sodium Lauroyl Aspartate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Hair conditioning",
+      "Surfactant"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [
+      "Foundation (0.54%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sodium Lauryl Sulfoacetate",
+    "inci_name": "SODIUM LAURYL SULFOACETATE",
+    "cas_number": "1847-58-1",
+    "einecs_number": "217-431-7",
+    "description": "Sodium Lauryl Sulfoacetate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Foaming",
+      "Surfactant"
+    ],
+    "prevalence": "0.28% косметических средств",
+    "common_product_types": [
+      "Shampoo for colored/highlighted hair (2.97%)",
+      "Classic shampoo (2.07%)",
+      "Solid shampoo (2.03%)",
+      "Foaming bath and bath salts (1.34%)",
+      "Liquid soap (0.68%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sodium Levulinate",
+    "inci_name": "SODIUM LEVULINATE",
+    "cas_number": "19856-23-6",
+    "einecs_number": "243-378-4",
+    "description": "Sodium Levulinate is the sodium salt of levulinic acid. It is a 100% natural preservative derived from starch and vegetable inulin.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "2.16% косметических средств",
+    "common_product_types": [
+      "Baby cleansing water (16.11%)",
+      "Micellar water (9.44%)",
+      "Eye contour care (9.03%)",
+      "Night face cream (9.01%)",
+      "Diaper cream (8.5%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Linseedate",
+    "inci_name": "SODIUM LINSEEDATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Linseedate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Ma/Vinyl Alcohol Copolymer",
+    "inci_name": "SODIUM MA/VINYL ALCOHOL COPOLYMER",
+    "cas_number": "139871-83-3",
+    "einecs_number": "",
+    "description": "Sodium Ma/Vinyl Alcohol Copolymer — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Binding agent",
+      "Film forming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Sodium Macadamiaseedate",
+    "inci_name": "SODIUM MACADAMIASEEDATE",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Sodium Macadamiaseedate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Viscosity controlling"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sodium Lauroyl Isethionate",
+    "inci_name": "SODIUM LAUROYL ISETHIONATE",
+    "cas_number": "7381-01-3",
+    "einecs_number": "230-949-8",
+    "description": "Sodium Lauroyl Isethionate — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Antistatic",
+      "Cleansing",
+      "Foaming",
+      "Hair conditioning",
+      "Skin conditioning",
+      "Surfactant"
+    ],
+    "prevalence": "0.17% косметических средств",
+    "common_product_types": [
+      "Shower gel (2.78%)",
+      "Men shower gel (2.49%)",
+      "Solid soap (1.8%)",
+      "Classic shampoo (0.15%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Sodium Metabisulfite",
+    "inci_name": "SODIUM METABISULFITE",
+    "cas_number": "7681-57-4 / 7757-74-6",
+    "einecs_number": "231-673-0 / -",
+    "description": "Sodium Metabisulfite — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Antioxidant",
+      "Preservative",
+      "Reducing"
+    ],
+    "prevalence": "0.96% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (29.66%)",
+      "Self-tanner (14.81%)",
+      "Brightening and anti-dark spots treatment (8.39%)",
+      "Day anti-ageing face serum (1.85%)",
+      "Face moisturizing serum (1.51%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Sodium Lauroyl Methyl Isethionate",
+    "inci_name": "SODIUM LAUROYL METHYL ISETHIONATE",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Sodium Lauroyl Methyl Isethionate or SLMI is a mild anionic surfactant derived from coconut, which contains no sulphate. Unlike SCI (Sodium Cocoyl Isethionate), which allows for the creation of opaque products, SLMI has excellent water solubility and therefore allows for the creation of sulfate-free, transparent shampoo formulations. It is often used in conjunction with CAPB.SLMI is produced by ethoxylation, which makes it an environmentally unfriendly ingredient. It is prohibited in the COSMOS specifications.",
+    "rating": "caution",
+    "functions": [
+      "Cleansing",
+      "Surfactant"
+    ],
+    "prevalence": "0.42% косметических средств",
+    "common_product_types": [
+      "Shampoo for colored/highlighted hair (5.76%)",
+      "Shower oil (4.45%)",
+      "Classic shampoo (3.91%)",
+      "Fall protection shampoo (3.67%)",
+      "Face cleansing gel (1.78%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Methyl Cocoyl Taurate",
+    "inci_name": "SODIUM METHYL COCOYL TAURATE",
+    "cas_number": "12765-39-8; 61791-42-2",
+    "einecs_number": "-; 263-174-9",
+    "description": "Sodium Methyl Cocoyl Taurate is the salt of the coconut fatty acid amide of N-methyltaurine. It is a mild surfactant that does not pose a priori any particular problem.",
+    "rating": "safe",
+    "functions": [
+      "Surfactant"
+    ],
+    "prevalence": "0.63% косметических средств",
+    "common_product_types": [
+      "Baby shampoo (13.45%)",
+      "Face cleansing cream (9.27%)",
+      "Facial cleansing foam (7.54%)",
+      "Baby shower gel and cream (6.59%)",
+      "Children toothpaste (5.96%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Monofluorophosphate",
+    "inci_name": "SODIUM MONOFLUOROPHOSPHATE",
+    "cas_number": "10163-15-2 / 7631-97-2",
+    "einecs_number": "233-433-0 / 231-552-2",
+    "description": "Sodium Monofluorophosphate or more simply Sodium Fluorophosphate is an inorganic fluoride salt used in toothpastes and oral hygiene products. It helps prevent cavities. It is used as a replacement for Sodium Fluoride, however, no study today can prove increased effectiveness compared to the latter.The fluoride concentration should not exceed 1500 ppm (F) in a \"cosmetic\" type toothpaste. However, this dose can be circumvented if the product is a medicine and is the subject of a marketing authorization (MA), in which case it can only be purchased in pharmacies.",
+    "rating": "neutral",
+    "functions": [
+      "Antiplaque",
+      "Oral care/hygiene agent"
+    ],
+    "prevalence": "0.26% косметических средств",
+    "common_product_types": [
+      "Adult toothpaste (16.56%)",
+      "Children toothpaste (12.22%)",
+      "Mouthwash (2.98%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sodium Moringate",
+    "inci_name": "SODIUM MORINGATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Moringate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Lauryl Glucose Carboxylate",
+    "inci_name": "SODIUM LAURYL GLUCOSE CARBOXYLATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Lauryl Glucose Carboxylate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Surfactant"
+    ],
+    "prevalence": "0.3% косметических средств",
+    "common_product_types": [
+      "Facial cleansing foam (3.86%)",
+      "Face cleansing gel (2.29%)",
+      "Personal hygiene (1.94%)",
+      "Oxidative hair coloring (1.26%)",
+      "Classic shampoo (1.17%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sodium Lauryl Sulfate",
+    "inci_name": "SODIUM LAURYL SULFATE",
+    "cas_number": "151-21-3/ 68585-47-7 (generic)/ 68955-19-1 (generic)/ 73296-89-6/ 85586-07-8",
+    "einecs_number": "205-788-1/ -/ -/277-362-3/ -",
+    "description": "Sodium Lauryl sulfate is a surfactant widely used in cosmetics. It is produced mostly from palm oil. It has a very strong foaming and detergent power, but it is criticized for its very irritating and drying effect on the skin, so much so that it is found less and less often in shower gels and bath products. Manufacturers prefer to use the ethoxylated version (SLES = Sodium Laureth Sulfate) less abrasive or other softer surfactants. However, it remains very present in toothpastes for adults (57% contain it) and children (42%).SLS is also criticized for being a pollutant for the environment, animals, aquatic environments or even plants. Nevertheless, it is authorized in organic.It is classified according to REACH: Ecotoxic (Aquatic Chronic 3).",
+    "rating": "caution",
+    "functions": [
+      "Cleansing",
+      "Denaturant",
+      "Foaming",
+      "Surfactant"
+    ],
+    "prevalence": "2.75% косметических средств",
+    "common_product_types": [
+      "Adult toothpaste (55.84%)",
+      "Anti-dandruff shampoo (31.19%)",
+      "Children toothpaste (28.02%)",
+      "Shaving cream (25.15%)",
+      "Oxidative hair coloring (21.57%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sodium Neemate",
+    "inci_name": "SODIUM NEEMATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Neemate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Nitrite",
+    "inci_name": "SODIUM NITRITE",
+    "cas_number": "7632-00-0",
+    "einecs_number": "231-555-9",
+    "description": "Sodium Nitrite — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Anticorrosive"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Sodium Methylparaben",
+    "inci_name": "SODIUM METHYLPARABEN",
+    "cas_number": "5026-62-0",
+    "einecs_number": "225-714-1",
+    "description": "Sodium Methylparaben — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Preservative"
+    ],
+    "prevalence": "0.35% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (5.84%)",
+      "Children toothpaste (3.65%)",
+      "Mouthwash (2.74%)",
+      "Adult toothpaste (2.39%)",
+      "Hair conditioner (1.96%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sodium Mangoseedate",
+    "inci_name": "SODIUM MANGOSEEDATE",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Sodium Mangoseedate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Uv absorber",
+      "Viscosity controlling"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sodium Olivate",
+    "inci_name": "SODIUM OLIVATE",
+    "cas_number": "61789-88-6 - Saponified olive oil",
+    "einecs_number": "263-096-5",
+    "description": "Sodium Olivate is a chemical compound obtained by saponifying olive oil, i.e. by reacting it with caustic soda. It is used as a basic ingredient in the composition of solid soaps used in cosmetics.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Surfactant",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.52% косметических средств",
+    "common_product_types": [
+      "Exfoliating solid soap (22.98%)",
+      "Solid soap (19.96%)",
+      "Solid shampoo (6.88%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Myreth Sulfate",
+    "inci_name": "SODIUM MYRETH SULFATE",
+    "cas_number": "25446-80-4",
+    "einecs_number": "246-986-8",
+    "description": "Sodium Myreth Sulfate is an anionic surfactant that is found mainly in shampoos. It is reputedly irritating, and produced by ethoxylation.",
+    "rating": "caution",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Foaming",
+      "Surfactant"
+    ],
+    "prevalence": "0.23% косметических средств",
+    "common_product_types": [
+      "Baby shower gel and cream (5.14%)",
+      "Oxidative hair coloring (3.46%)",
+      "Shampoo for colored/highlighted hair (2.97%)",
+      "Classic shampoo (1.47%)",
+      "Face cleansing gel (1.02%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sodium Oxymethylene Sulfoxylate",
+    "inci_name": "SODIUM OXYMETHYLENE SULFOXYLATE",
+    "cas_number": "149-44-0",
+    "einecs_number": "205-739-4",
+    "description": "Sodium Oxymethylene Sulfoxylate — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Reducing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Sodium Palmate",
+    "inci_name": "SODIUM PALMATE",
+    "cas_number": "61790-79-2 - Saponified palm oil",
+    "einecs_number": "263-162-3",
+    "description": "Sodium palmate is a chemical compound obtained by saponifying palm oil, i.e. by reacting it with caustic soda. It is used as a basic ingredient in the composition of solid soaps used in cosmetics.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Surfactant",
+      "Viscosity controlling"
+    ],
+    "prevalence": "1.22% косметических средств",
+    "common_product_types": [
+      "Solid soap (46.51%)",
+      "Solid baby soap (44.95%)",
+      "Exfoliating solid soap (41.75%)",
+      "Shaving soap (18.47%)",
+      "Solid cleanser (14.51%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Palmitate",
+    "inci_name": "SODIUM PALMITATE",
+    "cas_number": "408-35-5 - Saponified Palm oil",
+    "einecs_number": "206-988-1",
+    "description": "Sodium palmitate is a compound obtained by saponifying palmitic acid (present in palm oil), i.e. by reacting it with caustic soda. It is used as a basic ingredient in the composition of cosmetic solid soaps.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Surfactant",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.19% косметических средств",
+    "common_product_types": [
+      "Solid soap (7.09%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Paraben",
+    "inci_name": "SODIUM PARABEN",
+    "cas_number": "114-63-6 / 85080-04-2",
+    "einecs_number": "204-051-1 / -",
+    "description": "Sodium Paraben — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "avoid",
+    "functions": [
+      "Preservative"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sodium Mustardate",
+    "inci_name": "SODIUM MUSTARDATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Mustardate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Peanutate",
+    "inci_name": "SODIUM PEANUTATE",
+    "cas_number": "61789-57-9 - Saponified peanut oil",
+    "einecs_number": "263-070-3",
+    "description": "Sodium Peanutate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Surfactant",
+      "Viscosity controlling"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Sodium O-Phenylphenate",
+    "inci_name": "SODIUM O-PHENYLPHENATE",
+    "cas_number": "132-27-4",
+    "einecs_number": "205-055-6",
+    "description": "This ingredient is used as a preservative in cosmetics. Nevertheless, it will no longer be allowed in cosmetics from June 17, 2019.",
+    "rating": "avoid",
+    "functions": [
+      "Antimicrobial"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sodium Perborate",
+    "inci_name": "SODIUM PERBORATE",
+    "cas_number": "15120-21-5 / 7632-04-4 / 11138-47-9",
+    "einecs_number": "239-172-9 / 231-556-4 / 234-390-0",
+    "description": "Sodium Perborate — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Oral care/hygiene agent",
+      "Oxidising"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Sodium Oenothera Biennis",
+    "inci_name": "SODIUM OENOTHERA BIENNIS",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Oenothera Biennis — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Palm Kernelate",
+    "inci_name": "SODIUM PALM KERNELATE",
+    "cas_number": "61789-89-7 - Saponified Palm kernel oil",
+    "einecs_number": "263-097-0",
+    "description": "Sodium palm kernelate is a chemical compound formed by a saponification reaction of palm kernel oil (oil from palm seeds), i.e. by reacting it with caustic soda. It is used as a basic ingredient in the composition of solid soaps used in cosmetics.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Surfactant",
+      "Viscosity controlling"
+    ],
+    "prevalence": "1.12% косметических средств",
+    "common_product_types": [
+      "Solid baby soap (47.09%)",
+      "Solid soap (41.89%)",
+      "Exfoliating solid soap (41.42%)",
+      "Solid cleanser (11.66%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Phytate",
+    "inci_name": "SODIUM PHYTATE",
+    "cas_number": "14306-25-3 / 34367-89-0",
+    "einecs_number": "238-242-6",
+    "description": "Sodium phytate is the sodium salt of phytic acid. It is a natural chelating agent used in cosmetics. Phytic acid occurs naturally in plant tissues, particularly in bran and seeds. Its salt can be used as a substitute for tetrasodium EDTA.",
+    "rating": "safe",
+    "functions": [
+      "Chelating",
+      "Oral care/hygiene agent"
+    ],
+    "prevalence": "1.93% косметических средств",
+    "common_product_types": [
+      "Anti-aging eye contour care (7.9%)",
+      "Anti-blemish serum (7.6%)",
+      "Care set (6.99%)",
+      "Eye contour care (6.94%)",
+      "Anti-aging day face cream (6.55%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Picramate",
+    "inci_name": "SODIUM PICRAMATE",
+    "cas_number": "831-52-7",
+    "einecs_number": "212-603-8",
+    "description": "Sodium Picramate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (1.02%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Sodium Polyacrylate",
+    "inci_name": "SODIUM POLYACRYLATE",
+    "cas_number": "9003-04-7 / 25549-84-2",
+    "einecs_number": "",
+    "description": "Sodium polyacrylate is the sodium salt of polyacrylic acid, described as a superabsorbent. Thanks to this “super capacity” to absorb water up to 1000 times its weight, it acts as a thickening agent in cosmetic products (creating gels).",
+    "rating": "caution",
+    "functions": [
+      "Absorbent",
+      "Binding agent",
+      "Emollient",
+      "Emulsion stabilising",
+      "Film forming",
+      "Hair fixing",
+      "Skin conditioning",
+      "Viscosity controlling"
+    ],
+    "prevalence": "2.18% косметических средств",
+    "common_product_types": [
+      "Anti-aging set (17.27%)",
+      "Mask / patch (12.77%)",
+      "Face moisturizer for men (12.63%)",
+      "Anti-aging eye contour care (10.5%)",
+      "Anti-redness care (10.45%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sodium Pca",
+    "inci_name": "SODIUM PCA",
+    "cas_number": "28874-51-3 - Sodium Pyrrolidone Carboxylic Acid",
+    "einecs_number": "249-277-1",
+    "description": "PCA sodium is a sodium salt of pyroglutamic acid. It is an amino acid that is found naturally in many proteins. It is part of NMF (natural moisturizing factor), that is to say compounds that allow the natural maintenance of skin hydration.It is used in cosmetics as a moisturizing, humectant. It has been shown to have a stronger moisturizing power than glycerine, sorbitol or propanediol. This ingredient is also non-toxic, non-irritating and non-allergic.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Hair conditioning",
+      "Humectant",
+      "Skin conditioning"
+    ],
+    "prevalence": "2.65% косметических средств",
+    "common_product_types": [
+      "Hair straightening (9.34%)",
+      "Face lotion and toner (7.44%)",
+      "Fall protection shampoo (6.62%)",
+      "Night face cream (6.47%)",
+      "Face moisturizing serum (6.43%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Polyacrylate Crosspolymer-1",
+    "inci_name": "SODIUM POLYACRYLATE CROSSPOLYMER-1",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Polyacrylate Crosspolymer-1 — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Emollient",
+      "Film forming",
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sodium Polyacryloyldimethyl Taurate",
+    "inci_name": "SODIUM POLYACRYLOYLDIMETHYL TAURATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Polyacryloyldimethyl Taurate — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Emulsion stabilising",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.17% косметических средств",
+    "common_product_types": [
+      "Face moisturizing serum (1.26%)",
+      "Face cream (0.78%)",
+      "Anti-aging day face cream (0.65%)",
+      "Hand cream (0.62%)",
+      "Adult sun cream (0.52%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sodium Propionate",
+    "inci_name": "SODIUM PROPIONATE",
+    "cas_number": "137-40-6",
+    "einecs_number": "205-290-4",
+    "description": "Sodium Propionate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Preservative"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Sodium Propylparaben",
+    "inci_name": "SODIUM PROPYLPARABEN",
+    "cas_number": "35285-69-9",
+    "einecs_number": "252-488-1",
+    "description": "Sodium Propylparaben — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "avoid",
+    "functions": [
+      "Preservative"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [
+      "Adult toothpaste (0.7%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sodium Peg-7 Olive Oil Carboxylate",
+    "inci_name": "SODIUM PEG-7 OLIVE OIL CARBOXYLATE",
+    "cas_number": "226416-05-3",
+    "einecs_number": "-",
+    "description": "Sodium Peg-7 Olive Oil Carboxylate — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Emulsifying",
+      "Foam boosting",
+      "Hydrotrope"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sodium Phenylbenzimidazole Sulfonate",
+    "inci_name": "SODIUM PHENYLBENZIMIDAZOLE SULFONATE",
+    "cas_number": "5997-53-5",
+    "einecs_number": "",
+    "description": "Sodium phenylbenzimidazole sulfonate is a UV filter authorized in sunscreens by European cosmetic regulations. It provides protection against UVB rays. Due to its production method, the ingredient is associated with an orange flower on our app.",
+    "rating": "caution",
+    "functions": [
+      "Uv absorber",
+      "Uv filter"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [
+      "Adult sun cream (0.32%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sodium Phosphate",
+    "inci_name": "SODIUM PHOSPHATE",
+    "cas_number": "13472-35-0 (dihydrate)/ 7558-80-7 / 7632-05-5",
+    "einecs_number": "- /231-449-2 / 231-558-5",
+    "description": "Sodium Phosphate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Anti dandruff",
+      "pH regulator",
+      "Deodorant"
+    ],
+    "prevalence": "0.7% косметических средств",
+    "common_product_types": [
+      "Mascara (8.01%)",
+      "Children toothpaste (5.44%)",
+      "Fabric mask (4.59%)",
+      "Mouthwash (4.53%)",
+      "Mask / patch (2.71%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sodium Ricinoleate",
+    "inci_name": "SODIUM RICINOLEATE",
+    "cas_number": "5323-95-5 - Saponified Castor oil",
+    "einecs_number": "226-191-2",
+    "description": "Sodium Ricinoleate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Emulsifying"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [
+      "Solid soap (0.52%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sodium Pyrithione",
+    "inci_name": "SODIUM PYRITHIONE",
+    "cas_number": "15922-78-8",
+    "einecs_number": "240-062-8",
+    "description": "Sodium Pyrithione — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Preservative"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Sodium Safflowerate",
+    "inci_name": "SODIUM SAFFLOWERATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Safflowerate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Surfactant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sodium Salicylate",
+    "inci_name": "SODIUM SALICYLATE",
+    "cas_number": "54-21-7",
+    "einecs_number": "200-198-0",
+    "description": "Sodium salicylate is used in cosmetics as a preservative. He also acts in medicine as analgesic and antipyretic. The ingredient is authorized in organic.",
+    "rating": "neutral",
+    "functions": [
+      "Denaturant",
+      "Preservative"
+    ],
+    "prevalence": "0.94% косметических средств",
+    "common_product_types": [
+      "Anti-dandruff shampoo (35.48%)",
+      "Oxidative hair coloring (17.24%)",
+      "Men's shampoo (9.71%)",
+      "Men shower gel (6.12%)",
+      "Shower gel (4.46%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sodium Sesameseedate",
+    "inci_name": "SODIUM SESAMESEEDATE",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Sodium Sesameseedate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [
+      "Solid soap (0.55%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Rice Branate",
+    "inci_name": "SODIUM RICE BRANATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Rice Branate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sodium Sorbate",
+    "inci_name": "SODIUM SORBATE",
+    "cas_number": "7757-81-5",
+    "einecs_number": "231-819-3",
+    "description": "Sodium sorbate is used as a preservative in cosmetics to inhibit mold and yeast. It is found in food under the name E201. It is authorized in organic.",
+    "rating": "neutral",
+    "functions": [
+      "Preservative"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Natural."
+  },
+  {
+    "name": "Sodium Soyate",
+    "inci_name": "SODIUM SOYATE",
+    "cas_number": "61790-25-8 - Saponified soybean oil",
+    "einecs_number": "263-117-8",
+    "description": "Sodium Soyate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Surfactant",
+      "Viscosity controlling"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Potassium Aluminum Silicate",
+    "inci_name": "SODIUM POTASSIUM ALUMINUM SILICATE",
+    "cas_number": "66402-68-4 / 12736-96-8",
+    "einecs_number": "266-340-9 / 235-787-1",
+    "description": "Sodium Potassium Aluminum Silicate — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Bulking"
+    ],
+    "prevalence": "0.1% косметических средств",
+    "common_product_types": [
+      "Foundation (1.25%)",
+      "Adult sun cream (0.29%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Sodium Stearoyl Glutamate",
+    "inci_name": "SODIUM STEAROYL GLUTAMATE",
+    "cas_number": "38517-23-6 / 79811-24-8",
+    "einecs_number": "253-980-9",
+    "description": "Sodium stearoyl glutamate is a mild surfactant with cleansing and moisturizing properties, derived from the combination of stearic acid (a fatty acid) and glutamic acid (an amino acid). It is used in cosmetics to create smooth, stable formulas from oil- and water-based ingredients.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "1.98% косметических средств",
+    "common_product_types": [
+      "Anti-aging for men (18.8%)",
+      "Anti-aging set (18.35%)",
+      "Anti-ageing sun cream (16.69%)",
+      "Children sun cream (15.48%)",
+      "Night face cream (14.1%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Rapeseedate",
+    "inci_name": "SODIUM RAPESEEDATE",
+    "cas_number": "68440-17-5 - Saponified Rapeseed oil",
+    "einecs_number": "270-440-8",
+    "description": "Sodium Rapeseedate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Surfactant",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [
+      "Solid soap (2.58%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Saccharin",
+    "inci_name": "SODIUM SACCHARIN",
+    "cas_number": "128-44-9 / 6155-57-3",
+    "einecs_number": "204-886-1 / -",
+    "description": "Saccharin is an artificial sweetener with a sweetening power 300 times higher than sugar. It provides no calories and is easily eliminated by the body. It is its sodium salt that is used in cosmetics as a flavouring. In toothpastes (70% contain it), it provides a feeling of cleanliness, protecting the mucous membrane.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Oral care/hygiene agent",
+      "Flavouring agent"
+    ],
+    "prevalence": "1.56% косметических средств",
+    "common_product_types": [
+      "Adult toothpaste (77.66%)",
+      "Mouthwash (72.79%)",
+      "Children toothpaste (64.38%)",
+      "Breath (45.9%)",
+      "Anti-stain and teeth whitening (26.78%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sodium Shea Butterate",
+    "inci_name": "SODIUM SHEA BUTTERATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Shea Butterate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Surfactant"
+    ],
+    "prevalence": "0.2% косметических средств",
+    "common_product_types": [
+      "Exfoliating solid soap (14.56%)",
+      "Solid soap (8.19%)",
+      "Solid shampoo (5.43%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Sulfite",
+    "inci_name": "SODIUM SULFITE",
+    "cas_number": "7757-83-7",
+    "einecs_number": "231-821-4",
+    "description": "Sodium Sulfite — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Antioxidant",
+      "Hair waving or straightening",
+      "Preservative",
+      "Reducing"
+    ],
+    "prevalence": "1.11% косметических средств",
+    "common_product_types": [
+      "Men's hair colouring (65.85%)",
+      "Oxidative hair coloring (47.84%)",
+      "Cleansing wipes (4.41%)",
+      "Brightening and anti-dark spots treatment (3.88%)",
+      "Baby cleaning wipes (1.88%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Sodium Sunflowerate",
+    "inci_name": "SODIUM SUNFLOWERATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Sunflowerate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [
+      "Solid soap (0.74%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sodium Sunflowerseedate",
+    "inci_name": "SODIUM SUNFLOWERSEEDATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sodium Sunflowerseedate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Surfactant"
+    ],
+    "prevalence": "0.11% косметических средств",
+    "common_product_types": [
+      "Solid soap (4.63%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sodium Sweet Almondate",
+    "inci_name": "SODIUM SWEET ALMONDATE",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Sodium Sweet Almondate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Emulsifying"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [
+      "Solid soap (0.57%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sodium Tallowate",
+    "inci_name": "SODIUM TALLOWATE",
+    "cas_number": "8052-48-0 - Saponified Tallow",
+    "einecs_number": "232-491-4",
+    "description": "Sodium Tallowate — косметический ингредиент. Происхождение: Animal.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Foam boosting",
+      "Surfactant",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.18% косметических средств",
+    "common_product_types": [
+      "Solid baby soap (21.1%)",
+      "Solid soap (7.68%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Animal."
+  },
+  {
+    "name": "Sodium Stearoyl Lactylate",
+    "inci_name": "SODIUM STEAROYL LACTYLATE",
+    "cas_number": "25383-99-7 / 18200-72-1",
+    "einecs_number": "246-929-7 / 242-090-6",
+    "description": "Sodium Stearoyl Lactylate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emulsifying"
+    ],
+    "prevalence": "0.47% косметических средств",
+    "common_product_types": [
+      "Eye contour care (2.05%)",
+      "Anti-aging day face cream (2.01%)",
+      "Face cream (1.82%)",
+      "Body moisturizer (1.59%)",
+      "Mascara (1.51%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sodium Stearate",
+    "inci_name": "SODIUM STEARATE",
+    "cas_number": "822-16-2",
+    "einecs_number": "212-490-5",
+    "description": "Sodium Stearate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Surfactant",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.62% косметических средств",
+    "common_product_types": [
+      "Deodorant stick (25.86%)",
+      "Shaving soap (20.27%)",
+      "Solid soap (9.05%)",
+      "Mascara (1.28%)",
+      "Oxidative hair coloring (0.98%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sodium Undecylenate",
+    "inci_name": "SODIUM UNDECYLENATE",
+    "cas_number": "3398-33-2",
+    "einecs_number": "222-264-8",
+    "description": "Sodium Undecylenate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Emulsifying",
+      "Preservative",
+      "Surfactant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Sodium Styrene/Acrylates Copolymer",
+    "inci_name": "SODIUM STYRENE/ACRYLATES COPOLYMER",
+    "cas_number": "9010-92-8",
+    "einecs_number": "",
+    "description": "Sodium Styrene/Acrylates Copolymer — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Film forming",
+      "Opacifying",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [
+      "Nail polish (0.91%)",
+      "Shower gel (0.29%)",
+      "Classic shampoo (0.15%)"
+    ],
+    "note": "Требует осторожности при использовании. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Sodium Sulfate",
+    "inci_name": "SODIUM SULFATE",
+    "cas_number": "7727-73-3 / 7757-82-6",
+    "einecs_number": "/ 231-820-9",
+    "description": "Sodium sulfate is an inorganic salt used in cleansers, soaps, detergents and skin care products. It is listed as a food additive under the name E514, and used in this field as an acidifier.",
+    "rating": "neutral",
+    "functions": [
+      "Bulking",
+      "Viscosity controlling"
+    ],
+    "prevalence": "1.88% косметических средств",
+    "common_product_types": [
+      "Foaming bath and bath salts (27.89%)",
+      "Body shaving gel and foam (23.89%)",
+      "Baby bubble bath (18.15%)",
+      "Oxidative hair coloring (15.77%)",
+      "Men shower gel (12.05%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Synthetic."
+  },
+  {
+    "name": "Solanum Lycopersicum Seed Oil",
+    "inci_name": "SOLANUM LYCOPERSICUM SEED OIL",
+    "cas_number": "90131-63-8 - Tomato seed oil",
+    "einecs_number": "290-375-9",
+    "description": "Solanum Lycopersicum Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [
+      "Adult sun cream (0.37%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Solanum Melongena Fruit Extract",
+    "inci_name": "SOLANUM MELONGENA FRUIT EXTRACT",
+    "cas_number": "84012-19-1 - Eggplant extract",
+    "einecs_number": "281-665-6",
+    "description": "Solanum Melongena Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.1% косметических средств",
+    "common_product_types": [
+      "Face cream (0.34%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Solanum Nigrum Extract",
+    "inci_name": "SOLANUM NIGRUM EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Solanum Nigrum Extract — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Solanum Nigrum Fruit Extract",
+    "inci_name": "SOLANUM NIGRUM FRUIT EXTRACT",
+    "cas_number": "84929-77-1",
+    "einecs_number": "284-555-6",
+    "description": "Solanum Nigrum Fruit Extract — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Soluble Collagen",
+    "inci_name": "SOLUBLE COLLAGEN",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Soluble Collagen — косметический ингредиент. Происхождение: Animal.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Film forming",
+      "Hair conditioning",
+      "Humectant",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.43% косметических средств",
+    "common_product_types": [
+      "Mask / patch (3.42%)",
+      "Mascara (2.99%)",
+      "Anti-aging day face cream (2.89%)",
+      "Anti-aging eye contour care (2.48%)",
+      "Anti-aging night face cream (2.12%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Animal."
+  },
+  {
+    "name": "Solvent Blue 35",
+    "inci_name": "SOLVENT BLUE 35",
+    "cas_number": "12769-17-4 / 17354-14-2",
+    "einecs_number": "241-379-4",
+    "description": "Solvent Blue 35 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Solvent Red 23",
+    "inci_name": "SOLVENT RED 23",
+    "cas_number": "85-86-9",
+    "einecs_number": "201-638-4",
+    "description": "Solvent Red 23 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Sodium Thiosulfate",
+    "inci_name": "SODIUM THIOSULFATE",
+    "cas_number": "7772-98-7 / 10102-17-7",
+    "einecs_number": "231-867-5 / -",
+    "description": "This ingredient is used in detergents as an enzyme stabilizer: it allows enzymes to last longer.",
+    "rating": "neutral",
+    "functions": [
+      "Reducing"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [
+      "Solid soap (2.3%)"
+    ],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Solvent Violet 13",
+    "inci_name": "SOLVENT VIOLET 13",
+    "cas_number": "81-48-1",
+    "einecs_number": "201-353-5",
+    "description": "Solvent Violet 13 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Sodium Tamanuseedate",
+    "inci_name": "SODIUM TAMANUSEEDATE",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Sodium Tamanuseedate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Viscosity controlling"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Solvent Yellow 18",
+    "inci_name": "SOLVENT YELLOW 18",
+    "cas_number": "6407-78-9 - Yellow hair dye",
+    "einecs_number": "229-043-5",
+    "description": "Solvent Yellow 18 — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Solvent Yellow 33",
+    "inci_name": "SOLVENT YELLOW 33",
+    "cas_number": "8003-22-3",
+    "einecs_number": "232-318-2",
+    "description": "Solvent Yellow 33 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Cosmetic colorant",
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Sorbic Acid",
+    "inci_name": "SORBIC ACID",
+    "cas_number": "110-44-1",
+    "einecs_number": "203-768-7",
+    "description": "Sorbic acid is a preservative used in cosmetics and food (under the name E200). It is present in its natural state in the bays of the Sorbier des oiseaux (Sorbus aucuparia L., hence its name), from which it was isolated. It is authorized in organic.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Preservative"
+    ],
+    "prevalence": "3.09% косметических средств",
+    "common_product_types": [
+      "Nail polish (11.55%)",
+      "Care set (10.92%)",
+      "Cleansing wipes (10.55%)",
+      "Eyeshadow (7.89%)",
+      "Concealer (6.95%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Natural."
+  },
+  {
+    "name": "Sodium Xylenesulfonate",
+    "inci_name": "SODIUM XYLENESULFONATE",
+    "cas_number": "1300-72-7",
+    "einecs_number": "215-090-9",
+    "description": "Sodium Xylenesulfonate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Hydrotrope"
+    ],
+    "prevalence": "0.52% косметических средств",
+    "common_product_types": [
+      "Anti-dandruff shampoo (42.12%)",
+      "Classic shampoo (5.64%)",
+      "Shampoo for colored/highlighted hair (5.06%)",
+      "Fall protection shampoo (3.59%)",
+      "Men shower gel (2.94%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Solvent Red 48",
+    "inci_name": "SOLVENT RED 48",
+    "cas_number": "13473-26-2 - Red hair dye",
+    "einecs_number": "236-747-6",
+    "description": "Solvent Red 48 — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Cosmetic colorant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Solanum Lycopersicum Fruit Extract",
+    "inci_name": "SOLANUM LYCOPERSICUM FRUIT EXTRACT",
+    "cas_number": "90131-63-8 - Tomato extract",
+    "einecs_number": "290-375-9",
+    "description": "Solanum Lycopersicum Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant"
+    ],
+    "prevalence": "0.13% косметических средств",
+    "common_product_types": [
+      "Fabric mask (1.2%)",
+      "Body and face moisturizing oil (0.83%)",
+      "Face cream (0.32%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sorbitan Oleate",
+    "inci_name": "SORBITAN OLEATE",
+    "cas_number": "1338-43-8",
+    "einecs_number": "215-665-4",
+    "description": "Sorbitan Oleate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emulsifying"
+    ],
+    "prevalence": "1.08% косметических средств",
+    "common_product_types": [
+      "Anti-aging night face cream (7.39%)",
+      "Anti-aging day face cream (5.61%)",
+      "Anti-aging eye contour care (5.19%)",
+      "Anti-blemish treatment (3.99%)",
+      "Baby milk and moisturizer (3.71%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sorbitan Palmitate",
+    "inci_name": "SORBITAN PALMITATE",
+    "cas_number": "26266-57-9",
+    "einecs_number": "247-568-8",
+    "description": "Sorbitan Palmitate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emulsifying"
+    ],
+    "prevalence": "0.24% косметических средств",
+    "common_product_types": [
+      "Eyebrow pencil (4.53%)",
+      "Eyes and kohl pencil (2.24%)",
+      "Lip pencil (1.94%)",
+      "Eyeliner and kajal (1.72%)",
+      "Face cream (0.98%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sorbitan Sesquioleate",
+    "inci_name": "SORBITAN SESQUIOLEATE",
+    "cas_number": "8007-43-0",
+    "einecs_number": "232-360-1",
+    "description": "Sorbitan Sesquioleate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emulsifying"
+    ],
+    "prevalence": "0.71% косметических средств",
+    "common_product_types": [
+      "Eyelid primer and base (19.27%)",
+      "Concealer (9.27%)",
+      "Diaper cream (7.68%)",
+      "Foundation (7.09%)",
+      "Concealer / concealer (6.8%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sorbitan Stearate",
+    "inci_name": "SORBITAN STEARATE",
+    "cas_number": "1338-41-6",
+    "einecs_number": "215-664-9",
+    "description": "Sorbitan stearate is a non-ionic emulsifier (HLB 4,7) that helps maintain water and mixed oils: it creates water-in-oil emulsions.",
+    "rating": "safe",
+    "functions": [
+      "Emulsifying"
+    ],
+    "prevalence": "1% косметических средств",
+    "common_product_types": [
+      "Lacquer and lip ink (10.14%)",
+      "Cleansing milk (5.3%)",
+      "Feet moisturizers (4.49%)",
+      "Illuminators and complexion illuminator (3.97%)",
+      "Anti-aging eye contour care (3.75%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Solvent Yellow 172",
+    "inci_name": "SOLVENT YELLOW 172",
+    "cas_number": "68427-35-0 - Yellow hair dye",
+    "einecs_number": "270-393-3",
+    "description": "Solvent Yellow 172 — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Sorbitol",
+    "inci_name": "SORBITOL",
+    "cas_number": "50-70-4/ 1259528-21-6 (generic)",
+    "einecs_number": "200-061-5",
+    "description": "Sorbitol is a polyol that comes in the form of a white, sweet crystalline powder. It is used primarily as a humectant in dental hygiene products, to help the paste retain its fluid appearance after opening, but also for its non-cariogenic sweetening power (does not generate cavities like sugar). It is quite frequently found for the same reasons in moisturizing creams. In food, it is found as an additive under the name E420 or as a sweetener for diabetics.Industrially, Sorbitol is obtained, for example, by the hydrogenation of corn or glucose syrup. It is found naturally present in many fruits such as plums, apples and cherries.",
+    "rating": "safe",
+    "functions": [
+      "Humectant",
+      "Masking",
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "4.14% косметических средств",
+    "common_product_types": [
+      "Children toothpaste (70.64%)",
+      "Adult toothpaste (61.69%)",
+      "Mouthwash (57.8%)",
+      "Body shaving gel and foam (56.11%)",
+      "Shaving gel (50.09%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sorbitan Caprylate",
+    "inci_name": "SORBITAN CAPRYLATE",
+    "cas_number": "60177-36-8",
+    "einecs_number": "262-098-3",
+    "description": "Sorbitan Caprylate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emulsifying"
+    ],
+    "prevalence": "0.41% косметических средств",
+    "common_product_types": [
+      "Baby cleaning wipes (5.71%)",
+      "Baby milk and moisturizer (2.36%)",
+      "Anti-aging day face cream (1.06%)",
+      "Adult sun cream (1.03%)",
+      "Body moisturizer (0.84%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Soy Amino Acids",
+    "inci_name": "SOY AMINO ACIDS",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Soy Amino Acids — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.18% косметических средств",
+    "common_product_types": [
+      "Hair mask (1.25%)",
+      "Hair conditioner (0.93%)",
+      "Specific hair care (0.89%)",
+      "Classic shampoo (0.76%)",
+      "Oxidative hair coloring (0.55%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Soyamidopropyl Betaine",
+    "inci_name": "SOYAMIDOPROPYL BETAINE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Soyamidopropyl Betaine — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Hair conditioning",
+      "Skin conditioning",
+      "Surfactant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Spilanthes Acmella Flower Extract",
+    "inci_name": "SPILANTHES ACMELLA FLOWER EXTRACT",
+    "cas_number": "90131-24-1 - Paracress flower extract",
+    "einecs_number": "290-335-0",
+    "description": "Spilanthes Acmella Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [
+      "Anti-aging day face cream (1%)",
+      "Lipstick (0.56%)",
+      "Foundation (0.39%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Spiraea Ulmaria Extract",
+    "inci_name": "SPIRAEA ULMARIA EXTRACT",
+    "cas_number": "84775-57-5 - Meadowsweet extract",
+    "einecs_number": "283-886-3",
+    "description": "Spiraea Ulmaria Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent",
+      "Skin conditioning",
+      "Tonic"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sorbitan Isostearate",
+    "inci_name": "SORBITAN ISOSTEARATE",
+    "cas_number": "71902-01-7",
+    "einecs_number": "276-171-2",
+    "description": "Sorbitan Isostearate is a combination of isostearic fatty acid and the sweet ingredient sorbitol. It has emulsifying properties that enable oil- and water-based ingredients to blend seamlessly. It is also a moisturizing and revitalizing ingredient found in many formulas.",
+    "rating": "safe",
+    "functions": [
+      "Emulsifying"
+    ],
+    "prevalence": "2.04% косметических средств",
+    "common_product_types": [
+      "Lacquer and lip ink (15.73%)",
+      "Cc cream (14.63%)",
+      "Gloss and lip gloss (11.21%)",
+      "Anti-aging day mask (9.98%)",
+      "Care set (9.5%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Spirulina Maxima Powder",
+    "inci_name": "SPIRULINA MAXIMA POWDER",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Spirulina Maxima Powder — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Spirulina Platensis Extract",
+    "inci_name": "SPIRULINA PLATENSIS EXTRACT",
+    "cas_number": "223751-80-2 - Spirulina extract",
+    "einecs_number": "",
+    "description": "Spirulina Platensis Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin protecting"
+    ],
+    "prevalence": "0.15% косметических средств",
+    "common_product_types": [
+      "Face cream (0.39%)",
+      "Classic shampoo (0.15%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sorbitan Olivate",
+    "inci_name": "SORBITAN OLIVATE",
+    "cas_number": "223706-40-9",
+    "einecs_number": "",
+    "description": "Sorbitan olivate is an emulsifier used to stabilize water/oil emulsions. It is a derivative of fatty acid and sorbitol, found in a wide range of skin care products (face creams, anti-ageing creams, etc.).",
+    "rating": "safe",
+    "functions": [
+      "Emulsifying"
+    ],
+    "prevalence": "1.32% косметических средств",
+    "common_product_types": [
+      "Face cream (7.37%)",
+      "Anti-aging eye contour care (7.15%)",
+      "Eye contour care (6.27%)",
+      "Night face cream (6.17%)",
+      "Bb cream (5.85%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Squalane",
+    "inci_name": "SQUALANE",
+    "cas_number": "111-01-3",
+    "einecs_number": "203-825-6",
+    "description": "Squalane is an oil that has many affinities with the skin: it is one of the main components of sebum and the hydrolipidic film. It is also emollient and moisturizing. Vegetable squalane, which is sometimes called phytosqualane, generally comes from the unsaponifiable part of olive oil.Controversies exist about it when it is of animal origin and extracted from shark liver: the shark is killed, its viscera are extracted and it is thrown back into the sea.We hope that these practices are less and less common: make sure that the one used in your product is of plant origin. If it's not clear, call the brand to confirm. Squalane is produced by hydrogenation of squalene.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Hair conditioning",
+      "Refatting",
+      "Skin conditioning"
+    ],
+    "prevalence": "3.95% косметических средств",
+    "common_product_types": [
+      "Anti-aging set (30.58%)",
+      "Anti-ageing night time face serum (29.94%)",
+      "Anti-aging night face cream (20.57%)",
+      "Tinted cream / gel (19.96%)",
+      "Anti-aging eye contour care (18.4%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sorbitol/Sebacic Acid Copolymer Behenate",
+    "inci_name": "SORBITOL/SEBACIC ACID COPOLYMER BEHENATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Sorbitol/Sebacic Acid Copolymer Behenate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Spirulina Maxima Extract",
+    "inci_name": "SPIRULINA MAXIMA EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Spirulina Maxima Extract — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Smoothing"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Spiraea Ulmaria Flower Extract",
+    "inci_name": "SPIRAEA ULMARIA FLOWER EXTRACT",
+    "cas_number": "84775-57-5 - Meadowsweet flower extract",
+    "einecs_number": "283-886-3",
+    "description": "Spiraea Ulmaria Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [
+      "Shower gel (0.32%)",
+      "Classic shampoo (0.26%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Squalene",
+    "inci_name": "SQUALENE",
+    "cas_number": "111-02-4/7683-64-9",
+    "einecs_number": "203-826-1/-",
+    "description": "Squalene oil can be of vegetable (olive oil), animal (shark liver oil) or synthetic origin. Controversies exist when squalene is of animal origin, and extracted from the liver of sharks: the animal is killed, its viscera are extracted and its carcass is thrown back into the sea.When it is of plant origin, squalene can be called phytosqualene. Make sure it is of vegetable origin in your products, do not hesitate to contact the brand to make sure. However, most squalene used today is no longer of animal origin.Squalene is used primarily as an emollient in many creams. Squalane is a purified and hydrogenated form of squalene, much more used in cosmetics.",
+    "rating": "neutral",
+    "functions": [
+      "Emollient",
+      "Hair conditioning",
+      "Solvent"
+    ],
+    "prevalence": "0.92% косметических средств",
+    "common_product_types": [
+      "Anti-aging day face cream (3.75%)",
+      "Anti-aging eye contour care (3.75%)",
+      "Lip balm (3.3%)",
+      "Night face cream (3.09%)",
+      "Eye contour care (3.01%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Stannous Fluoride",
+    "inci_name": "STANNOUS FLUORIDE",
+    "cas_number": "7783-47-3",
+    "einecs_number": "231-999-3",
+    "description": "Tin Fluoride is an inorganic fluoride salt used in toothpastes and oral hygiene products. It prevents cavities and is effective against gingivitis and periodontitis. It is one of the best fluoride salts to kill plaque bacteria, however, its somewhat astringent metallic taste and propensity to \"leave stains on the teeth\" makes it a favorite today. sodium fluoride.The fluoride concentration should not exceed 1500 ppm (F) in a \"cosmetic\" toothpaste. However, this dose can be bypassed if the product is a medicine and is subject to a Marketing Authorization (MA), in which case it can only be purchased in pharmacies.",
+    "rating": "neutral",
+    "functions": [
+      "Antiplaque",
+      "Oral care/hygiene agent"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [
+      "Adult toothpaste (7.34%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Stearalkonium Hectorite",
+    "inci_name": "STEARALKONIUM HECTORITE",
+    "cas_number": "71011-26-2 / 94891-33-5 / 12691-60-0",
+    "einecs_number": "275-126-4 / 305-633-9 / -",
+    "description": "The stearalkonium hectorite present itself in the form of a white and cream powder. It facilitates the dispersion of solids in liquids. It is a suspending agent. It is found in many products, such as makeup (nail polish, foundations or lipsticks).",
+    "rating": "caution",
+    "functions": [
+      "Gel forming",
+      "Viscosity controlling"
+    ],
+    "prevalence": "1.1% косметических средств",
+    "common_product_types": [
+      "Nail polish (28.65%)",
+      "Semi permanent polish (18.71%)",
+      "Liniment (13.14%)",
+      "Root touch-up (11.66%)",
+      "Nail care and treatments (9.92%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Stearamidopropyl Dimethylamine",
+    "inci_name": "STEARAMIDOPROPYL DIMETHYLAMINE",
+    "cas_number": "7651-02-7",
+    "einecs_number": "231-609-1",
+    "description": "Stearamidopropyl Dimethylamine is a cationic surfactant used as a substitute for silicones in hair care products. It combines quite easily with the hair (negatively charged) to form a smooth film, but while not occlusive as a silicone. It adheres to the fabric surface to reduce static electricity present. It is a hair conditioner that becomes quaternary ammonium in acidic medium. Given its unecological manufacturing process, the ingredient is not authorized in France but in Germany Yes (BDIH).The Cosmetic Ingredient Review (CIR) concluded in 2014 the safety of Stearamidopropyl Dimethylamine.",
+    "rating": "caution",
+    "functions": [
+      "Antistatic",
+      "Emulsifying",
+      "Hair conditioning",
+      "Surfactant"
+    ],
+    "prevalence": "1.49% косметических средств",
+    "common_product_types": [
+      "Hair conditioner (23.57%)",
+      "Hair mask (18.63%)",
+      "Oxidative hair coloring (17.68%)",
+      "Styling cream (15.94%)",
+      "Care for dry and damaged hair (12.46%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Steareth-2",
+    "inci_name": "STEARETH-2",
+    "cas_number": "9005-00-9 (Generic) / 16057-43-5",
+    "einecs_number": "500-017-8 / -",
+    "description": "Steareth-2 — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "0.95% косметических средств",
+    "common_product_types": [
+      "Roll-on deodorant (39.88%)",
+      "Cream deodorant (7.31%)",
+      "Styling hair wax (6.35%)",
+      "Mascara (5.6%)",
+      "Deodorant stick (5.03%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Steareth-20",
+    "inci_name": "STEARETH-20",
+    "cas_number": "9005-00-9 (Generic)",
+    "einecs_number": "",
+    "description": "Steareth-20 — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "0.78% косметических средств",
+    "common_product_types": [
+      "Roll-on deodorant (13.92%)",
+      "Cc cream (11.82%)",
+      "Anti-aging eye contour care (7.21%)",
+      "Eye contour care (5.49%)",
+      "Mascara (4.6%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Spleen Extract",
+    "inci_name": "SPLEEN EXTRACT",
+    "cas_number": "84540-14-7",
+    "einecs_number": "283-105-6",
+    "description": "Spleen Extract — косметический ингредиент. Происхождение: Animal.",
+    "rating": "avoid",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Animal."
+  },
+  {
+    "name": "Stearalkonium Bentonite",
+    "inci_name": "STEARALKONIUM BENTONITE",
+    "cas_number": "130501-87-0",
+    "einecs_number": "",
+    "description": "Stearalkonium Bentonite is an organically modified clay (powder) for thickening and stabilizing oil-based formulations and W/O emulsions. It is often used to improve the viscosity and texture of cosmetic products.",
+    "rating": "caution",
+    "functions": [
+      "Gel forming",
+      "Viscosity controlling"
+    ],
+    "prevalence": "1.28% косметических средств",
+    "common_product_types": [
+      "Nail polish (67.94%)",
+      "Varnish base (15.32%)",
+      "Nail care and treatments (13.82%)",
+      "Semi permanent polish (7.19%)",
+      "Lipstick (5.13%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Steartrimonium Bromide",
+    "inci_name": "STEARTRIMONIUM BROMIDE",
+    "cas_number": "1120-02-1",
+    "einecs_number": "214-294-5",
+    "description": "Steartrimonium Bromide — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Antistatic",
+      "Hair conditioning",
+      "Preservative"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Starch Acetate",
+    "inci_name": "STARCH ACETATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Starch Acetate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [
+      "Hair conditioner (0.31%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Stearyl Alcohol",
+    "inci_name": "STEARYL ALCOHOL",
+    "cas_number": "112-92-5",
+    "einecs_number": "204-017-6",
+    "description": "Stearyl alcohol or Octadenol is a fatty alcohol. It is used in cosmetics as an emulsifier (which helps water and oil to mix). It forms cetyl alcohol (CETYL ALCOHOL) with cetearyl alcohol (CETEARYL ALCOHOL). Stearyl alcohol is allowed in organic.The CIR (Cosmetic Ingredient Review) in an annual report published in 2006, concluded the safety of stearyl alcohol.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Emulsifying",
+      "Emulsion stabilising",
+      "Foam boosting",
+      "Masking",
+      "Opacifying",
+      "Refatting",
+      "Surfactant",
+      "Viscosity controlling"
+    ],
+    "prevalence": "3.32% косметических средств",
+    "common_product_types": [
+      "Deodorant stick (36.04%)",
+      "Anti-aging / anti-spot hand cream (26.67%)",
+      "Moisturizer in the shower (25%)",
+      "Hair conditioner (17.81%)",
+      "Hair mask (14.94%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Stearyl Methacrylate/Perfluorooctylethyl Methacrylate Copolymer",
+    "inci_name": "STEARYL METHACRYLATE/PERFLUOROOCTYLETHYL METHACRYLATE COPOLYMER",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Stearyl Methacrylate/Perfluorooctylethyl Methacrylate Copolymer — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Film forming",
+      "Viscosity controlling"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Stevia Rebaudiana Extract",
+    "inci_name": "STEVIA REBAUDIANA EXTRACT",
+    "cas_number": "91722-21-3 - Candyleaf extract",
+    "einecs_number": "294-422-4",
+    "description": "Stevia Rebaudiana Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Flavouring agent"
+    ],
+    "prevalence": "0.17% косметических средств",
+    "common_product_types": [
+      "Children toothpaste (8.72%)",
+      "Sunscreen lip balm (5.28%)",
+      "Adult toothpaste (4.49%)",
+      "Gloss and lip gloss (2.94%)",
+      "Lip balm (2.08%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Steareth-21",
+    "inci_name": "STEARETH-21",
+    "cas_number": "9005-00-9 (Generic)",
+    "einecs_number": "",
+    "description": "Steareth-21 — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "0.78% косметических средств",
+    "common_product_types": [
+      "Men's hair colouring (41.46%)",
+      "Roll-on deodorant (25.1%)",
+      "Styling hair wax (7.39%)",
+      "Deodorant stick (4.47%)",
+      "Cream deodorant (3.84%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Stevia Rebaudiana Leaf/Stem Extract",
+    "inci_name": "STEVIA REBAUDIANA LEAF/STEM EXTRACT",
+    "cas_number": "91722-21-3 - Stevia extract (Leaf/stem)",
+    "einecs_number": "294-422-4",
+    "description": "Stevia Rebaudiana Leaf/Stem Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [
+      "Lip balm (1.87%)",
+      "Adult toothpaste (0.82%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Steartrimonium Chloride",
+    "inci_name": "STEARTRIMONIUM CHLORIDE",
+    "cas_number": "112-03-8",
+    "einecs_number": "203-929-1",
+    "description": "Steartrimonium Chloride — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Antistatic",
+      "Hair conditioning",
+      "Preservative"
+    ],
+    "prevalence": "0.2% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (4.51%)",
+      "Hair mask (2.11%)",
+      "Hair conditioner (1.3%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Steareth-30",
+    "inci_name": "STEARETH-30",
+    "cas_number": "9005-00-9 (Generic)",
+    "einecs_number": "",
+    "description": "Steareth-30 is a polyethylene glycol ether and stearic acid ether. It is a nonionic surfactant with a waxy appearance. It is mainly used in toothpastes in cosmetics.",
+    "rating": "caution",
+    "functions": [
+      "Cleansing",
+      "Gel forming",
+      "Surfactant"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [
+      "Adult toothpaste (0.8%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Strontium Acetate",
+    "inci_name": "STRONTIUM ACETATE",
+    "cas_number": "543-94-2",
+    "einecs_number": "208-854-8",
+    "description": "Strontium Acetate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Oral care/hygiene agent",
+      "Soothing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Strontium Chloride",
+    "inci_name": "STRONTIUM CHLORIDE",
+    "cas_number": "10476-85-4",
+    "einecs_number": "233-971-6",
+    "description": "Strontium Chloride — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Oral care/hygiene agent",
+      "Skin conditioning",
+      "Soothing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Styrax Benzoin Gum",
+    "inci_name": "STYRAX BENZOIN GUM",
+    "cas_number": "9000-05-9 / 9000-72-0 - Benzoin resin",
+    "einecs_number": "232-523-7 / 232-556-7",
+    "description": "Styrax Benzoin Gum — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Film forming",
+      "Masking",
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Styrene",
+    "inci_name": "STYRENE",
+    "cas_number": "100-42-5",
+    "einecs_number": "202-851-5",
+    "description": "Styrene — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Solvent"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Stearic Acid",
+    "inci_name": "STEARIC ACID",
+    "cas_number": "57-11-4",
+    "einecs_number": "200-313-4",
+    "description": "Stearic acid or octadecanoic acid is a saturated fatty acid. It is found in its natural state in various animal fats (beef, pork, etc.) and vegetable fats (rapeseed oil, soya, palm, etc.). For example, it is one of the main components of cocoa butter and shea butter. It is used in cosmetics as a cleansing agent, thickener and emulsion stabilizer.It is authorized in Bio if it is of vegetable origin (without GMO).",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Emulsion stabilising",
+      "Masking",
+      "Refatting",
+      "Surfactant"
+    ],
+    "prevalence": "7.33% косметических средств",
+    "common_product_types": [
+      "Shaving cream (87.65%)",
+      "Shaving cream (75.44%)",
+      "Mascara (65.71%)",
+      "Shaving gel (51.45%)",
+      "Body shaving gel and foam (51.11%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Styrene/Acrylates/Ammonium Methacrylate Copolymer",
+    "inci_name": "STYRENE/ACRYLATES/AMMONIUM METHACRYLATE COPOLYMER",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Styrene/Acrylates/Ammonium Methacrylate Copolymer — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Film forming",
+      "Opacifying"
+    ],
+    "prevalence": "0.16% косметических средств",
+    "common_product_types": [
+      "Eyeliner and kajal (12.62%)",
+      "Mascara (9.55%)",
+      "Eyebrow mascara and gel (5.24%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Stevia Rebaudiana Leaf Extract",
+    "inci_name": "STEVIA REBAUDIANA LEAF EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Stevia Rebaudiana Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [
+      "Adult toothpaste (1.28%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sucrose",
+    "inci_name": "SUCROSE",
+    "cas_number": "57-50-1",
+    "einecs_number": "200-334-9",
+    "description": "Sucrose, also known as table sugar, is a disaccharide commonly found in foods. It is obtained by crystallization of sugar cane juice or sugar beet extracted by pressing or diffusion, then clarified and evaporated. In cosmetics, it is found everywhere, it is used as a flavoring agent, humectant (retains moisture in the products).",
+    "rating": "safe",
+    "functions": [
+      "Humectant",
+      "Skin conditioning",
+      "Soothing"
+    ],
+    "prevalence": "1.18% косметических средств",
+    "common_product_types": [
+      "Body scrub (29.16%)",
+      "Specific care for lips (23.01%)",
+      "Mask / patch (15.67%)",
+      "Face and body scrub (11.22%)",
+      "Care set (7.64%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Strontium Hydroxide",
+    "inci_name": "STRONTIUM HYDROXIDE",
+    "cas_number": "18480-07-4 / 1311-10-0",
+    "einecs_number": "242-367-1",
+    "description": "Strontium Hydroxide — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "pH regulator"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Strontium Peroxide",
+    "inci_name": "STRONTIUM PEROXIDE",
+    "cas_number": "1314-18-7",
+    "einecs_number": "215-224-6",
+    "description": "Strontium Peroxide — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Bleaching",
+      "Oxidising"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Sucrose Laurate",
+    "inci_name": "SUCROSE LAURATE",
+    "cas_number": "25339-99-5 / 37266-93-6",
+    "einecs_number": "246-873-3 / 253-432-9",
+    "description": "Sucrose Laurate is a very mild nonionic surfactant. It is a sugar ester (sucrose + lauric acid) often used in mild cleansing formulas (make-up removers, baby wipes). It acts as an emulsifier and thickener in cleansing oils.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Emulsifying",
+      "Skin conditioning",
+      "Surfactant"
+    ],
+    "prevalence": "0.23% косметических средств",
+    "common_product_types": [
+      "Body scrub (2.43%)",
+      "Face scrub (1.89%)",
+      "Face cleansing gel (1.15%)",
+      "Cream / gel mask (1.14%)",
+      "Face cream (0.36%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Sucrose Cocoate",
+    "inci_name": "SUCROSE COCOATE",
+    "cas_number": "91031-88-8",
+    "einecs_number": "292-993-4",
+    "description": "Sucrose Cocoate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Emulsifying",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.29% косметических средств",
+    "common_product_types": [
+      "Lacquer and lip ink (6.2%)",
+      "Gloss and lip gloss (2.7%)",
+      "Deodorant stick (1.41%)",
+      "Shower gel (1.06%)",
+      "Lipstick (0.81%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Sucrose Palmitate",
+    "inci_name": "SUCROSE PALMITATE",
+    "cas_number": "26446-38-8 / 39300-95-3",
+    "einecs_number": "247-706-7 / 254-410-1",
+    "description": "Sucrose Palmitate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Emulsifying",
+      "Skin conditioning",
+      "Surfactant"
+    ],
+    "prevalence": "0.23% косметических средств",
+    "common_product_types": [
+      "Concealer (2.98%)",
+      "Eyeliner and kajal (2.13%)",
+      "Anti-aging day face cream (1.76%)",
+      "Mascara (1.68%)",
+      "Foundation (1.35%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Styrene/Acrylates Copolymer",
+    "inci_name": "STYRENE/ACRYLATES COPOLYMER",
+    "cas_number": "27306-39-4; 25034-86-0; 25085-34-1; 9010-92-8",
+    "einecs_number": "-",
+    "description": "Styrene/acrylates copolymer is a synthetic polymer used as a film-forming agent in cosmetics: it forms a film on the skin which does not penetrate it. It is used in many formulations for its color and covering power.",
+    "rating": "caution",
+    "functions": [
+      "Film forming",
+      "Opacifying"
+    ],
+    "prevalence": "2.23% косметических средств",
+    "common_product_types": [
+      "Nail polish (37.56%)",
+      "Semi permanent polish (17.06%)",
+      "Shower gel (15.47%)",
+      "Liquid soap (13.75%)",
+      "Eyeliner and kajal (10.53%)"
+    ],
+    "note": "Требует осторожности при использовании. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sucralose",
+    "inci_name": "SUCRALOSE",
+    "cas_number": "56038-13-2",
+    "einecs_number": "259-952-2",
+    "description": "Sucralose is an artificial sweetener with a sweetening power 600 times greater than that of sugar. It is used in cosmetics mainly in mouthwashes (some toothpastes also contain it), because it is non-cariogenic. In food, you will find it under the name E955 (Canderel), in very many \"sweet\" processed products.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.29% косметических средств",
+    "common_product_types": [
+      "Mouthwash (25.69%)",
+      "Anti-stain and teeth whitening (15.38%)",
+      "Adult toothpaste (8.95%)",
+      "Children toothpaste (5.66%)",
+      "Lip balm (2.37%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sucrose Acetate Isobutyrate",
+    "inci_name": "SUCROSE ACETATE ISOBUTYRATE",
+    "cas_number": "126-13-6",
+    "einecs_number": "204-771-6",
+    "description": "Sucrose Acetate Isobutyrate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Film forming",
+      "Plasticiser"
+    ],
+    "prevalence": "0.42% косметических средств",
+    "common_product_types": [
+      "Ephemeral tattoos (80.95%)",
+      "Nail polish (21.79%)",
+      "Nail care and treatments (5.53%)",
+      "Lipstick (1.5%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Synthetic Beeswax",
+    "inci_name": "SYNTHETIC BEESWAX",
+    "cas_number": "71243-51-1",
+    "einecs_number": "275-286-5",
+    "description": "Synthetic Beeswax — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Binding agent",
+      "Emulsion stabilising",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.88% косметических средств",
+    "common_product_types": [
+      "Mascara (25.04%)",
+      "Make-up set (17.45%)",
+      "Eyes and kohl pencil (13.46%)",
+      "Lip pencil (8.68%)",
+      "Lipstick (7.43%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Synthetic Candelilla Wax",
+    "inci_name": "SYNTHETIC CANDELILLA WAX",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Synthetic Candelilla Wax — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Binding agent",
+      "Emollient",
+      "Emulsion stabilising",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [
+      "Lipstick (0.29%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Synthetic Fluorphlogopite",
+    "inci_name": "SYNTHETIC FLUORPHLOGOPITE",
+    "cas_number": "12003-38-2 - Synthetic Mica",
+    "einecs_number": "234-426-5",
+    "description": "Synthetic Fluorphlgopite, also known as synthetic mica, is used in a wide range of cosmetics and personal care products, including bath products, make-up, nail care and skin care products. Unlike phlogopite (a mineral of the Micas family), which can take on different hues, its appearance here is always white.",
+    "rating": "safe",
+    "functions": [
+      "Bulking",
+      "Viscosity controlling"
+    ],
+    "prevalence": "3.83% косметических средств",
+    "common_product_types": [
+      "Make-up palette (44.52%)",
+      "Lacquer and lip ink (41.45%)",
+      "Illuminators and complexion illuminator (39.97%)",
+      "Eyeshadow (38.63%)",
+      "Make-up set (29.43%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Synthetic."
+  },
+  {
+    "name": "Synthetic Japan Wax",
+    "inci_name": "SYNTHETIC JAPAN WAX",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Synthetic Japan Wax — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Binding agent",
+      "Emollient",
+      "Emulsion stabilising",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [
+      "Eyebrow pencil (7.15%)",
+      "Lip pencil (3.79%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Synthetic Jojoba Oil",
+    "inci_name": "SYNTHETIC JOJOBA OIL",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Synthetic Jojoba Oil — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Sucrose Stearate",
+    "inci_name": "SUCROSE STEARATE",
+    "cas_number": "25168-73-4 / 37318-31-3",
+    "einecs_number": "246-705-9 / 253-459-6",
+    "description": "Sucrose Stearate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Emulsifying",
+      "Skin conditioning",
+      "Surfactant"
+    ],
+    "prevalence": "0.42% косметических средств",
+    "common_product_types": [
+      "Baby milk and moisturizer (2.36%)",
+      "Body scrub (2.34%)",
+      "Face cream (1.71%)",
+      "Face scrub (1.7%)",
+      "Eye contour care (1.66%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Swiftlet Nest Extract",
+    "inci_name": "SWIFTLET NEST EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Swiftlet Nest Extract — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Symphytum Officinale Leaf Extract",
+    "inci_name": "SYMPHYTUM OFFICINALE LEAF EXTRACT",
+    "cas_number": "84696-05-9 - Comfrey leaf extract",
+    "einecs_number": "283-625-3",
+    "description": "Symphytum Officinale Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.11% косметических средств",
+    "common_product_types": [
+      "Hair conditioner (0.29%)",
+      "Classic shampoo (0.25%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Symphytum Officinale Root Extract",
+    "inci_name": "SYMPHYTUM OFFICINALE ROOT EXTRACT",
+    "cas_number": "84696-05-9 - Comfrey root extract",
+    "einecs_number": "283-625-3",
+    "description": "Symphytum Officinale Root Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Anti dandruff",
+      "Skin conditioning",
+      "Soothing"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Synthetic Wax",
+    "inci_name": "SYNTHETIC WAX",
+    "cas_number": "8002-74-2; 68527-08-2",
+    "einecs_number": "232-315-6",
+    "description": "Synthetic wax is a highly refined kerosene in bead form. It is widely used in cosmetics and is highly thermally stable.",
+    "rating": "caution",
+    "functions": [
+      "Abrasive",
+      "Binding agent",
+      "Emulsion stabilising",
+      "Masking",
+      "Viscosity controlling"
+    ],
+    "prevalence": "2.02% косметических средств",
+    "common_product_types": [
+      "Lip make-up set (42.45%)",
+      "Eyes and kohl pencil (36.32%)",
+      "Lip pencil (34.87%)",
+      "Lipstick (26.14%)",
+      "Facial cleansing balm (23.35%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  }
+]

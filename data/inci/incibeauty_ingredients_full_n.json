@@ -1,0 +1,641 @@
+[
+  {
+    "name": "N,N'-Bis(2-Hydroxyethyl)-2-Nitro-P-Phenylenediamine",
+    "inci_name": "N,N'-BIS(2-HYDROXYETHYL)-2-NITRO-P-PHENYLENEDIAMINE",
+    "cas_number": "84041-77-0",
+    "einecs_number": "281-856-4",
+    "description": "The restrictions depend on the use of the ingredient in:a) Oxidative dye for hair colouringb) Non-oxidative dye for hair colouringThe maximum permitted concentrations are as follows:a) From 3 September 2017, after mixing under oxidative conditions, the maximum concentration applied to the hair must not exceed 1.0%.b) From 3 September 2017: 1.5%For a) and b), from 3 September 2017:- do not use with nitrosating agents,- maximum nitrosamine content: 50 μg/kg- store in nitrite-free containers.Wording of conditions of use and warnings:a) From 3 March 2018 must appear on the label:- The mixing ratio.- Hair dyes can cause severe allergic reactions.- Read and follow directions.- This product is not intended for use on persons under 16 years of age.- Temporary black henna tattoos may increase the risk of allergy.Do not color your hair if:- you have a rash on your face or if your scalp is sensitive, irritated or damaged.- you have had a reaction to coloring your hair in the past.- you have had a reaction to a temporary black henna tattoo in the past.",
+    "rating": "caution",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Narcissus Jonquilla Extract",
+    "inci_name": "NARCISSUS JONQUILLA EXTRACT",
+    "cas_number": "90064-25-8",
+    "einecs_number": "290-086-8",
+    "description": "Narcissus Jonquilla Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Tonic"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "N,N-Bis(2-Hydroxyethyl)-P-Phenylenediamine Sulfate",
+    "inci_name": "N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINE SULFATE",
+    "cas_number": "54381-16-7",
+    "einecs_number": "259-134-5",
+    "description": "This ingredient is classified as ecotoxic according to REACH (Aquatic Acute 1, Aquatic Chronic 2).",
+    "rating": "caution",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "0.23% косметических средств",
+    "common_product_types": [
+      "Men's hair colouring (63.41%)",
+      "Oxidative hair coloring (12.77%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Narcissus Jonquilla Flower Oil",
+    "inci_name": "NARCISSUS JONQUILLA FLOWER OIL",
+    "cas_number": "90064-25-8",
+    "einecs_number": "290-086-8",
+    "description": "Narcissus Jonquilla Flower Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Perfuming",
+      "Flavouring agent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "N-Butyl Alcohol",
+    "inci_name": "N-BUTYL ALCOHOL",
+    "cas_number": "71-36-3",
+    "einecs_number": "200-751-6",
+    "description": "N-Butyl Alcohol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Denaturant",
+      "Solvent",
+      "Perfuming"
+    ],
+    "prevalence": "0.69% косметических средств",
+    "common_product_types": [
+      "Nail polish (38.21%)",
+      "Varnish base (24.23%)",
+      "Nail hardener (23.56%)",
+      "Top coat (20.66%)",
+      "Nail care and treatments (14.82%)"
+    ],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Narcissus Poeticus Callus Extract",
+    "inci_name": "NARCISSUS POETICUS CALLUS EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Narcissus Poeticus Callus Extract — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Antioxidant",
+      "Skin conditioning",
+      "Skin protecting"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Narcissus Jonquilla Flower Water",
+    "inci_name": "NARCISSUS JONQUILLA FLOWER WATER",
+    "cas_number": "90064-25-8",
+    "einecs_number": "290-086-8",
+    "description": "Narcissus Jonquilla Flower Water — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Skin conditioning",
+      "Perfuming",
+      "Flavouring agent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Narcissus Poeticus Extract",
+    "inci_name": "NARCISSUS POETICUS EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Narcissus Poeticus Extract — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Skin protecting"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Narcissus Poeticus Flower Extract",
+    "inci_name": "NARCISSUS POETICUS FLOWER EXTRACT",
+    "cas_number": "90064-26-9",
+    "einecs_number": "290-087-3",
+    "description": "Narcissus Poeticus Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Tonic",
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Narcissus Poeticus Flower Cera",
+    "inci_name": "NARCISSUS POETICUS FLOWER CERA",
+    "cas_number": "90064-26-9",
+    "einecs_number": "290-087-3",
+    "description": "Narcissus Poeticus Flower Cera — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning",
+      "Tonic"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Narcissus Poeticus Flower Water",
+    "inci_name": "NARCISSUS POETICUS FLOWER WATER",
+    "cas_number": "90064-26-9",
+    "einecs_number": "290-087-3",
+    "description": "Narcissus Poeticus Flower Water — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Perfuming",
+      "Flavouring agent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Narcissus Pseudonarcissus Root Extract",
+    "inci_name": "NARCISSUS PSEUDONARCISSUS ROOT EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Narcissus Pseudonarcissus Root Extract — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Astringent",
+      "Hair conditioning",
+      "Maintenance agent for nails",
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Narcissus Pseudonarcissus Flower Extract",
+    "inci_name": "NARCISSUS PSEUDONARCISSUS FLOWER EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Narcissus Pseudonarcissus Flower Extract — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Narcissus Tazetta Bulb Extract",
+    "inci_name": "NARCISSUS TAZETTA BULB EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Narcissus Tazetta Bulb Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Astringent",
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [
+      "Anti-aging day face cream (0.64%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Nasturtium Officinale Extract",
+    "inci_name": "NASTURTIUM OFFICINALE EXTRACT",
+    "cas_number": "84775-70-2 - Watercress extract",
+    "einecs_number": "283-899-4",
+    "description": "Nasturtium Officinale Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "0.13% косметических средств",
+    "common_product_types": [
+      "Specific hair care (0.56%)",
+      "Classic shampoo (0.41%)",
+      "Hair conditioner (0.4%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Narcissus Tazetta Extract",
+    "inci_name": "NARCISSUS TAZETTA EXTRACT",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Narcissus Tazetta Extract — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Astringent",
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Neral",
+    "inci_name": "NERAL",
+    "cas_number": "106-26-3",
+    "einecs_number": "203-379-2",
+    "description": "Neral — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Neopentyl Glycol Diheptanoate",
+    "inci_name": "NEOPENTYL GLYCOL DIHEPTANOATE",
+    "cas_number": "27841-04-9 (1)/ 85711-80-4 (generic)/ 68855-18-5 (3)",
+    "einecs_number": "288-342-9 1I)/ 272-469-1 (2)",
+    "description": "Neopentyl Glycol Diheptanoate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.37% косметических средств",
+    "common_product_types": [
+      "Anti-ageing sun cream (4.56%)",
+      "Concealer (4.11%)",
+      "Children sun cream (3.74%)",
+      "Adult sun cream (3.66%)",
+      "Foundation (2.6%)"
+    ],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Niacinamide",
+    "inci_name": "NIACINAMIDE",
+    "cas_number": "98-92-0",
+    "einecs_number": "202-713-4",
+    "description": "Niacinamide (Vitamin B3) is used in cosmetics to strengthen the cutaneous barrier and soothe sensitive skin. This nicotinic acid derivative (niacin) is found in numerous products to combat acne and blemishes.",
+    "rating": "safe",
+    "functions": [
+      "Smoothing"
+    ],
+    "prevalence": "5.53% косметических средств",
+    "common_product_types": [
+      "Anti-blemish serum (39.99%)",
+      "Brightening and anti-dark spots treatment (36%)",
+      "Anti-hair loss treatment (28.22%)",
+      "Gel and lacquer for men (25.9%)",
+      "Anti-blemish treatment (23.69%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Nicomethanol Hydrofluoride",
+    "inci_name": "NICOMETHANOL HYDROFLUORIDE",
+    "cas_number": "62756-44-9",
+    "einecs_number": "",
+    "description": "Nicomethanol Hydrofluoride — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Nicotinyl Alcohol",
+    "inci_name": "NICOTINYL ALCOHOL",
+    "cas_number": "100-55-0",
+    "einecs_number": "202-864-6",
+    "description": "Nicotinyl Alcohol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Tonic"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Nicotinyl Alcohol Hf",
+    "inci_name": "NICOTINYL ALCOHOL HF",
+    "cas_number": "62756-44-9",
+    "einecs_number": "700-352-1 (L)",
+    "description": "Nicotinyl Alcohol Hf — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Antiplaque"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Nelumbo Nucifera Flower Extract",
+    "inci_name": "NELUMBO NUCIFERA FLOWER EXTRACT",
+    "cas_number": "85085-51-4 - Lotus flower extract",
+    "einecs_number": "285-379-2",
+    "description": "Nelumbo Nucifera Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.37% косметических средств",
+    "common_product_types": [
+      "Face cleansing gel (1.66%)",
+      "Fabric mask (1.09%)",
+      "Cream / gel mask (1%)",
+      "Face lotion and toner (0.98%)",
+      "Face cream (0.7%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Narcissus Pseudo-Narcissus Flower Extract",
+    "inci_name": "NARCISSUS PSEUDO-NARCISSUS FLOWER EXTRACT",
+    "cas_number": "90064-27-0",
+    "einecs_number": "290-088-9",
+    "description": "Narcissus Pseudo-Narcissus Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Nelumbium Speciosum Flower Extract",
+    "inci_name": "NELUMBIUM SPECIOSUM FLOWER EXTRACT",
+    "cas_number": "85085-51-4 - Sacred Lotus flower extract",
+    "einecs_number": "285-379-2",
+    "description": "Nelumbium Speciosum Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [
+      "Classic shampoo (0.17%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Nonoxynol-10",
+    "inci_name": "NONOXYNOL-10",
+    "cas_number": "68412-54-4/ 9016-45-9 (generic)/ 26027-38-3 (generic)/ 37205-87-1 (generic)/ 27942-26-3/ 27177-08-8",
+    "einecs_number": "-/ -/ -/ -/ -/ 248-292-0",
+    "description": "Nonoxynol-10 — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "avoid",
+    "functions": [
+      "Emulsifying"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Nonoxynol-12 Iodine",
+    "inci_name": "NONOXYNOL-12 IODINE",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Nonoxynol-12 Iodine — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Antimicrobial"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Nonyl Nonoxynol-10",
+    "inci_name": "NONYL NONOXYNOL-10",
+    "cas_number": "9014-93-1",
+    "einecs_number": "-",
+    "description": "Nonyl Nonoxynol-10 — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "avoid",
+    "functions": [
+      "Surfactant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Nonyl Alcohol",
+    "inci_name": "NONYL ALCOHOL",
+    "cas_number": "143-08-8",
+    "einecs_number": "205-583-7",
+    "description": "Nonyl Alcohol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Novosieversia Glacialis Extract",
+    "inci_name": "NOVOSIEVERSIA GLACIALIS EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Novosieversia Glacialis Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Nylon-10/10",
+    "inci_name": "NYLON-10/10",
+    "cas_number": "28774-87-0",
+    "einecs_number": "",
+    "description": "Nylon-10/10 — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Bulking",
+      "Opacifying"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Nylon-11",
+    "inci_name": "NYLON-11",
+    "cas_number": "25035-04-5",
+    "einecs_number": "",
+    "description": "Nylon-11 — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Bulking",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Nylon-12",
+    "inci_name": "NYLON-12",
+    "cas_number": "25038-74-8",
+    "einecs_number": "",
+    "description": "Nylon-12 — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Bulking",
+      "Opacifying",
+      "Viscosity controlling"
+    ],
+    "prevalence": "1.33% косметических средств",
+    "common_product_types": [
+      "Compact powder (21.42%)",
+      "Bronze powder / sun powder (19.69%)",
+      "Eyeshadow (15.06%)",
+      "Make-up palette (13.76%)",
+      "Foundation (13.73%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Nylon-6/12",
+    "inci_name": "NYLON-6/12",
+    "cas_number": "25191-04-2",
+    "einecs_number": "",
+    "description": "Nylon-6/12 — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Absorbent",
+      "Bulking",
+      "Opacifying"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Nigella Sativa Seed Oil",
+    "inci_name": "NIGELLA SATIVA SEED OIL",
+    "cas_number": "90064-32-7 - Black cumin seed oil",
+    "einecs_number": "290-094-1",
+    "description": "Nigella Sativa Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "0.27% косметических средств",
+    "common_product_types": [
+      "Hair oil (1.92%)",
+      "Body and face moisturizing oil (1.49%)",
+      "Hair mask (0.77%)",
+      "Hair conditioner (0.53%)",
+      "Solid soap (0.51%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Nitrocellulose",
+    "inci_name": "NITROCELLULOSE",
+    "cas_number": "9004-70-0",
+    "einecs_number": "-",
+    "description": "Nitrocellulose or cellulose nitrate is a cellulose derivative. It is used in cosmetics, exclusively as a film-forming agent in nail polish and care.Cellulose is present in plants in large quantities. It is nitrated (originally with nitric acid, but today a mixture of sulfuric acid and nitric acid is used to accelerate the transformation) to form an ester, nitrocellulose, which is then treated with alcohol or water and sold as a moist powder. It is prohibited in Bio.Nitrocellulose in the dry state is a powerful explosive (at least as powerful as TNT). It is particularly implicated in the explosion of hangar 221 of the AZF factory. It was manufactured by the Toulouse National Gunnery during the First World War, and its residues could explain the explosion of 21 September 2001.",
+    "rating": "caution",
+    "functions": [
+      "Film forming"
+    ],
+    "prevalence": "1.62% косметических средств",
+    "common_product_types": [
+      "Nail polish (91.25%)",
+      "Nail hardener (78.53%)",
+      "Varnish base (73.26%)",
+      "Top coat (67.91%)",
+      "Nail care and treatments (40.2%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Nonoxynol-9",
+    "inci_name": "NONOXYNOL-9",
+    "cas_number": "14409-72-4; 26027-38-3(generic); 26571-11-9; 37205-87-1(generic); 68412-54-4; 9016-45-9(generic)",
+    "einecs_number": "",
+    "description": "Nonoxynol-9 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Nymphaea Alba Flower Extract",
+    "inci_name": "NYMPHAEA ALBA FLOWER EXTRACT",
+    "cas_number": "84696-27-5 - White waterlily flower extract",
+    "einecs_number": "283-645-2",
+    "description": "Nymphaea Alba Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Tonic"
+    ],
+    "prevalence": "0.11% косметических средств",
+    "common_product_types": [
+      "Foundation (0.7%)",
+      "Lipstick (0.67%)",
+      "Face cream (0.29%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Nylon-66",
+    "inci_name": "NYLON-66",
+    "cas_number": "32131-17-2",
+    "einecs_number": "",
+    "description": "Nylon-66 — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Bulking",
+      "Opacifying",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [
+      "Mascara (1.46%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  }
+]

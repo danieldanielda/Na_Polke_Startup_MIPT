@@ -1,0 +1,2043 @@
+[
+  {
+    "name": "D-Limonene",
+    "inci_name": "D-LIMONENE",
+    "cas_number": "5989-27-5 - Limonene",
+    "einecs_number": "227-813-5",
+    "description": "D-limonene is one of the two isometric forms of limonene. It is one of the allergens regulated in Europe. It is used in cosmetics for its lemony scent.It is present in many plants, fruits, and vegetables. It is also found in citrus peel, pickles, celery, and several essential oils.",
+    "rating": "neutral",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "1% косметических средств",
+    "common_product_types": [
+      "Treatment for curly hair (2.27%)",
+      "Solid soap (1.8%)",
+      "Drugstore (1.47%)",
+      "Body scrub (1.24%)",
+      "Specific hair care (1.22%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Natural."
+  },
+  {
+    "name": "D-Menthol",
+    "inci_name": "D-MENTHOL",
+    "cas_number": "15356-70-4",
+    "einecs_number": "239-388-3",
+    "description": "D-Menthol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "D,L-Limonene",
+    "inci_name": "D,L-LIMONENE",
+    "cas_number": "138-86-3",
+    "einecs_number": "205-341-0/931-893-3",
+    "description": "D,L-Limonene — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "D-Camphor",
+    "inci_name": "D-CAMPHOR",
+    "cas_number": "464-49-3",
+    "einecs_number": "207-355-2",
+    "description": "D-Camphor — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Daucus Carota Sativa Extract",
+    "inci_name": "DAUCUS CAROTA SATIVA EXTRACT",
+    "cas_number": "84929-61-3 - Carrot extract",
+    "einecs_number": "284-545-1",
+    "description": "Daucus Carota Sativa Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "0.12% косметических средств",
+    "common_product_types": [
+      "Children sun cream (1.69%)",
+      "Adult sun cream (1.44%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Daucus Carota Sativa Root Extract",
+    "inci_name": "DAUCUS CAROTA SATIVA ROOT EXTRACT",
+    "cas_number": "84929-61-3 - Carrot extract",
+    "einecs_number": "284-545-1",
+    "description": "Daucus Carota Sativa Root Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.59% косметических средств",
+    "common_product_types": [
+      "Tanning preparer (19.35%)",
+      "Tanning oil (16.91%)",
+      "Self-tanner (4.94%)",
+      "Body and face moisturizing oil (3.14%)",
+      "Adult sun cream (2.65%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Daemonorops Draco Extract",
+    "inci_name": "DAEMONOROPS DRACO EXTRACT",
+    "cas_number": "84776-31-8",
+    "einecs_number": "283-956-3",
+    "description": "Daemonorops Draco Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Daucus Carota Fruit Oil",
+    "inci_name": "DAUCUS CAROTA FRUIT OIL",
+    "cas_number": "84929-61-3 - Carrot oil",
+    "einecs_number": "284-545-1",
+    "description": "Daucus Carota Fruit Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "D,L-Menthol",
+    "inci_name": "D,L-MENTHOL",
+    "cas_number": "89-78-1",
+    "einecs_number": "201-939-0",
+    "description": "D,L-Menthol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Daucus Carota Sativa Seed Extract",
+    "inci_name": "DAUCUS CAROTA SATIVA SEED EXTRACT",
+    "cas_number": "84929-61-3 - Carrot extract",
+    "einecs_number": "284-545-1",
+    "description": "Daucus Carota Sativa Seed Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Daucus Carota Sativa Root Powder",
+    "inci_name": "DAUCUS CAROTA SATIVA ROOT POWDER",
+    "cas_number": "84929-61-3 - Carrot powder",
+    "einecs_number": "284-545-1",
+    "description": "Daucus Carota Sativa Root Powder — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Daucus Carota Sativa Seed Oil",
+    "inci_name": "DAUCUS CAROTA SATIVA SEED OIL",
+    "cas_number": "8015-88-1 / 84929-61-3 - Carrot seed oil",
+    "einecs_number": "- / 284-545-1",
+    "description": "Daucus Carota Sativa Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Masking",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.26% косметических средств",
+    "common_product_types": [
+      "Hair oil (1.32%)",
+      "Body and face moisturizing oil (1.11%)",
+      "Adult sun cream (0.93%)",
+      "Face moisturizing serum (0.69%)",
+      "Face cream (0.5%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Decyl Alcohol",
+    "inci_name": "DECYL ALCOHOL",
+    "cas_number": "112-30-1",
+    "einecs_number": "203-956-9",
+    "description": "Decyl Alcohol — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Foam boosting",
+      "Masking",
+      "Surfactant",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [
+      "Nail polish (1.42%)",
+      "Micellar water (1.23%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Decylene Glycol",
+    "inci_name": "DECYLENE GLYCOL",
+    "cas_number": "1119-86-4",
+    "einecs_number": "214-288-2",
+    "description": "Decylene Glycol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.73% косметических средств",
+    "common_product_types": [
+      "Children sun cream (8.44%)",
+      "Adult sun cream (4.55%)",
+      "Hand cream (2.38%)",
+      "Styling gel (1.89%)",
+      "Personal hygiene (1.62%)"
+    ],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Defined Cell Culture Media",
+    "inci_name": "DEFINED CELL CULTURE MEDIA",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Defined Cell Culture Media — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Daucus Carota Seed Oil",
+    "inci_name": "DAUCUS CAROTA SEED OIL",
+    "cas_number": "84929-61-3 - Carrot seed oil",
+    "einecs_number": "284-545-1",
+    "description": "Daucus Carota Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Dea-Perfluorohexyl Ethylphosphates",
+    "inci_name": "DEA-PERFLUOROHEXYL ETHYLPHOSPHATES",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Dea-Perfluorohexyl Ethylphosphates — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Decyl Oleate",
+    "inci_name": "DECYL OLEATE",
+    "cas_number": "3687-46-5",
+    "einecs_number": "222-981-6",
+    "description": "Decyl Oleate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.54% косметических средств",
+    "common_product_types": [
+      "Face and body moisturizer (3.69%)",
+      "Feet moisturizers (3.35%)",
+      "Anti-aging day face cream (2.13%)",
+      "Face cream (2.07%)",
+      "Hand cream (1.91%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Decyl Glucoside",
+    "inci_name": "DECYL GLUCOSIDE",
+    "cas_number": "54549-25-6; 58846-77-8; 141464-42-8; 68515-73-1",
+    "einecs_number": "259-218-1",
+    "description": "Decyl glucoside is a nonionic surfactant widely used in natural products. It is used most of the time as a co-surfactant with Coco Betaine (amphoteric surfactant) and Coco Glucoside (nonionic surfactant). Not very aggressive, it is made from sugar and coconut. It is suitable for the most sensitive skin like baby's. It is authorized in organic.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Emulsion stabilising",
+      "Surfactant"
+    ],
+    "prevalence": "3.62% косметических средств",
+    "common_product_types": [
+      "Baby shampoo (28.22%)",
+      "Cleansing foam (26.16%)",
+      "2-in-1 shampoo and body wash for baby (24.08%)",
+      "Facial cleanser for men (23.89%)",
+      "Facial cleansing foam (22.92%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Delta-Damascone",
+    "inci_name": "DELTA-DAMASCONE",
+    "cas_number": "57378-68-4",
+    "einecs_number": "260-709-8",
+    "description": "Delta-Damascone — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Dextran Sulfate",
+    "inci_name": "DEXTRAN SULFATE",
+    "cas_number": "9042-14-2",
+    "einecs_number": "",
+    "description": "Dextran Sulfate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Binding agent",
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Dextran",
+    "inci_name": "DEXTRAN",
+    "cas_number": "9004-54-0",
+    "einecs_number": "232-677-5",
+    "description": "Dextran — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Binding agent",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.21% косметических средств",
+    "common_product_types": [
+      "Eyelashes and eyebrows care (11.46%)",
+      "Mascara (1.46%)",
+      "Day anti-ageing face serum (1.14%)",
+      "Anti-aging day face cream (1.06%)",
+      "Face cream (0.42%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Denatonium Benzoate",
+    "inci_name": "DENATONIUM BENZOATE",
+    "cas_number": "3734-33-6",
+    "einecs_number": "223-095-2",
+    "description": "Denatonium Benzoate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Denaturant",
+      "Masking"
+    ],
+    "prevalence": "0.4% косметических средств",
+    "common_product_types": [
+      "Children shower gel (15.6%)",
+      "Child shampoo (6.82%)",
+      "Foaming bath and bath salts (5.86%)",
+      "Scented mist for women (5.73%)",
+      "Eau de toilette for women (3.85%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Dextrin Isostearate",
+    "inci_name": "DEXTRIN ISOSTEARATE",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Dextrin Isostearate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Dextrin Palmitate",
+    "inci_name": "DEXTRIN PALMITATE",
+    "cas_number": "83271-10-7",
+    "einecs_number": "",
+    "description": "Dextrin Palmitate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Anticaking",
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "0.15% косметических средств",
+    "common_product_types": [
+      "Gloss and lip gloss (2.27%)",
+      "Foundation (1.65%)",
+      "Adult sun cream (0.72%)",
+      "Lipstick (0.41%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Dextrin",
+    "inci_name": "DEXTRIN",
+    "cas_number": "9004-53-9",
+    "einecs_number": "232-675-4",
+    "description": "Dextrin — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Absorbent",
+      "Binding agent",
+      "Bulking",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.42% косметических средств",
+    "common_product_types": [
+      "Care set (4.59%)",
+      "Mask / patch (4.45%)",
+      "Face moisturizing serum (1.81%)",
+      "Fabric mask (1.65%)",
+      "Cream / gel mask (1.44%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Dehydroacetic Acid",
+    "inci_name": "DEHYDROACETIC ACID",
+    "cas_number": "520-45-6 / 771-03-9 / 16807-48-0",
+    "einecs_number": "208-293-9 / 212-227-4 / -",
+    "description": "Dehydroacetic acid is used in cosmetics as a preservative for its fungicidal and bactericidal actions. It is used under the name E265 in food. As it is biodegradable, this chemical does not pose a problem for the environment, and the health risks remain quite low. Note, however, that the compound is prohibited in aerosol type sprays. Dehydroacetic acid is authorized in Bio.",
+    "rating": "neutral",
+    "functions": [
+      "Preservative"
+    ],
+    "prevalence": "5.27% косметических средств",
+    "common_product_types": [
+      "Moist toilet tissue (35.4%)",
+      "Face cleansing wipes (28.43%)",
+      "Cleansing wipes (24.22%)",
+      "Baby cleaning wipes (18.35%)",
+      "Intimate wipes (15.17%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Di-Hema Trimethylhexyl Dicarbamate",
+    "inci_name": "DI-HEMA TRIMETHYLHEXYL DICARBAMATE",
+    "cas_number": "41137-60-4 / 72869-86-4",
+    "einecs_number": "- / 276-957-5",
+    "description": "Di-Hema Trimethylhexyl Dicarbamate — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Nail sculpting"
+    ],
+    "prevalence": "0.15% косметических средств",
+    "common_product_types": [
+      "Semi permanent polish (54.06%)",
+      "Nail polish (3.08%)"
+    ],
+    "note": "Требует осторожности при использовании. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Diacetone Alcohol",
+    "inci_name": "DIACETONE ALCOHOL",
+    "cas_number": "123-42-2",
+    "einecs_number": "204-626-7",
+    "description": "Diacetone Alcohol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Solvent"
+    ],
+    "prevalence": "0.77% косметических средств",
+    "common_product_types": [
+      "Nail polish (52.54%)",
+      "Semi permanent polish (7.09%)",
+      "Nail care and treatments (6.78%)"
+    ],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Diamond Powder",
+    "inci_name": "DIAMOND POWDER",
+    "cas_number": "7782-40-3",
+    "einecs_number": "231-953-2",
+    "description": "Diamond Powder — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Abrasive"
+    ],
+    "prevalence": "0.16% косметических средств",
+    "common_product_types": [
+      "Foundation (0.81%)",
+      "Lipstick (0.24%)",
+      "Classic shampoo (0.18%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Diaminopyrimidine Oxide",
+    "inci_name": "DIAMINOPYRIMIDINE OXIDE",
+    "cas_number": "74638-76-9",
+    "einecs_number": "",
+    "description": "Diaminopyrimidine Oxide — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [
+      "Anti-hair loss treatment (7.16%)",
+      "Classic shampoo (0.21%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Dibutyl Adipate",
+    "inci_name": "DIBUTYL ADIPATE",
+    "cas_number": "105-99-7",
+    "einecs_number": "203-350-4",
+    "description": "Dibutyl Adipate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Film forming",
+      "Plasticiser",
+      "Skin conditioning",
+      "Solvent"
+    ],
+    "prevalence": "0.85% косметических средств",
+    "common_product_types": [
+      "Anti-ageing sun cream (31.37%)",
+      "Children sun cream (29.27%)",
+      "Adult sun cream (25.44%)",
+      "Cc cream (10.69%)",
+      "Sunscreen lip balm (5.4%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Dibutyl Phthalate",
+    "inci_name": "DIBUTYL PHTHALATE",
+    "cas_number": "84-74-2",
+    "einecs_number": "201-557-4",
+    "description": "Dibutyl Phthalate — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "avoid",
+    "functions": [
+      "Masking",
+      "Plasticiser",
+      "Solvent",
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Dicalcium Phosphate",
+    "inci_name": "DICALCIUM PHOSPHATE",
+    "cas_number": "7757-93-9",
+    "einecs_number": "231-826-1",
+    "description": "Dicalcium Phosphate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Abrasive",
+      "Bulking",
+      "Opacifying",
+      "Oral care/hygiene agent"
+    ],
+    "prevalence": "0.56% косметических средств",
+    "common_product_types": [
+      "Lipstick (14.32%)",
+      "Lacquer and lip ink (7.26%)",
+      "Tinted lip balm (6.05%)",
+      "Gloss and lip gloss (5.59%)",
+      "Lip pencil (5.35%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Dicaprylyl Carbonate",
+    "inci_name": "DICAPRYLYL CARBONATE",
+    "cas_number": "1680-31-5",
+    "einecs_number": "434-850-2",
+    "description": "Dicaprylyl carbonate is used as an emollient and texturizing agent in cosmetic products. It is an interesting alternative to mineral oils and silicones. Generally derived from coconut (or palm) oil, it gives products a dry finish and facilitates their penetration into the skin.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "2.54% косметических средств",
+    "common_product_types": [
+      "Anti-ageing sun cream (21.58%)",
+      "Adult sun cream (19.54%)",
+      "Children sun cream (17.89%)",
+      "Anti-aging set (16.91%)",
+      "Tinted cream / gel (13.88%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Dicaprylyl Ether",
+    "inci_name": "DICAPRYLYL ETHER",
+    "cas_number": "629-82-3",
+    "einecs_number": "211-112-6",
+    "description": "Dicaprylyl Ether is an emollient derived from caprylic acid. This esterified oil is used in many cosmetic products for its dry, non-greasy feel on the skin.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning",
+      "Solvent"
+    ],
+    "prevalence": "2% косметических средств",
+    "common_product_types": [
+      "Care set (11.9%)",
+      "Children sun cream (11.66%)",
+      "Anti-aging night face cream (9.04%)",
+      "Bb cream (8.64%)",
+      "Night face cream (7.86%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Dextrin Myristate",
+    "inci_name": "DEXTRIN MYRISTATE",
+    "cas_number": "93792-77-9",
+    "einecs_number": "",
+    "description": "Dextrin Myristate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Anticaking",
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Diazolidinyl Urea",
+    "inci_name": "DIAZOLIDINYL UREA",
+    "cas_number": "78491-02-8",
+    "einecs_number": "278-928-2",
+    "description": "Diazolidinyl Urea — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "avoid",
+    "functions": [
+      "Preservative"
+    ],
+    "prevalence": "1.14% косметических средств",
+    "common_product_types": [
+      "Aloe vera gel (3.86%)",
+      "Styling gel (3.51%)",
+      "Fabric mask (3.08%)",
+      "Treatment for curly hair (2.67%)",
+      "Body moisturizer (2.37%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Dichloromethane",
+    "inci_name": "DICHLOROMETHANE",
+    "cas_number": "75-09-2",
+    "einecs_number": "200-838-9",
+    "description": "Dichloromethane — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Solvent",
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Diatomaceous Earth",
+    "inci_name": "DIATOMACEOUS EARTH",
+    "cas_number": "61790-53-2 / -",
+    "einecs_number": "- / 231-545-4",
+    "description": "Diatomaceous Earth — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Abrasive",
+      "Anticaking",
+      "Bulking",
+      "Opacifying"
+    ],
+    "prevalence": "0.3% косметических средств",
+    "common_product_types": [
+      "Nail polish (8.26%)",
+      "Deodorant stick (2.19%)",
+      "Roll-on deodorant (1.83%)",
+      "Cream / gel mask (1.57%)",
+      "Deodorant spray (0.77%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Dichlorophene",
+    "inci_name": "DICHLOROPHENE",
+    "cas_number": "97-23-4",
+    "einecs_number": "202-567-1",
+    "description": "Dichlorophene — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Antimicrobial",
+      "Deodorant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Diethyl Phthalate",
+    "inci_name": "DIETHYL PHTHALATE",
+    "cas_number": "84-66-2",
+    "einecs_number": "201-550-6",
+    "description": "Diethyl Phthalate — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "avoid",
+    "functions": [
+      "Denaturant",
+      "Film forming",
+      "Hair conditioning",
+      "Masking",
+      "Plasticiser",
+      "Solvent"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Dibromohexamidine Isethionate",
+    "inci_name": "DIBROMOHEXAMIDINE ISETHIONATE",
+    "cas_number": "93856-83-8",
+    "einecs_number": "299-116-4",
+    "description": "Dibromohexamidine Isethionate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Preservative"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Diethylhexyl Butamido Triazone",
+    "inci_name": "DIETHYLHEXYL BUTAMIDO TRIAZONE",
+    "cas_number": "154702-15-5",
+    "einecs_number": "",
+    "description": "Diethylhexyl Butamido Triazone (DBT) is a chemical UVB filter used in sunscreens. Aside from its less than virtuous chemical transformation, and based on currently available data, DBT is not toxic to aquatic life. The ingredient is considered biodegradable (soluble).",
+    "rating": "caution",
+    "functions": [
+      "Stabilising",
+      "Uv absorber",
+      "Uv filter"
+    ],
+    "prevalence": "0.39% косметических средств",
+    "common_product_types": [
+      "Children sun cream (18.94%)",
+      "Adult sun cream (14.44%)",
+      "Anti-ageing sun cream (11.12%)",
+      "Sunscreen lip balm (8.71%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Diethylaminoethyl Methacrylate/Hema/Perfluorohexylethyl Methacrylate Crosspolymer",
+    "inci_name": "DIETHYLAMINOETHYL METHACRYLATE/HEMA/PERFLUOROHEXYLETHYL METHACRYLATE CROSSPOLYMER",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Diethylaminoethyl Methacrylate/Hema/Perfluorohexylethyl Methacrylate Crosspolymer — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Binding agent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Diethylhexyl Phthalate",
+    "inci_name": "DIETHYLHEXYL PHTHALATE",
+    "cas_number": "117-81-7",
+    "einecs_number": "204-211-0",
+    "description": "Diethylhexyl Phthalate — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Masking",
+      "Plasticiser",
+      "Solvent",
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Dihydrocoumarin",
+    "inci_name": "DIHYDROCOUMARIN",
+    "cas_number": "119-84-6",
+    "einecs_number": "204-354-9",
+    "description": "Dihydrocoumarin — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Masking",
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Diglycerin",
+    "inci_name": "DIGLYCERIN",
+    "cas_number": "59113-36-9 / 25618-55-7",
+    "einecs_number": "261-605-5 / *607-759-2",
+    "description": "Diglycerin — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Humectant",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.37% косметических средств",
+    "common_product_types": [
+      "Face moisturizing serum (1.88%)",
+      "Day anti-ageing face serum (1.72%)",
+      "Fabric mask (1.36%)",
+      "Anti-aging day face cream (1.35%)",
+      "Face cream (1.11%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Dihydroxyindole",
+    "inci_name": "DIHYDROXYINDOLE",
+    "cas_number": "3131-52-0",
+    "einecs_number": "412-130-9",
+    "description": "Dihydroxyindole — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Dihydroxyacetone",
+    "inci_name": "DIHYDROXYACETONE",
+    "cas_number": "96-26-4 - DHA",
+    "einecs_number": "202-494-5",
+    "description": "Dihydroxyacetone or DHA is present in the form of a white crystalline powder. It is used in the formulation of self-tanning products and personal care products, good-mine type for example. DHA induces a coloration of the upper layers of the skin by reacting with the amino acids, and this happens without the sun and without risk to health.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing",
+      "Tanning",
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "0.25% косметических средств",
+    "common_product_types": [
+      "Self-tanner (74.36%)",
+      "Body moisturizer (0.49%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Dihydroxypropyl Arginine Hcl",
+    "inci_name": "DIHYDROXYPROPYL ARGININE HCL",
+    "cas_number": "787607-61-8",
+    "einecs_number": "",
+    "description": "Dihydroxypropyl Arginine Hcl — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Hair conditioning",
+      "Humectant",
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Diisopropyl Adipate",
+    "inci_name": "DIISOPROPYL ADIPATE",
+    "cas_number": "6938-94-9",
+    "einecs_number": "230-072-0",
+    "description": "Diisopropyl Adipate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Masking",
+      "Plasticiser",
+      "Skin conditioning",
+      "Solvent"
+    ],
+    "prevalence": "0.34% косметических средств",
+    "common_product_types": [
+      "Children sun cream (8.73%)",
+      "Anti-ageing sun cream (8.57%)",
+      "Adult sun cream (8.41%)",
+      "Deodorant spray (0.92%)",
+      "Face cream (0.32%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Dichlorobenzyl Alcohol",
+    "inci_name": "DICHLOROBENZYL ALCOHOL",
+    "cas_number": "1777-82-8",
+    "einecs_number": "217-210-5",
+    "description": "Dichlorobenzyl Alcohol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Antimicrobial",
+      "Preservative"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Diisopropyl Sebacate",
+    "inci_name": "DIISOPROPYL SEBACATE",
+    "cas_number": "7491-02-3",
+    "einecs_number": "231-306-4",
+    "description": "Diisopropyl Sebacate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Plasticiser",
+      "Skin conditioning",
+      "Solvent"
+    ],
+    "prevalence": "0.33% косметических средств",
+    "common_product_types": [
+      "Anti-ageing sun cream (14.24%)",
+      "Adult sun cream (7.92%)",
+      "Children sun cream (5.47%)",
+      "Foundation (2.29%)",
+      "Anti-aging day face cream (0.79%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Dilinoleic Acid/Propanediol Copolymer",
+    "inci_name": "DILINOLEIC ACID/PROPANEDIOL COPOLYMER",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "This polymer is obtained from 1.3 propanediol (from plants or from a synthesis) and Dimer dilinoleic acid (argan, sunflower, soybean, olive, canola oils, etc.).The transformation process used is esterification.It is easily biodegradable.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Film forming",
+      "Plasticiser",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Diethylamino Hydroxybenzoyl Hexyl Benzoate",
+    "inci_name": "DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE",
+    "cas_number": "302776-68-7",
+    "einecs_number": "443-860-6",
+    "description": "Diethylamino hydroxybenzoyl hexyl benzoate (DHHB) is an organic (chemical) UV filter used in sunscreens. It absorbs UVA radiation (320 to 400 nm). Aside from its less-than-virtuous chemical transformation, the ingredient is considered biodegradable (soluble) and poses no known problems once released into the environment.",
+    "rating": "caution",
+    "functions": [
+      "Stabilising",
+      "Uv absorber",
+      "Uv filter"
+    ],
+    "prevalence": "1.52% косметических средств",
+    "common_product_types": [
+      "Anti-ageing sun cream (47.72%)",
+      "Children sun cream (40.57%)",
+      "Adult sun cream (37.3%)",
+      "Sunscreen lip balm (27.98%)",
+      "Men's eau de cologne (24.87%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Dimethicone Crosspolymer",
+    "inci_name": "DIMETHICONE CROSSPOLYMER",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Dimethicone Crosspolymer — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Emulsion stabilising",
+      "Hair fixing",
+      "Viscosity controlling"
+    ],
+    "prevalence": "1.36% косметических средств",
+    "common_product_types": [
+      "Foundation and primer (19.04%)",
+      "Foundation (17.01%)",
+      "Concealer (11.72%)",
+      "Concealer / concealer (11.38%)",
+      "Lipstick (10.03%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Diethylhexyl Syringylidenemalonate",
+    "inci_name": "DIETHYLHEXYL SYRINGYLIDENEMALONATE",
+    "cas_number": "444811-29-4",
+    "einecs_number": "",
+    "description": "Diethylhexyl Syringylidenemalonate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin protecting"
+    ],
+    "prevalence": "0.46% косметических средств",
+    "common_product_types": [
+      "Lip oil (6.64%)",
+      "Gloss and lip gloss (6.18%)",
+      "Blush (3.95%)",
+      "Adult sun cream (1.84%)",
+      "Lipstick (1.54%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Dimethicone Propyl Pg-Betaine",
+    "inci_name": "DIMETHICONE PROPYL PG-BETAINE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Dimethicone Propyl Pg-Betaine — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Antistatic",
+      "Cleansing",
+      "Foam boosting",
+      "Hair conditioning",
+      "Surfactant",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [
+      "Classic shampoo (0.23%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Dihydroxyindoline Hbr",
+    "inci_name": "DIHYDROXYINDOLINE HBR",
+    "cas_number": "138937-28-7",
+    "einecs_number": "421-170-6",
+    "description": "Dihydroxyindoline Hbr — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Dimethicone/Vinyl Dimethicone Crosspolymer",
+    "inci_name": "DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER",
+    "cas_number": "869736-22-1(1)/ 1121910-42-6(2)/ 156065-02-0(3)/ 1361557-91-6(4)/ 243137-53-3(5)",
+    "einecs_number": "",
+    "description": "Dimethicone/Vinyl Dimethicone Crosspolymer — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Skin conditioning",
+      "Viscosity controlling"
+    ],
+    "prevalence": "1.56% косметических средств",
+    "common_product_types": [
+      "Cc cream (28.52%)",
+      "Concealer (25.76%)",
+      "Concealer / concealer (17.21%)",
+      "Foundation and primer (16.74%)",
+      "Foundation (12.73%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Dimethiconol",
+    "inci_name": "DIMETHICONOL",
+    "cas_number": "31692-79-2 / 70131-67-8",
+    "einecs_number": "",
+    "description": "Dimethiconol is known to create a subtle shine, smooth and silky to the touch. It gives a \"bounced\" appearance to the skin temporarily, which allows it to fill imperfections and small wrinkles. Compared to other silicones, it is known to have a fluid texture and less oily, which facilitates its spread on the skin. Dimethiconol does not pose a health problem: the CIR has given it a score of 1 in 10 in terms of risk (1 representing the best of the ratings). Dimethethiconol is a large molecule that does not penetrate the skin, and is often used with Cyclopentasiloxane for better diffusion. Like all silicones, it is not very biodegradable. It is forbidden in organic.",
+    "rating": "caution",
+    "functions": [
+      "Antifoaming",
+      "Emollient",
+      "Moisturising"
+    ],
+    "prevalence": "3.18% косметических средств",
+    "common_product_types": [
+      "Anti-dandruff shampoo (36.49%)",
+      "Hair oil (33.91%)",
+      "Hair straightening (27.56%)",
+      "Anti-frizz hair care (26.43%)",
+      "Care for dry and damaged hair (23.11%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Dimethicone/Peg-10/15 Crosspolymer",
+    "inci_name": "DIMETHICONE/PEG-10/15 CROSSPOLYMER",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Dimethicone/Peg-10/15 Crosspolymer — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Film forming",
+      "Opacifying"
+    ],
+    "prevalence": "0.27% косметических средств",
+    "common_product_types": [
+      "Foundation (8.5%)",
+      "Concealer (5.83%)",
+      "Bb cream (4.29%)",
+      "Concealer / concealer (3.3%)",
+      "Foundation and primer (2.54%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Dimethyl Glycyrrhizinate",
+    "inci_name": "DIMETHYL GLYCYRRHIZINATE",
+    "cas_number": "114006-81-4",
+    "einecs_number": "",
+    "description": "Dimethyl Glycyrrhizate is a derivative of glycyrrhizic acid, itself derived from licorice root (Glycyrrhiza glabra). This salt is used in cosmetics for its soothing and skin-conditioning properties.This ingredient is not listed in the European INCI database (Cosing), but it is nevertheless used in cosmetics in Europe.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Dimethyl Oxazolidine",
+    "inci_name": "DIMETHYL OXAZOLIDINE",
+    "cas_number": "51200-87-4",
+    "einecs_number": "257-048-2",
+    "description": "Dimethyl Oxazolidine — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Preservative"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Dimethyl Ether",
+    "inci_name": "DIMETHYL ETHER",
+    "cas_number": "115-10-6",
+    "einecs_number": "204-065-8",
+    "description": "Produced by the dehydration of methanol, dimethyl ether is a colorless gas mainly used as a propellant in cosmetics, and in particular in hairsprays and hair spray.Attention, this gas should not come into contact with the eyes, and not be breathed: which seems difficult given its use in cosmetics spray.Note that it is used with propane to effectively remove warts.",
+    "rating": "neutral",
+    "functions": [
+      "Propellant",
+      "Solvent",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.23% косметических средств",
+    "common_product_types": [
+      "Lacquer (54.44%)",
+      "Styling spray (26.17%)",
+      "Deodorant spray (0.64%)",
+      "Adult sun cream (0.6%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Synthetic."
+  },
+  {
+    "name": "Dimethicone",
+    "inci_name": "DIMETHICONE",
+    "cas_number": "63148-62-9 / 9006-65-9 / 9016-00-6",
+    "einecs_number": "- / - / - /",
+    "description": "Dimethicone also called PDMS is a silicone that is not subject to any European restrictions. It is also the most used silicone in cosmetics. Its role is to produce a film of surface around the hair and on the skin, to protect them then (occlusive effect, with what that can imply). It also brings sweetness to the products and makes it easy to use creams and shampoos. It is a little \"the Swiss knife of the chemist\": it is used a little in all sauces, to make the products brighter, more pleasant and therefore more sellers, or to compensate for the drying effect of certain ingredients like surfactants.This inert component poses no problem for human health, one can only wonder if its effect is not only marketing and artificial. It is on the ecological aspect that the ingredient can have a very negative impact since it is very little biodegradable.",
+    "rating": "caution",
+    "functions": [
+      "Antifoaming",
+      "Emollient",
+      "Skin conditioning",
+      "Skin protecting"
+    ],
+    "prevalence": "16.4% косметических средств",
+    "common_product_types": [
+      "Make-up palette (66.15%)",
+      "Foundation (61.45%)",
+      "Cc cream (60.98%)",
+      "Body moisturizer for men (54.76%)",
+      "Eyebrow palette (53.93%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Diisostearyl Malate",
+    "inci_name": "DIISOSTEARYL MALATE",
+    "cas_number": "67763-18-2 / 81230-05-9",
+    "einecs_number": "267-041-6",
+    "description": "Diisostearyl Malate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning",
+      "Surfactant"
+    ],
+    "prevalence": "1.55% косметических средств",
+    "common_product_types": [
+      "Tinted lip balm (32.39%)",
+      "Lip oil (31.86%)",
+      "Gloss and lip gloss (29.24%)",
+      "Lacquer and lip ink (23.15%)",
+      "Lipstick (21.29%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Dimethylbenzyl Carbinyl Acetate",
+    "inci_name": "DIMETHYLBENZYL CARBINYL ACETATE",
+    "cas_number": "151-05-3",
+    "einecs_number": "205-781-3",
+    "description": "Dimethylbenzyl Carbinyl Acetate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Dimethylol Ethylene Thiourea",
+    "inci_name": "DIMETHYLOL ETHYLENE THIOUREA",
+    "cas_number": "15534-95-9",
+    "einecs_number": "239-579-1",
+    "description": "Dimethylol Ethylene Thiourea — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Antimicrobial",
+      "Hair conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Dimethylol Urea",
+    "inci_name": "DIMETHYLOL UREA",
+    "cas_number": "140-95-4",
+    "einecs_number": "205-444-0",
+    "description": "Dimethylol Urea — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Antimicrobial"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Dimethylol Glycol",
+    "inci_name": "DIMETHYLOL GLYCOL",
+    "cas_number": "3586-55-8",
+    "einecs_number": "222-720-6",
+    "description": "Dimethylol Glycol — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Antimicrobial"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Dipalmitoylethyl Hydroxyethylmonium Methosulfate",
+    "inci_name": "DIPALMITOYLETHYL HYDROXYETHYLMONIUM METHOSULFATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Dipalmitoylethyl Hydroxyethylmonium Methosulfate — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Antistatic",
+      "Detangling",
+      "Hair conditioning"
+    ],
+    "prevalence": "0.28% косметических средств",
+    "common_product_types": [
+      "Hair mask (5%)",
+      "Hair conditioner (3.12%)",
+      "Oxidative hair coloring (1.23%)",
+      "Specific hair care (0.9%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Dimethyltolylamine",
+    "inci_name": "DIMETHYLTOLYLAMINE",
+    "cas_number": "99-97-8",
+    "einecs_number": "202-805-4",
+    "description": "Dimethyltolylamine — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Maintenance agent for nails"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Dipotassium Edta",
+    "inci_name": "DIPOTASSIUM EDTA",
+    "cas_number": "2001-94-7",
+    "einecs_number": "217-895-0",
+    "description": "Dipotassium Edta — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Chelating"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Dimethiconol Fluoroalcohol Dilinoleic Acid",
+    "inci_name": "DIMETHICONOL FLUOROALCOHOL DILINOLEIC ACID",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Dimethiconol Fluoroalcohol Dilinoleic Acid — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Direct Black 51",
+    "inci_name": "DIRECT BLACK 51",
+    "cas_number": "3442-21-5",
+    "einecs_number": "222-351-0",
+    "description": "Direct Black 51 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Dimethyl Phenethyl Acetate",
+    "inci_name": "DIMETHYL PHENETHYL ACETATE",
+    "cas_number": "151-05-3",
+    "einecs_number": "205-781-3",
+    "description": "This ingredient is a synthetic aromatic compound used in the composition of perfumes and scented cosmetic products. It is one of the allergens regulated in Europe.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.31% косметических средств",
+    "common_product_types": [
+      "Scented mist for women (2.01%)",
+      "Perfume for women (1.43%)",
+      "Roll-on deodorant (1.33%)",
+      "Deodorant spray (1.2%)",
+      "Hand cream (0.71%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Synthetic."
+  },
+  {
+    "name": "Dimethylaminopropylamine",
+    "inci_name": "DIMETHYLAMINOPROPYLAMINE",
+    "cas_number": "109-55-7",
+    "einecs_number": "203-680-9",
+    "description": "Dimethylaminopropylamine — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Unclassified"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Disodium Coco-Glucoside Citrate",
+    "inci_name": "DISODIUM COCO-GLUCOSIDE CITRATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Disodium coco-glucoside citrate is a mild nonionic surfactant, which is used in cosmetics in washing formulas for babies, for example.",
+    "rating": "safe",
+    "functions": [
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [
+      "Classic shampoo (0.31%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Disodium Cocoamphodiacetate",
+    "inci_name": "DISODIUM COCOAMPHODIACETATE",
+    "cas_number": "",
+    "einecs_number": "931-291-0",
+    "description": "Disodium cocoamphodiacetate is an amphoteric surfactant commonly used in personal care products. It is a mild foaming agent. It increases the foaming power of a solution by increasing the surface viscosity of the liquid that surrounds the individual bubbles in a foam. It is authorized in organic products.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Foam boosting",
+      "Hair conditioning",
+      "Hydrotrope",
+      "Skin conditioning",
+      "Surfactant"
+    ],
+    "prevalence": "1.2% косметических средств",
+    "common_product_types": [
+      "Micellar water (12.46%)",
+      "Personal hygiene (12.43%)",
+      "Men's shampoo (10.57%)",
+      "Cleansing wipes (10.12%)",
+      "Baby shampoo (8.37%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Disodium Cocoyl Glutamate",
+    "inci_name": "DISODIUM COCOYL GLUTAMATE",
+    "cas_number": "68187-30-4",
+    "einecs_number": "269-085-1",
+    "description": "Disodium Cocoyl Glutamate is a gentle anionic surfactant that is perfectly suited to the formulation dedicated to sensitive skin. It is authorised for use in organic products.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Surfactant"
+    ],
+    "prevalence": "0.78% косметических средств",
+    "common_product_types": [
+      "Facial cleansing foam (12.13%)",
+      "2-in-1 shampoo and body wash for baby (9.85%)",
+      "Baby shower gel and cream (7.13%)",
+      "Children toothpaste (6.86%)",
+      "Face cleansing gel (6.59%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Dipotassium Glycyrrhizate",
+    "inci_name": "DIPOTASSIUM GLYCYRRHIZATE",
+    "cas_number": "68797-35-3",
+    "einecs_number": "272-296-1",
+    "description": "Dipotassium Glycyrrhizate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Humectant",
+      "Skin conditioning"
+    ],
+    "prevalence": "1.05% косметических средств",
+    "common_product_types": [
+      "Fabric mask (21.55%)",
+      "Anti-blemish patches (19.69%)",
+      "Mask / patch (19.41%)",
+      "Brightening and anti-dark spots treatment (4.67%)",
+      "Anti-blemish serum (4.42%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Dipropylene Glycol",
+    "inci_name": "DIPROPYLENE GLYCOL",
+    "cas_number": "110-98-5 / 25265-71-8",
+    "einecs_number": "203-821-4 / 246-770-3",
+    "description": "Dipropylene glycol (DPG) is a synthetic organic solvent widely used in perfumery. It is also widely used in all areas of cosmetics.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Solvent",
+      "Viscosity controlling",
+      "Perfuming"
+    ],
+    "prevalence": "2.9% косметических средств",
+    "common_product_types": [
+      "Exfoliating pads (31.79%)",
+      "Fabric mask (26.07%)",
+      "Mask / patch (15.67%)",
+      "Cc cream (13.32%)",
+      "Deodorant stick (10.4%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Synthetic."
+  },
+  {
+    "name": "Disodium Edta-Copper",
+    "inci_name": "DISODIUM EDTA-COPPER",
+    "cas_number": "14025-15-1",
+    "einecs_number": "237-864-5",
+    "description": "Disodium Edta-Copper — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Astringent",
+      "Chelating"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Disodium Inosinate",
+    "inci_name": "DISODIUM INOSINATE",
+    "cas_number": "131-99-7 / 4691-65-0",
+    "einecs_number": "225-146-4",
+    "description": "Disodium Inosinate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Humectant",
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Disodium Laureth Sulfosuccinate",
+    "inci_name": "DISODIUM LAURETH SULFOSUCCINATE",
+    "cas_number": "39354-45-5 / 40754-59-4 / 42016-08-0 / 58450-52-5 / 68815-56-5",
+    "einecs_number": "- / 255-062-3 / - / - / -",
+    "description": "Disodium Laureth Sulfosuccinate or DLS is an anionic surfactant that is one of the softest in the range. Contrary to what one might think, it is not part of the sulphates (whatever, some say so), it cleans the hair and body more smoothly than the SLES.",
+    "rating": "caution",
+    "functions": [
+      "Cleansing",
+      "Foaming",
+      "Foam boosting",
+      "Hydrotrope",
+      "Surfactant"
+    ],
+    "prevalence": "1.12% косметических средств",
+    "common_product_types": [
+      "Personal hygiene (10.74%)",
+      "Fall protection shampoo (9.26%)",
+      "Children shower gel (9.11%)",
+      "Child shampoo (8.5%)",
+      "Baby shampoo (8.37%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Disodium Lauroyl Glutamate",
+    "inci_name": "DISODIUM LAUROYL GLUTAMATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Disodium Lauroyl Glutamate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Hair conditioning",
+      "Skin conditioning",
+      "Surfactant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Disodium Lauryl Sulfosuccinate",
+    "inci_name": "DISODIUM LAURYL SULFOSUCCINATE",
+    "cas_number": "13192-12-6 / 19040-44-9 / 26838-05-1",
+    "einecs_number": "236-149-5 / 248-030-5",
+    "description": "Disodium lauryl sulfosuccinate is a milder surfactant than SLS or SLES, which is used primarily in shampoos and bath products.",
+    "rating": "neutral",
+    "functions": [
+      "Cleansing",
+      "Foaming",
+      "Foam boosting",
+      "Hydrotrope",
+      "Skin conditioning",
+      "Surfactant"
+    ],
+    "prevalence": "0.31% косметических средств",
+    "common_product_types": [
+      "Solid shampoo (7.8%)",
+      "Adult sun cream (1.53%)",
+      "Body scrub (1.52%)",
+      "Foaming bath and bath salts (1.4%)",
+      "Face cleansing gel (1%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Direct Red 80",
+    "inci_name": "DIRECT RED 80",
+    "cas_number": "2610-10-8",
+    "einecs_number": "220-027-3",
+    "description": "Direct Red 80 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Disiloxane",
+    "inci_name": "DISILOXANE",
+    "cas_number": "107-46-0",
+    "einecs_number": "203-492-7",
+    "description": "Disiloxane — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Antifoaming",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.16% косметических средств",
+    "common_product_types": [
+      "Nail polish (1.51%)",
+      "Hair oil (1.35%)",
+      "Fabric mask (0.84%)",
+      "Specific hair care (0.66%)",
+      "Eyeshadow (0.56%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Disodium Edta",
+    "inci_name": "DISODIUM EDTA",
+    "cas_number": "139-33-3 --- 6381-92-6",
+    "einecs_number": "205-358-3",
+    "description": "EDTA (EDTA and its main salts used in Disodium EDTA cosmetics, Tetrasodium EDTA, Trisodium EDTA) is a chelating agent that has been used since the 1930s and for which industrialists have complete control of processing and use. Its main property is to complex heavy metals. That is to say, it will somehow neutralize them by forming with them a complex, then serve them as carriers and evacuate them. It is therefore quite logically used in medicine to fight against heavy metal poisoning (lead for example).It is often used as a sequestrant (calcium, limestone ...) in soaps or shower gels, this allows to manage the \"hard\" water.The ingredient does not pose a problem for human health but its impact on the environment is disastrous: it is not biodegradable and is extremely harmful to nature. The sewage treatment plants do not hold him back and let him run into our rivers! Charcoal filters in our drinking water are not more effective at stopping it (so we are re-treating EDTA / Iron complexes). The problem is finally that he carries with him heavy metals, whose final destination is unknown.EDTA and its salts are banned in organic.",
+    "rating": "caution",
+    "functions": [
+      "Chelating",
+      "Viscosity controlling"
+    ],
+    "prevalence": "15.04% косметических средств",
+    "common_product_types": [
+      "Exfoliating pads (60.26%)",
+      "Fabric mask (50.92%)",
+      "Feet mask (47.64%)",
+      "Hair botox (46.67%)",
+      "Anti-aging night mask (40.44%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Disperse Black 9",
+    "inci_name": "DISPERSE BLACK 9",
+    "cas_number": "20721-50-0 - Black hair dye",
+    "einecs_number": "243-987-5",
+    "description": "Disperse Black 9 — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (0.84%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Disperse Blue 3",
+    "inci_name": "DISPERSE BLUE 3",
+    "cas_number": "2475-46-9",
+    "einecs_number": "219-604-2",
+    "description": "Disperse Blue 3 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Disodium Phenyl Dibenzimidazole Tetrasulfonate",
+    "inci_name": "DISODIUM PHENYL DIBENZIMIDAZOLE TETRASULFONATE",
+    "cas_number": "180898-37-7",
+    "einecs_number": "29-750-0",
+    "description": "Disodium Phenyl Dibenzimidazole Tetrasulfonate is a chemical UV filter authorized by European cosmetics regulations. It provides protection from UVA rays. Due to its production method, the ingredient is associated with an orange flower on our app.",
+    "rating": "caution",
+    "functions": [
+      "Stabilising",
+      "Uv absorber",
+      "Uv filter"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [
+      "Adult sun cream (1.06%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Disodium Phosphate",
+    "inci_name": "DISODIUM PHOSPHATE",
+    "cas_number": "7558-79-4 / 7782-85-6",
+    "einecs_number": "231-448-7 / -",
+    "description": "Disodium Phosphate is a synthetic ingredient, it is used as a laxative. It is also used in the manufacture of enamel and ceramics for dentists. In cosmetics, it is used for its descaling and masking properties.",
+    "rating": "safe",
+    "functions": [
+      "Anticorrosive",
+      "pH regulator",
+      "Masking"
+    ],
+    "prevalence": "1.25% косметических средств",
+    "common_product_types": [
+      "Eyelashes and eyebrows care (10.87%)",
+      "Mascara (8.29%)",
+      "Mouthwash (6.94%)",
+      "Children toothpaste (6.04%)",
+      "Oxidative hair coloring (5.8%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Synthetic."
+  },
+  {
+    "name": "Disperse Violet 1",
+    "inci_name": "DISPERSE VIOLET 1",
+    "cas_number": "128-95-0 - Purple hair dye",
+    "einecs_number": "204-922-6",
+    "description": "Disperse Violet 1 — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (0.64%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Disodium Pyrophosphate",
+    "inci_name": "DISODIUM PYROPHOSPHATE",
+    "cas_number": "7758-16-9",
+    "einecs_number": "231-835-0",
+    "description": "The disodium pyrophosphate is in the form of a white crystalline powder. In cosmetics, it is used as a buffering agent, chelator and anti-corrosive.",
+    "rating": "neutral",
+    "functions": [
+      "Anticorrosive",
+      "pH regulator",
+      "Chelating"
+    ],
+    "prevalence": "0.27% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (12.65%)",
+      "Adult toothpaste (5.34%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Synthetic."
+  },
+  {
+    "name": "Distarch Phosphate Acetate",
+    "inci_name": "DISTARCH PHOSPHATE ACETATE",
+    "cas_number": "68130-14-3",
+    "einecs_number": "-",
+    "description": "Distarch Phosphate Acetate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Stabilising",
+      "Viscosity controlling"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Disteardimonium Hectorite",
+    "inci_name": "DISTEARDIMONIUM HECTORITE",
+    "cas_number": "97280-96-1",
+    "einecs_number": "306-493-1",
+    "description": "Disteardimonium Hectorite is a quaternary ammonium used in cosmetics and personal care products. It is a highly effective stabilizer and viscosity control agent in cosmetics. It is used in deodorants and antiperspirants spray, to improve dispersion and prevent the heaviest ingredients from falling to the bottom of the bottle. It is also widely used in foundations (1 of 3). It is forbidden in organic.",
+    "rating": "caution",
+    "functions": [
+      "Stabilising",
+      "Viscosity controlling"
+    ],
+    "prevalence": "3.41% косметических средств",
+    "common_product_types": [
+      "Foundation (55.12%)",
+      "Concealer (48.34%)",
+      "Concealer / concealer (45.11%)",
+      "Eyelid primer and base (38.99%)",
+      "Cc cream (36.21%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Distearoylethyl Hydroxyethylmonium Methosulfate",
+    "inci_name": "DISTEAROYLETHYL HYDROXYETHYLMONIUM METHOSULFATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Distearoylethyl Hydroxyethylmonium Methosulfate — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Antistatic",
+      "Hair conditioning"
+    ],
+    "prevalence": "0.35% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (10.19%)",
+      "Care for dry and damaged hair (5.36%)",
+      "Hair mask (4.37%)",
+      "Hair conditioner (4.34%)",
+      "Specific hair care (1.9%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Disodium Stearoyl Glutamate",
+    "inci_name": "DISODIUM STEAROYL GLUTAMATE",
+    "cas_number": "38079-62-8",
+    "einecs_number": "253-773-3",
+    "description": "Disodium Stearoyl Glutamate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Hair conditioning",
+      "Skin conditioning",
+      "Surfactant"
+    ],
+    "prevalence": "0.55% косметических средств",
+    "common_product_types": [
+      "Foundation (18.83%)",
+      "Lacquer and lip ink (15.43%)",
+      "Concealer / concealer (11.69%)",
+      "Concealer (9.01%)",
+      "Bb cream (8.38%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Dmdm Hydantoin",
+    "inci_name": "DMDM HYDANTOIN",
+    "cas_number": "6440-58-0",
+    "einecs_number": "229-222-8",
+    "description": "DMDM Hydantoin is used as a preservative in cosmetics and acts against fungi, yeasts and bacteria. It is a liberator of formaldehyde (formol). It is used in shampoos, skin care products, hair products, makeup, conditioners and make-up removers. It is also found in many other consumer products such as herbicides, latex paints, polishes, stripping oils, adhesives, photocopy paper or inks.A formaldehyde liberator is a compound that slowly releases formaldehyde (formol), a molecule considered to be CMR.",
+    "rating": "avoid",
+    "functions": [
+      "Preservative"
+    ],
+    "prevalence": "2.06% косметических средств",
+    "common_product_types": [
+      "Styling gel (12.82%)",
+      "Styling cream (7.09%)",
+      "Fall protection shampoo (7.02%)",
+      "Treatment for curly hair (5.14%)",
+      "Styling hair wax (5.1%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Dmhf",
+    "inci_name": "DMHF",
+    "cas_number": "9065-13-8 / 26811-08-5",
+    "einecs_number": "",
+    "description": "Dmhf — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Antimicrobial",
+      "Film forming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Dmso",
+    "inci_name": "DMSO",
+    "cas_number": "67-68-5",
+    "einecs_number": "200-664-3",
+    "description": "Dmso — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Solvent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Dodecane",
+    "inci_name": "DODECANE",
+    "cas_number": "112-40-3",
+    "einecs_number": "203-967-9",
+    "description": "Dodecane is an oily liquid derived from vegetable oils. It is used as an antioxidant and emollient in cosmetics. It is found in many moisturizers.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.14% косметических средств",
+    "common_product_types": [
+      "Body moisturizer (0.53%)",
+      "Face cream (0.39%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Donkey Milk",
+    "inci_name": "DONKEY MILK",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Donkey Milk — косметический ингредиент. Происхождение: Animal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.23% косметических средств",
+    "common_product_types": [
+      "Solid soap (3.67%)",
+      "Hand cream (0.67%)",
+      "Body moisturizer (0.63%)",
+      "Face cream (0.56%)",
+      "Shower gel (0.47%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Animal."
+  },
+  {
+    "name": "Drometrizole Trisiloxane",
+    "inci_name": "DROMETRIZOLE TRISILOXANE",
+    "cas_number": "155633-54-8",
+    "einecs_number": "",
+    "description": "Drometrizole trisiloxane is a broad-spectrum chemical UV filter that protects the skin against UVB and UVA radiation.",
+    "rating": "caution",
+    "functions": [
+      "Stabilising",
+      "Uv absorber",
+      "Uv filter"
+    ],
+    "prevalence": "0.15% косметических средств",
+    "common_product_types": [
+      "Anti-ageing sun cream (8.34%)",
+      "Children sun cream (6.59%)",
+      "Adult sun cream (5.49%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Disperse Blue 377",
+    "inci_name": "DISPERSE BLUE 377",
+    "cas_number": "67674-26-4 - Blue hair dye",
+    "einecs_number": "266-865-3",
+    "description": "Disperse Blue 377 — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Disperse Red 17",
+    "inci_name": "DISPERSE RED 17",
+    "cas_number": "3179-89-3 - Red hair dye",
+    "einecs_number": "221-665-5",
+    "description": "Disperse Red 17 — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Distarch Phosphate",
+    "inci_name": "DISTARCH PHOSPHATE",
+    "cas_number": "55963-33-2",
+    "einecs_number": "",
+    "description": "Distarch Phosphate — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Absorbent",
+      "Anticaking",
+      "Binding agent"
+    ],
+    "prevalence": "0.4% косметических средств",
+    "common_product_types": [
+      "Face moisturizer for men (7.7%)",
+      "Anti-ageing sun cream (5.78%)",
+      "Night face cream (3.63%)",
+      "Anti-aging night face cream (2.74%)",
+      "Adult sun cream (2.13%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Dunaliella Salina Extract",
+    "inci_name": "DUNALIELLA SALINA EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Dunaliella Salina Extract — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.11% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Dl-Camphor",
+    "inci_name": "DL-CAMPHOR",
+    "cas_number": "21368-68-3",
+    "einecs_number": "244-350-4",
+    "description": "Dl-Camphor — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  }
+]

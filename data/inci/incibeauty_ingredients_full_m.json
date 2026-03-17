@@ -1,0 +1,3062 @@
+[
+  {
+    "name": "M-Aminophenol",
+    "inci_name": "M-AMINOPHENOL",
+    "cas_number": "591-27-5",
+    "einecs_number": "209-711-2",
+    "description": "M-aminophenol is a synthetic dye (ColorIndex CI 76545) used in hair dyes. It is produced from coal tar.Hair dyes are the subject of several studies that try to demonstrate their allergenic and toxic potential for men.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "0.98% косметических средств",
+    "common_product_types": [
+      "Men's hair colouring (79.67%)",
+      "Oxidative hair coloring (62.8%)",
+      "Eyebrow dye (30.15%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "M-Phenylenediamine",
+    "inci_name": "M-PHENYLENEDIAMINE",
+    "cas_number": "108-45-2",
+    "einecs_number": "",
+    "description": "M-Phenylenediamine — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "M-Phenylenediamine Sulfate",
+    "inci_name": "M-PHENYLENEDIAMINE SULFATE",
+    "cas_number": "541-70-8",
+    "einecs_number": "208-791-6",
+    "description": "M-Phenylenediamine Sulfate — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "M-Aminophenol Hcl",
+    "inci_name": "M-AMINOPHENOL HCL",
+    "cas_number": "51-81-0",
+    "einecs_number": "200-125-2",
+    "description": "M-Aminophenol Hcl — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "M-Aminophenol Sulfate",
+    "inci_name": "M-AMINOPHENOL SULFATE",
+    "cas_number": "68239-81-6",
+    "einecs_number": "269-475-1",
+    "description": "This ingredient is ecotoxic: REACH (Aquatic Chronic 2).",
+    "rating": "caution",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Macadamia Ternifolia Seed Oil",
+    "inci_name": "MACADAMIA TERNIFOLIA SEED OIL",
+    "cas_number": "128497-20-1 / 129811-19-4 - Macadamia nut oil",
+    "einecs_number": "- / -",
+    "description": "Macadamia Ternifolia Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient"
+    ],
+    "prevalence": "1.72% косметических средств",
+    "common_product_types": [
+      "Feet mask (13.52%)",
+      "Hair oil (8.41%)",
+      "Treatment for curly hair (6.19%)",
+      "Hair mask (4.9%)",
+      "Styling cream (4.69%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Macadamia Integrifolia Seed Oil",
+    "inci_name": "MACADAMIA INTEGRIFOLIA SEED OIL",
+    "cas_number": "438545-25-6; 159518-86-2 - Macadamia nut oil",
+    "einecs_number": "-",
+    "description": "Macadamia Integrifolia Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.88% косметических средств",
+    "common_product_types": [
+      "Care set (6.77%)",
+      "Anti-aging night face cream (4.44%)",
+      "Night face cream (4.17%)",
+      "Body and face moisturizing oil (3.54%)",
+      "Self-tanner (3.39%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Madecassoside",
+    "inci_name": "MADECASSOSIDE",
+    "cas_number": "34540-22-2",
+    "einecs_number": "252-076-1",
+    "description": "Madecassoside — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.28% косметических средств",
+    "common_product_types": [
+      "Anti-blemish serum (3.04%)",
+      "Fabric mask (2.04%)",
+      "Face moisturizing serum (1.54%)",
+      "Face cream (1.31%)",
+      "Face lotion and toner (1.12%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Macrocystis Pyrifera Extract",
+    "inci_name": "MACROCYSTIS PYRIFERA EXTRACT",
+    "cas_number": "347174-92-9 - Brown Algae extract",
+    "einecs_number": "",
+    "description": "Macrocystis Pyrifera Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.21% косметических средств",
+    "common_product_types": [
+      "Nail polish (3.33%)",
+      "Cream / gel mask (0.61%)",
+      "Shower gel (0.4%)",
+      "Hair conditioner (0.28%)",
+      "Classic shampoo (0.18%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Magnesium Benzoate",
+    "inci_name": "MAGNESIUM BENZOATE",
+    "cas_number": "553-70-8",
+    "einecs_number": "209-045-2",
+    "description": "Magnesium Benzoate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Preservative"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Magnesium Aluminum Silicate",
+    "inci_name": "MAGNESIUM ALUMINUM SILICATE",
+    "cas_number": "1327-43-1",
+    "einecs_number": "215-478-8",
+    "description": "Magnesium Aluminum Silicate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Absorbent",
+      "Anticaking",
+      "Opacifying",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.97% косметических средств",
+    "common_product_types": [
+      "Illuminators and complexion illuminator (12.35%)",
+      "Bronze powder / sun powder (8.28%)",
+      "Eyebrow mascara and gel (7.54%)",
+      "Bb cream (6.63%)",
+      "Eyeliner and kajal (6.49%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Magnesium Fluoride",
+    "inci_name": "MAGNESIUM FLUORIDE",
+    "cas_number": "7783-40-6",
+    "einecs_number": "231-995-1",
+    "description": "Magnesium Fluoride — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Antiplaque",
+      "Oral care/hygiene agent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Magnesium Fluorosilicate",
+    "inci_name": "MAGNESIUM FLUOROSILICATE",
+    "cas_number": "16949-65-8",
+    "einecs_number": "241-022-2",
+    "description": "Magnesium Fluorosilicate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Antiplaque",
+      "Oral care/hygiene agent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Magnesium Ascorbyl Phosphate",
+    "inci_name": "MAGNESIUM ASCORBYL PHOSPHATE",
+    "cas_number": "114040-31-2 --- 113170-55-1",
+    "einecs_number": "",
+    "description": "Magnesium Ascorbyl Phosphate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.29% косметических средств",
+    "common_product_types": [
+      "Foundation (1.72%)",
+      "Face moisturizing serum (0.98%)",
+      "Fabric mask (0.85%)",
+      "Nail polish (0.82%)",
+      "Face cream (0.8%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Magnesium Aspartate",
+    "inci_name": "MAGNESIUM ASPARTATE",
+    "cas_number": "2068-80-6 / 18962-61-3",
+    "einecs_number": "218-191-6",
+    "description": "Magnesium Aspartate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.26% косметических средств",
+    "common_product_types": [
+      "Micellar water (1.26%)",
+      "Day anti-ageing face serum (1.19%)",
+      "Cream / gel mask (1.13%)",
+      "Face cleansing gel (1.02%)",
+      "Anti-aging day face cream (0.95%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Magnesium Carbonate",
+    "inci_name": "MAGNESIUM CARBONATE",
+    "cas_number": "546-93-0; 7757-69-9",
+    "einecs_number": "208-915-9",
+    "description": "Magnesium carbonate is in the form of an odorless white powder. It can be used in cosmetics in the form of a white dye, in this case it is indicated as CI 77713. As an active ingredient, it is used as a binder or absorbent. It also allows you to adjust the PH of the products.",
+    "rating": "neutral",
+    "functions": [
+      "Absorbent",
+      "Binding agent",
+      "Bulking",
+      "Cosmetic colorant",
+      "Opacifying"
+    ],
+    "prevalence": "0.16% косметических средств",
+    "common_product_types": [
+      "Loose powder (4.09%)",
+      "Compact powder (2.07%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Magnesium Chloride",
+    "inci_name": "MAGNESIUM CHLORIDE",
+    "cas_number": "7786-30-3/ 7791-18-6 (hydrate)",
+    "einecs_number": "232-094-6/ -",
+    "description": "Magnesium chloride is a mineral essential to our metabolism, from both a nervous and cellular point of view. It can be taken as a course of treatment to help combat stress and reduce signs of anxiety and fatigue: it is listed as a food additive under the name E511. It is used in cosmetics for its antibacterial properties.",
+    "rating": "safe",
+    "functions": [
+      "Viscosity controlling",
+      "Flavouring agent"
+    ],
+    "prevalence": "1.98% косметических средств",
+    "common_product_types": [
+      "Anti-dandruff shampoo (13.28%)",
+      "Shampoo for colored/highlighted hair (11.87%)",
+      "Classic shampoo (7.8%)",
+      "Men's shampoo (7.43%)",
+      "Fall protection shampoo (7.02%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Synthetic."
+  },
+  {
+    "name": "Magnesium Laureth Sulfate",
+    "inci_name": "MAGNESIUM LAURETH SULFATE",
+    "cas_number": "62755-21-9",
+    "einecs_number": "",
+    "description": "Magnesium laureth sulfate is the salt of SLES (Sodium Laureth Sulfate). It is used in bath products and shampoos because of its softness. It is less irritating than most sulphated surfactants, and can therefore be used by people with more sensitive skin.",
+    "rating": "caution",
+    "functions": [
+      "Cleansing",
+      "Surfactant"
+    ],
+    "prevalence": "0.15% косметических средств",
+    "common_product_types": [
+      "Personal hygiene (7.08%)",
+      "Oxidative hair coloring (0.74%)",
+      "Classic shampoo (0.5%)",
+      "Shower gel (0.42%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Magnesium Nitrate",
+    "inci_name": "MAGNESIUM NITRATE",
+    "cas_number": "10377-60-3",
+    "einecs_number": "233-826-7",
+    "description": "Magnesium Nitrate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Hair conditioning"
+    ],
+    "prevalence": "1.57% косметических средств",
+    "common_product_types": [
+      "Anti-dandruff shampoo (12.81%)",
+      "Shampoo for colored/highlighted hair (10.17%)",
+      "Classic shampoo (7.62%)",
+      "Fall protection shampoo (7.18%)",
+      "Hair conditioner (7.16%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Magnesium Myristate",
+    "inci_name": "MAGNESIUM MYRISTATE",
+    "cas_number": "4086-70-8",
+    "einecs_number": "223-817-6",
+    "description": "Magnesium Myristate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Anticaking",
+      "Opacifying",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.41% косметических средств",
+    "common_product_types": [
+      "Bronze powder / sun powder (12.87%)",
+      "Make-up palette (10.67%)",
+      "Eyeshadow (9.73%)",
+      "Loose powder (8.94%)",
+      "Compact powder (8.49%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Magnesium Oxide",
+    "inci_name": "MAGNESIUM OXIDE",
+    "cas_number": "1309-48-4",
+    "einecs_number": "215-171-9",
+    "description": "Magnesium Oxide — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Absorbent",
+      "pH regulator",
+      "Opacifying"
+    ],
+    "prevalence": "0.23% косметических средств",
+    "common_product_types": [
+      "Concealer (3.91%)",
+      "Concealer / concealer (2.91%)",
+      "Eyeshadow (2.32%)",
+      "Foundation (2.2%)",
+      "Deodorant stick (1.66%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Magnesium Salicylate",
+    "inci_name": "MAGNESIUM SALICYLATE",
+    "cas_number": "18917-89-0",
+    "einecs_number": "242-669-3",
+    "description": "Magnesium Salicylate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Preservative"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Magnesium Stearate",
+    "inci_name": "MAGNESIUM STEARATE",
+    "cas_number": "557-04-0",
+    "einecs_number": "209-150-3",
+    "description": "Magnesium stearate is a texture and consistency agent widely used in make-up products. It improves make-up adhesion and hold. It is also used as a food additive under the names E572 or E470b, for its anti-caking, emulsifying and thickening functions.",
+    "rating": "neutral",
+    "functions": [
+      "Anticaking",
+      "Bulking",
+      "Cosmetic colorant",
+      "Moisturising"
+    ],
+    "prevalence": "1.82% косметических средств",
+    "common_product_types": [
+      "Chewable toothpaste (55%)",
+      "Make-up palette (53.37%)",
+      "Eyebrow palette (46.07%)",
+      "Eyebrow powder (32.39%)",
+      "Eyeshadow (30.53%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Malic Acid",
+    "inci_name": "MALIC ACID",
+    "cas_number": "97-67-6",
+    "einecs_number": "202-601-5",
+    "description": "Malic Acid — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "pH regulator"
+    ],
+    "prevalence": "0.48% косметических средств",
+    "common_product_types": [
+      "Face scrub (3.05%)",
+      "Baby cleaning wipes (2.4%)",
+      "Shampoo for colored/highlighted hair (2.23%)",
+      "Nail polish (1.54%)",
+      "Face lotion and toner (1.19%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Malpighia Glabra Fruit Extract",
+    "inci_name": "MALPIGHIA GLABRA FRUIT EXTRACT",
+    "cas_number": "223747-63-5 - Acerola fruit extract",
+    "einecs_number": "",
+    "description": "Malpighia Glabra Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Magnesium Hydroxide",
+    "inci_name": "MAGNESIUM HYDROXIDE",
+    "cas_number": "1309-42-8",
+    "einecs_number": "215-170-3",
+    "description": "Magnesium Hydroxide — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Absorbent",
+      "pH regulator"
+    ],
+    "prevalence": "0.2% косметических средств",
+    "common_product_types": [
+      "Deodorant refill (46.24%)",
+      "Solid deodorant (20.61%)",
+      "Deodorant stick (15.3%)",
+      "Cream deodorant (8.87%)",
+      "Roll-on deodorant (1.43%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Maltodextrin",
+    "inci_name": "MALTODEXTRIN",
+    "cas_number": "9050-36-6",
+    "einecs_number": "232-940-4",
+    "description": "Maltodextrin is a sugar obtained by the hydrolysis of corn starch, rice starch or potato starch. It is most often used in food, to provide carbohydrate supplements to food. It is found in energy drinks dedicated athletes. In cosmetics, it is used as a stabilizer for the formula or as a film-forming agent. In 2002, a patent filed by Unilever, reveals that Maltodextrin enhances the anti-aging activity of weak acids and reduces skin irritation sometimes caused by other acids.Maltodextrin is allowed in Bio.",
+    "rating": "safe",
+    "functions": [
+      "Absorbent",
+      "Binding agent",
+      "Emulsion stabilising",
+      "Film forming",
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "2.75% косметических средств",
+    "common_product_types": [
+      "Beard razor (35.98%)",
+      "Body razor (29.72%)",
+      "Razor blades (16.19%)",
+      "Face moisturizer for men (13.71%)",
+      "Solid cleanser (10.88%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Malus Domestica Fruit Cell Culture Extract",
+    "inci_name": "MALUS DOMESTICA FRUIT CELL CULTURE EXTRACT",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Malus Domestica Fruit Cell Culture Extract — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.14% косметических средств",
+    "common_product_types": [
+      "Anti-aging day face cream (0.64%)",
+      "Oxidative hair coloring (0.61%)",
+      "Classic shampoo (0.27%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Malva Sylvestris Extract",
+    "inci_name": "MALVA SYLVESTRIS EXTRACT",
+    "cas_number": "84082-57-5 - Mallow extract",
+    "einecs_number": "282-003-9",
+    "description": "Malva Sylvestris Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent",
+      "Emollient",
+      "Skin conditioning",
+      "Smoothing",
+      "Soothing"
+    ],
+    "prevalence": "0.2% косметических средств",
+    "common_product_types": [
+      "Micellar water (1.05%)",
+      "Day anti-ageing face serum (1.04%)",
+      "Anti-aging day face cream (0.8%)",
+      "Face cream (0.7%)",
+      "Foundation (0.61%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Malva Sylvestris Flower Extract",
+    "inci_name": "MALVA SYLVESTRIS FLOWER EXTRACT",
+    "cas_number": "84082-57-5 - Mallow flower extract",
+    "einecs_number": "282-003-9",
+    "description": "Malva Sylvestris Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.2% косметических средств",
+    "common_product_types": [
+      "Personal hygiene (1.65%)",
+      "Fabric mask (0.7%)",
+      "Foundation (0.55%)",
+      "Face cream (0.39%)",
+      "Classic shampoo (0.26%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Malva Sylvestris Flower/Leaf Extract",
+    "inci_name": "MALVA SYLVESTRIS FLOWER/LEAF EXTRACT",
+    "cas_number": "84082-57-5 - Mallow extract (flower/leaf)",
+    "einecs_number": "282-003-9",
+    "description": "Malva Sylvestris Flower/Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Magnesium Silicate",
+    "inci_name": "MAGNESIUM SILICATE",
+    "cas_number": "1343-88-0",
+    "einecs_number": "215-681-1",
+    "description": "Magnesium Silicate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Absorbent",
+      "Anticaking",
+      "Bulking",
+      "Opacifying",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.3% косметических средств",
+    "common_product_types": [
+      "Lacquer and lip ink (17.7%)",
+      "Nail polish (5.91%)",
+      "Lipstick (5.48%)",
+      "Tinted lip balm (5.17%)",
+      "Eyeliner and kajal (3.84%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Magnesium Sulfate",
+    "inci_name": "MAGNESIUM SULFATE",
+    "cas_number": "7487-88-9; 10034-99-8 (heptahydrate)  ; 18939-43-0",
+    "einecs_number": "231-298-2",
+    "description": "Also known as Epsom salt, magnesium sulfate is a mineral used in cosmetics as a stabilizer to soothe, exfoliate and revitalize the skin. Magnesium sulfate is also used in many other areas: in bath water to promote muscle relaxation, as a laxative for occasional constipation, and as a mineral fertilizer in agriculture to meet the magnesium and sulfur needs of plants.",
+    "rating": "neutral",
+    "functions": [
+      "Bulking",
+      "Viscosity controlling"
+    ],
+    "prevalence": "1.85% косметических средств",
+    "common_product_types": [
+      "Diaper cream (34.29%)",
+      "Cc cream (29.08%)",
+      "Foundation (28.65%)",
+      "Bb cream (24.37%)",
+      "Concealer / concealer (22.69%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Mineral."
+  },
+  {
+    "name": "Magnolia Officinalis Bark Extract",
+    "inci_name": "MAGNOLIA OFFICINALIS BARK EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Magnolia Officinalis Bark Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antimicrobial",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.29% косметических средств",
+    "common_product_types": [
+      "Blush (1.95%)",
+      "Eyeshadow (1.3%)",
+      "Anti-aging day face cream (1.13%)",
+      "Foundation (0.7%)",
+      "Face cream (0.63%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Manganese Gluconate",
+    "inci_name": "MANGANESE GLUCONATE",
+    "cas_number": "6485-39-8",
+    "einecs_number": "229-350-4",
+    "description": "Manganese Gluconate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Mangifera Indica Fruit Extract",
+    "inci_name": "MANGIFERA INDICA FRUIT EXTRACT",
+    "cas_number": "90063-86-8 - Mango extract",
+    "einecs_number": "290-045-4",
+    "description": "Mangifera Indica Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.35% косметических средств",
+    "common_product_types": [
+      "Body scrub (1.81%)",
+      "Adult sun cream (1.24%)",
+      "Fabric mask (0.96%)",
+      "Shower gel (0.9%)",
+      "Cream / gel mask (0.9%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Mangifera Indica Seed Butter",
+    "inci_name": "MANGIFERA INDICA SEED BUTTER",
+    "cas_number": "90063-86-8 - Mango butter",
+    "einecs_number": "290-045-4",
+    "description": "Mangifera Indica Seed Butter — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.69% косметических средств",
+    "common_product_types": [
+      "Tinted lip balm (7.32%)",
+      "Treatment for curly hair (4.94%)",
+      "Concealer (3.05%)",
+      "Lipstick (2.65%)",
+      "Lip balm (2.48%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Mangifera Indica Seed Oil",
+    "inci_name": "MANGIFERA INDICA SEED OIL",
+    "cas_number": "90063-86-8 - Mango seed oil",
+    "einecs_number": "290-045-4",
+    "description": "Mangifera Indica Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.14% косметических средств",
+    "common_product_types": [
+      "Lip pencil (2.11%)",
+      "Lipstick (0.78%)",
+      "Body moisturizer (0.41%)",
+      "Classic shampoo (0.14%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Malpighia Punicifolia Fruit Extract",
+    "inci_name": "MALPIGHIA PUNICIFOLIA FRUIT EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Malpighia Punicifolia Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Maris Aqua",
+    "inci_name": "MARIS AQUA",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Maris Aqua — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Humectant",
+      "Solvent"
+    ],
+    "prevalence": "0.46% косметических средств",
+    "common_product_types": [
+      "Eye contour care (2.34%)",
+      "Cream / gel mask (1.88%)",
+      "Micellar water (1.66%)",
+      "Face cream (1.58%)",
+      "Face scrub (1.51%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Malva Sylvestris Leaf Extract",
+    "inci_name": "MALVA SYLVESTRIS LEAF EXTRACT",
+    "cas_number": "84082-57-5 - Mallow leaf extract",
+    "einecs_number": "282-003-9",
+    "description": "Malva Sylvestris Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.11% косметических средств",
+    "common_product_types": [
+      "Personal hygiene (2.41%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Maris Sal",
+    "inci_name": "MARIS SAL",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Maris Sal — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "1.29% косметических средств",
+    "common_product_types": [
+      "Body scrub (13.64%)",
+      "Foaming bath and bath salts (13.13%)",
+      "Men's shampoo (9.43%)",
+      "Men shower gel (5.76%)",
+      "Styling spray (4.61%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Marrubium Vulgare Extract",
+    "inci_name": "MARRUBIUM VULGARE EXTRACT",
+    "cas_number": "84696-20-8 - White Horehound extract",
+    "einecs_number": "283-638-4",
+    "description": "Marrubium Vulgare Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Soothing"
+    ],
+    "prevalence": "0.1% косметических средств",
+    "common_product_types": [
+      "Anti-aging day face cream (1.09%)",
+      "Face cream (0.67%)",
+      "Foundation (0.48%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Matricaria Recutita Flower Extract",
+    "inci_name": "MATRICARIA RECUTITA FLOWER EXTRACT",
+    "cas_number": "84082-60-0 - Chamomile flower extract",
+    "einecs_number": "282-006-5",
+    "description": "Matricaria Recutita Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Manganese Sulfate",
+    "inci_name": "MANGANESE SULFATE",
+    "cas_number": "7785-87-7 / 10124-55-7",
+    "einecs_number": "232-089-9 / 233-342-6",
+    "description": "This ingredient is classified as ecotoxic according to REACH (Aquatic Chronic 2).",
+    "rating": "caution",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [
+      "Adult sun cream (0.38%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Maranta Arundinacea Root Powder",
+    "inci_name": "MARANTA ARUNDINACEA ROOT POWDER",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Maranta Arundinacea Root Powder — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.1% косметических средств",
+    "common_product_types": [
+      "Deodorant stick (8.34%)",
+      "Cream deodorant (8.14%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Mannitol",
+    "inci_name": "MANNITOL",
+    "cas_number": "69-65-8",
+    "einecs_number": "200-711-8",
+    "description": "Mannitol — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Binding agent",
+      "Humectant",
+      "Masking",
+      "Moisturising",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.71% косметических средств",
+    "common_product_types": [
+      "Nail polish (11.61%)",
+      "Anti-aging eye contour care (2.48%)",
+      "Micellar water (2.34%)",
+      "Day anti-ageing face serum (2.28%)",
+      "Face cleansing gel (2.12%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Mea Dodecylbenzenesulfonate",
+    "inci_name": "MEA DODECYLBENZENESULFONATE",
+    "cas_number": "26836-07-7",
+    "einecs_number": "",
+    "description": "Mea Dodecylbenzenesulfonate — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Maris Limus Extract",
+    "inci_name": "MARIS LIMUS EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Maris Limus Extract — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin protecting"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [
+      "Deodorant spray (1.53%)",
+      "Roll-on deodorant (1.3%)",
+      "Cream / gel mask (0.62%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Mea-Borate",
+    "inci_name": "MEA-BORATE",
+    "cas_number": "10377-81-8; 26038-87-9; 68130-12-1",
+    "einecs_number": "233-829-3",
+    "description": "Mea-Borate — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "pH regulator"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Mea-Salicylate",
+    "inci_name": "MEA-SALICYLATE",
+    "cas_number": "59866-70-5",
+    "einecs_number": "261-963-2",
+    "description": "Mea-Salicylate — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Preservative"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Medicago Sativa Extract",
+    "inci_name": "MEDICAGO SATIVA EXTRACT",
+    "cas_number": "84082-36-0 - Alfalfa extract",
+    "einecs_number": "281-984-0",
+    "description": "Medicago Sativa Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Tonic"
+    ],
+    "prevalence": "0.12% косметических средств",
+    "common_product_types": [
+      "Foundation (0.37%)",
+      "Classic shampoo (0.17%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Medicago Sativa Seed Extract",
+    "inci_name": "MEDICAGO SATIVA SEED EXTRACT",
+    "cas_number": "84082-36-0",
+    "einecs_number": "281-984-0",
+    "description": "Medicago Sativa Seed Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Mek",
+    "inci_name": "MEK",
+    "cas_number": "78-93-3",
+    "einecs_number": "201-159-0",
+    "description": "Mek — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Solvent",
+      "Perfuming"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [
+      "Top coat (9.89%)",
+      "Nail polish (2.15%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Mel Extract",
+    "inci_name": "MEL EXTRACT",
+    "cas_number": "91052-92-5 / 8026-66-8 - Mel",
+    "einecs_number": "293-255-4",
+    "description": "Mel Extract — косметический ингредиент. Происхождение: Animal.",
+    "rating": "safe",
+    "functions": [
+      "Moisturising"
+    ],
+    "prevalence": "0.36% косметических средств",
+    "common_product_types": [
+      "Lip balm (1.21%)",
+      "Hand cream (1.04%)",
+      "Shower gel (0.85%)",
+      "Classic shampoo (0.84%)",
+      "Liquid soap (0.76%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Animal."
+  },
+  {
+    "name": "Matricaria Recutita Flower Oil",
+    "inci_name": "MATRICARIA RECUTITA FLOWER OIL",
+    "cas_number": "84082-60-0 - Chamomile flower oil",
+    "einecs_number": "282-006-5",
+    "description": "Matricaria Recutita Flower Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Melaleuca Alternifolia Leaf Oil",
+    "inci_name": "MELALEUCA ALTERNIFOLIA LEAF OIL",
+    "cas_number": "8022-72-8/ 68647-73-4 - Tea tree leaf oil",
+    "einecs_number": "-/ -",
+    "description": "Melaleuca Alternifolia Leaf Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant",
+      "Masking",
+      "Skin protecting",
+      "Perfuming",
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "1.48% косметических средств",
+    "common_product_types": [
+      "Anti-blemish patches (25.84%)",
+      "Anti-blemish treatment (11.62%)",
+      "Essential oil (11.41%)",
+      "Cream deodorant (10.42%)",
+      "Anti-blemish cleanser (8.87%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Mauritia Flexuosa Fruit Oil",
+    "inci_name": "MAURITIA FLEXUOSA FRUIT OIL",
+    "cas_number": "394239-67-9; 906350-92-3 - Buriti fruit oil",
+    "einecs_number": "-",
+    "description": "Mauritia Flexuosa Fruit Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.2% косметических средств",
+    "common_product_types": [
+      "Hair oil (1.51%)",
+      "Adult sun cream (1.1%)",
+      "Body and face moisturizing oil (1.02%)",
+      "Hair conditioner (0.39%)",
+      "Body moisturizer (0.31%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Mdm Hydantoin",
+    "inci_name": "MDM HYDANTOIN",
+    "cas_number": "116-25-6",
+    "einecs_number": "204-132-1",
+    "description": "Mdm Hydantoin — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Antimicrobial"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Melaleuca Leucadendron Cajuputi Leaf Oil",
+    "inci_name": "MELALEUCA LEUCADENDRON CAJUPUTI LEAF OIL",
+    "cas_number": "85480-37-1 - Cajeput leaf oil",
+    "einecs_number": "287-316-4",
+    "description": "Melaleuca Leucadendron Cajuputi Leaf Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Melaleuca Viridiflora Leaf Oil",
+    "inci_name": "MELALEUCA VIRIDIFLORA LEAF OIL",
+    "cas_number": "132940-73-9 - Niaouli leaf oil",
+    "einecs_number": "310-217-5",
+    "description": "Melaleuca Viridiflora Leaf Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [
+      "Drugstore (1.26%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Melaleuca Quinquenervia Oil",
+    "inci_name": "MELALEUCA QUINQUENERVIA OIL",
+    "cas_number": "8022-72-8 - Niaouli oil",
+    "einecs_number": "-",
+    "description": "Melaleuca Quinquenervia Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Mel",
+    "inci_name": "MEL",
+    "cas_number": "8028-66-8 - Honey",
+    "einecs_number": "",
+    "description": "Honey is a viscous liquid derived from the nectar of flowers and produced by bees. It is a natural sweetener that contains a mixture of glucose, fructose, sucrose and other natural sugars. As part of cosmetics, honey is used as a skin moisturizer, humectant, antibacterial and flavoring. Honey is attributed to many properties such as treating acne, having antioxidant properties or even being a hair conditioner.On the side of the antibacterial properties, it is the Manuka honey that must be favored: it is produced from the bushes of the same name in New Zealand. It contains a \"Super\" antibacterial called Methylglyoxal or MGO, ideal in a facial mask.Honey is allowed in organic.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Humectant",
+      "Moisturising"
+    ],
+    "prevalence": "1.43% косметических средств",
+    "common_product_types": [
+      "Lip cream (6.72%)",
+      "Cream / gel mask (3.67%)",
+      "Fall protection shampoo (3.35%)",
+      "Solid soap (3.35%)",
+      "Treatment for curly hair (3.24%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Animal."
+  },
+  {
+    "name": "Melamine",
+    "inci_name": "MELAMINE",
+    "cas_number": "108-78-1",
+    "einecs_number": "203-615-4",
+    "description": "Melamine — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Unclassified"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Melia Azadirachta Leaf Extract",
+    "inci_name": "MELIA AZADIRACHTA LEAF EXTRACT",
+    "cas_number": "84696-25-3 / 90063-92-6 - Neem leaf extract",
+    "einecs_number": "283-644-7 / 290-052-2",
+    "description": "Melia Azadirachta Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.24% косметических средств",
+    "common_product_types": [
+      "Face moisturizing serum (1.34%)",
+      "Fabric mask (0.95%)",
+      "Cream / gel mask (0.85%)",
+      "Face cream (0.73%)",
+      "Face lotion and toner (0.71%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Melia Azadirachta Seed Oil",
+    "inci_name": "MELIA AZADIRACHTA SEED OIL",
+    "cas_number": "8002-65-1 / 90063-92-6 - Neem seed oil",
+    "einecs_number": "- / 290-052-2",
+    "description": "Melia Azadirachta Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient"
+    ],
+    "prevalence": "0.11% косметических средств",
+    "common_product_types": [
+      "Lipstick (0.24%)",
+      "Classic shampoo (0.19%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Melilotus Officinalis Flower Extract",
+    "inci_name": "MELILOTUS OFFICINALIS FLOWER EXTRACT",
+    "cas_number": "84082-81-5 - Yellow Melilot flower extract",
+    "einecs_number": "282-028-5",
+    "description": "Melilotus Officinalis Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent",
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Melissa Officinalis Flower/Leaf/Stem Water",
+    "inci_name": "MELISSA OFFICINALIS FLOWER/LEAF/STEM WATER",
+    "cas_number": "84082-61-1 - Lemon Balm water (flower/leaf/stem)",
+    "einecs_number": "282-007-0",
+    "description": "Melissa Officinalis Flower/Leaf/Stem Water — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [
+      "Face cream (0.34%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Melaleuca Alternifolia Leaf Extract",
+    "inci_name": "MELALEUCA ALTERNIFOLIA LEAF EXTRACT",
+    "cas_number": "85085-48-9 (generic) - Tea tree Leaf extract",
+    "einecs_number": "285-377-1",
+    "description": "Melaleuca Alternifolia Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "0.22% косметических средств",
+    "common_product_types": [
+      "Fabric mask (2.43%)",
+      "Face lotion and toner (0.71%)",
+      "Face moisturizing serum (0.64%)",
+      "Face cream (0.3%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Melissa Officinalis Leaf Extract",
+    "inci_name": "MELISSA OFFICINALIS LEAF EXTRACT",
+    "cas_number": "84082-61-1 - Balm mint leaf extract",
+    "einecs_number": "282-007-0",
+    "description": "Melissa Officinalis Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.4% косметических средств",
+    "common_product_types": [
+      "Anti-dandruff shampoo (1.57%)",
+      "Fabric mask (1.27%)",
+      "Classic shampoo (1%)",
+      "Cream / gel mask (0.68%)",
+      "Face lotion and toner (0.67%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Melia Azadirachta Flower Extract",
+    "inci_name": "MELIA AZADIRACHTA FLOWER EXTRACT",
+    "cas_number": "90063-92-6 - Neem flower extract",
+    "einecs_number": "290-052-2",
+    "description": "Melia Azadirachta Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.16% косметических средств",
+    "common_product_types": [
+      "Face moisturizing serum (1.28%)",
+      "Fabric mask (0.88%)",
+      "Cream / gel mask (0.65%)",
+      "Face cream (0.6%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Mentha Arvensis Extract",
+    "inci_name": "MENTHA ARVENSIS EXTRACT",
+    "cas_number": "90063-97-1 - Wild mint extract",
+    "einecs_number": "290-058-5",
+    "description": "Mentha Arvensis Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Refreshing",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Mentha Piperita American Herb Oil",
+    "inci_name": "MENTHA PIPERITA AMERICAN HERB OIL",
+    "cas_number": "98306-02-6",
+    "einecs_number": "308-770-2",
+    "description": "Mentha Piperita American Herb Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Melaleuca Leucadendron Cajaputi Oil",
+    "inci_name": "MELALEUCA LEUCADENDRON CAJAPUTI OIL",
+    "cas_number": "85480-37-1 - Cajeput oil",
+    "einecs_number": "287-316-4",
+    "description": "Melaleuca Leucadendron Cajaputi Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Mentha Piperita Extract",
+    "inci_name": "MENTHA PIPERITA EXTRACT",
+    "cas_number": "84082-70-2 - Peppermint extract",
+    "einecs_number": "282-015-4",
+    "description": "Mentha Piperita Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Deodorant",
+      "Masking",
+      "Refreshing",
+      "Tonic"
+    ],
+    "prevalence": "0.14% косметических средств",
+    "common_product_types": [
+      "Face moisturizer for men (11.4%)",
+      "Men shower gel (2.04%)",
+      "Classic shampoo (0.14%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Mentha Piperita Flower/Leaf Oil",
+    "inci_name": "MENTHA PIPERITA FLOWER/LEAF OIL",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Mentha Piperita Flower/Leaf Oil — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Skin conditioning",
+      "Flavouring agent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Mentha Piperita Leaf Extract",
+    "inci_name": "MENTHA PIPERITA LEAF EXTRACT",
+    "cas_number": "84082-70-2 - Peppermint leaf extract",
+    "einecs_number": "282-015-4",
+    "description": "Mentha Piperita Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.46% косметических средств",
+    "common_product_types": [
+      "Anti-dandruff shampoo (2.1%)",
+      "Mouthwash (2%)",
+      "Personal hygiene (1.65%)",
+      "Adult toothpaste (1.53%)",
+      "Fabric mask (1.47%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Melissa Officinalis Leaf Oil",
+    "inci_name": "MELISSA OFFICINALIS LEAF OIL",
+    "cas_number": "84082-61-1 / 8014-71-9 - Lemon balm leaf oil",
+    "einecs_number": "282-007-0 / -",
+    "description": "Melissa Officinalis Leaf Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Tonic",
+      "Perfuming"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Mentha Piperita Oil",
+    "inci_name": "MENTHA PIPERITA OIL",
+    "cas_number": "8006-90-4 / 84082-70-2 - Peppermint oil",
+    "einecs_number": "- / 282-015-4",
+    "description": "Mentha Piperita Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Refreshing",
+      "Tonic",
+      "Perfuming"
+    ],
+    "prevalence": "1.3% косметических средств",
+    "common_product_types": [
+      "Solid toothpaste (41.94%)",
+      "Anti-stain and teeth whitening (20.51%)",
+      "Heavy legs care (17.54%)",
+      "Adult toothpaste (12.18%)",
+      "Scalp scrub (11.53%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Mentha Arvensis Herb Oil",
+    "inci_name": "MENTHA ARVENSIS HERB OIL",
+    "cas_number": "90063-97-1 - Wild mint oil",
+    "einecs_number": "290-058-5",
+    "description": "Mentha Arvensis Herb Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [
+      "Adult toothpaste (0.57%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Mentha Spicata Flower/Leaf/Stem Oil",
+    "inci_name": "MENTHA SPICATA FLOWER/LEAF/STEM OIL",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Mentha Spicata Flower/Leaf/Stem Oil — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Mentha Arvensis Leaf Oil",
+    "inci_name": "MENTHA ARVENSIS LEAF OIL",
+    "cas_number": "68917-18-0 - Corn mint oil",
+    "einecs_number": "",
+    "description": "Mentha Arvensis Leaf Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.36% косметических средств",
+    "common_product_types": [
+      "Adult toothpaste (2.81%)",
+      "Anti-dandruff shampoo (2.13%)",
+      "Drugstore (1.38%)",
+      "Hair conditioner (0.78%)",
+      "Solid soap (0.77%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Mentha Spicata Leaf/Stem Oil",
+    "inci_name": "MENTHA SPICATA LEAF/STEM OIL",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Mentha Spicata Leaf/Stem Oil — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Mentha Piperita Flower/Leaf/Stem Oil",
+    "inci_name": "MENTHA PIPERITA FLOWER/LEAF/STEM OIL",
+    "cas_number": "8006-90-4, 84082-70-2 - Peppermint oil (flower/leaf/stem)",
+    "einecs_number": "282-015-4",
+    "description": "Mentha Piperita Flower/Leaf/Stem Oil — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [
+      "Anti-dandruff shampoo (1.93%)"
+    ],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Menthol",
+    "inci_name": "MENTHOL",
+    "cas_number": "1490-04-6 / 2216-51-5 / 89-78-1 / 15356-70-4",
+    "einecs_number": "216-074-4 / 218-690-9 / 201-939-0 / 239-388-3",
+    "description": "Menthol is a member of the alcohol family and is obtained from mint or peppermint oils. It has a peppermint scent. It is known for its invigorating and refreshing effects on the skin. However, it is highly sensitizing and can cause irritation and even allergic reactions. It is one of the allergens regulated by Europe. It is authorized for organic products.",
+    "rating": "neutral",
+    "functions": [
+      "Denaturant",
+      "Masking",
+      "Refreshing",
+      "Soothing"
+    ],
+    "prevalence": "2.62% косметических средств",
+    "common_product_types": [
+      "Heavy legs care (68.62%)",
+      "Mouthwash (45.47%)",
+      "Chewable toothpaste (44%)",
+      "Breath (37.7%)",
+      "Specific care for legs and feet (37.13%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Menthyl Anthranilate",
+    "inci_name": "MENTHYL ANTHRANILATE",
+    "cas_number": "134-09-8",
+    "einecs_number": "205-129-8",
+    "description": "Menthyl Anthranilate — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Uv absorber"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Mentha Piperita Leaf Water",
+    "inci_name": "MENTHA PIPERITA LEAF WATER",
+    "cas_number": "84082-70-2 - Peppermint leaf water",
+    "einecs_number": "282-015-4",
+    "description": "Mentha Piperita Leaf Water — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.11% косметических средств",
+    "common_product_types": [
+      "Adult toothpaste (1.74%)",
+      "Face lotion and toner (0.79%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Menthyl Lactate",
+    "inci_name": "MENTHYL LACTATE",
+    "cas_number": "59259-38-0",
+    "einecs_number": "261-678-3",
+    "description": "Menthyl Lactate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Refreshing"
+    ],
+    "prevalence": "0.46% косметических средств",
+    "common_product_types": [
+      "After sun (7.49%)",
+      "Feet moisturizers (3.27%)",
+      "Eye contour care (1.49%)",
+      "Fabric mask (1.43%)",
+      "Gloss and lip gloss (1.2%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Mesembryanthemum Crystallinum Extract",
+    "inci_name": "MESEMBRYANTHEMUM CRYSTALLINUM EXTRACT",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Mesembryanthemum Crystallinum Extract — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Humectant"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [
+      "Day anti-ageing face serum (1.06%)",
+      "Anti-aging day face cream (0.76%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Mesitylene",
+    "inci_name": "MESITYLENE",
+    "cas_number": "108-67-8",
+    "einecs_number": "203-604-4",
+    "description": "Mesitylene — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Solvent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Methenamine",
+    "inci_name": "METHENAMINE",
+    "cas_number": "100-97-0",
+    "einecs_number": "202-905-8",
+    "description": "Methenamine — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Antimicrobial",
+      "Preservative"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Mentha Spicata Flower/Leaf/Stem Extract",
+    "inci_name": "MENTHA SPICATA FLOWER/LEAF/STEM EXTRACT",
+    "cas_number": "84696-51-5 - Spearmint extract (Flower/Leaf/stem)",
+    "einecs_number": "283-656-2",
+    "description": "Mentha Spicata Flower/Leaf/Stem Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Mentha Spicata Herb Oil",
+    "inci_name": "MENTHA SPICATA HERB OIL",
+    "cas_number": "84696-51-5 - Spearmint leaf oil",
+    "einecs_number": "283-656-2",
+    "description": "Mentha Spicata Herb Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [
+      "Adult toothpaste (1.02%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Mentha Viridis Leaf Oil",
+    "inci_name": "MENTHA VIRIDIS LEAF OIL",
+    "cas_number": "84696-51-5 / 8008-79-5 - Spearmint leaf oil",
+    "einecs_number": "283-656-2 / -",
+    "description": "Mentha Viridis Leaf Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Astringent",
+      "Masking",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.25% косметических средств",
+    "common_product_types": [
+      "Adult toothpaste (4.68%)",
+      "Mouthwash (2.86%)",
+      "Face cream (0.32%)",
+      "Classic shampoo (0.29%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Methoxymethylbutanol",
+    "inci_name": "METHOXYMETHYLBUTANOL",
+    "cas_number": "56539-66-3",
+    "einecs_number": "260-252-4",
+    "description": "Methoxymethylbutanol — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Solvent"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Methoxyethanol",
+    "inci_name": "METHOXYETHANOL",
+    "cas_number": "109-86-4",
+    "einecs_number": "203-713-7",
+    "description": "Methoxyethanol — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Solvent",
+      "Viscosity controlling"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Methacryloyl Ethyl Betaine/Acrylates Copolymer",
+    "inci_name": "METHACRYLOYL ETHYL BETAINE/ACRYLATES COPOLYMER",
+    "cas_number": "87435-35-6",
+    "einecs_number": "",
+    "description": "Methacryloyl Ethyl Betaine/Acrylates Copolymer — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Antistatic",
+      "Film forming",
+      "Hair fixing"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Methyl 2-Octynoate",
+    "inci_name": "METHYL 2-OCTYNOATE",
+    "cas_number": "111-12-6",
+    "einecs_number": "203-836-6",
+    "description": "Methyl 2-octynoate is a synthetic odorous molecule that is one of the allergens regulated by Europe.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.26% косметических средств",
+    "common_product_types": [
+      "Eau de parfum for men (6.06%)",
+      "Men's cologne (5.04%)",
+      "Eau de toilette for women (4.46%)",
+      "Perfume for women (4.09%)",
+      "Lipstick (2%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Synthetic."
+  },
+  {
+    "name": "Methyl Alcohol",
+    "inci_name": "METHYL ALCOHOL",
+    "cas_number": "67-56-1",
+    "einecs_number": "200-659-6",
+    "description": "Methyl Alcohol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Denaturant",
+      "Masking",
+      "Solvent"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Methyl Benzoate",
+    "inci_name": "METHYL BENZOATE",
+    "cas_number": "93-58-3",
+    "einecs_number": "202-259-7",
+    "description": "Methyl Benzoate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Emollient",
+      "Masking",
+      "Preservative",
+      "Solvent"
+    ],
+    "prevalence": "0.14% косметических средств",
+    "common_product_types": [
+      "Styling spray (2.78%)",
+      "Styling gel (2.34%)",
+      "Oxidative hair coloring (0.76%)",
+      "Adult sun cream (0.69%)",
+      "Body moisturizer (0.25%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Methyl Benzophenone",
+    "inci_name": "METHYL BENZOPHENONE",
+    "cas_number": "134-84-9",
+    "einecs_number": "205-159-1",
+    "description": "Methyl Benzophenone — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Stabilising"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Methyl Diethanolamine",
+    "inci_name": "METHYL DIETHANOLAMINE",
+    "cas_number": "105-59-9",
+    "einecs_number": "203-312-7",
+    "description": "Methyl Diethanolamine — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Film forming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Methicone",
+    "inci_name": "METHICONE",
+    "cas_number": "9004-73-3",
+    "einecs_number": "",
+    "description": "Methicone — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Antistatic",
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.85% косметических средств",
+    "common_product_types": [
+      "Foundation (17.69%)",
+      "Concealer (17.28%)",
+      "Compact powder (11.66%)",
+      "Concealer / concealer (8.47%)",
+      "Nail polish (6.11%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Methoxydiglycol",
+    "inci_name": "METHOXYDIGLYCOL",
+    "cas_number": "111-77-3",
+    "einecs_number": "203-906-6",
+    "description": "Methoxydiglycol — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Masking",
+      "Solvent",
+      "Viscosity controlling",
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Methyl N-Methylanthranilate",
+    "inci_name": "METHYL N-METHYLANTHRANILATE",
+    "cas_number": "85-91-6",
+    "einecs_number": "201-642-6",
+    "description": "Methyl N-Methylanthranilate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Methoxypropylamino Cyclohexenylidene Ethoxyethylcyanoacetate",
+    "inci_name": "METHOXYPROPYLAMINO CYCLOHEXENYLIDENE ETHOXYETHYLCYANOACETATE",
+    "cas_number": "1419401-88-9",
+    "einecs_number": "",
+    "description": "Methoxypropylamino cyclohexenylidene ethoxyethylcyanoacetate is a chemical UV filter approved for use in sunscreens in Europe. It absorbs UVA rays (360-400 nm). Due to its production method, it is associated with an orange flower on our app. It is prohibited in spray products.",
+    "rating": "caution",
+    "functions": [
+      "Stabilising",
+      "Uv filter"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [
+      "Adult sun cream (0.36%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Methyl Perfluoro Butyl/Isobutyl Ether",
+    "inci_name": "METHYL PERFLUORO BUTYL/ISOBUTYL ETHER",
+    "cas_number": "163702-07-6,163702-08-7",
+    "einecs_number": ",",
+    "description": "Methyl Perfluoro Butyl/Isobutyl Ether — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Solvent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Methyl Perfluorobutyl Ether",
+    "inci_name": "METHYL PERFLUOROBUTYL ETHER",
+    "cas_number": "163702-07-6",
+    "einecs_number": "",
+    "description": "Methyl Perfluorobutyl Ether — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Solvent",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [
+      "Fabric mask (0.96%)",
+      "Cream / gel mask (0.61%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Methyl Perfluoroisobutyl Ether",
+    "inci_name": "METHYL PERFLUOROISOBUTYL ETHER",
+    "cas_number": "163702-08-7",
+    "einecs_number": "",
+    "description": "Methyl Perfluoroisobutyl Ether — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Solvent",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [
+      "Fabric mask (1.03%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Methyl Gluceth-20",
+    "inci_name": "METHYL GLUCETH-20",
+    "cas_number": "68239-42-9",
+    "einecs_number": "",
+    "description": "Gluceth-20 methyl is produced from glucose, methyl alcohol and sugar derivatives. It is used in cosmetics as emollient (softens skin), moisturizing (retains water) and moisturizer. It is used mainly in moisturizing and nourishing care for dry and irritated skin. The ingredient does not pose any concern for human health, its impact on nature is more worrying (chemical transformation and low biodegradability).",
+    "rating": "caution",
+    "functions": [
+      "Humectant",
+      "Moisturising"
+    ],
+    "prevalence": "0.32% косметических средств",
+    "common_product_types": [
+      "Face moisturizing serum (2.13%)",
+      "Day anti-ageing face serum (1.7%)",
+      "Face lotion and toner (1.43%)",
+      "Fabric mask (0.95%)",
+      "Cream / gel mask (0.84%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Methyl Salicylate",
+    "inci_name": "METHYL SALICYLATE",
+    "cas_number": "119-36-8",
+    "einecs_number": "204-317-7",
+    "description": "Methyl salicylate is a volatile organic compound used in cosmetics due to its strong odor. Methyl salicylate is banned in Europe in preparations intended for children under 6 years of age, with the exception of toothpaste. It is one of the allergens regulated in Europe.",
+    "rating": "neutral",
+    "functions": [
+      "Denaturant",
+      "Oral care/hygiene agent",
+      "Soothing",
+      "Perfuming",
+      "Flavouring agent"
+    ],
+    "prevalence": "0.19% косметических средств",
+    "common_product_types": [
+      "Mouthwash (24.18%)",
+      "Adult toothpaste (0.65%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Natural."
+  },
+  {
+    "name": "Methyl Trimethicone",
+    "inci_name": "METHYL TRIMETHICONE",
+    "cas_number": "17928-28-8",
+    "einecs_number": "-",
+    "description": "Methyl Trimethicone — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Hair conditioning",
+      "Skin conditioning",
+      "Solvent"
+    ],
+    "prevalence": "0.42% косметических средств",
+    "common_product_types": [
+      "Root touch-up (31.35%)",
+      "Cc cream (9.01%)",
+      "Concealer (8.54%)",
+      "Foundation (7.66%)",
+      "Lip pencil (6.75%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Methylal",
+    "inci_name": "METHYLAL",
+    "cas_number": "109-87-5",
+    "einecs_number": "203-714-2",
+    "description": "Methylal — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Solvent"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Methylbenzyl Alcohol",
+    "inci_name": "METHYLBENZYL ALCOHOL",
+    "cas_number": "589-18-4",
+    "einecs_number": "209-639-1",
+    "description": "Methylbenzyl Alcohol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Methyl Octine Carbonate",
+    "inci_name": "METHYL OCTINE CARBONATE",
+    "cas_number": "111-80-8",
+    "einecs_number": "203-909-2",
+    "description": "Methyl Octine Carbonate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Methyldibromo Glutaronitrile",
+    "inci_name": "METHYLDIBROMO GLUTARONITRILE",
+    "cas_number": "35691-65-7",
+    "einecs_number": "252-681-0",
+    "description": "Methyldibromo Glutaronitrile — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Preservative"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Methyl Methacrylate Crosspolymer",
+    "inci_name": "METHYL METHACRYLATE CROSSPOLYMER",
+    "cas_number": "25777-71-3",
+    "einecs_number": "-",
+    "description": "Methyl Methacrylate Crosspolymer — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Film forming"
+    ],
+    "prevalence": "0.73% косметических средств",
+    "common_product_types": [
+      "Foundation (10.43%)",
+      "Concealer (9.6%)",
+      "Concealer / concealer (9.13%)",
+      "Bb cream (5.78%)",
+      "Foundation and primer (5.56%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Methyl Eugenol",
+    "inci_name": "METHYL EUGENOL",
+    "cas_number": "93-15-2",
+    "einecs_number": "202-223-0",
+    "description": "Methyl Eugenol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Perfuming"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Methylene Di-T-Butylcresol",
+    "inci_name": "METHYLENE DI-T-BUTYLCRESOL",
+    "cas_number": "119-47-1",
+    "einecs_number": "204-327-1",
+    "description": "To avoid - Toxic for reproduction according to ECHA (European Chemicals Agency). This molecule has been added to the list of SVHC substances in Europe.",
+    "rating": "avoid",
+    "functions": [
+      "Antioxidant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Methylene Glycol",
+    "inci_name": "METHYLENE GLYCOL",
+    "cas_number": "463-57-0",
+    "einecs_number": "207-339-5",
+    "description": "Methylene Glycol — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Maintenance agent for nails",
+      "Nail sculpting"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Methylparaben",
+    "inci_name": "METHYLPARABEN",
+    "cas_number": "99-76-3",
+    "einecs_number": "202-785-7",
+    "description": "Methylparaben is one of the short-chain parabens. It is used as a preservative (antifungal) in cosmetics. Although long-chain parabens are reputed to be the most dangerous, in 2025 Methylparaben is the subject of a request (from France) for specific classification as an endocrine disruptor at European level (CLH).In keeping with the precautionary principle, and the many controversies surrounding it, Methylparaben is associated with a red flower on our application.",
+    "rating": "avoid",
+    "functions": [
+      "Masking",
+      "Preservative"
+    ],
+    "prevalence": "5.5% косметических средств",
+    "common_product_types": [
+      "Cracks and crevices care (24.08%)",
+      "Make-up palette (18.12%)",
+      "Styling mousse (16.01%)",
+      "Styling hair wax (14.67%)",
+      "Treatment for coloured hair (14.11%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Methylpropanediol",
+    "inci_name": "METHYLPROPANEDIOL",
+    "cas_number": "2163-42-0",
+    "einecs_number": "412-350-5",
+    "description": "Methylpropanediol (MPD) is a synthetic ingredient used in cosmetics as a solvent, i.e. for its ability to dissolve various substances. It also has moisturizing properties and can be used to enhance the efficacy of certain preservatives.",
+    "rating": "safe",
+    "functions": [
+      "Solvent"
+    ],
+    "prevalence": "1.66% косметических средств",
+    "common_product_types": [
+      "Anti-aging set (14.75%)",
+      "Fabric mask (14.62%)",
+      "Anti-aging night face cream (9.1%)",
+      "Anti-aging day face cream (7.78%)",
+      "Anti-aging eye contour care (7.61%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Synthetic."
+  },
+  {
+    "name": "Methylisothiazolinone",
+    "inci_name": "METHYLISOTHIAZOLINONE",
+    "cas_number": "2682-20-4",
+    "einecs_number": "220-239-6",
+    "description": "Methylisothiazolinone, better known by the acronym MIT, is used as a synthetic preservative in cosmetics. It has been used as a substitute for parabens in so-called \"paraben free\" products by a number of brands. But, it turns out that the molecule is extremely allergenic, it's nerd! The American Contact Dermatitis Society even designated it in 2013 as the \"ALLERGEN OF THE YEAR\"!Due to many cases, European legislation has recently adapted:The ingredient has been completely banned in rinsed products since February 2017 and since April 2018, the maximum permitted levels of MIT in rinsed products have been largely revised downward (see below).MIT is mostly used with CMIT (Methylchloroisothiazolinone).",
+    "rating": "avoid",
+    "functions": [
+      "Preservative"
+    ],
+    "prevalence": "5.35% косметических средств",
+    "common_product_types": [
+      "Fall protection shampoo (24.82%)",
+      "Anti-dandruff shampoo (24.8%)",
+      "Shampoo for colored/highlighted hair (23.73%)",
+      "Child shampoo (20.88%)",
+      "Classic shampoo (20.52%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Methyl Pyrrolidone",
+    "inci_name": "METHYL PYRROLIDONE",
+    "cas_number": "872-50-4",
+    "einecs_number": "212-828-1",
+    "description": "Methyl Pyrrolidone — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Solvent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Methylene Bis-Benzotriazolyl Tetramethylbutylphenol",
+    "inci_name": "METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL",
+    "cas_number": "103597-45-1",
+    "einecs_number": "403-800-1",
+    "description": "Methylene Bis-Benzotriazolyl Tetramethylbutylphenol is a chemical filter with a broad UV spectrum (290 to 400 nm), insoluble in water and oil. It is displayed with an orange flower on our application because of the way it is produced.",
+    "rating": "caution",
+    "functions": [
+      "Stabilising",
+      "Uv filter"
+    ],
+    "prevalence": "0.44% косметических средств",
+    "common_product_types": [
+      "Anti-ageing sun cream (15.35%)",
+      "Adult sun cream (12.3%)",
+      "Children sun cream (9.29%)",
+      "Anti-aging day face cream (1.25%)",
+      "Face cream (0.94%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Michelia Alba Leaf Oil",
+    "inci_name": "MICHELIA ALBA LEAF OIL",
+    "cas_number": "92457-18-6 - Magnolia leaf oil",
+    "einecs_number": "296-299-2",
+    "description": "Michelia Alba Leaf Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Milk Protein",
+    "inci_name": "MILK PROTEIN",
+    "cas_number": "91053-68-8",
+    "einecs_number": "",
+    "description": "Milk Protein — косметический ингредиент. Происхождение: Animal.",
+    "rating": "safe",
+    "functions": [
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.1% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Animal."
+  },
+  {
+    "name": "Mimosa Tenuiflora Bark Extract",
+    "inci_name": "MIMOSA TENUIFLORA BARK EXTRACT",
+    "cas_number": "93685-96-2 - Mimosa bark extract",
+    "einecs_number": "297-646-0",
+    "description": "Mimosa Tenuiflora Bark Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin protecting",
+      "Soothing"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Methylchloroisothiazolinone",
+    "inci_name": "METHYLCHLOROISOTHIAZOLINONE",
+    "cas_number": "26172-55-4",
+    "einecs_number": "247-500-7",
+    "description": "Methylchloroisothiazolinone, better known by the acronym CMIT, is a preservative used in cosmetics and household products together with Methylisothiazolinone (MIT).CMIT can not be used alone, but only with MIT. In fact, since MIT is prohibited in rinsed products, so is CMIT.",
+    "rating": "avoid",
+    "functions": [
+      "Preservative"
+    ],
+    "prevalence": "4.86% косметических средств",
+    "common_product_types": [
+      "Anti-dandruff shampoo (23.65%)",
+      "Fall protection shampoo (23.06%)",
+      "Shampoo for colored/highlighted hair (22.64%)",
+      "Liquid soap (20.37%)",
+      "Child shampoo (20.36%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Mineral Spirits",
+    "inci_name": "MINERAL SPIRITS",
+    "cas_number": "8032-32-4",
+    "einecs_number": "232-453-7",
+    "description": "Mineral Spirits — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Solvent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Mibk",
+    "inci_name": "MIBK",
+    "cas_number": "108-10-1",
+    "einecs_number": "203-550-1",
+    "description": "Mibk — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Denaturant",
+      "Solvent",
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Minoxidil Hyaluronamide",
+    "inci_name": "MINOXIDIL HYALURONAMIDE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Minoxidil Hyaluronamide — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Humectant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Mica",
+    "inci_name": "MICA",
+    "cas_number": "12001-26-2",
+    "einecs_number": "310-127-6",
+    "description": "Mica is a mineral often used as a white dye in make-up products, it can also be used as an opacifier. It is also represented in the INCI list by its ColorIndex, CI 77019.",
+    "rating": "safe",
+    "functions": [
+      "Anticaking",
+      "Bulking",
+      "Cosmetic colorant",
+      "Opacifying"
+    ],
+    "prevalence": "10.99% косметических средств",
+    "common_product_types": [
+      "Make-up palette (96.07%)",
+      "Eyeshadow (94.12%)",
+      "Eyebrow palette (91.01%)",
+      "Illuminators and complexion illuminator (89.06%)",
+      "Bronze powder / sun powder (88.28%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Mineral."
+  },
+  {
+    "name": "Minoxidil Oxothiazolidinecarboxylate",
+    "inci_name": "MINOXIDIL OXOTHIAZOLIDINECARBOXYLATE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Minoxidil Oxothiazolidinecarboxylate — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair conditioning",
+      "Hair fixing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Minoxidil Succinoyl Decapeptide-18",
+    "inci_name": "MINOXIDIL SUCCINOYL DECAPEPTIDE-18",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Minoxidil Succinoyl Decapeptide-18 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Mipa-Borate",
+    "inci_name": "MIPA-BORATE",
+    "cas_number": "26038-90-4; 68003-13-4",
+    "einecs_number": "268-109-8",
+    "description": "Mipa-Borate — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "pH regulator"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Mipa-Dodecylbenzenesulfonate",
+    "inci_name": "MIPA-DODECYLBENZENESULFONATE",
+    "cas_number": "54590-52-2 / 42504-46-1",
+    "einecs_number": "259-249-0",
+    "description": "Mipa-Dodecylbenzenesulfonate — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Cleansing",
+      "Surfactant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Mipa-Lauryl Sulfate",
+    "inci_name": "MIPA-LAURYL SULFATE",
+    "cas_number": "21142-28-9",
+    "einecs_number": "244-238-5",
+    "description": "This ingredient is ecotoxic: REACH (Aquatic Chronic 3)",
+    "rating": "caution",
+    "functions": [
+      "Cleansing",
+      "Surfactant"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [
+      "Classic shampoo (0.36%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Mineral Oil",
+    "inci_name": "MINERAL OIL",
+    "cas_number": "8012-95-1/ 8042-47-5/ 8020-83-5",
+    "einecs_number": "232-384-2/ 232-455-8",
+    "description": "Mineral Oil — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Emollient",
+      "Hair conditioning",
+      "Masking",
+      "Skin protecting",
+      "Solvent",
+      "Perfuming",
+      "Skin conditioning - occlusive"
+    ],
+    "prevalence": "1.18% косметических средств",
+    "common_product_types": [
+      "Face and body moisturizer (3.02%)",
+      "Body moisturizer (3%)",
+      "Hand cream (2.46%)",
+      "Deodorant stick (2.37%)",
+      "Lip balm (1.9%)"
+    ],
+    "note": "Требует осторожности при использовании. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Microcrystalline Cellulose",
+    "inci_name": "MICROCRYSTALLINE CELLULOSE",
+    "cas_number": "9004-34-6",
+    "einecs_number": "232-674-9",
+    "description": "Microcrystalline cellulose is a purified form of cellulose. It is used in cosmetics for its soft texture and ability to add volume without weighing down formulations. It is listed as a food ingredient under the name E430, and acts as a texturizing agent, bringing roundness to the palate.",
+    "rating": "safe",
+    "functions": [
+      "Abrasive",
+      "Absorbent",
+      "Anticaking",
+      "Bulking",
+      "Emulsion stabilising",
+      "Opacifying",
+      "Stabilising",
+      "Viscosity controlling"
+    ],
+    "prevalence": "1.09% косметических средств",
+    "common_product_types": [
+      "Children sun cream (25.05%)",
+      "Adult sun cream (10.82%)",
+      "Anti-ageing sun cream (8.34%)",
+      "Face scrub (7.43%)",
+      "Care set (5.02%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Morinda Citrifolia Fruit Juice",
+    "inci_name": "MORINDA CITRIFOLIA FRUIT JUICE",
+    "cas_number": "84929-68-0 - Noni fruit juice",
+    "einecs_number": "284-551-4",
+    "description": "Morinda Citrifolia Fruit Juice — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Minoxidil",
+    "inci_name": "MINOXIDIL",
+    "cas_number": "38304-91-5",
+    "einecs_number": "253-874-2",
+    "description": "Minoxidil — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair conditioning",
+      "Hair fixing"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Mipa-Laureth Sulfate",
+    "inci_name": "MIPA-LAURETH SULFATE",
+    "cas_number": "83016-76-6 / 9062-04-8",
+    "einecs_number": "",
+    "description": "Mipa-Laureth Sulfate is an anionic (negatively charged) surfactant. It is produced from palm oil and contains a much higher oil content (up to 30%) compared to other surfactants of the same type. This makes it much less dry and less hard.",
+    "rating": "caution",
+    "functions": [
+      "Cleansing",
+      "Surfactant"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [
+      "Shower oil (19.65%)",
+      "Classic shampoo (0.16%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Moringa Oleifera Seed Extract",
+    "inci_name": "MORINGA OLEIFERA SEED EXTRACT",
+    "cas_number": "93165-54-9 - Moringa seed extract",
+    "einecs_number": "",
+    "description": "Moringa Oleifera Seed Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.22% косметических средств",
+    "common_product_types": [
+      "Facial cleansing foam (2.14%)",
+      "Oxidative hair coloring (1.46%)",
+      "Foundation (1.09%)",
+      "Anti-aging day face cream (0.67%)",
+      "Hair conditioner (0.37%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Moringa Oleifera Seed Oil",
+    "inci_name": "MORINGA OLEIFERA SEED OIL",
+    "cas_number": "93165-54-9 - Moringa seed oil",
+    "einecs_number": "296-941-1",
+    "description": "Moringa Oleifera Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.35% косметических средств",
+    "common_product_types": [
+      "Hair oil (2.09%)",
+      "Body and face moisturizing oil (0.94%)",
+      "Hair conditioner (0.75%)",
+      "Lipstick (0.74%)",
+      "Specific hair care (0.73%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Moringa Pterygosperma Seed Extract",
+    "inci_name": "MORINGA PTERYGOSPERMA SEED EXTRACT",
+    "cas_number": "93165-54-9 - Moringa seed extract",
+    "einecs_number": "296-941-1",
+    "description": "Moringa Pterygosperma Seed Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.13% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (2.86%)",
+      "Classic shampoo (0.23%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Moringa Pterygosperma Seed Oil",
+    "inci_name": "MORINGA PTERYGOSPERMA SEED OIL",
+    "cas_number": "93165-54-9 - Moringa seed oil",
+    "einecs_number": "296-941-1",
+    "description": "Moringa Pterygosperma Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Montmorillonite",
+    "inci_name": "MONTMORILLONITE",
+    "cas_number": "1318-93-0 - Clay",
+    "einecs_number": "215-288-5",
+    "description": "Montmorillonite is a green clay composed of aluminum silicate and magnesium hydrate. It takes its name from the village of Montmorillon (Vienne, France), in which it was discovered in 1847: today this deposit is exhausted, it is found in the south of France or in the United States. In cosmetics, this clay is used for its absorbing, healing and mineralizing virtues. Montmorillonite is allowed in organic.",
+    "rating": "safe",
+    "functions": [
+      "Abrasive",
+      "Absorbent",
+      "Bulking",
+      "Emulsion stabilising",
+      "Stabilising",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.28% косметических средств",
+    "common_product_types": [
+      "Clay and ghassoul (25.25%)",
+      "Solid shampoo (9.64%)",
+      "Cream / gel mask (4.92%)",
+      "Face scrub (1.65%)",
+      "Solid soap (1.6%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Mineral."
+  },
+  {
+    "name": "Morus Alba Root Extract",
+    "inci_name": "MORUS ALBA ROOT EXTRACT",
+    "cas_number": "94167-05-2 - White mulberry root extract",
+    "einecs_number": "303-403-2",
+    "description": "Morus Alba Root Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Bleaching",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Morinda Citrifolia Fruit Extract",
+    "inci_name": "MORINDA CITRIFOLIA FRUIT EXTRACT",
+    "cas_number": "84929-68-0 - Noni fruit extract",
+    "einecs_number": "284-551-4",
+    "description": "Morinda Citrifolia Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Musa Acuminata Extract",
+    "inci_name": "MUSA ACUMINATA EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Musa Acuminata Extract — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Skin protecting"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Musa Sapientum Fruit Extract",
+    "inci_name": "MUSA SAPIENTUM FRUIT EXTRACT",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Musa Sapientum Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.14% косметических средств",
+    "common_product_types": [
+      "Hair mask (0.63%)",
+      "Cream / gel mask (0.62%)",
+      "Hair conditioner (0.31%)",
+      "Classic shampoo (0.27%)",
+      "Body moisturizer (0.21%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Morinda Citrifolia Leaf Extract",
+    "inci_name": "MORINDA CITRIFOLIA LEAF EXTRACT",
+    "cas_number": "84929-68-0",
+    "einecs_number": "284-551-4",
+    "description": "Morinda Citrifolia Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Musk Ketone",
+    "inci_name": "MUSK KETONE",
+    "cas_number": "81-14-1",
+    "einecs_number": "201-328-9",
+    "description": "Musk Ketone — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Mussel Extract",
+    "inci_name": "MUSSEL EXTRACT",
+    "cas_number": "94465-78-8",
+    "einecs_number": "305-363-1",
+    "description": "Mussel Extract — косметический ингредиент. Происхождение: Animal.",
+    "rating": "safe",
+    "functions": [
+      "Unclassified"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Animal."
+  },
+  {
+    "name": "Moringa Oleifera Leaf Extract",
+    "inci_name": "MORINGA OLEIFERA LEAF EXTRACT",
+    "cas_number": "93165-54-9 - Moringa Leaf Extract",
+    "einecs_number": "296-941-1",
+    "description": "Moringa Oleifera Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Myrica Rubra Fruit Juice",
+    "inci_name": "MYRICA RUBRA FRUIT JUICE",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Myrica Rubra Fruit Juice — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Flavouring agent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Myristamide Dipa",
+    "inci_name": "MYRISTAMIDE DIPA",
+    "cas_number": "83270-36-4",
+    "einecs_number": "280-357-9 (I)",
+    "description": "Myristamide Dipa — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Cleansing",
+      "Foam boosting",
+      "Surfactant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Mucuna Pruriens Seed Extract",
+    "inci_name": "MUCUNA PRURIENS SEED EXTRACT",
+    "cas_number": "90064-10-1 - Velvet bean seed extract",
+    "einecs_number": "290-071-6",
+    "description": "Mucuna Pruriens Seed Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent",
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Morus Alba Bark Extract",
+    "inci_name": "MORUS ALBA BARK EXTRACT",
+    "cas_number": "94167-05-2 - White Mulberry bark extract",
+    "einecs_number": "303-403-2",
+    "description": "Morus Alba Bark Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.1% косметических средств",
+    "common_product_types": [
+      "Fabric mask (1.1%)",
+      "Foundation (0.66%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Myristic Acid",
+    "inci_name": "MYRISTIC ACID",
+    "cas_number": "544-63-8",
+    "einecs_number": "208-875-2",
+    "description": "Myristic Acid — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Perfuming"
+    ],
+    "prevalence": "0.85% косметических средств",
+    "common_product_types": [
+      "Shaving cream (28.47%)",
+      "Shaving cream (23.15%)",
+      "Shaving gel (15.56%)",
+      "Facial cleansing foam (15.42%)",
+      "Face cleansing cream (9.15%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Musk Xylene",
+    "inci_name": "MUSK XYLENE",
+    "cas_number": "81-15-2",
+    "einecs_number": "201-329-4",
+    "description": "Musk Xylene — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Masking",
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Myrciaria Dubia Fruit Extract",
+    "inci_name": "MYRCIARIA DUBIA FRUIT EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Myrciaria Dubia Fruit Extract — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Myristyl Lactate",
+    "inci_name": "MYRISTYL LACTATE",
+    "cas_number": "1323-03-1",
+    "einecs_number": "215-350-1",
+    "description": "Myristyl Lactate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.25% косметических средств",
+    "common_product_types": [
+      "Lip pencil (5.9%)",
+      "Eyeliner and kajal (4.29%)",
+      "Solid shampoo (3.92%)",
+      "Eyes and kohl pencil (3.9%)",
+      "Lipstick (2.05%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Myristyl Myristate",
+    "inci_name": "MYRISTYL MYRISTATE",
+    "cas_number": "3234-85-3",
+    "einecs_number": "221-787-9",
+    "description": "Myristyl Myristate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Opacifying",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.75% косметических средств",
+    "common_product_types": [
+      "Eyebrow pencil (8.83%)",
+      "Feet moisturizers (5.25%)",
+      "Anti-aging night face cream (5.17%)",
+      "Night face cream (4.9%)",
+      "Lip pencil (4.85%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Myroxylon Balsamum Pereirae Balsam Oil",
+    "inci_name": "MYROXYLON BALSAMUM PEREIRAE BALSAM OIL",
+    "cas_number": "8007-00-9",
+    "einecs_number": "232-352-8",
+    "description": "Myroxylon Balsamum Pereirae Balsam Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Myroxylon Pereirae Oil",
+    "inci_name": "MYROXYLON PEREIRAE OIL",
+    "cas_number": "8007-00-9",
+    "einecs_number": "232-352-8",
+    "description": "Myroxylon Pereirae Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Myroxylon Pereirae Oil/Extract",
+    "inci_name": "MYROXYLON PEREIRAE OIL/EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Myroxylon Pereirae Oil/Extract — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Myroxylon Pereirae Resin",
+    "inci_name": "MYROXYLON PEREIRAE RESIN",
+    "cas_number": "8007-00-9",
+    "einecs_number": "232-352-8",
+    "description": "Myroxylon Pereirae Resin — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Film forming",
+      "Hair conditioning",
+      "Masking"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Myroxylon Pereirae Resin Extract",
+    "inci_name": "MYROXYLON PEREIRAE RESIN EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Myroxylon Pereirae Resin Extract — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Skin conditioning",
+      "Flavouring agent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Myrtus Communis Oil",
+    "inci_name": "MYRTUS COMMUNIS OIL",
+    "cas_number": "84082-67-7 / 8008-46-6 - Myrtle oil",
+    "einecs_number": "282-012-8 / -",
+    "description": "Myrtus Communis Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Myristamidopropyl Betaine",
+    "inci_name": "MYRISTAMIDOPROPYL BETAINE",
+    "cas_number": "59272-84-3",
+    "einecs_number": "261-684-6",
+    "description": "Myristamidopropyl Betaine — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Cleansing",
+      "Foam boosting",
+      "Hair conditioning",
+      "Skin conditioning",
+      "Surfactant"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Myristyl Alcohol",
+    "inci_name": "MYRISTYL ALCOHOL",
+    "cas_number": "112-72-1",
+    "einecs_number": "204-000-3",
+    "description": "Myristic alcohol or Tetradecanol is a fatty alcohol used in cosmetics as an emollient (helps water and oil to mix). It is derived from coconut oil, palm kernel oil, or even nutmeg. Myristic alcohol is permitted in organic/bio products.The CIR (Cosmetic Ingredient Review) in an annual report published in 2008, concluded the safety of fatty alcohols.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Emulsion stabilising",
+      "Foam boosting",
+      "Skin conditioning",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.98% косметических средств",
+    "common_product_types": [
+      "Hair mask (5.41%)",
+      "Oxidative hair coloring (5.07%)",
+      "Care for dry and damaged hair (4.34%)",
+      "Hair conditioner (3.4%)",
+      "Specific hair care (3.26%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Myristica Fragrans Kernel Oil",
+    "inci_name": "MYRISTICA FRAGRANS KERNEL OIL",
+    "cas_number": "8007-12-3 / 8008-45-5 - Nutmeg kernel oil",
+    "einecs_number": "",
+    "description": "Myristica Fragrans Kernel Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Myroxylon Balsamum Pereirae Balsam Extract",
+    "inci_name": "MYROXYLON BALSAMUM PEREIRAE BALSAM EXTRACT",
+    "cas_number": "8007-00-9",
+    "einecs_number": "232-352-8",
+    "description": "Myroxylon Balsamum Pereirae Balsam Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  }
+]

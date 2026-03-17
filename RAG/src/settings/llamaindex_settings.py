@@ -34,14 +34,14 @@ async def initialize_settings(aclient: httpx.AsyncClient, client: httpx.Client):
     if not _initialized:
         try:
             logger.debug("Start to load models...")
-            Settings.embed_model = settings.emb_model
-            #Settings.embed_model = CustomTextEmbeddingsInference(
-            #        model_name=settings.emb_model,  # MUST BE THE SAME AS IN OFFICIAL DOCS
-            #        base_url=settings.emb_api,
-            #        auth_token=settings.emb_api_key,
-            #        timeout=60,  
-            #       embed_batch_size=10,  # batch size for embedding
-            #   )
+            #Settings.embed_model = "local:models/Qwen/Qwen3-Embedding-0.6B/"
+            Settings.embed_model = CustomTextEmbeddingsInference(
+                    model_name=settings.emb_model,  # MUST BE THE SAME AS IN OFFICIAL DOCS
+                    base_url=settings.emb_api,
+                    auth_token=settings.emb_api_key,
+                    timeout=150,  
+                    embed_batch_size=16,  # batch size for embedding
+                )
             
             logger.debug("Emdeddig model is ready")
             Settings.llm = OpenLLM(

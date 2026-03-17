@@ -1,16 +1,13 @@
-identify_product_task:
+rag_query_task:
   description: >
-    Use the barcode: {barcode} to search public sources and barcode databases (like Open Food Facts, GS1, retail sites).
-    Find the official product name, brand, and category. Only return verified results.
+    Based on the product information from barcode parser: {product_info}, formulate intelligent queries to the RAG knowledge base.
+    Extract relevant information about the product, its properties, ingredients, usage recommendations, or any other relevant details.
+    Use the RAG Query Tool to search the knowledge base. When calling the tool, provide a JSON string with:
+    - "query": your question based on the product information
+    - "collection_id": "{collection_id}"
+    - "system_prompt": "{system_prompt}"
+    Example: {{"query": "What are the ingredients and properties of this product?", "collection_id": "{collection_id}", "system_prompt": "{system_prompt}"}}
+    Provide comprehensive answers based on the retrieved information.
   expected_output: >
-    A clear product name (e.g., "Coca-Cola Classic 0.33L Can"), brand, and category.
-  agent: barcode_researcher
-
-reporting_task:
-  description: >
-    Take the raw product data from the barcode lookup and format it into a clean, human-readable summary.
-    Remove any uncertainty or unverified claims.
-  expected_output: >
-    A well-structured summary including: Product Name, Brand, Category.
-  agent: reporting_analyst
-  output_file: 'product_summary.txt'
+    A detailed response from the RAG system containing relevant information about the product based on the knowledge base.
+  agent: rag_consultant

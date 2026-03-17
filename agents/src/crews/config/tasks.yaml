@@ -1,0 +1,48 @@
+rag_query_task:
+  description: >
+    Based on the product information from barcode parser: {product_info}, formulate intelligent queries to the RAG knowledge base.
+    Extract relevant information about the product, its properties, ingredients, usage recommendations, or any other relevant details.
+    Use the RAG Query Tool to search the knowledge base. If the RAG response does not contain a direct match for the product, use the "Sonar General Search" tool to find the product and its details. When calling the RAG Query Tool, provide a JSON string with:
+    - "query": your question based on the product information
+    - "collection_id": "{collection_id}"
+    - "system_prompt": "{system_prompt}"
+    Example: {{"query": "What are the ingredients and properties of this product?", "collection_id": "{collection_id}", "system_prompt": "{system_prompt}"}}
+    Provide comprehensive answers based on the retrieved information. If multiple similar products are returned by RAG, prioritize the first one if it looks the same.
+  expected_output: >
+    A detailed response from the RAG system containing relevant information about the product based on the knowledge base.
+  agent: rag_consultant
+
+ingredient_analysis_task:
+  description: >
+    Analyze the provided product information and ingredient list from the RAG system.
+    For each ingredient, use the Inci Query Tool to find its rating and note from inci.json.
+    Categorize ingredients into 'safe', 'neutral', 'caution', and 'avoid' based on their rating.
+    The final output should be a JSON object with the product description and categorized ingredient lists.
+    Example output:
+    {{
+      "product_description": "[Product Description from RAG]",
+      "safe_ingredients": [
+        {{"name": "Ingredient A", "rating": "safe", "note": "[Note]"}}
+      ],
+      "neutral_ingredients": [
+        {{"name": "Ingredient B", "rating": "neutral", "note": "[Note]"}}
+      ],
+      "caution_ingredients": [
+        {{"name": "Ingredient C", "rating": "caution", "note": "[Note]"}}
+      ],
+      "avoid_ingredients": [
+        {{"name": "Ingredient D", "rating": "avoid", "note": "[Note]"}}
+      ]
+    }}
+  expected_output: >
+    A JSON object containing the product description and categorized lists of ingredients with their ratings and notes.
+  agent: ingredient_analyzer
+
+ingredient_summary_task:
+  description: >
+    Using the detailed ingredient analysis from the previous task, generate a concise, mobile-friendly summary in Russian.
+    The summary should follow the exact format specified in the agent's goal, including sections for product type, effectiveness, barrier impact, cautions, comedogenicity, suitable skin types, and a concluding remark.
+    Ensure all output constraints are met: Russian language, single structured message, no raw JSON, no full ingredient lists, no excessive technical jargon, probabilistic language for concentrations, and clear uncertainty statements if data is insufficient.
+  expected_output: >
+    A single, structured message in Russian, summarizing the product analysis in a mobile-friendly format, adhering to all specified output constraints.
+  agent: ingredient_summarizer

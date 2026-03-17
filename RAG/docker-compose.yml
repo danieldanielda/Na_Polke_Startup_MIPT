@@ -1,0 +1,22 @@
+services:
+  rag:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      shm_size: '6gb'
+
+    container_name: rag
+
+    ports:
+      - '8457:8457'
+
+    volumes:
+
+      - './files:/home/ubuntu/projects/na_polke_common/rag/files/:rw'
+      - '../../data/parser:/home/ubuntu/projects/na_polke_common/rag/files/global_documents/:rw'
+      - './prompts:/home/ubuntu/projects/na_polke_common/rag/prompts/:rw'
+
+    env_file:
+      - '.rag.env'
+    command: ["./entrypoint.sh"]
+    restart: unless-stopped

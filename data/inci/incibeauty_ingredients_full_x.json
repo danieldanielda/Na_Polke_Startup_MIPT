@@ -1,0 +1,88 @@
+[
+  {
+    "name": "Xanthan Gum",
+    "inci_name": "XANTHAN GUM",
+    "cas_number": "11138-66-2",
+    "einecs_number": "234-394-2",
+    "description": "Xanthan gum is used in cosmetics as an emulsion stabilizer, film-forming agent or binder. It is obtained by the fermentation of a carbohydrate (for example glucose) with the bacterium Xanthomonas campestris. It is authorized in Bio.A 2016 study of the Cosmetic Ingredient Review (CIR) on microbial polysaccharide gums, of which Xanthan gum is a part, concludes that the ingredient is safe.Note that Xanthan gum is not regulated in Europe. In the United States, the FDA limits its use to 6% of the total ingredients in cosmetics.",
+    "rating": "safe",
+    "functions": [
+      "Binding agent",
+      "Emulsifying",
+      "Emulsion stabilising",
+      "Gel forming",
+      "Skin conditioning",
+      "Surfactant",
+      "Viscosity controlling"
+    ],
+    "prevalence": "17.35% косметических средств",
+    "common_product_types": [
+      "Shower gel powder (89.53%)",
+      "Anti-ageing sun cream (68.74%)",
+      "Anti-aging set (68.71%)",
+      "Fabric mask (63.65%)",
+      "Anti-aging for men (63.2%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Xylitol",
+    "inci_name": "XYLITOL",
+    "cas_number": "87-99-0 - Birch sugar",
+    "einecs_number": "201-788-0",
+    "description": "Xylitol is also called birch sugar because it is mainly obtained from the bark of this tree. Nevertheless, one can find a little everywhere (ears of corn, bark of coconut and in some fruits ...). It is a sweetener whose sweetening power is equivalent to that of sugar (sucrose), but with 2 times less calories (2.4 kcal / g against 4.0 kcal / g for sugar). In cosmetics, it is used as humectant and in toothpastes one appreciates its sweet taste. The ingredient is not cariogenic (caries generator, as can sugar). Xylitol also has a very low glycemic index which makes it a major asset against hyperglycemia, for example. It is used in food under the name E967.Studies have also shown that used over a long period, it can have an anti caries incidence, increasing salivary flow and pH while reducing the number of cariogenic bacteria and periodontopathogens.",
+    "rating": "safe",
+    "functions": [
+      "Anti dandruff",
+      "Deodorant",
+      "Humectant",
+      "Flavouring agent",
+      "Skin conditioning - humectant"
+    ],
+    "prevalence": "1.67% косметических средств",
+    "common_product_types": [
+      "Chewable toothpaste (65%)",
+      "Solid toothpaste (33.33%)",
+      "Children toothpaste (31.59%)",
+      "Mouthwash (21.16%)",
+      "Adult toothpaste (16%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Xylitylglucoside",
+    "inci_name": "XYLITYLGLUCOSIDE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Xylitylglucoside — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Humectant",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.8% косметических средств",
+    "common_product_types": [
+      "Face cream (3.82%)",
+      "Night face cream (3.75%)",
+      "Face moisturizing serum (3.74%)",
+      "Fabric mask (3.44%)",
+      "Treatment for curly hair (2.87%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Ximenia Americana Seed Oil",
+    "inci_name": "XIMENIA AMERICANA SEED OIL",
+    "cas_number": "95193-67-2 - Tallow wood seed oil",
+    "einecs_number": "305-880-2",
+    "description": "Ximenia Americana Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Masking"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  }
+]

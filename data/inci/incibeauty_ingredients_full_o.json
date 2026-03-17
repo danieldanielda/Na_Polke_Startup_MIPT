@@ -1,0 +1,1495 @@
+[
+  {
+    "name": "O-Aminophenol",
+    "inci_name": "O-AMINOPHENOL",
+    "cas_number": "95-55-6",
+    "einecs_number": "202-431-1",
+    "description": "O-Aminophenol — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Ocimum Basilicum Extract",
+    "inci_name": "OCIMUM BASILICUM EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Ocimum Basilicum Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant",
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "O-Phenylphenol",
+    "inci_name": "O-PHENYLPHENOL",
+    "cas_number": "90-43-7",
+    "einecs_number": "201-993-5",
+    "description": "Orthophenylphenol is a preservative used in cosmetics. Its maximum authorized concentration has been redefined by the European regulation n ° 2018/1848",
+    "rating": "neutral",
+    "functions": [
+      "Preservative"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Ocimum Basilicum Flower/Leaf Extract",
+    "inci_name": "OCIMUM BASILICUM FLOWER/LEAF EXTRACT",
+    "cas_number": "84775-71-3 - Basil extract (flowers and leaves)",
+    "einecs_number": "283-900-8",
+    "description": "Ocimum Basilicum Flower/Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Tonic"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "O-Cymen-5-Ol",
+    "inci_name": "O-CYMEN-5-OL",
+    "cas_number": "3228-02-2 / 39660-61-2",
+    "einecs_number": "221-761-7 / -",
+    "description": "O-Cymen-5-Ol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Antimicrobial",
+      "Deodorant",
+      "Preservative"
+    ],
+    "prevalence": "0.48% косметических средств",
+    "common_product_types": [
+      "Mouthwash (3.19%)",
+      "Eye contour care (1.81%)",
+      "Personal hygiene (1.76%)",
+      "Anti-aging day face cream (1.73%)",
+      "Adult sun cream (1.55%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Ocimum Basilicum Herb Oil",
+    "inci_name": "OCIMUM BASILICUM HERB OIL",
+    "cas_number": "84775-71-3 - Basil oil",
+    "einecs_number": "283-900-8",
+    "description": "Ocimum Basilicum Herb Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Octafluoropentyl Methacrylate",
+    "inci_name": "OCTAFLUOROPENTYL METHACRYLATE",
+    "cas_number": "355-93-1",
+    "einecs_number": "206-596-0",
+    "description": "Octafluoropentyl Methacrylate — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Binding agent"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Ocimum Basilicum Oil",
+    "inci_name": "OCIMUM BASILICUM OIL",
+    "cas_number": "84775-71-3 / 8015-73-4 - Basil oil",
+    "einecs_number": "283-900-8 / -",
+    "description": "Ocimum Basilicum Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Tonic"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Ocimum Sanctum Leaf Extract",
+    "inci_name": "OCIMUM SANCTUM LEAF EXTRACT",
+    "cas_number": "91845-35-1 - Holy basil leaf extract",
+    "einecs_number": "295-208-3",
+    "description": "Ocimum Sanctum Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.18% косметических средств",
+    "common_product_types": [
+      "Face moisturizing serum (1.04%)",
+      "Cream / gel mask (0.61%)",
+      "Face cream (0.58%)",
+      "Fabric mask (0.56%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Ocimum Basilicum Leaf Extract",
+    "inci_name": "OCIMUM BASILICUM LEAF EXTRACT",
+    "cas_number": "84775-71-3 - Basil extract",
+    "einecs_number": "283-900-8",
+    "description": "Ocimum Basilicum Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Octenidine Hcl",
+    "inci_name": "OCTENIDINE HCL",
+    "cas_number": "70775-75-6",
+    "einecs_number": "274-861-8",
+    "description": "Octenidine HCL is mainly used in deodorants because of its antimicrobial properties.",
+    "rating": "safe",
+    "functions": [
+      "Antimicrobial"
+    ],
+    "prevalence": "0.16% косметических средств",
+    "common_product_types": [
+      "Deodorant spray (5.11%)",
+      "Roll-on deodorant (3.07%)",
+      "Deodorant stick (1.28%)",
+      "Body moisturizer (0.23%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Synthetic."
+  },
+  {
+    "name": "Octoxynol-1",
+    "inci_name": "OCTOXYNOL-1",
+    "cas_number": "2315-67-5",
+    "einecs_number": "-",
+    "description": "Octoxynol-1 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Octoxynol-11",
+    "inci_name": "OCTOXYNOL-11",
+    "cas_number": "9002-93-1",
+    "einecs_number": "-",
+    "description": "Octoxynol-11 — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "avoid",
+    "functions": [
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Octoxynol-13",
+    "inci_name": "OCTOXYNOL-13",
+    "cas_number": "9002-93-1",
+    "einecs_number": "-",
+    "description": "Octoxynol-13 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Octoxynol-40",
+    "inci_name": "OCTOXYNOL-40",
+    "cas_number": "9002-93-1",
+    "einecs_number": "-",
+    "description": "Octoxynol-40 — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "avoid",
+    "functions": [
+      "Cleansing",
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Octoxynol-12",
+    "inci_name": "OCTOXYNOL-12",
+    "cas_number": "9002-93-1",
+    "einecs_number": "-",
+    "description": "Octoxynol-12 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Emulsifying"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Octoxynol-3",
+    "inci_name": "OCTOXYNOL-3",
+    "cas_number": "9002-93-1",
+    "einecs_number": "-",
+    "description": "Octoxynol-3 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Octocrylene",
+    "inci_name": "OCTOCRYLENE",
+    "cas_number": "6197-30-4",
+    "einecs_number": "228-250-8",
+    "description": "Octocrylene is a synthetic UVB filter. It absorbs UVB radiation (from 280 to 320 nm). It is suspected of being an endocrine disruptor for humans and aquatic life. It is notably responsible for the phenomenon of coral reef bleaching.",
+    "rating": "avoid",
+    "functions": [
+      "Stabilising",
+      "Uv absorber",
+      "Uv filter"
+    ],
+    "prevalence": "1.84% косметических средств",
+    "common_product_types": [
+      "Adult sun cream (40.08%)",
+      "Children sun cream (36.91%)",
+      "Anti-ageing sun cream (32.26%)",
+      "Sunscreen lip balm (29.2%)",
+      "Tanning oil (21.57%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Octoxynol-10",
+    "inci_name": "OCTOXYNOL-10",
+    "cas_number": "9002-93-1",
+    "einecs_number": "-",
+    "description": "Octoxynol-10 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Octoxynol-9",
+    "inci_name": "OCTOXYNOL-9",
+    "cas_number": "9002-93-1",
+    "einecs_number": "-",
+    "description": "Octoxynol-9 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Octrizole",
+    "inci_name": "OCTRIZOLE",
+    "cas_number": "3147-75-9",
+    "einecs_number": "221-573-5",
+    "description": "Octrizole — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "avoid",
+    "functions": [
+      "Uv absorber"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Octydodecyl Bis-Hydroxypropyl Dimethicone Citrate Crosspolymer",
+    "inci_name": "OCTYDODECYL BIS-HYDROXYPROPYL DIMETHICONE CITRATE CROSSPOLYMER",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Octydodecyl Bis-Hydroxypropyl Dimethicone Citrate Crosspolymer — косметический ингредиент.",
+    "rating": "caution",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Octyl Salicylate",
+    "inci_name": "OCTYL SALICYLATE",
+    "cas_number": "6969-49-9",
+    "einecs_number": "230-190-2",
+    "description": "Octyl Salicylate — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [
+      "Adult sun cream (0.47%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Octyldodecanol",
+    "inci_name": "OCTYLDODECANOL",
+    "cas_number": "5333-42-6",
+    "einecs_number": "226-242-9",
+    "description": "Octyldodecanol is a fatty alcohol used for its solvent and emollient properties in cosmetics. It is produced from natural fats and oils. It can be easily used in a wide range of cosmetics, it moisturizes the skin and hair, stabilizes lotions and creams. It is used as a solvent in perfumes. It is authorized in organic.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Masking",
+      "Solvent",
+      "Perfuming"
+    ],
+    "prevalence": "4.56% косметических средств",
+    "common_product_types": [
+      "Lip make-up set (44.34%)",
+      "Lipstick (40.9%)",
+      "Lacquer and lip ink (37.67%)",
+      "Gloss and lip gloss (35.5%)",
+      "Tinted lip balm (35.32%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Oenocarpus Bataua Fruit Oil",
+    "inci_name": "OENOCARPUS BATAUA FRUIT OIL",
+    "cas_number": "1938910-14-5 - Patawa fruit oil",
+    "einecs_number": "",
+    "description": "Oenocarpus Bataua Fruit Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Moisturising"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Oenocarpus Bataua Seed Oil",
+    "inci_name": "OENOCARPUS BATAUA SEED OIL",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Oenocarpus Bataua Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Octoxynol-5",
+    "inci_name": "OCTOXYNOL-5",
+    "cas_number": "9002-93-1",
+    "einecs_number": "-",
+    "description": "Octoxynol-5 — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Emulsifying",
+      "Surfactant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Oenothera Biennis Extract",
+    "inci_name": "OENOTHERA BIENNIS EXTRACT",
+    "cas_number": "90028-66-3 - Evening primrose extract",
+    "einecs_number": "289-859-2",
+    "description": "Oenothera Biennis Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant",
+      "Skin protecting",
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Oenothera Biennis Leaf Extract",
+    "inci_name": "OENOTHERA BIENNIS LEAF EXTRACT",
+    "cas_number": "90028-66-3 - Evening Primrose leaf extract",
+    "einecs_number": "289-859-2",
+    "description": "Oenothera Biennis Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Oenothera Biennis Oil",
+    "inci_name": "OENOTHERA BIENNIS OIL",
+    "cas_number": "90028-66-3 - Evening primrose oil",
+    "einecs_number": "289-859-2",
+    "description": "Oenothera Biennis Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient"
+    ],
+    "prevalence": "0.58% косметических средств",
+    "common_product_types": [
+      "Face anti-aging oil (11.08%)",
+      "Shower oil (4.56%)",
+      "Night face cream (3.75%)",
+      "Anti-aging night face cream (2.89%)",
+      "Eye contour care (2.73%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Olea Europaea Flower Extract",
+    "inci_name": "OLEA EUROPAEA FLOWER EXTRACT",
+    "cas_number": "8001-25-0 - Olive flower extract",
+    "einecs_number": "232-277-0",
+    "description": "Olea Europaea Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Olea Europaea Fruit",
+    "inci_name": "OLEA EUROPAEA FRUIT",
+    "cas_number": "8001-25-0",
+    "einecs_number": "232-277-0",
+    "description": "Olea Europaea Fruit — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Abrasive",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Olea Europaea Fruit Extract",
+    "inci_name": "OLEA EUROPAEA FRUIT EXTRACT",
+    "cas_number": "84012-27-1 - Olive extract",
+    "einecs_number": "",
+    "description": "Olea Europaea Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Bleaching",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.31% косметических средств",
+    "common_product_types": [
+      "Lipstick (1.4%)",
+      "Eyeshadow (1.35%)",
+      "Liquid soap (0.65%)",
+      "Solid soap (0.54%)",
+      "Face cream (0.47%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Olea Europaea Fruit Oil",
+    "inci_name": "OLEA EUROPAEA FRUIT OIL",
+    "cas_number": "8001-25-0 - Olive oil",
+    "einecs_number": "232-277-0",
+    "description": "Olea Europaea Fruit Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "4.94% косметических средств",
+    "common_product_types": [
+      "Liniment (81.43%)",
+      "Black soap (34.36%)",
+      "Solid soap (20.19%)",
+      "Exfoliating solid soap (19.09%)",
+      "Face cleansing oil (18.54%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Olea Europaea Husk Oil",
+    "inci_name": "OLEA EUROPAEA HUSK OIL",
+    "cas_number": "8001-25-0 - Olive husk oil",
+    "einecs_number": "232-277-0",
+    "description": "Olea Europaea Husk Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Octyldodecyl Stearoyl Stearate",
+    "inci_name": "OCTYLDODECYL STEAROYL STEARATE",
+    "cas_number": "90052-75-8",
+    "einecs_number": "289-991-0",
+    "description": "Octyldodecyl Stearoyl Stearate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Viscosity controlling"
+    ],
+    "prevalence": "1.19% косметических средств",
+    "common_product_types": [
+      "Bronze powder / sun powder (30.8%)",
+      "Eyeshadow (27.13%)",
+      "Make-up palette (26.83%)",
+      "Compact powder (24.49%)",
+      "Blush (20.4%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Oenothera Biennis Seed Extract",
+    "inci_name": "OENOTHERA BIENNIS SEED EXTRACT",
+    "cas_number": "90028-66-3 - Evening primrose seed extract",
+    "einecs_number": "289-859-2",
+    "description": "Oenothera Biennis Seed Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [
+      "Anti-aging day face cream (0.65%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Olea Europaea Branch Extract",
+    "inci_name": "OLEA EUROPAEA BRANCH EXTRACT",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Olea Europaea Branch Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Olea Europaea Oil Unsaponifiables",
+    "inci_name": "OLEA EUROPAEA OIL UNSAPONIFIABLES",
+    "cas_number": "8001-25-0 / 156798-12-8 - Olive oil unsaponifiables",
+    "einecs_number": "232-277-0",
+    "description": "Olea Europaea Oil Unsaponifiables — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.37% косметических средств",
+    "common_product_types": [
+      "Mascara (4.77%)",
+      "Anti-aging day face cream (1.4%)",
+      "Lip balm (1.03%)",
+      "Face cream (1%)",
+      "Lipstick (0.93%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Olea Europaea Sap Extract",
+    "inci_name": "OLEA EUROPAEA SAP EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Olea Europaea Sap Extract — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Olaflur",
+    "inci_name": "OLAFLUR",
+    "cas_number": "6818-37-7",
+    "einecs_number": "229-891-6",
+    "description": "Olaflur is a fluorine salt of the organic type (amine fluoride) used since the end of the 1960s in toothpastes and oral hygiene products. With a PH that is more acidic than inorganic fluoride, it is more effective in the re-mineralization of tooth enamel. However, its manufacturing cost being much higher and its non-compatibility with abrasives derived from calcium, make it found in barely 5% of cosmetic oral hygiene products. It is forbidden in organic.Surprisingly, the ingredient is not subject to any European regulation. However, it is a fluoride whose rate must not exceed (1500 ppm F) or 0.15% of the total ingredients.",
+    "rating": "safe",
+    "functions": [
+      "Antiplaque",
+      "Hair fixing",
+      "Oral care/hygiene agent"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [
+      "Mouthwash (5.68%)",
+      "Children toothpaste (3.65%)",
+      "Adult toothpaste (2.02%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Synthetic."
+  },
+  {
+    "name": "Oleanolic Acid",
+    "inci_name": "OLEANOLIC ACID",
+    "cas_number": "508-02-1",
+    "einecs_number": "208-081-6",
+    "description": "Oleanolic Acid — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.22% косметических средств",
+    "common_product_types": [
+      "Anti-hair loss treatment (7.75%)",
+      "Fall protection shampoo (3.99%)",
+      "Anti-blemish treatment (3.14%)",
+      "Mascara (1.08%)",
+      "Specific hair care (0.68%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Oleic Acid",
+    "inci_name": "OLEIC ACID",
+    "cas_number": "112-80-1",
+    "einecs_number": "204-007-1",
+    "description": "Oleic Acid — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Emulsifying"
+    ],
+    "prevalence": "0.89% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (29.77%)",
+      "Shaving cream (9.57%)",
+      "Mascara (5.22%)",
+      "Deodorant stick (4.65%)",
+      "Face and body moisturizer (2.76%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Oleamidopropyl Betaine",
+    "inci_name": "OLEAMIDOPROPYL BETAINE",
+    "cas_number": "25054-76-6",
+    "einecs_number": "246-584-2",
+    "description": "Oleamidopropyl Betaine — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Cleansing",
+      "Foam boosting",
+      "Hair conditioning",
+      "Skin conditioning",
+      "Surfactant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Oleyl Betaine",
+    "inci_name": "OLEYL BETAINE",
+    "cas_number": "871-37-4",
+    "einecs_number": "212-806-1",
+    "description": "Oleyl Betaine — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Cleansing",
+      "Foam boosting",
+      "Hair conditioning",
+      "Skin conditioning",
+      "Surfactant"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Olivamidopropyl Betaine",
+    "inci_name": "OLIVAMIDOPROPYL BETAINE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Olivamidopropyl Betaine — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Cleansing",
+      "Foam boosting",
+      "Hair conditioning",
+      "Skin protecting",
+      "Surfactant"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Olea Europaea Leaf Extract",
+    "inci_name": "OLEA EUROPAEA LEAF EXTRACT",
+    "cas_number": "8001-25-0 / 84012-27-1 - Olive Leaf extract",
+    "einecs_number": "232-277-0",
+    "description": "Olea Europaea Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "0.51% косметических средств",
+    "common_product_types": [
+      "Cc cream (9.94%)",
+      "Personal hygiene (1.8%)",
+      "Eyeshadow (1.45%)",
+      "Liquid soap (1.34%)",
+      "Anti-aging day face cream (1.15%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Oleic/Linoleic/Linolenic Polyglycerides",
+    "inci_name": "OLEIC/LINOLEIC/LINOLENIC POLYGLYCERIDES",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Oleic/Linoleic/Linolenic Polyglycerides — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Binding agent",
+      "Emollient",
+      "Emulsion stabilising",
+      "Surfactant",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.3% косметических средств",
+    "common_product_types": [
+      "Lip cream (7.4%)",
+      "Gloss and lip gloss (4.2%)",
+      "Lip balm (3.99%)",
+      "Eyes and kohl pencil (3.69%)",
+      "Lipstick (2.79%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Oleyl Alcohol",
+    "inci_name": "OLEYL ALCOHOL",
+    "cas_number": "143-28-2 / 593-47-5",
+    "einecs_number": "205-597-3 / 209-791-9",
+    "description": "Oleyl Alcohol — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Masking",
+      "Solvent",
+      "Viscosity controlling",
+      "Perfuming"
+    ],
+    "prevalence": "0.45% косметических средств",
+    "common_product_types": [
+      "Men's hair colouring (36.59%)",
+      "Oxidative hair coloring (12.52%)",
+      "Eyeliner and kajal (1.57%)",
+      "Hair conditioner (1.23%)",
+      "Lipstick (0.87%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Olive Oil Decyl Esters",
+    "inci_name": "OLIVE OIL DECYL ESTERS",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Olive Oil Decyl Esters — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Refatting"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [
+      "Eyeshadow (1.05%)",
+      "Face cream (0.34%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Olivine",
+    "inci_name": "OLIVINE",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Olivine — косметический ингредиент. Происхождение: Mineral.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Mineral."
+  },
+  {
+    "name": "Olive Alcohol",
+    "inci_name": "OLIVE ALCOHOL",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Olive Alcohol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Emulsion stabilising"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Onsen-Sui",
+    "inci_name": "ONSEN-SUI",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Onsen-Sui — косметический ингредиент. Происхождение: Mineral.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Mineral."
+  },
+  {
+    "name": "Opuntia Ficus-Indica Flower Extract",
+    "inci_name": "OPUNTIA FICUS-INDICA FLOWER EXTRACT",
+    "cas_number": "90082-21-6 - Prickly Pear flower extract",
+    "einecs_number": "290-109-1",
+    "description": "Opuntia Ficus-Indica Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [
+      "Lipstick (0.64%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Olive Oil Peg-7 Esters",
+    "inci_name": "OLIVE OIL PEG-7 ESTERS",
+    "cas_number": "103819-46-1",
+    "einecs_number": "",
+    "description": "Olive Oil Peg-7 Esters — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Emollient",
+      "Emulsifying"
+    ],
+    "prevalence": "0.13% косметических средств",
+    "common_product_types": [
+      "Shower gel (0.29%)",
+      "Classic shampoo (0.19%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Opuntia Ficus-Indica Stem Extract",
+    "inci_name": "OPUNTIA FICUS-INDICA STEM EXTRACT",
+    "cas_number": "90082-21-6 - Prickly Pear stem extract",
+    "einecs_number": "290-109-1",
+    "description": "Opuntia Ficus-Indica Stem Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.22% косметических средств",
+    "common_product_types": [
+      "Fabric mask (1.02%)",
+      "Face cream (0.61%)",
+      "Shower gel (0.57%)",
+      "Adult sun cream (0.44%)",
+      "Foundation (0.39%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Opuntia Tuna Flower/Stem Extract",
+    "inci_name": "OPUNTIA TUNA FLOWER/STEM EXTRACT",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Opuntia Tuna Flower/Stem Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Orbignya Oleifera Seed Oil",
+    "inci_name": "ORBIGNYA OLEIFERA SEED OIL",
+    "cas_number": "91078-92-1 - Babassu seed oil",
+    "einecs_number": "293-376-2",
+    "description": "Orbignya Oleifera Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient"
+    ],
+    "prevalence": "0.53% косметических средств",
+    "common_product_types": [
+      "Cc cream (8.07%)",
+      "Anti-aging night face cream (2.58%)",
+      "Anti-aging day face cream (2.25%)",
+      "Treatment for curly hair (2.02%)",
+      "Gloss and lip gloss (1.79%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Olus Oil",
+    "inci_name": "OLUS OIL",
+    "cas_number": "68956-68-3 - Vegetable oil",
+    "einecs_number": "273-313-5",
+    "description": "Olus Oil is a generic term that refers to a vegetable oil or a blend of vegetable oils, so its effect may vary depending on the sources used. It is mainly composed of triglycerides and serves as a natural fatty base in a formulation. It is used for its moisturizing and emollient properties.",
+    "rating": "safe",
+    "functions": [
+      "Emollient"
+    ],
+    "prevalence": "1.27% косметических средств",
+    "common_product_types": [
+      "Lip cream (8.77%)",
+      "Cleansing wipes (6.67%)",
+      "Tinted lip balm (6.15%)",
+      "Lip balm (5.36%)",
+      "Anti-aging night face cream (5.12%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Origanum Majorana Leaf Oil",
+    "inci_name": "ORIGANUM MAJORANA LEAF OIL",
+    "cas_number": "84082-58-6 - Sweet Marjoram leaf oil",
+    "einecs_number": "282-004-4",
+    "description": "Origanum Majorana Leaf Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Refreshing"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Opopanax Chironium Resin Steam-Distilled Oil",
+    "inci_name": "OPOPANAX CHIRONIUM RESIN STEAM-DISTILLED OIL",
+    "cas_number": "93384-32-8",
+    "einecs_number": "297-241-9",
+    "description": "Opopanax Chironium Resin Steam-Distilled Oil — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Opuntia Ficus-Indica Fruit Extract",
+    "inci_name": "OPUNTIA FICUS-INDICA FRUIT EXTRACT",
+    "cas_number": "90082-21-6 - Prickly pear fruit extract",
+    "einecs_number": "290-109-1",
+    "description": "Opuntia Ficus-Indica Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Origanum Vulgare Leaf Oil",
+    "inci_name": "ORIGANUM VULGARE LEAF OIL",
+    "cas_number": "84012-24-8 - Oregano oil",
+    "einecs_number": "281-670-3",
+    "description": "Origanum Vulgare Leaf Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Refreshing"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Opuntia Ficus-Indica Seed Oil",
+    "inci_name": "OPUNTIA FICUS-INDICA SEED OIL",
+    "cas_number": "90082-21-6 - Prickly pear seed oil",
+    "einecs_number": "290-109-1",
+    "description": "Opuntia Ficus-Indica Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient"
+    ],
+    "prevalence": "0.22% косметических средств",
+    "common_product_types": [
+      "Body and face moisturizing oil (1.17%)",
+      "Anti-aging day face cream (0.8%)",
+      "Face moisturizing serum (0.69%)",
+      "Hair mask (0.5%)",
+      "Face cream (0.33%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Ormenis Multicaulis Flower Extract",
+    "inci_name": "ORMENIS MULTICAULIS FLOWER EXTRACT",
+    "cas_number": "92202-02-3 - Wild chamomile flower extract",
+    "einecs_number": "296-034-0",
+    "description": "Ormenis Multicaulis Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Ormenis Multicaulis Flower Wax",
+    "inci_name": "ORMENIS MULTICAULIS FLOWER WAX",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Ormenis Multicaulis Flower Wax — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Unclassified"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Ormenis Multicaulis Oil",
+    "inci_name": "ORMENIS MULTICAULIS OIL",
+    "cas_number": "92202-02-3 - Wild chamomile oil",
+    "einecs_number": "296-034-0",
+    "description": "Ormenis Multicaulis Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Tonic"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Orbignya Speciosa Kernel Oil",
+    "inci_name": "ORBIGNYA SPECIOSA KERNEL OIL",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Orbignya Speciosa Kernel Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (0.57%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Oryza Sativa Bran Oil",
+    "inci_name": "ORYZA SATIVA BRAN OIL",
+    "cas_number": "68553-81-1; 84696-37-7 - Rice bran oil",
+    "einecs_number": "271-397-8",
+    "description": "Oryza Sativa Bran Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.78% косметических средств",
+    "common_product_types": [
+      "Cleansing oil (6.29%)",
+      "Anti-aging day face cream (2.31%)",
+      "Hair oil (1.89%)",
+      "Body and face moisturizing oil (1.78%)",
+      "Face cream (1.71%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Oryza Sativa Cera",
+    "inci_name": "ORYZA SATIVA CERA",
+    "cas_number": "8016-60-2 - Rice bran wax",
+    "einecs_number": "232-409-7",
+    "description": "Oryza Sativa Cera — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Hair conditioning",
+      "Skin conditioning",
+      "Skin protecting",
+      "Smoothing",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.26% косметических средств",
+    "common_product_types": [
+      "Mascara (14.54%)",
+      "Gloss and lip gloss (2.33%)",
+      "Eyes and kohl pencil (2.19%)",
+      "Lip balm (1.94%)",
+      "Eyeliner and kajal (1.57%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Oryza Sativa Extract",
+    "inci_name": "ORYZA SATIVA EXTRACT",
+    "cas_number": "90106-37-9 - Rice extract",
+    "einecs_number": "-",
+    "description": "Oryza Sativa Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Abrasive",
+      "Absorbent",
+      "Bulking",
+      "Hair conditioning",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.53% косметических средств",
+    "common_product_types": [
+      "Shampoo for colored/highlighted hair (2.14%)",
+      "Fabric mask (1.9%)",
+      "Treatment for curly hair (1.7%)",
+      "Face lotion and toner (1.36%)",
+      "Hair conditioner (1.26%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Oryza Sativa Germ Oil",
+    "inci_name": "ORYZA SATIVA GERM OIL",
+    "cas_number": "90106-37-9 - Rice germ oil",
+    "einecs_number": "-",
+    "description": "Oryza Sativa Germ Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [
+      "Anti-aging day face cream (0.61%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Oryza Sativa Hull Powder",
+    "inci_name": "ORYZA SATIVA HULL POWDER",
+    "cas_number": "68553-81-1 - Rice hull powder",
+    "einecs_number": "271-397-8",
+    "description": "Oryza Sativa Hull Powder — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Abrasive"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [
+      "Foundation (0.72%)",
+      "Face cream (0.39%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Origanum Vulgare Leaf Extract",
+    "inci_name": "ORIGANUM VULGARE LEAF EXTRACT",
+    "cas_number": "84012-24-8 - Oregano leaf extract",
+    "einecs_number": "281-670-3",
+    "description": "Origanum Vulgare Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.1% косметических средств",
+    "common_product_types": [
+      "Fabric mask (0.73%)",
+      "Classic shampoo (0.17%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Origanum Vulgare Oil",
+    "inci_name": "ORIGANUM VULGARE OIL",
+    "cas_number": "84012-24-8 - Oregano oil",
+    "einecs_number": "281-670-3",
+    "description": "Origanum Vulgare Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Refreshing"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Oryza Sativa Starch",
+    "inci_name": "ORYZA SATIVA STARCH",
+    "cas_number": "9005-25-8 - Rice starch",
+    "einecs_number": "232-679-6",
+    "description": "Rice starch is mainly used in cosmetics as an absorbent. The active ingredient is present in 70% of the dry shampoos, it allows to absorb the excess sebum of the scalp.",
+    "rating": "safe",
+    "functions": [
+      "Absorbent",
+      "Binding agent",
+      "Bulking",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.65% косметических средств",
+    "common_product_types": [
+      "Dry shampoo (66.89%)",
+      "Root touch-up (13.21%)",
+      "Loose powder (5.23%)",
+      "Compact powder (2.44%)",
+      "Solid shampoo (2.18%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Oryza Sativa Bran Cera",
+    "inci_name": "ORYZA SATIVA BRAN CERA",
+    "cas_number": "8016-60-2 - Rice bran wax",
+    "einecs_number": "232-409-7",
+    "description": "Oryza Sativa Bran Cera — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.36% косметических средств",
+    "common_product_types": [
+      "Mascara (5.8%)",
+      "Sunscreen lip balm (5.28%)",
+      "Children sun cream (4.18%)",
+      "Lip balm (3.06%)",
+      "Adult sun cream (2.41%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Oryzanol",
+    "inci_name": "ORYZANOL",
+    "cas_number": "11042-64-1 / 12738-23-7",
+    "einecs_number": "",
+    "description": "Oryzanol — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Antistatic",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.24% косметических средств",
+    "common_product_types": [
+      "Eyes and kohl pencil (8.07%)",
+      "Lip pencil (4.38%)",
+      "Eyebrow pencil (3.07%)",
+      "Adult sun cream (1.13%)",
+      "Lipstick (0.75%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Oxalic Acid",
+    "inci_name": "OXALIC ACID",
+    "cas_number": "144-62-7",
+    "einecs_number": "205-634-3",
+    "description": "Oxalic Acid — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "neutral",
+    "functions": [
+      "Chelating"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Oryza Sativa Bran Extract",
+    "inci_name": "ORYZA SATIVA BRAN EXTRACT",
+    "cas_number": "90106-37-9 - Rice bran extract",
+    "einecs_number": "-",
+    "description": "Oryza Sativa Bran Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Skin protecting"
+    ],
+    "prevalence": "0.21% косметических средств",
+    "common_product_types": [
+      "Face cream (0.38%)",
+      "Hair conditioner (0.37%)",
+      "Body moisturizer (0.21%)",
+      "Classic shampoo (0.17%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Oryza Sativa Seed Oil",
+    "inci_name": "ORYZA SATIVA SEED OIL",
+    "cas_number": "68553-81-1 - Rice bran oil",
+    "einecs_number": "271-397-8",
+    "description": "Oryza Sativa Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Oxyquinoline Sulfate",
+    "inci_name": "OXYQUINOLINE SULFATE",
+    "cas_number": "134-31-6",
+    "einecs_number": "205-137-1",
+    "description": "This ingredient is REACH (Aquatic Chronic 2) ecotoxic and is not easily biodegradable.",
+    "rating": "caution",
+    "functions": [
+      "Antimicrobial",
+      "Chelating"
+    ],
+    "prevalence": "0.16% косметических средств",
+    "common_product_types": [
+      "Oxidizer and colour developer (41.1%)",
+      "Oxidative hair coloring (8.82%)"
+    ],
+    "note": "Требует осторожности при использовании."
+  },
+  {
+    "name": "Ozokerite",
+    "inci_name": "OZOKERITE",
+    "cas_number": "64742-33-2",
+    "einecs_number": "265-134-6",
+    "description": "Ozokerite — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "caution",
+    "functions": [
+      "Binding agent",
+      "Emulsion stabilising",
+      "Opacifying",
+      "Viscosity controlling"
+    ],
+    "prevalence": "1.19% косметических средств",
+    "common_product_types": [
+      "Lip pencil (17.88%)",
+      "Eyes and kohl pencil (17.15%)",
+      "Lipstick (16.92%)",
+      "Make-up set (16.41%)",
+      "Sunscreen lip balm (15.95%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Oryza Sativa Powder",
+    "inci_name": "ORYZA SATIVA POWDER",
+    "cas_number": "68553-81-1 - Rice powder",
+    "einecs_number": "271-397-8",
+    "description": "Oryza Sativa Powder — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Bulking"
+    ],
+    "prevalence": "0.21% косметических средств",
+    "common_product_types": [
+      "Face scrub (3.51%)",
+      "Eyeshadow (2.08%)",
+      "Body scrub (2%)",
+      "Compact powder (1.54%)",
+      "Cream / gel mask (0.71%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Oxirane",
+    "inci_name": "OXIRANE",
+    "cas_number": "75-21-8",
+    "einecs_number": "200-849-9",
+    "description": "Oxirane — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Oxycoccus Palustris Seed Oil",
+    "inci_name": "OXYCOCCUS PALUSTRIS SEED OIL",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Oxycoccus Palustris Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant",
+      "Emollient",
+      "Skin protecting"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Oxyquinoline",
+    "inci_name": "OXYQUINOLINE",
+    "cas_number": "148-24-3",
+    "einecs_number": "205-711-1",
+    "description": "Oxyquinoline — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Antimicrobial",
+      "Chelating"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  }
+]

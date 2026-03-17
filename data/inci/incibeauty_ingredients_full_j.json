@@ -1,0 +1,579 @@
+[
+  {
+    "name": "Jania Rubens Extract",
+    "inci_name": "JANIA RUBENS EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Jania Rubens Extract — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [
+      "Day anti-ageing face serum (1.16%)",
+      "Foundation (0.68%)",
+      "Face cream (0.32%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Jasminum Grandiflorum Flower Oil",
+    "inci_name": "JASMINUM GRANDIFLORUM FLOWER OIL",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Jasminum Grandiflorum Flower Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Perfuming",
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Jasmine Oil/Extract",
+    "inci_name": "JASMINE OIL/EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "This INCI designation, mandatory in Europe, refers to the presence of one or more species of Jasmine (Jasminum Grandiflorum, Jasminum Officinale) in the composition of the product, when their concentration exceeds 0.001% in leave-on products and 0.01% in rinse-off products.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [
+      "Perfume for women (0.65%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Jasminum Grandiflorum Flower Cera",
+    "inci_name": "JASMINUM GRANDIFLORUM FLOWER CERA",
+    "cas_number": "84776-64-7",
+    "einecs_number": "283-993-5",
+    "description": "Jasminum Grandiflorum Flower Cera — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Jasminum Grandiflorum Flower Extract",
+    "inci_name": "JASMINUM GRANDIFLORUM FLOWER EXTRACT",
+    "cas_number": "84776-64-7 - Jasmine flower extract",
+    "einecs_number": "283-993-5",
+    "description": "Jasminum Grandiflorum Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Hair conditioning",
+      "Masking",
+      "Moisturising",
+      "Perfuming"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Jasminum Grandiflorum Flower Wax",
+    "inci_name": "JASMINUM GRANDIFLORUM FLOWER WAX",
+    "cas_number": "84776-64-7",
+    "einecs_number": "283-993-5",
+    "description": "Jasminum Grandiflorum Flower Wax — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Jasminum Grandiflorum Leaf Extract",
+    "inci_name": "JASMINUM GRANDIFLORUM LEAF EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Jasminum Grandiflorum Leaf Extract — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Antimicrobial",
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Jasminum Grandiflorum Stem Extract",
+    "inci_name": "JASMINUM GRANDIFLORUM STEM EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Jasminum Grandiflorum Stem Extract — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Jasminum Officinale Extract",
+    "inci_name": "JASMINUM OFFICINALE EXTRACT",
+    "cas_number": "90045-94-6 - Jasmine extract",
+    "einecs_number": "289-960-1",
+    "description": "Jasminum Officinale Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Moisturising",
+      "Skin conditioning",
+      "Soothing"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [
+      "Eyeshadow (0.52%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Jasminum Officinale Flower",
+    "inci_name": "JASMINUM OFFICINALE FLOWER",
+    "cas_number": "90045-94-6",
+    "einecs_number": "289-960-1",
+    "description": "Jasminum Officinale Flower — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Jasminum Officinale Flower Cera",
+    "inci_name": "JASMINUM OFFICINALE FLOWER CERA",
+    "cas_number": "90045-94-6",
+    "einecs_number": "289-960-1",
+    "description": "Jasminum Officinale Flower Cera — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Jasminum Officinale Flower Oil",
+    "inci_name": "JASMINUM OFFICINALE FLOWER OIL",
+    "cas_number": "90045-94-6 / 8022-96-6 - Jasmine flower oil",
+    "einecs_number": "289-960-1 / -",
+    "description": "Jasminum Officinale Flower Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Jasminum Officinale Flower Water",
+    "inci_name": "JASMINUM OFFICINALE FLOWER WATER",
+    "cas_number": "90045-94-6",
+    "einecs_number": "289-960-1",
+    "description": "Jasminum Officinale Flower Water — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Jasminum Officinale Oil",
+    "inci_name": "JASMINUM OFFICINALE OIL",
+    "cas_number": "8022-96-6 / 90045-94-6 - Jasmine oil",
+    "einecs_number": "- / 289-960-1",
+    "description": "Jasminum Officinale Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Moisturising",
+      "Skin conditioning",
+      "Soothing",
+      "Perfuming"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Jasminum Sambac Flower Cera",
+    "inci_name": "JASMINUM SAMBAC FLOWER CERA",
+    "cas_number": "91770-14-8 - Arabian Jasmine flower wax",
+    "einecs_number": "294-797-4",
+    "description": "Jasminum Sambac Flower Cera — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Jasminum Sambac Extract",
+    "inci_name": "JASMINUM SAMBAC EXTRACT",
+    "cas_number": "91770-14-8 - Arabian Jasmine extract",
+    "einecs_number": "-",
+    "description": "Jasminum Sambac Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Hair conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Jasminum Officinale Flower Extract",
+    "inci_name": "JASMINUM OFFICINALE FLOWER EXTRACT",
+    "cas_number": "90045-94-6 - Jasmine flower extract",
+    "einecs_number": "289-960-1",
+    "description": "Jasminum Officinale Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Perfuming"
+    ],
+    "prevalence": "0.24% косметических средств",
+    "common_product_types": [
+      "Liquid soap (0.83%)",
+      "Solid soap (0.82%)",
+      "Anti-aging day face cream (0.74%)",
+      "Cream / gel mask (0.72%)",
+      "Shower gel (0.54%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Jasminum Officinale Flower Powder",
+    "inci_name": "JASMINUM OFFICINALE FLOWER POWDER",
+    "cas_number": "90045-94-6",
+    "einecs_number": "289-960-1",
+    "description": "Jasminum Officinale Flower Powder — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Jasminum Sambac Flower Water",
+    "inci_name": "JASMINUM SAMBAC FLOWER WATER",
+    "cas_number": "91770-14-8 - Arabian Jasmine flower water",
+    "einecs_number": "294-797-4",
+    "description": "Jasminum Sambac Flower Water — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Jasminum Officinale Flower/Leaf Extract",
+    "inci_name": "JASMINUM OFFICINALE FLOWER/LEAF EXTRACT",
+    "cas_number": "90045-94-6 - Jasmine flower/leaf extract",
+    "einecs_number": "289-960-1",
+    "description": "Jasminum Officinale Flower/Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Moisturising",
+      "Skin conditioning",
+      "Soothing",
+      "Perfuming"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Jojoba Alcohol",
+    "inci_name": "JOJOBA ALCOHOL",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Jojoba Alcohol — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Emollient",
+      "Skin conditioning",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Jojoba Esters",
+    "inci_name": "JOJOBA ESTERS",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "With a waxy texture, Jojoba esters are derivatives of Jojoba oil, used as emollients in cosmetics (promotes hydration).",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Moisturising",
+      "Skin conditioning",
+      "Soothing"
+    ],
+    "prevalence": "1.17% косметических средств",
+    "common_product_types": [
+      "Lip cream (5.92%)",
+      "Mascara (5.48%)",
+      "Face scrub (5.3%)",
+      "Sunscreen lip balm (5.03%)",
+      "Lipstick (4.86%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Juglans Regia Leaf Extract",
+    "inci_name": "JUGLANS REGIA LEAF EXTRACT",
+    "cas_number": "84012-43-1 - Walnut leaf extract",
+    "einecs_number": "281-688-1",
+    "description": "Juglans Regia Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Abrasive",
+      "Astringent",
+      "Bulking",
+      "Cleansing",
+      "Masking",
+      "Skin conditioning",
+      "Soothing"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (0.8%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Juglans Regia Seed Oil",
+    "inci_name": "JUGLANS REGIA SEED OIL",
+    "cas_number": "8024-09-7 / 84012-43-1 - Walnut oil",
+    "einecs_number": "- / 281-688-1",
+    "description": "Juglans Regia Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [
+      "Anti-aging day face cream (0.64%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Jasminum Sambac Flower Extract",
+    "inci_name": "JASMINUM SAMBAC FLOWER EXTRACT",
+    "cas_number": "91770-14-8 - Arabian Jasmine flower extract",
+    "einecs_number": "294-797-4",
+    "description": "Jasminum Sambac Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Perfuming"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Juglans Regia Seed Extract",
+    "inci_name": "JUGLANS REGIA SEED EXTRACT",
+    "cas_number": "84012-43-1 - Walnut seed extract",
+    "einecs_number": "281-688-1",
+    "description": "Juglans Regia Seed Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [
+      "Classic shampoo (0.15%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Juniperus Communis Branch/Fruit/Leaf Extract",
+    "inci_name": "JUNIPERUS COMMUNIS BRANCH/FRUIT/LEAF EXTRACT",
+    "cas_number": "84603-69-0",
+    "einecs_number": "283-268-3",
+    "description": "Juniperus Communis Branch/Fruit/Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Juniperus Communis Fruit Extract",
+    "inci_name": "JUNIPERUS COMMUNIS FRUIT EXTRACT",
+    "cas_number": "84603-69-0 - Juniper berry extract",
+    "einecs_number": "283-268-3",
+    "description": "Juniperus Communis Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "0.11% косметических средств",
+    "common_product_types": [
+      "Classic shampoo (0.18%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Juniperus Mexicana Oil",
+    "inci_name": "JUNIPERUS MEXICANA OIL",
+    "cas_number": "68990-83-0 - Cedarwood oil",
+    "einecs_number": "-",
+    "description": "Juniperus Mexicana Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [
+      "Shower gel (0.27%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Juniperus Oxycedrus Wood Oil",
+    "inci_name": "JUNIPERUS OXYCEDRUS WOOD OIL",
+    "cas_number": "90046-02-9 - Cade wood oil",
+    "einecs_number": "289-969-0",
+    "description": "Juniperus Oxycedrus Wood Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Tonic",
+      "Perfuming"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Juniperus Virginiana Oil",
+    "inci_name": "JUNIPERUS VIRGINIANA OIL",
+    "cas_number": "8000-27-9 - Cedarwood oil",
+    "einecs_number": "-",
+    "description": "Juniperus Virginiana Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Tonic"
+    ],
+    "prevalence": "0.3% косметических средств",
+    "common_product_types": [
+      "Deodorant spray (1.55%)",
+      "Deodorant stick (1.5%)",
+      "Perfume for women (1.23%)",
+      "Roll-on deodorant (0.92%)",
+      "Hand cream (0.62%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Juglans Regia Shell Extract",
+    "inci_name": "JUGLANS REGIA SHELL EXTRACT",
+    "cas_number": "84012-43-1 - Walnut shell extract",
+    "einecs_number": "281-688-1",
+    "description": "Juglans Regia Shell Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (1.11%)",
+      "Adult sun cream (0.42%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Juglans Regia Shell Powder",
+    "inci_name": "JUGLANS REGIA SHELL POWDER",
+    "cas_number": "84012-43-1 - Walnut shell powder",
+    "einecs_number": "281-688-1",
+    "description": "Juglans Regia Shell Powder — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Abrasive"
+    ],
+    "prevalence": "0.17% косметических средств",
+    "common_product_types": [
+      "Vegetal hair color (8.75%)",
+      "Face and body scrub (8.46%)",
+      "Body scrub (6.52%)",
+      "Face scrub (4.57%)",
+      "Cream / gel mask (0.88%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Juniperus Communis Fruit Oil",
+    "inci_name": "JUNIPERUS COMMUNIS FRUIT OIL",
+    "cas_number": "8002-68-4 / 73049-62-4 / 84603-69-0 - Juniper fruit oil",
+    "einecs_number": "- / - / 283-268-3",
+    "description": "Juniperus Communis Fruit Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent",
+      "Masking",
+      "Perfuming"
+    ],
+    "prevalence": "0.15% косметических средств",
+    "common_product_types": [
+      "Massage (3.67%)",
+      "Classic shampoo (0.23%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Juniperus Virginiana Wood Oil",
+    "inci_name": "JUNIPERUS VIRGINIANA WOOD OIL",
+    "cas_number": "85085-41-2 - Cedar wood oil",
+    "einecs_number": "285-370-3",
+    "description": "Juniperus Virginiana Wood Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  }
+]

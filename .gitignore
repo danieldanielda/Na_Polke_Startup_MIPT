@@ -3,8 +3,16 @@
 .venv
 __pycache__/
 uv.lock
+.rag.env
 .bot.env
 .agents.env
-models/
 build/
 rag.egg-info/
+models/
+chroma_db/
+rag/venv
+agents/avenv
+bot/mvenv
+crew_agents.egg-info
+.vscode/
+bot/aiogram_bot.egg-info

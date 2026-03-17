@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Withania Somnifera Root Extract",
+    "inci_name": "WITHANIA SOMNIFERA ROOT EXTRACT",
+    "cas_number": "90147-43-6 - Ashwagandha root extract",
+    "einecs_number": "290-434-9",
+    "description": "Withania Somnifera Root Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.1% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Wine Extract",
+    "inci_name": "WINE EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Wine Extract — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Wheat Amino Acids",
+    "inci_name": "WHEAT AMINO ACIDS",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Wheat Amino Acids — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Hair conditioning",
+      "Skin conditioning",
+      "Skin protecting",
+      "Soothing"
+    ],
+    "prevalence": "0.29% косметических средств",
+    "common_product_types": [
+      "Shampoo for colored/highlighted hair (2.27%)",
+      "Oxidative hair coloring (1.78%)",
+      "Hair mask (1.76%)",
+      "Hair conditioner (1.58%)",
+      "Specific hair care (1.42%)"
+    ],
+    "note": "Low penalty in all categories."
+  }
+]

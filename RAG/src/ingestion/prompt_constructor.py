@@ -15,13 +15,13 @@ class PromptConstructor:
             {"response_synthesizer:text_qa_template": new_summary_tmpl}
         )
         """
-        yaml_prompts = load_prompts_from_yaml(yaml_path=path)
+        yaml_prompts = await load_prompts_from_yaml(yaml_path=path)
         new_prompt = yaml_prompts['context_prompts'][settings.rag_system_prompt]['template']
         new_template = PromptTemplate(new_prompt)
         return new_template
 
     async def change_summary_prompt(self, path: str) -> str:
         """Returns summary prompt for summary case"""
-        yaml_prompts = load_prompts_from_yaml(yaml_path=path)
+        yaml_prompts = await load_prompts_from_yaml(yaml_path=path)
         new_summary_prompt = yaml_prompts['summary_prompts']['summary']['template']
         return new_summary_prompt

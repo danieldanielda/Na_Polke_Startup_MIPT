@@ -19,7 +19,7 @@ search_tool = SonarSearchTool()
 class BarcodeLookupCrew():
     """Crew for identifying products by barcode"""
     agents_config = 'src/config/agents.yaml'
-    tasks_config = 'src/config/tasks.yaml'
+    tasks_config = 'src/config/barcode_tasks.yaml'
 
     @agent
     def barcode_researcher(self) -> Agent:

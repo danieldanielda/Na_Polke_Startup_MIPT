@@ -15,3 +15,9 @@ class CrewSettings(BaseSettings):
     model_api_base: str
     model_name: str
     model_search_name: str
+    
+    rag_host: str
+    rag_port : str
+    
+    inci_path: str = "src/data/inci.json"
+    most_used_inci_path: str = "src/data/incibeauty_ingredients_full_most.json"

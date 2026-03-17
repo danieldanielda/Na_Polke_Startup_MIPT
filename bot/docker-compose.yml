@@ -1,0 +1,14 @@
+services:
+  bot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      shm_size: '6gb'
+    container_name: bot
+    ports:
+      - '8458:8458'
+
+    env_file:
+      - '.bot.env'
+    command: ["./entrypoint.sh"]
+    restart: unless-stopped

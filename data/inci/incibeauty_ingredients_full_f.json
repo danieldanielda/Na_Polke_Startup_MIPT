@@ -1,0 +1,515 @@
+[
+  {
+    "name": "Fast Green Fcf",
+    "inci_name": "FAST GREEN FCF",
+    "cas_number": "2353-45-9",
+    "einecs_number": "219-091-5",
+    "description": "Fast Green Fcf — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Hair dyeing"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Ferrous Gluconate",
+    "inci_name": "FERROUS GLUCONATE",
+    "cas_number": "299-29-6",
+    "einecs_number": "206-076-3",
+    "description": "Ferrous Gluconate — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [
+      "Nail polish (1.4%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Faex Extract",
+    "inci_name": "FAEX EXTRACT",
+    "cas_number": "8013-01-2 - Yeast extract",
+    "einecs_number": "232-387-9",
+    "description": "Faex Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.39% косметических средств",
+    "common_product_types": [
+      "Anti-aging eye contour care (3.69%)",
+      "Anti-aging day face cream (3.08%)",
+      "Anti-aging night face cream (2.69%)",
+      "Day anti-ageing face serum (2.66%)",
+      "Eye contour care (1.63%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Farnesol",
+    "inci_name": "FARNESOL",
+    "cas_number": "4602-84-0",
+    "einecs_number": "225-004-1",
+    "description": "Farnesol is an odorous molecule included on the list of allergens regulated by Europe. It is present in many essential oils, such as those of linden and acacia flowers. Its name is said to come from a variety of this tree: Acacia farnesiana.",
+    "rating": "neutral",
+    "functions": [
+      "Deodorant",
+      "Perfuming"
+    ],
+    "prevalence": "1.82% косметических средств",
+    "common_product_types": [
+      "Mixed perfume water (28.47%)",
+      "Perfume for women (27.44%)",
+      "Eau de toilette for women (23.7%)",
+      "Eau de parfum for men (23.42%)",
+      "Women fragrance set (22.9%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Natural."
+  },
+  {
+    "name": "Fagus Sylvatica Bud Extract",
+    "inci_name": "FAGUS SYLVATICA BUD EXTRACT",
+    "cas_number": "85251-65-6 - Beech bud extract",
+    "einecs_number": "286-477-8",
+    "description": "Fagus Sylvatica Bud Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Tonic"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [
+      "Anti-aging day face cream (1.44%)",
+      "Day anti-ageing face serum (1.19%)",
+      "Face cream (0.41%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Ferrous Sulfate",
+    "inci_name": "FERROUS SULFATE",
+    "cas_number": "7720-78-7",
+    "einecs_number": "231-753-5",
+    "description": "Ferrous Sulfate — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Astringent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Ferula Galbaniflua Resin Oil",
+    "inci_name": "FERULA GALBANIFLUA RESIN OIL",
+    "cas_number": "93165-40-3 / 8023-91-4 - Galbanum resin oil",
+    "einecs_number": "296-925-4",
+    "description": "Ferula Galbaniflua Resin Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antimicrobial",
+      "Tonic",
+      "Perfuming"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Ficus Carica Fruit Extract",
+    "inci_name": "FICUS CARICA FRUIT EXTRACT",
+    "cas_number": "90028-74-3 - Fig fruit extract",
+    "einecs_number": "289-868-1",
+    "description": "Ficus Carica Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Humectant"
+    ],
+    "prevalence": "0.24% косметических средств",
+    "common_product_types": [
+      "Face lotion and toner (0.98%)",
+      "Cream / gel mask (0.87%)",
+      "Fabric mask (0.78%)",
+      "Shower gel (0.65%)",
+      "Face cream (0.6%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Ficus Carica Leaf Extract",
+    "inci_name": "FICUS CARICA LEAF EXTRACT",
+    "cas_number": "90028-74-3 (generic)",
+    "einecs_number": "289-868-1",
+    "description": "Ficus Carica Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Fish Liver Oil",
+    "inci_name": "FISH LIVER OIL",
+    "cas_number": "8009-00-5 - Cod liver oil",
+    "einecs_number": "232-373-7",
+    "description": "Fish Liver Oil — косметический ингредиент. Происхождение: Animal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Animal."
+  },
+  {
+    "name": "Fomes Officinalis Extract",
+    "inci_name": "FOMES OFFICINALIS EXTRACT",
+    "cas_number": "94465-74-4 - Mushroom extract",
+    "einecs_number": "305-358-4",
+    "description": "Fomes Officinalis Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin protecting"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [
+      "Foundation (0.44%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Formic Acid",
+    "inci_name": "FORMIC ACID",
+    "cas_number": "64-18-6",
+    "einecs_number": "200-579-1",
+    "description": "Formic acid is used in cosmetics as a preservative. It is also used in food under the name E236.",
+    "rating": "avoid",
+    "functions": [
+      "Masking",
+      "Preservative",
+      "Ph adjusters"
+    ],
+    "prevalence": "0.23% косметических средств",
+    "common_product_types": [
+      "Styling mousse (6.37%)",
+      "Shampoo for colored/highlighted hair (2.44%)",
+      "Personal hygiene (2.08%)",
+      "Classic shampoo (1.69%)",
+      "Liquid soap (1.63%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Происхождение: Synthetic."
+  },
+  {
+    "name": "Fragaria Ananassa Fruit Extract",
+    "inci_name": "FRAGARIA ANANASSA FRUIT EXTRACT",
+    "cas_number": "1175540-74-5 - Strawberry fruit extract",
+    "einecs_number": "-",
+    "description": "Fragaria Ananassa Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.13% косметических средств",
+    "common_product_types": [
+      "Shower gel (0.34%)",
+      "Classic shampoo (0.15%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Fragaria Ananassa Seed Oil",
+    "inci_name": "FRAGARIA ANANASSA SEED OIL",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Fragaria Ananassa Seed Oil — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Anti dandruff",
+      "Antioxidant",
+      "Hair conditioning",
+      "Maintenance agent for nails",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Fish Oil",
+    "inci_name": "FISH OIL",
+    "cas_number": "8016-13-5",
+    "einecs_number": "232-402-9",
+    "description": "Fish Oil — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Formaldehyde",
+    "inci_name": "FORMALDEHYDE",
+    "cas_number": "50-00-0",
+    "einecs_number": "200-001-8",
+    "description": "Prohibited in cosmetics in Europe - Annex II / 1577 of the regulations.",
+    "rating": "avoid",
+    "functions": [
+      "Antimicrobial",
+      "Denaturant",
+      "Preservative"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [
+      "Classic shampoo (0.16%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Foeniculum Vulgare Oil",
+    "inci_name": "FOENICULUM VULGARE OIL",
+    "cas_number": "84625-39-8 (generic)/8006-84-6 - Fennel oil",
+    "einecs_number": "-/-",
+    "description": "Foeniculum Vulgare Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Foeniculum Vulgare Fruit Extract",
+    "inci_name": "FOENICULUM VULGARE FRUIT EXTRACT",
+    "cas_number": "84625-39-8 / 85085-33-2 - Fennel fruit extract",
+    "einecs_number": "283-414-6",
+    "description": "Foeniculum Vulgare Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning",
+      "Soothing",
+      "Tonic"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Fructose",
+    "inci_name": "FRUCTOSE",
+    "cas_number": "57-48-7",
+    "einecs_number": "200-333-3",
+    "description": "Fructose — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Humectant"
+    ],
+    "prevalence": "0.83% косметических средств",
+    "common_product_types": [
+      "Facial cleansing foam (2.83%)",
+      "Face moisturizing serum (2.66%)",
+      "Face lotion and toner (2.39%)",
+      "Face cream (2.23%)",
+      "Day anti-ageing face serum (2.05%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Fructooligosaccharides",
+    "inci_name": "FRUCTOOLIGOSACCHARIDES",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Fructooligosaccharides — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Humectant",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.29% косметических средств",
+    "common_product_types": [
+      "Micellar water (2.69%)",
+      "Face cleansing gel (1.51%)",
+      "Face moisturizing serum (0.93%)",
+      "Adult sun cream (0.91%)",
+      "Cream / gel mask (0.79%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Fragaria Vesca Fruit Extract",
+    "inci_name": "FRAGARIA VESCA FRUIT EXTRACT",
+    "cas_number": "84929-78-2 - Wild Strawberry extract",
+    "einecs_number": "284-556-1",
+    "description": "Fragaria Vesca Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.15% косметических средств",
+    "common_product_types": [
+      "Shower gel (0.41%)",
+      "Body moisturizer (0.28%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Fucus Vesiculosus Extract",
+    "inci_name": "FUCUS VESICULOSUS EXTRACT",
+    "cas_number": "84696-13-9 - Seaweed extract",
+    "einecs_number": "283-633-7",
+    "description": "Fucus Vesiculosus Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning",
+      "Smoothing",
+      "Soothing"
+    ],
+    "prevalence": "0.5% косметических средств",
+    "common_product_types": [
+      "Cellulite cream/gel/oil (13.55%)",
+      "Diet and slimming (11.03%)",
+      "Self-tanner (3.1%)",
+      "Eye contour care (1.7%)",
+      "Cream / gel mask (1.27%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Fucus Vesiculosus Thalle Oil",
+    "inci_name": "FUCUS VESICULOSUS THALLE OIL",
+    "cas_number": "84696-13-9",
+    "einecs_number": "283-633-7",
+    "description": "Fucus Vesiculosus Thalle Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Fucus Vesiculosus Powder",
+    "inci_name": "FUCUS VESICULOSUS POWDER",
+    "cas_number": "84696-13-9",
+    "einecs_number": "283-633-7",
+    "description": "Fucus Vesiculosus Powder — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Fusanus Acuminatus Seed Oil",
+    "inci_name": "FUSANUS ACUMINATUS SEED OIL",
+    "cas_number": "1542150-44-6 - Quandong seed oil",
+    "einecs_number": "",
+    "description": "Fusanus Acuminatus Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant",
+      "Humectant",
+      "Skin conditioning",
+      "Skin protecting"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Fragaria Chiloensis Fruit Extract",
+    "inci_name": "FRAGARIA CHILOENSIS FRUIT EXTRACT",
+    "cas_number": "95193-64-9 - Strawberry fruit extract",
+    "einecs_number": "305-877-6",
+    "description": "Fragaria Chiloensis Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [
+      "Fabric mask (0.99%)",
+      "Classic shampoo (0.16%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Fusanus Spicatus Wood Oil",
+    "inci_name": "FUSANUS SPICATUS WOOD OIL",
+    "cas_number": "8024-35-9 - Sandalwood oil",
+    "einecs_number": "-",
+    "description": "Fusanus Spicatus Wood Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Fumaric Acid",
+    "inci_name": "FUMARIC ACID",
+    "cas_number": "110-17-8",
+    "einecs_number": "203-743-0",
+    "description": "Fumaric Acid — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "pH regulator"
+    ],
+    "prevalence": "0.29% косметических средств",
+    "common_product_types": [
+      "Shampoo for colored/highlighted hair (8.12%)",
+      "Oxidative hair coloring (4.47%)",
+      "Classic shampoo (4.11%)",
+      "Anti-dandruff shampoo (2.13%)",
+      "Adult sun cream (0.51%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Fucus Vesiculosus Thalle Extract",
+    "inci_name": "FUCUS VESICULOSUS THALLE EXTRACT",
+    "cas_number": "84696-13-9",
+    "einecs_number": "283-633-7",
+    "description": "Fucus Vesiculosus Thalle Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Furcellaria Lumbricalis Extract",
+    "inci_name": "FURCELLARIA LUMBRICALIS EXTRACT",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Furcellaria Lumbricalis Extract — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [
+      "Anti-aging day face cream (1.12%)",
+      "Foundation (0.75%)",
+      "Face cream (0.6%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  }
+]

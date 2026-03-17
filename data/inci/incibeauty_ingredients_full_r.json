@@ -1,0 +1,1553 @@
+[
+  {
+    "name": "Resorcinol",
+    "inci_name": "RESORCINOL",
+    "cas_number": "108-46-3",
+    "einecs_number": "203-585-2",
+    "description": "Resorcinol is used as a coloring in hair dyes (ColorIndex: CI 76505). However, \"it is the rubber industry that is the largest user of resorcinol (about 50%) and it is also used for the manufacture of high quality wood glues (about 25%). Other uses include dye manufacture, pharmaceuticals, flame retardants, agrochemicals, fungicide creams and lotions, and hair dyes. \" (WHO source)On a notice published in 2013, the SCCS (Europe) concluded that \"Resorcinol is a powerful sensitizer.\"Studies suspect the substance of being an endocrine disruptor:In humans, thyroid effects, CNS disorders and erythrocyte abnormalities have been attributed to resorcinol exposure Skin sensitization to resorcinol is well known but rare in practice, and the available data cannot assess the effective sensitizing action of this coumpound. \" (WHO source)",
+    "rating": "avoid",
+    "functions": [
+      "Antioxidant",
+      "Denaturant",
+      "Hair dyeing",
+      "Perfuming"
+    ],
+    "prevalence": "0.8% косметических средств",
+    "common_product_types": [
+      "Men's hair colouring (56.1%)",
+      "Oxidative hair coloring (49.91%)"
+    ],
+    "note": "Рекомендуется избегать в косметических продуктах."
+  },
+  {
+    "name": "Retinol",
+    "inci_name": "RETINOL",
+    "cas_number": "68-26-8 / 11103-57-4 - Vitamin A",
+    "einecs_number": "200-683-7 / 234-328-2",
+    "description": "Retinol is produced synthetically, but is naturally present in animal fats, fish liver oil and plants containing beta-carotene. Retinol is a natural form of vitamin A, which works by reducing the appearance of wrinkles and increasing the thickness and elasticity of the skin.It is prohibited in organic products.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning",
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "0.62% косметических средств",
+    "common_product_types": [
+      "Anti-ageing night time face serum (28.34%)",
+      "Anti-aging night face cream (7.34%)",
+      "Day anti-ageing face serum (7.09%)",
+      "Anti-aging eye contour care (5.07%)",
+      "Mask / patch (3.8%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Retinoic Acid",
+    "inci_name": "RETINOIC ACID",
+    "cas_number": "302-79-4",
+    "einecs_number": "206-129-0",
+    "description": "Retinoic Acid — косметический ингредиент.",
+    "rating": "avoid",
+    "functions": [
+      "Unclassified"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Рекомендуется избегать в косметических продуктах. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Rapeseedamidopropyl Ethyldimonium Ethosulfate",
+    "inci_name": "RAPESEEDAMIDOPROPYL ETHYLDIMONIUM ETHOSULFATE",
+    "cas_number": "94552-41-7",
+    "einecs_number": "305-488-1",
+    "description": "This ingredient is REACH ecotoxic (Aquatic Acute 1, Aquatic Chronic 1) and not readily biodegradable",
+    "rating": "caution",
+    "functions": [
+      "Antistatic"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (1.56%)"
+    ],
+    "note": "Требует осторожности при использовании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Ravensara Aromatica Leaf Oil",
+    "inci_name": "RAVENSARA AROMATICA LEAF OIL",
+    "cas_number": "91770-56-8",
+    "einecs_number": "294-842-8",
+    "description": "Ravensara Aromatica Leaf Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Retinyl Palmitate",
+    "inci_name": "RETINYL PALMITATE",
+    "cas_number": "79-81-2 - Vitamin A",
+    "einecs_number": "201-228-5",
+    "description": "Retinyl palmitate is an esterified form of vitamin A, widely used in anti-aging cosmetics. It is considered more stable and better tolerated by the skin than retinol (Vitamin A).",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning",
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "1.87% косметических средств",
+    "common_product_types": [
+      "Nail care and treatments (10.8%)",
+      "Anti-aging night face cream (10.44%)",
+      "Anti-aging eye contour care (8.82%)",
+      "Anti-aging day face cream (8.62%)",
+      "Anti-ageing night time face serum (8.18%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Animal."
+  },
+  {
+    "name": "Retinyl Acetate",
+    "inci_name": "RETINYL ACETATE",
+    "cas_number": "127-47-9",
+    "einecs_number": "204-844-2",
+    "description": "Retinyl Acetate — косметический ингредиент. Происхождение: Synthetic.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning",
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "0.09% косметических средств",
+    "common_product_types": [
+      "Anti-aging day face cream (0.74%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Synthetic."
+  },
+  {
+    "name": "Rhodiola Rosea Root Extract",
+    "inci_name": "RHODIOLA ROSEA ROOT EXTRACT",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Rhodiola Rosea Root Extract — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin protecting"
+    ],
+    "prevalence": "0.11% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Rhus Verniciflua Peel Cera",
+    "inci_name": "RHUS VERNICIFLUA PEEL CERA",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Rhus Verniciflua Peel Cera — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Stabilising"
+    ],
+    "prevalence": "0.28% косметических средств",
+    "common_product_types": [
+      "Mascara (5.07%)",
+      "Lip balm (4.4%)",
+      "Lipstick (2.44%)",
+      "Deodorant stick (1.47%)",
+      "Gloss and lip gloss (1.34%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rhus Succedanea Fruit Cera",
+    "inci_name": "RHUS SUCCEDANEA FRUIT CERA",
+    "cas_number": "8001-39-6 - Wax tree fruit wax",
+    "einecs_number": "-",
+    "description": "Rhus Succedanea Fruit Cera — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Binding agent",
+      "Emollient",
+      "Viscosity controlling"
+    ],
+    "prevalence": "0.15% косметических средств",
+    "common_product_types": [
+      "Eyebrow pencil (11.31%)",
+      "Lip pencil (6.07%)",
+      "Eyes and kohl pencil (4.17%)",
+      "Eyeliner and kajal (3.02%)",
+      "Mascara (1.78%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Ribes Nigrum Fruit Extract",
+    "inci_name": "RIBES NIGRUM FRUIT EXTRACT",
+    "cas_number": "68606-81-5 - Black Currant extract",
+    "einecs_number": "271-749-0",
+    "description": "Ribes Nigrum Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent",
+      "Emollient",
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "0.1% косметических средств",
+    "common_product_types": [
+      "Classic shampoo (0.17%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Ribes Nigrum Leaf Extract",
+    "inci_name": "RIBES NIGRUM LEAF EXTRACT",
+    "cas_number": "68606-81-5 - Black Currant leaf extract",
+    "einecs_number": "271-749-0",
+    "description": "Ribes Nigrum Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Riboflavin",
+    "inci_name": "RIBOFLAVIN",
+    "cas_number": "83-88-5",
+    "einecs_number": "201-507-1",
+    "description": "Riboflavin — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Cosmetic colorant",
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "0.15% косметических средств",
+    "common_product_types": [
+      "Anti-aging day face cream (0.77%)",
+      "Fabric mask (0.72%)",
+      "Adult sun cream (0.61%)"
+    ],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Robinia Pseudoacacia Flower Extract",
+    "inci_name": "ROBINIA PSEUDOACACIA FLOWER EXTRACT",
+    "cas_number": "89957-93-7 - False acacia flower extract",
+    "einecs_number": "289-615-5",
+    "description": "Robinia Pseudoacacia Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Tonic"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Alba Flower Extract",
+    "inci_name": "ROSA ALBA FLOWER EXTRACT",
+    "cas_number": "93334-48-6",
+    "einecs_number": "297-122-1",
+    "description": "Rosa Alba Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Emollient",
+      "Perfuming"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Ricinodendron Rautenenii Seed Oil",
+    "inci_name": "RICINODENDRON RAUTENENII SEED OIL",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Ricinodendron Rautenenii Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Ricinus Communis Seed Oil",
+    "inci_name": "RICINUS COMMUNIS SEED OIL",
+    "cas_number": "8001-79-4 - Castor seed oil",
+    "einecs_number": "232-293-8",
+    "description": "Castor oil is a vegetable oil extracted from seeds, it is mainly made up of fatty acids (mostly ricinoleic acid). This oil is used because of its numerous properties in cosmetics: it promotes the uniform distribution of pigments in a cosmetic product, it penetrates the stratum corneum and acts in depth, it moisturizes and protects. In hair care, it has toning properties and protects the hair (film-forming agent). It is also very used in lip care, it makes them soft and gives them shine. In makeup, it is used to promote a good distribution of colors. It is allowed in organic.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Skin conditioning",
+      "Perfuming"
+    ],
+    "prevalence": "4.08% косметических средств",
+    "common_product_types": [
+      "Sunscreen lip balm (56.69%)",
+      "Lip balm (51.88%)",
+      "Lip cream (41.91%)",
+      "Tinted lip balm (41.27%)",
+      "Cold wax strips for face (37.43%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Alba Leaf Cell Extract",
+    "inci_name": "ROSA ALBA LEAF CELL EXTRACT",
+    "cas_number": "93334-48-6",
+    "einecs_number": "297-122-1",
+    "description": "Rosa Alba Leaf Cell Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant",
+      "Skin protecting"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Canina Callus Extract",
+    "inci_name": "ROSA CANINA CALLUS EXTRACT",
+    "cas_number": "84696-47-9",
+    "einecs_number": "",
+    "description": "Rosa Canina Callus Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin protecting"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Canina Flower",
+    "inci_name": "ROSA CANINA FLOWER",
+    "cas_number": "84696-47-9",
+    "einecs_number": "283-652-0",
+    "description": "Rosa Canina Flower — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Canina Flower Extract",
+    "inci_name": "ROSA CANINA FLOWER EXTRACT",
+    "cas_number": "84696-47-9 - Rose hip flower extract",
+    "einecs_number": "283-652-0",
+    "description": "Rosa Canina Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent"
+    ],
+    "prevalence": "0.14% косметических средств",
+    "common_product_types": [
+      "Hair oil (2.44%)",
+      "Hair conditioner (0.58%)",
+      "Classic shampoo (0.52%)",
+      "Lipstick (0.37%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Alba Flower Water",
+    "inci_name": "ROSA ALBA FLOWER WATER",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Rosa Alba Flower Water — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Rosa Canina Flower Powder",
+    "inci_name": "ROSA CANINA FLOWER POWDER",
+    "cas_number": "84696-47-9",
+    "einecs_number": "283-652-0",
+    "description": "Rosa Canina Flower Powder — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Canina Flower Oil",
+    "inci_name": "ROSA CANINA FLOWER OIL",
+    "cas_number": "84696-47-9",
+    "einecs_number": "283-652-0",
+    "description": "Rosa Canina Flower Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Emollient",
+      "Masking"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Ribes Nigrum Seed Oil",
+    "inci_name": "RIBES NIGRUM SEED OIL",
+    "cas_number": "68606-81-5 / 97676-19-2 - Black Currant oil",
+    "einecs_number": "271-749-0 / -",
+    "description": "Ribes Nigrum Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient"
+    ],
+    "prevalence": "0.18% косметических средств",
+    "common_product_types": [
+      "Oxidative hair coloring (0.8%)",
+      "Lip balm (0.76%)",
+      "Face cream (0.51%)",
+      "Lipstick (0.35%)",
+      "Body moisturizer (0.35%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Ribes Rubrum Fruit Extract",
+    "inci_name": "RIBES RUBRUM FRUIT EXTRACT",
+    "cas_number": "84650-22-6 - Redcurrant fruit extract",
+    "einecs_number": "283-502-4",
+    "description": "Ribes Rubrum Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Tonic"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Canina Fruit Oil",
+    "inci_name": "ROSA CANINA FRUIT OIL",
+    "cas_number": "84696-47-9 / 84603-93-0 - Rosehip fruit oil",
+    "einecs_number": "283-652-0 / -",
+    "description": "Rosa Canina Fruit Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.84% косметических средств",
+    "common_product_types": [
+      "Face anti-aging oil (11.08%)",
+      "Stretch marks treatment (9.95%)",
+      "Lip oil (7.23%)",
+      "Body and face moisturizing oil (3.92%)",
+      "Night face cream (3.51%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Canina Seed",
+    "inci_name": "ROSA CANINA SEED",
+    "cas_number": "84696-47-9",
+    "einecs_number": "283-652-0",
+    "description": "Rosa Canina Seed — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Abrasive",
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Canina Seed Extract",
+    "inci_name": "ROSA CANINA SEED EXTRACT",
+    "cas_number": "84696-47-9",
+    "einecs_number": "283-652-0",
+    "description": "Rosa Canina Seed Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Humectant",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.05% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Canina Seed Oil",
+    "inci_name": "ROSA CANINA SEED OIL",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Rosa Canina Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient"
+    ],
+    "prevalence": "0.16% косметических средств",
+    "common_product_types": [
+      "Body and face moisturizing oil (1.09%)",
+      "Face cream (0.48%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Canina Seed Powder",
+    "inci_name": "ROSA CANINA SEED POWDER",
+    "cas_number": "84696-47-9",
+    "einecs_number": "283-652-0",
+    "description": "Rosa Canina Seed Powder — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Abrasive",
+      "Keratolytic",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Centifolia Bud Extract",
+    "inci_name": "ROSA CENTIFOLIA BUD EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Rosa Centifolia Bud Extract — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Rosa Centifolia Callus Culture Extract",
+    "inci_name": "ROSA CENTIFOLIA CALLUS CULTURE EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Rosa Centifolia Callus Culture Extract — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Skin protecting"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Rosa Canina Leaf Extract",
+    "inci_name": "ROSA CANINA LEAF EXTRACT",
+    "cas_number": "84696-47-9",
+    "einecs_number": "283-652-0",
+    "description": "Rosa Canina Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Canina Fruit",
+    "inci_name": "ROSA CANINA FRUIT",
+    "cas_number": "84696-47-9",
+    "einecs_number": "283-652-0",
+    "description": "Rosa Canina Fruit — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Canina Fruit Extract",
+    "inci_name": "ROSA CANINA FRUIT EXTRACT",
+    "cas_number": "84696-47-9 - Rosehip fruit extract",
+    "einecs_number": "283-652-0",
+    "description": "Rosa Canina Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent",
+      "Skin conditioning",
+      "Tonic"
+    ],
+    "prevalence": "0.34% косметических средств",
+    "common_product_types": [
+      "Face lotion and toner (1.12%)",
+      "Cream / gel mask (1.08%)",
+      "Face cleansing gel (1.02%)",
+      "Face moisturizing serum (1.01%)",
+      "Anti-aging day face cream (0.85%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Canina Fruit Juice",
+    "inci_name": "ROSA CANINA FRUIT JUICE",
+    "cas_number": "84696-47-9",
+    "einecs_number": "283-652-0",
+    "description": "Rosa Canina Fruit Juice — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Centifolia Flower Juice",
+    "inci_name": "ROSA CENTIFOLIA FLOWER JUICE",
+    "cas_number": "84604-12-6",
+    "einecs_number": "283-289-8",
+    "description": "Rosa Centifolia Flower Juice — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Centifolia Flower Extract",
+    "inci_name": "ROSA CENTIFOLIA FLOWER EXTRACT",
+    "cas_number": "84604-12-6 - Rose blossom extract",
+    "einecs_number": "283-289-8",
+    "description": "Rosa Centifolia Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Astringent",
+      "Masking",
+      "Skin conditioning",
+      "Tonic"
+    ],
+    "prevalence": "0.32% косметических средств",
+    "common_product_types": [
+      "Lipstick (1.33%)",
+      "Blush (1.29%)",
+      "Face lotion and toner (0.93%)",
+      "Fabric mask (0.74%)",
+      "Anti-aging day face cream (0.67%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Centifolia Flower Oil",
+    "inci_name": "ROSA CENTIFOLIA FLOWER OIL",
+    "cas_number": "84604-12-6 - Rose flower oil",
+    "einecs_number": "283-289-8",
+    "description": "Rosa Centifolia Flower Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Tonic"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Centifolia Flower Powder",
+    "inci_name": "ROSA CENTIFOLIA FLOWER POWDER",
+    "cas_number": "84604-12-6",
+    "einecs_number": "283-289-8",
+    "description": "Rosa Centifolia Flower Powder — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Abrasive"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Centifolia Flower Water",
+    "inci_name": "ROSA CENTIFOLIA FLOWER WATER",
+    "cas_number": "84604-12-6 - Rosa flower water",
+    "einecs_number": "283-289-8",
+    "description": "Rosa Centifolia Flower Water — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning",
+      "Skin protecting"
+    ],
+    "prevalence": "0.19% косметических средств",
+    "common_product_types": [
+      "Face lotion and toner (1.62%)",
+      "Fabric mask (0.92%)",
+      "Face cream (0.37%)",
+      "Body moisturizer (0.2%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Centifolia Leaf Cell Extract",
+    "inci_name": "ROSA CENTIFOLIA LEAF CELL EXTRACT",
+    "cas_number": "84604-12-6",
+    "einecs_number": "283-289-8",
+    "description": "Rosa Centifolia Leaf Cell Extract — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Antioxidant",
+      "Skin protecting"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Rosa Centifolia Stem Extract",
+    "inci_name": "ROSA CENTIFOLIA STEM EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Rosa Centifolia Stem Extract — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании."
+  },
+  {
+    "name": "Rosa Damascena Callus Culture Extract",
+    "inci_name": "ROSA DAMASCENA CALLUS CULTURE EXTRACT",
+    "cas_number": "90106-38-0",
+    "einecs_number": "290-260-3",
+    "description": "Rosa Damascena Callus Culture Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant",
+      "Hair conditioning",
+      "Humectant",
+      "Skin protecting"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Centifolia Extract",
+    "inci_name": "ROSA CENTIFOLIA EXTRACT",
+    "cas_number": "84604-12-6 - Rose de Mai extract",
+    "einecs_number": "283-289-8",
+    "description": "Rosa Centifolia Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Centifolia Flower",
+    "inci_name": "ROSA CENTIFOLIA FLOWER",
+    "cas_number": "84604-12-6 - Cabbage Rose flower",
+    "einecs_number": "283-289-8",
+    "description": "Rosa Centifolia Flower — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Centifolia Flower Cera",
+    "inci_name": "ROSA CENTIFOLIA FLOWER CERA",
+    "cas_number": "84604-12-6",
+    "einecs_number": "283-289-8",
+    "description": "Rosa Centifolia Flower Cera — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Skin protecting"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Damascena Flower Extract",
+    "inci_name": "ROSA DAMASCENA FLOWER EXTRACT",
+    "cas_number": "90106-38-0 - Damask rose flower extract",
+    "einecs_number": "290-260-3",
+    "description": "Rosa Damascena Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Tonic"
+    ],
+    "prevalence": "0.27% косметических средств",
+    "common_product_types": [
+      "Face lotion and toner (0.83%)",
+      "Anti-aging day face cream (0.79%)",
+      "Body and face moisturizing oil (0.7%)",
+      "Face cream (0.7%)",
+      "Hand cream (0.63%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Damascena Flower Oil",
+    "inci_name": "ROSA DAMASCENA FLOWER OIL",
+    "cas_number": "90106-38-0 / 8007-01-0 - Damask rose flower oil",
+    "einecs_number": "290-260-3",
+    "description": "Rosa Damascena Flower Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.52% косметических средств",
+    "common_product_types": [
+      "Face lotion and toner (2.08%)",
+      "Body and face moisturizing oil (1.73%)",
+      "Day anti-ageing face serum (1.7%)",
+      "Anti-aging day face cream (1.64%)",
+      "Face cream (1.38%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Damascena Flower Powder",
+    "inci_name": "ROSA DAMASCENA FLOWER POWDER",
+    "cas_number": "90106-38-0",
+    "einecs_number": "290-260-3",
+    "description": "Rosa Damascena Flower Powder — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Damascena Flower Water",
+    "inci_name": "ROSA DAMASCENA FLOWER WATER",
+    "cas_number": "90106-38-0",
+    "einecs_number": "290-260-3",
+    "description": "Rosa Damascena Flower Water — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Skin conditioning",
+      "Skin protecting"
+    ],
+    "prevalence": "1.03% косметических средств",
+    "common_product_types": [
+      "Face lotion and toner (11.43%)",
+      "Micellar water (7.94%)",
+      "Thermal waters / mists (7.36%)",
+      "Make-up remover lotion (5.78%)",
+      "Care set (5.57%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Damascena Leaf Cell Extract",
+    "inci_name": "ROSA DAMASCENA LEAF CELL EXTRACT",
+    "cas_number": "90106-38-0",
+    "einecs_number": "290-260-3",
+    "description": "Rosa Damascena Leaf Cell Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin protecting",
+      "Flavouring agent"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Damascena Bud Extract",
+    "inci_name": "ROSA DAMASCENA BUD EXTRACT",
+    "cas_number": "90106-38-0",
+    "einecs_number": "290-260-3",
+    "description": "Rosa Damascena Bud Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [
+      "Eyeshadow (0.52%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Damascena Phytoplacenta Culture Extract",
+    "inci_name": "ROSA DAMASCENA PHYTOPLACENTA CULTURE EXTRACT",
+    "cas_number": "90106-38-0",
+    "einecs_number": "290-260-3",
+    "description": "Rosa Damascena Phytoplacenta Culture Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant",
+      "Skin protecting"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Damascena Flower",
+    "inci_name": "ROSA DAMASCENA FLOWER",
+    "cas_number": "90106-38-0 - Damask rose flower",
+    "einecs_number": "290-260-3",
+    "description": "Rosa Damascena Flower — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Extract",
+    "inci_name": "ROSA EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Rosa Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent",
+      "Hair conditioning",
+      "Maintenance agent for nails",
+      "Skin conditioning - miscellaneous"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Damascena Extract",
+    "inci_name": "ROSA DAMASCENA EXTRACT",
+    "cas_number": "90106-38-0 - Damask rose flower extract",
+    "einecs_number": "290-260-3",
+    "description": "Rosa Damascena Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking",
+      "Tonic"
+    ],
+    "prevalence": "0.11% косметических средств",
+    "common_product_types": [
+      "Anti-aging day face cream (0.77%)",
+      "Face cream (0.43%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Gallica Flower Extract",
+    "inci_name": "ROSA GALLICA FLOWER EXTRACT",
+    "cas_number": "84604-13-7 - Rosa flower extract",
+    "einecs_number": "283-290-3",
+    "description": "Rosa Gallica Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent",
+      "Skin conditioning",
+      "Tonic"
+    ],
+    "prevalence": "0.16% косметических средств",
+    "common_product_types": [
+      "Solid soap (0.83%)",
+      "Foundation (0.6%)",
+      "Face cream (0.3%)",
+      "Shower gel (0.23%)",
+      "Classic shampoo (0.17%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Gallica Flower Powder",
+    "inci_name": "ROSA GALLICA FLOWER POWDER",
+    "cas_number": "84604-13-7",
+    "einecs_number": "283-290-3",
+    "description": "Rosa Gallica Flower Powder — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Hybrid Flower Extract",
+    "inci_name": "ROSA HYBRID FLOWER EXTRACT",
+    "cas_number": "93062-88-5",
+    "einecs_number": "296-844-4",
+    "description": "Rosa Hybrid Flower Extract — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Tonic"
+    ],
+    "prevalence": "0.1% косметических средств",
+    "common_product_types": [
+      "Lipstick (1.1%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Rosa Gallica Flower Water",
+    "inci_name": "ROSA GALLICA FLOWER WATER",
+    "cas_number": "84604-13-7",
+    "einecs_number": "283-290-3",
+    "description": "Rosa Gallica Flower Water — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Perfuming",
+      "Flavouring agent"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Moschata Seed Oil",
+    "inci_name": "ROSA MOSCHATA SEED OIL",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Rosa Moschata Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient",
+      "Skin conditioning"
+    ],
+    "prevalence": "0.34% косметических средств",
+    "common_product_types": [
+      "Body and face moisturizing oil (1.71%)",
+      "Anti-aging day face cream (1.5%)",
+      "Face cream (0.72%)",
+      "Hand cream (0.56%)",
+      "Body moisturizer (0.5%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Damascena Flower Cera",
+    "inci_name": "ROSA DAMASCENA FLOWER CERA",
+    "cas_number": "90106-38-0 - Damask rose wax",
+    "einecs_number": "290-260-3",
+    "description": "Rosa Damascena Flower Cera — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Rugosa Flower Extract",
+    "inci_name": "ROSA RUGOSA FLOWER EXTRACT",
+    "cas_number": "92347-25-6 - Japanese Rose flower extract",
+    "einecs_number": "296-213-3",
+    "description": "Rosa Rugosa Flower Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Gallica Flower Oil",
+    "inci_name": "ROSA GALLICA FLOWER OIL",
+    "cas_number": "84604-13-7",
+    "einecs_number": "283-290-3",
+    "description": "Rosa Gallica Flower Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Emollient",
+      "Masking"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Eglanteria Seed Oil",
+    "inci_name": "ROSA EGLANTERIA SEED OIL",
+    "cas_number": "223748-18-3 - Rosehip seed oil",
+    "einecs_number": "",
+    "description": "Rosa Eglanteria Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Не указано"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rose Flower Oil",
+    "inci_name": "ROSE FLOWER OIL",
+    "cas_number": "8007-01-0 - Rose oil",
+    "einecs_number": "",
+    "description": "Rose Flower Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Moschata Oil",
+    "inci_name": "ROSA MOSCHATA OIL",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Rosa Moschata Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Astringent",
+      "Emollient",
+      "Masking",
+      "Tonic"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Ингредиент регулируется в ЕС и Великобритании. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rose Ketone-3",
+    "inci_name": "ROSE KETONE-3",
+    "cas_number": "57378-68-4",
+    "einecs_number": "260-709-8",
+    "description": "Rose-Ketone3 is an aromatic compound used in cosmetics. It is one of the allergens regulated in Europe.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.35% косметических средств",
+    "common_product_types": [
+      "Scented mist for women (5.08%)",
+      "Perfume for women (4.76%)",
+      "Eau de toilette for women (2.82%)",
+      "Deodorant spray (1.47%)",
+      "Roll-on deodorant (0.82%)"
+    ],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Rosa Rubiginosa Seed Oil",
+    "inci_name": "ROSA RUBIGINOSA SEED OIL",
+    "cas_number": "",
+    "einecs_number": "-",
+    "description": "Rosa Rubiginosa Seed Oil — косметический ингредиент.",
+    "rating": "safe",
+    "functions": [
+      "Emollient"
+    ],
+    "prevalence": "0.16% косметических средств",
+    "common_product_types": [
+      "Body and face moisturizing oil (1.62%)",
+      "Anti-aging day face cream (0.61%)",
+      "Nail polish (0.51%)",
+      "Foundation (0.42%)",
+      "Face cream (0.38%)"
+    ],
+    "note": "Считается безопасным для использования в косметике."
+  },
+  {
+    "name": "Rosmarinus Officinalis Extract",
+    "inci_name": "ROSMARINUS OFFICINALIS EXTRACT",
+    "cas_number": "84604-14-8 - Rosemary extract",
+    "einecs_number": "283-291-9",
+    "description": "Rosmarinus Officinalis Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antimicrobial",
+      "Refreshing",
+      "Tonic"
+    ],
+    "prevalence": "0.61% косметических средств",
+    "common_product_types": [
+      "Fall protection shampoo (6.62%)",
+      "Solid shampoo (1.99%)",
+      "Oxidative hair coloring (1.78%)",
+      "Fabric mask (1.36%)",
+      "Specific hair care (1.08%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosmarinus Officinalis Flower Oil",
+    "inci_name": "ROSMARINUS OFFICINALIS FLOWER OIL",
+    "cas_number": "84604-14-8 - Rosemary flower oil",
+    "einecs_number": "283-291-9",
+    "description": "Rosmarinus Officinalis Flower Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "0.07% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosmarinus Officinalis Leaf",
+    "inci_name": "ROSMARINUS OFFICINALIS LEAF",
+    "cas_number": "84604-14-8 - Rosemary leaf",
+    "einecs_number": "283-291-9",
+    "description": "Rosmarinus Officinalis Leaf — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosmarinus Officinalis Leaf Extract",
+    "inci_name": "ROSMARINUS OFFICINALIS LEAF EXTRACT",
+    "cas_number": "84604-14-8 - Rosemary leaf extract",
+    "einecs_number": "283-291-9",
+    "description": "Rosmarinus Officinalis Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antimicrobial",
+      "Masking",
+      "Skin conditioning"
+    ],
+    "prevalence": "2.59% косметических средств",
+    "common_product_types": [
+      "Face anti-aging oil (11.08%)",
+      "Fall protection shampoo (7.82%)",
+      "Cleansing oil (7.34%)",
+      "Care set (6.88%)",
+      "Anti-hair loss treatment (6.87%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosmarinus Officinalis Leaf Oil",
+    "inci_name": "ROSMARINUS OFFICINALIS LEAF OIL",
+    "cas_number": "84604-14-8 / 8000-25-7 - Rosemary leaf oil",
+    "einecs_number": "283-291-9",
+    "description": "Rosmarinus Officinalis Leaf Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking",
+      "Skin conditioning"
+    ],
+    "prevalence": "1.16% косметических средств",
+    "common_product_types": [
+      "Hair growth care (17.96%)",
+      "Massage (11.86%)",
+      "Anti-hair loss treatment (8.48%)",
+      "Cellulite cream/gel/oil (7.96%)",
+      "Fall protection shampoo (6.78%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosa Rugosa Flower Oil",
+    "inci_name": "ROSA RUGOSA FLOWER OIL",
+    "cas_number": "92347-25-6",
+    "einecs_number": "296-213-3",
+    "description": "Rosa Rugosa Flower Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rose Extract",
+    "inci_name": "ROSE EXTRACT",
+    "cas_number": "84696-47-9",
+    "einecs_number": "283-652-0",
+    "description": "Rose Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "neutral",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.16% косметических средств",
+    "common_product_types": [
+      "Body moisturizer (0.2%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Royal Jelly Extract",
+    "inci_name": "ROYAL JELLY EXTRACT",
+    "cas_number": "91081-56-0",
+    "einecs_number": "293-662-7",
+    "description": "Royal Jelly Extract — косметический ингредиент. Происхождение: Animal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.15% косметических средств",
+    "common_product_types": [
+      "Fabric mask (0.84%)",
+      "Face cream (0.46%)",
+      "Body moisturizer (0.27%)",
+      "Classic shampoo (0.24%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Animal."
+  },
+  {
+    "name": "Rose Ketone-4",
+    "inci_name": "ROSE KETONE-4",
+    "cas_number": "23696-85-7",
+    "einecs_number": "245-833-2",
+    "description": "Rose Ketone-4 — косметический ингредиент.",
+    "rating": "neutral",
+    "functions": [
+      "Perfuming"
+    ],
+    "prevalence": "Данные недоступны",
+    "common_product_types": [],
+    "note": "Low penalty in all categories."
+  },
+  {
+    "name": "Rubus Chamaemorus Fruit Extract",
+    "inci_name": "RUBUS CHAMAEMORUS FRUIT EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Rubus Chamaemorus Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Antioxidant"
+    ],
+    "prevalence": "0.08% косметических средств",
+    "common_product_types": [
+      "Body moisturizer (0.21%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rubus Chamaemorus Seed Oil",
+    "inci_name": "RUBUS CHAMAEMORUS SEED OIL",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "Rubus Chamaemorus Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rubus Fruticosus Fruit Extract",
+    "inci_name": "RUBUS FRUTICOSUS FRUIT EXTRACT",
+    "cas_number": "84787-69-9 - Blackberry extract",
+    "einecs_number": "284-110-6",
+    "description": "Rubus Fruticosus Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent",
+      "Masking",
+      "Tonic"
+    ],
+    "prevalence": "0.19% косметических средств",
+    "common_product_types": [
+      "Fabric mask (1.11%)",
+      "Cream / gel mask (0.74%)",
+      "Specific hair care (0.57%)",
+      "Lipstick (0.43%)",
+      "Classic shampoo (0.36%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rubus Idaeus Fruit Extract",
+    "inci_name": "RUBUS IDAEUS FRUIT EXTRACT",
+    "cas_number": "84929-76-0 - Raspberry fruit extract",
+    "einecs_number": "284-554-0",
+    "description": "Rubus Idaeus Fruit Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent",
+      "Keratolytic",
+      "Skin conditioning",
+      "Smoothing",
+      "Tonic"
+    ],
+    "prevalence": "0.41% косметических средств",
+    "common_product_types": [
+      "Cream / gel mask (1.69%)",
+      "Fabric mask (1.58%)",
+      "Face scrub (1.54%)",
+      "Body scrub (1.24%)",
+      "Shower gel (0.91%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosmarinus Officinalis Water",
+    "inci_name": "ROSMARINUS OFFICINALIS WATER",
+    "cas_number": "84604-14-8 - Rosemary water",
+    "einecs_number": "283-291-9",
+    "description": "Rosmarinus Officinalis Water — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.03% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rubia Cordifolia Root Extract",
+    "inci_name": "RUBIA CORDIFOLIA ROOT EXTRACT",
+    "cas_number": "91845-24-8 - Manjistha root extract",
+    "einecs_number": "295-195-4",
+    "description": "Rubia Cordifolia Root Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin protecting"
+    ],
+    "prevalence": "0.02% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rosmarinus Officinalis Leaf Water",
+    "inci_name": "ROSMARINUS OFFICINALIS LEAF WATER",
+    "cas_number": "84604-14-8 - Rosemary leaf water",
+    "einecs_number": "283-291-9",
+    "description": "Rosmarinus Officinalis Leaf Water — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.06% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Ruscus Aculeatus Root Extract",
+    "inci_name": "RUSCUS ACULEATUS ROOT EXTRACT",
+    "cas_number": "84012-38-4 - Butcher's Broom extract",
+    "einecs_number": "281-682-9",
+    "description": "Ruscus Aculeatus Root Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Astringent",
+      "Refreshing",
+      "Skin conditioning",
+      "Soothing",
+      "Stabilising",
+      "Tonic"
+    ],
+    "prevalence": "0.21% косметических средств",
+    "common_product_types": [
+      "Heavy legs care (22.46%)",
+      "Cellulite cream/gel/oil (7.96%)",
+      "Eye contour care (2.66%)",
+      "Anti-aging eye contour care (2.36%)",
+      "Foundation (1.04%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rose Flower Oil/Extract",
+    "inci_name": "ROSE FLOWER OIL/EXTRACT",
+    "cas_number": "",
+    "einecs_number": "",
+    "description": "This INCI designation, mandatory in Europe, refers to the presence of one or more rose species (Rosa Alba, Rosa Canina, Rosa Centifolia, Rosa Damascena, Rosa Moschata, Rosa Gallica) in the composition of the product, when their concentration exceeds 0.001% in leave-on products and 0.01% in rinse-off products.",
+    "rating": "neutral",
+    "functions": [
+      "Masking"
+    ],
+    "prevalence": "0.04% косметических средств",
+    "common_product_types": [
+      "Perfume for women (0.69%)"
+    ],
+    "note": "Low penalty in all categories. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rubus Idaeus Leaf Extract",
+    "inci_name": "RUBUS IDAEUS LEAF EXTRACT",
+    "cas_number": "84929-76-0 - Raspberry leaf extract",
+    "einecs_number": "284-554-0",
+    "description": "Rubus Idaeus Leaf Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning"
+    ],
+    "prevalence": "0.11% косметических средств",
+    "common_product_types": [
+      "Lipstick (0.61%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rubus Idaeus Seed Oil",
+    "inci_name": "RUBUS IDAEUS SEED OIL",
+    "cas_number": "84929-76-0 - Raspberry seed oil",
+    "einecs_number": "284-554-0",
+    "description": "Rubus Idaeus Seed Oil — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Emollient"
+    ],
+    "prevalence": "0.29% косметических средств",
+    "common_product_types": [
+      "Lip oil (8.11%)",
+      "Lipstick (1.51%)",
+      "Adult sun cream (1.16%)",
+      "Lip balm (1.03%)",
+      "Body and face moisturizing oil (0.84%)"
+    ],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  },
+  {
+    "name": "Rumex Crispus Root Extract",
+    "inci_name": "RUMEX CRISPUS ROOT EXTRACT",
+    "cas_number": "90106-41-5",
+    "einecs_number": "290-264-5",
+    "description": "Rumex Crispus Root Extract — косметический ингредиент. Происхождение: Vegetal.",
+    "rating": "safe",
+    "functions": [
+      "Skin conditioning",
+      "Soothing"
+    ],
+    "prevalence": "0.01% косметических средств",
+    "common_product_types": [],
+    "note": "Считается безопасным для использования в косметике. Происхождение: Vegetal."
+  }
+]

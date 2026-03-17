@@ -11,6 +11,8 @@ class RagSettings(BaseSettings):
     
     host: str 
     port: str
+    chroma_host: str
+    chroma_port: str
     chroma_provider: str
     chroma_token: str
 
@@ -18,9 +20,13 @@ class RagSettings(BaseSettings):
     model_api: str
     model_name: str
     
+    emb_api_key: str
     emb_model: str
+    emb_api: str
     
+    reranker_api_key: str
     ranker_model: str
+    ranker_api: str
     
     upload_files_dir: str
     rag_prompt_path: str = "src/settings/prompts/system_prompt.yml"
@@ -29,4 +35,5 @@ class RagSettings(BaseSettings):
     chunk_size: int = 1024
     chunk_overlap: int = 20
     
+    log_level: str = "INFO"
     golden_answer_path: str = "src/settings/prompts/golden_answers.json"
