@@ -1,72 +1,173 @@
 import json
 import random
 import os
+import itertools
 
-OUTPUT_DIR = "evals/"
+OUTPUT_DIR = "./" # Лучше хранить в папке eval
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-# --- 1. Генерация eval_dataset_nl_queries.jsonl (для H1) ---
+# --- КОНСТАНТЫ ДЛЯ ГЕНЕРАЦИИ H2 ---
+
+# Расширенная база знаний ингредиентов (INCI -> Category)
+INGREDIENT_KB = {
+    # Базовые растворители/основы
+    "Aqua": "safe", "Water": "safe", "Alcohol Denat": "caution", "Glycerin": "safe", "Butylene Glycol": "safe",
+    "Propanediol": "safe", "Ethanol": "caution", "Isopropyl Alcohol": "avoid",
+    
+    # Эмоленты и увлажнители
+    "Squalane": "safe", "Caprylic/Capric Triglyceride": "safe", "Cetearyl Alcohol": "safe",
+    "Dimethicone": "neutral", "Cyclomethicone": "neutral", "Shea Butter": "safe",
+    "Jojoba Oil": "safe", "Hyaluronic Acid": "safe", "Sodium Hyaluronate": "safe",
+    
+    # Активные вещества (Anti-age/Acne)
+    "Niacinamide": "safe", "Salicylic Acid": "caution", "Retinol": "caution", 
+    "Retinyl Palmitate": "caution", "Ascorbic Acid": "caution", "Vitamin C": "safe",
+    "Peptides": "safe", "Palmitoyl Pentapeptide-4": "safe", "Azelaic Acid": "caution",
+    "Benzoyl Peroxide": "caution", "Adapalene": "caution",
+    
+    # Консерванты (часто вызывают вопросы)
+    "Phenoxyethanol": "neutral", "Ethylhexylglycerin": "neutral", "Sodium Benzoate": "safe",
+    "Potassium Sorbate": "safe", "Methylparaben": "caution", "Propylparaben": "caution",
+    "Triclosan": "avoid", "Dmdm Hydantoin": "avoid", "Methylisothiazolinone": "avoid",
+    "Chlorphenesin": "neutral", "Benzyl Alcohol": "neutral",
+    
+    # Отдушки и аллергены
+    "Parfum": "caution", "Fragrance": "caution", "Limonene": "caution", 
+    "Linalool": "caution", "Citronellol": "caution", "Geraniol": "caution",
+    "Eugenol": "caution", "Coumarin": "caution",
+    
+    # ПАВы и загустители
+    "Sodium Laureth Sulfate": "caution", "Sodium Lauryl Sulfate": "avoid",
+    "Cocamidopropyl Betaine": "safe", "Xanthan Gum": "safe", "Carbomer": "safe"
+}
+
+# Компоненты для сборки продуктов (Combinatorial Generation)
+BASES = ["Aqua", "Glycerin", "Butylene Glycol", "Propanediol"]
+EMOLLIENTS = ["Squalane", "Caprylic/Capric Triglyceride", "Dimethicone", "Shea Butter"]
+ACTIVES_SAFE = ["Niacinamide", "Hyaluronic Acid", "Peptides", "Panthenol"]
+ACTIVES_CAUTION = ["Retinol", "Salicylic Acid", "Ascorbic Acid", "Azelaic Acid"]
+PRESERVATIVES_SAFE = ["Phenoxyethanol", "Ethylhexylglycerin", "Sodium Benzoate"]
+PRESERVATIVES_AVOID = ["Triclosan", "Dmdm Hydantoin", "Methylisothiazolinone"] # Для проблемных продуктов
+FRAGRANCES = ["Parfum", "Limonene", "Linalool"]
+
+def generate_unique_inci_list(product_type="normal"):
+    """Генерирует уникальный список ингредиентов."""
+    inci = []
+    
+    # 1. Основа (всегда есть)
+    inci.append(random.choice(BASES))
+    inci.append(random.choice(["Glycerin", "Sodium Hyaluronate"]))
+    
+    # 2. Эмоленты (1-2 шт)
+    inci.extend(random.sample(EMOLLIENTS, random.randint(1, 2)))
+    
+    # 3. Активы
+    if product_type == "problematic":
+        inci.append(random.choice(ACTIVES_CAUTION))
+        inci.append(random.choice(PRESERVATIVES_AVOID)) # Опасный консервант
+    elif product_type == "active":
+        inci.extend(random.sample(ACTIVES_CAUTION, 2))
+        inci.append(random.choice(PRESERVATIVES_SAFE))
+    else: # normal / sensitive
+        inci.extend(random.sample(ACTIVES_SAFE, random.randint(1, 2)))
+        inci.append(random.choice(PRESERVATIVES_SAFE))
+        
+    # 4. Отдушки (иногда)
+    if random.random() > 0.6:
+        inci.append(random.choice(FRAGRANCES))
+        
+    # 5. Технические добавки (загустители и т.д.)
+    inci.append("Xanthan Gum")
+    inci.append("Citric Acid")
+    
+    # Перемешиваем, чтобы порядок был как в реальном INCI (по убыванию массы примерно)
+    random.shuffle(inci)
+    return list(dict.fromkeys(inci)) # Убираем дубликаты, сохраняя порядок
+
+# --- ГЕНЕРАЦИЯ H1 ---
+
 def generate_h1_dataset():
     """
-    Генерирует 30 запросов для проверки recommendation_agent.
-    Включает реальные примеры из ТЗ и синтетику.
+    Генерирует 50+ запросов с более сложной логикой Ground Truth.
     """
-    queries = [
-        # Реальные/Лог-подобные запросы
-        {"query": "крем без розацеа", "tags": ["sensitive", "rosacea"]},
-        {"query": "увлажнитель для жирной кожи без спирта", "tags": ["oily", "alcohol-free"]},
-        {"query": "средство для сухой кожи зимой", "tags": ["dry", "winter"]},
-        {"query": "гель для проблемной кожи без агрессивных компонентов", "tags": ["problematic", "gentle"]},
-        {"query": "дневной крем с SPF для чувствительной кожи", "tags": ["sensitive", "spf", "day"]},
+    # Расширенный пул запросов
+    base_queries = [
+        # Сложные/Смешанные запросы
+        {"query": "увлажняющий крем для сухой кожи без отдушек", "tags": ["dry", "moisturizer", "fragrance-free"]},
+        {"query": "сыворотка от пигментации с витамином с", "tags": ["brightening", "vitamin-c", "serum"]},
+        {"query": "очищающее средство для чувствительной кожи розацеа", "tags": ["sensitive", "rosacea", "cleanser"]},
+        {"query": "солнцезащитный крем для жирной кожи не комедогенный", "tags": ["oily", "spf", "non-comedogenic"]},
+        {"query": "ночной крем с ретинолом для возрастной кожи", "tags": ["anti-age", "retinol", "night"]},
+        {"query": "тоник с кислотами для проблемной кожи", "tags": ["acne", "exfoliant", "toner"]},
+        {"query": "масло для снятия макияжа с водостойкой туши", "tags": ["makeup-remover", "oil", "eyes"]},
+        {"query": "гель умывалка без сульфатов sls sles", "tags": ["cleanser", "sulfate-free", "gentle"]},
+        {"query": "крем барьерный восстанавливающий церамиды", "tags": ["repair", "ceramides", "sensitive"]},
+        {"query": "пилинг энзимный мягкий для лица", "tags": ["exfoliant", "enzyme", "gentle"]},
         
-        # Синтетика по категориям (по 5 штук на категорию для баланса)
-        # Категория: Очищение
-        {"query": "мягкая пенка для умывания утром", "tags": ["cleanser", "morning", "gentle"]},
-        {"query": "гидрофильное масло для снятия стойкого макияжа", "tags": ["cleanser", "makeup-remover", "oil"]},
-        {"query": "тоник для сужения пор", "tags": ["toner", "pores"]},
-        {"query": "скраб для лица нежный", "tags": ["exfoliant", "gentle"]},
-        {"query": "мицеллярная вода для чувствительных глаз", "tags": ["cleanser", "sensitive", "eyes"]},
-
-        # Категория: Увлажнение
-        {"query": "легкий гель-крем для лета", "tags": ["moisturizer", "summer", "light"]},
-        {"query": "питательный ночной крем", "tags": ["moisturizer", "night", "rich"]},
-        {"query": "сыворотка с гиалуроновой кислотой", "tags": ["serum", "hydration"]},
-        {"query": "маска увлажняющая экспресс", "tags": ["mask", "hydration"]},
-        {"query": "крем вокруг глаз от отеков", "tags": ["eye-care", "puffiness"]},
-
-        # Категория: Проблемная кожа / Акне
-        {"query": "средство с салициловой кислотой от прыщей", "tags": ["acne", "salicylic-acid"]},
-        {"query": "точечное средство от воспалений", "tags": ["acne", "spot-treatment"]},
-        {"query": "маттирующий крем для Т-зоны", "tags": ["oily", "mattifying"]},
-        {"query": "пудра минеральная для проблемной кожи", "tags": ["makeup", "acne-safe"]},
-        {"query": "лосьон успокаивающий после бритья", "tags": ["soothing", "post-shave"]}, # условно
-
-        # Категория: Антивозрастной уход
-        {"query": "крем с ретинолом для новичков", "tags": ["anti-age", "retinol", "beginner"]},
-        {"query": "сыворотка с витамином С для сияния", "tags": ["brightening", "vitamin-c"]},
-        {"query": "пептидный крем для лифтинга", "tags": ["anti-age", "peptides"]},
-        {"query": "средство с ниацинамидом от пигментации", "tags": ["brightening", "niacinamide"]},
-        {"query": "солнцезащитный крем анти-эйдж", "tags": ["spf", "anti-age"]},
-
-        # Категория: Специфические ограничения (Безопасность/Аллергии)
-        {"query": "косметика без отдушек и парабенов", "tags": ["fragrance-free", "paraben-free"]},
-        {"query": "веганская косметика для тела", "tags": ["vegan", "body"]},
-        {"query": "средство без эфирных масел", "tags": ["essential-oil-free"]},
-        {"query": "гипоаллергенный шампунь", "tags": ["hair", "hypoallergenic"]},
-        {"query": "крем без силиконов", "tags": ["silicone-free"]},
+        # Сленг и опечатки (симуляция реальных логов)
+        {"query": "крим от прыщей", "tags": ["acne", "moisturizer"]},
+        {"query": "умывалка для жирной кожи", "tags": ["oily", "cleanser"]},
+        {"query": "гиалуронка сыворотка", "tags": ["hydration", "serum"]},
+        {"query": "санскрин для лица спф 50", "tags": ["spf", "face"]},
+        {"query": "мицеллярка для глаз", "tags": ["cleanser", "eyes"]},
     ]
-
-    # Имитация Ground Truth (SKU из базы ~2500 товаров)
-    # В реальности здесь должны быть реальные SKU, соответствующие запросу
-    all_skus = [f"sku_{i:04d}" for i in range(1, 2501)]
     
-    dataset_h1 = []
-    for idx, item in enumerate(queries):
-        # Для теста берем случайные 3-5 SKU как "правильные"
-        # В реальном датасете это делается вручную или экспертным поиском
-        gt_count = random.randint(3, 5)
-        ground_truth = random.sample(all_skus, gt_count)
+    # Добираем синтетикой до 50
+    categories = ["cleanser", "toner", "serum", "moisturizer", "mask", "spf"]
+    skin_types = ["dry", "oily", "sensitive", "normal", "combination"]
+    concerns = ["acne", "aging", "pigmentation", "hydration", "redness"]
+    
+    synthetic_count = 0
+    while len(base_queries) < 50:
+        cat = random.choice(categories)
+        skin = random.choice(skin_types)
+        conc = random.choice(concerns)
         
+        templates = [
+            f"{cat} for {skin} skin with {conc}",
+            f"best {cat} for {conc} on {skin} skin",
+            f"{skin} skin {cat} against {conc}"
+        ]
+        # Простой перевод на русский для примера (в реальности лучше иметь русские шаблоны)
+        ru_cat = {"cleanser": "средство для умывания", "toner": "тоник", "serum": "сыворотка", "moisturizer": "крем", "mask": "маска", "spf": "санскрин"}[cat]
+        ru_skin = {"dry": "сухой", "oily": "жирной", "sensitive": "чувствительной", "normal": "нормальной", "combination": "комбинированной"}[skin]
+        ru_conc = {"acne": "акне", "aging": "старения", "pigmentation": "пигментации", "hydration": "увлажнения", "redness": "покраснений"}[conc]
+        
+        query = f"{ru_cat} для {ru_skin} кожи от {ru_conc}"
+        
+        base_queries.append({
+            "query": query,
+            "tags": [skin, cat, conc]
+        })
+        synthetic_count += 1
+
+    # Генерация пула SKU с тегами для реалистичного GT
+    # В реальности это делается по базе, здесь симулируем
+    all_skus = [f"sku_{i:04d}" for i in range(1, 2501)]
+    # Присваиваем каждому SKU случайные теги (симуляция базы данных)
+    sku_tags_map = {}
+    for sku in all_skus:
+        # У каждого товара есть 2-4 случайных тега
+        possible_tags = ["dry", "oily", "sensitive", "normal", "cleanser", "serum", "moisturizer", "acne", "aging", "fragrance-free", "spf"]
+        sku_tags_map[sku] = random.sample(possible_tags, random.randint(2, 4))
+
+    dataset_h1 = []
+    for idx, item in enumerate(base_queries):
+        query_tags = item["tags"]
+        
+        # Находим "релевантные" SKU (у которых есть пересечение тегов)
+        relevant_skus = []
+        for sku, tags in sku_tags_map.items():
+            # Если хотя бы 2 тега совпадают - считаем релевантным
+            if len(set(query_tags).intersection(set(tags))) >= 2:
+                relevant_skus.append(sku)
+        
+        # Если нашли мало, доберем случайных (для симуляции)
+        if len(relevant_skus) < 3:
+            relevant_skus += random.sample(all_skus, 3)
+            
+        ground_truth = list(set(relevant_skus))[:5] # Берем топ-5 релевантных
+
         record = {
             "query_id": f"nl_{idx+1:03d}",
             "query": item["query"],
@@ -74,8 +175,8 @@ def generate_h1_dataset():
             "annotator_1": "Polina",
             "annotator_2": "Expert_AI_Sim",
             "agreement": "full",
-            "source": "synthetic" if idx >= 5 else "logs",
-            "metadata_tags": item["tags"]
+            "source": "synthetic" if idx >= 10 else "logs",
+            "metadata_tags": query_tags
         }
         dataset_h1.append(record)
 
@@ -85,82 +186,44 @@ def generate_h1_dataset():
             f.write(json.dumps(record, ensure_ascii=False) + '\n')
     
     print(f"[H1] Dataset generated: {path} ({len(dataset_h1)} records)")
-    return dataset_h1
 
-# --- 2. Генерация eval_dataset_inci.jsonl (для H2) ---
+# --- ГЕНЕРАЦИЯ H2 ---
+
 def generate_h2_dataset():
     """
-    Генерирует 50 продуктов с разметкой ингредиентов.
-    Включает 1 заведомо проблемный продукт (триклозан/формальдегид).
+    Генерирует 70 уникальных продуктов с помощью комбинаторики ингредиентов.
     """
-    
-    # База знаний для симуляции (упрощенная версия твоего inci.json)
-    INGREDIENT_KNOWLEDGE_BASE = {
-        "Aqua": "safe",
-        "Glycerin": "safe",
-        "Squalane": "safe",
-        "Phenoxyethanol": "neutral",
-        "Parfum": "caution",
-        "Methylisothiazolinone": "avoid",
-        "Triclosan": "avoid", # Проблемный
-        "Dmdm Hydantoin": "avoid", # Формальдегид-релизер
-        "Salicylic Acid": "caution", # Зависит от концентрации, но часто caution для чувствительной
-        "Niacinamide": "safe",
-        "Retinol": "caution",
-        "Alcohol Denat": "caution",
-        "Sodium Hyaluronate": "safe",
-        "Ceramide NP": "safe",
-        "Benzyl Alcohol": "neutral",
-        "Limonene": "caution", # Аллерген
-        "Citronellol": "caution",
-        "Tocopherol": "safe",
-        "Panthenol": "safe",
-        "Allantoin": "safe"
-    }
-
-    products_pool = [
-        # Нормальные продукты
-        {"name": "La Roche-Posay Toleriane Sensitive", "inci_raw": "Aqua, Glycerin, Squalane, Niacinamide, Ceramide NP"},
-        {"name": "CeraVe Hydrating Cleanser", "inci_raw": "Aqua, Glycerin, Sodium Hyaluronate, Ceramide NP, Panthenol"},
-        {"name": "The Ordinary Niacinamide 10%", "inci_raw": "Aqua, Niacinamide, Pentylene Glycol, Tamarindus Indica Seed Gum"},
-        {"name": "Vichy Minéral 89", "inci_raw": "Aqua, PEG/PPG/Polybutylene Glycol-8/5/3 Glycerin, Glycerin, Butylene Glycol, Methyl Gluceth-20"},
-        {"name": "Bioderma Sensibio H2O", "inci_raw": "Aqua, Peg-6 Caprylic/Capric Glycerides, Fructooligosaccharides, Mannitol, Xylitol, Rhamnose, Cucumis Sativus Fruit Extract"},
-        
-        # Продукты с "Caution" ингредиентами (спирты, отдушки)
-        {"name": "Some Alcohol Toner", "inci_raw": "Aqua, Alcohol Denat, Glycerin, Parfum, Limonene"},
-        {"name": "Rich Night Cream", "inci_raw": "Aqua, Retinol, Tocopherol, Parfum, Citronellol, Benzyl Alcohol"},
-        
-        # ПРОБЛЕМНЫЙ ПРОДУКТ (для негативного контроля, требование Каницкой)
-        {"name": "Old School Antibacterial Soap (Test Item)", "inci_raw": "Aqua, Triclosan, Dmdm Hydantoin, Parfum, Sodium Chloride"} 
-    ]
-
-    # Добиваем до 50 продуктов копированием с вариациями (для симуляции объема)
-    while len(products_pool) < 50:
-        base = random.choice(products_pool[:7]) # Берем из нормальных/средних
-        new_name = f"{base['name']} (Copy {len(products_pool)})"
-        products_pool.append({"name": new_name, "inci_raw": base['inci_raw']})
-
     dataset_h2 = []
-    for idx, prod in enumerate(products_pool):
-        # Парсим список ингредиентов (очень упрощенно, по запятой)
-        raw_list = [i.strip() for i in prod['inci_raw'].split(',')]
+    
+    # Типы продуктов для генерации
+    product_types = ["normal"] * 40 + ["active"] * 20 + ["problematic"] * 10
+    
+    # Бренды для разнообразия names
+    brands = ["La Roche-Posay", "CeraVe", "Vichy", "The Ordinary", "Bioderma", "Clinique", "Custom Brand"]
+    
+    for idx, p_type in enumerate(product_types):
+        # Генерируем уникальный состав
+        inci_list = generate_unique_inci_list(product_type=p_type)
         
+        # Формируем Ground Truth на основе INGREDIENT_KB
         ground_truth_cats = {}
-        for ing in raw_list:
-            # Маппинг на нашу базу знаний. Если нет в базе - ставим 'neutral' для теста
-            # В реальности тут должен быть запрос к InciQueryTool или экспертная разметка
-            category = INGREDIENT_KNOWLEDGE_BASE.get(ing, "neutral")
-            ground_truth_cats[ing] = category
-
+        for ing in inci_list:
+            # Если ингредиент есть в базе - берем категорию, иначе neutral
+            ground_truth_cats[ing] = INGREDIENT_KB.get(ing, "neutral")
+            
+        brand = random.choice(brands)
+        prod_name = f"{brand} Product Type {p_type.upper()} #{idx+1}"
+        
         record = {
             "product_id": f"sku_test_{idx+1:04d}",
-            "product_name": prod["name"],
-            "inci_list": raw_list,
+            "product_name": prod_name,
+            "inci_list": inci_list,
             "ground_truth_categories": ground_truth_cats,
             "annotator_1": "Polina",
             "annotator_2": "Expert_Cosmetologist_Sim",
-            "kappa": 0.85, # Симуляция высокого каппа
-            "sources": ["EU 1223/2009", "EWG Skin Deep", "CIR"]
+            "kappa": 0.85,
+            "sources": ["EU 1223/2009", "EWG Skin Deep", "CIR"],
+            "product_type_gen": p_type # метка для внутреннего анализа
         }
         dataset_h2.append(record)
 
@@ -170,7 +233,6 @@ def generate_h2_dataset():
             f.write(json.dumps(record, ensure_ascii=False) + '\n')
             
     print(f"[H2] Dataset generated: {path} ({len(dataset_h2)} records)")
-    return dataset_h2
 
 if __name__ == "__main__":
     generate_h1_dataset()
