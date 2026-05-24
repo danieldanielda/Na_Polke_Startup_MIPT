@@ -34,8 +34,8 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 API_BASE_URL = "http://195.209.219.147:8000" 
-DATASET_H1_PATH = "eval/eval_dataset_nl_queries.jsonl"
-GOLDAPPLE_DB_PATH = "data/goldapple_dataset.json" 
+DATASET_H1_PATH = "evals/eval_dataset_nl_queries.jsonl"
+GOLDAPPLE_DB_PATH = "data/parser/goldapple_dataset.json" 
 
 # Embedding API Config
 EMB_API_URL = "http://172.17.0.1:8080/embed"
