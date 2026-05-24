@@ -10,9 +10,8 @@ class EvalSettings(BaseSettings):
 
     model_api_key: str
     model_api: str
-    model_name: str
+    model_name: str = "qwen/qwen3-235b-a22b-2507"
     
     emb_api_key: str
     emb_model: str
     emb_api: str
-    

@@ -189,52 +189,62 @@ class IndexManager:
         self.nodes.extend(wise_nodes)
         logger.debug(f"Added {len(wise_nodes)} nodes to global index")
 
+
     async def load_index_from_chroma(self) -> VectorStoreIndex:
         """
         Loads persisted index with nodes retrieved directly from Chroma.
-        
-        Returns:
-            VectorStoreIndex: The loaded index or None if loading failed
         """
         try:
             chroma_collection = self.chroma_manager.get_collection()
-            if chroma_collection.count() == 0:
-                raise ValueError("Collection is empty")
+            count = chroma_collection.count()
+            
+            if count == 0:
+                logger.warning("Chroma collection is empty.")
+                return None
+
+            logger.info(f"Loading {count} items from Chroma...")
 
             self._vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
             storage_context = StorageContext.from_defaults(vector_store=self._vector_store)
 
+            # Загружаем индекс через вектор-стор (это эффективно)
             self._index = VectorStoreIndex.from_vector_store(
                 vector_store=self._vector_store,
                 storage_context=storage_context,
                 use_async=True,
-                show_progress=True
             )
 
+            # ВАЖНО: Получаем сырые данные для восстановления self.nodes
+            # Внимание: get() может быть медленным на больших коллекциях. 
+            # Лучше использовать limit или пагинацию, если товаров > 1000.
             results = chroma_collection.get(
-                include=["metadatas", "documents", "embeddings"]
+                include=["metadatas", "documents"], # embeddings не нужны для TextNode
+                limit=count 
             )
 
             self.nodes = []
-            for i in range(len(results["ids"])):
-                node = TextNode(
-                    id_=results["ids"][i],
-                    text=results["documents"][i],
-                    metadata=results["metadatas"][i] if results["metadatas"] else {},
-                )
-                self.nodes.append(node)
+            if results and results["ids"]:
+                for i in range(len(results["ids"])):
+                    meta = results["metadatas"][i] if results["metadatas"] else {}
+                    # Защита от None
+                    if meta is None:
+                        meta = {}
+                    
+                    node = TextNode(
+                        id_=results["ids"][i],
+                        text=results["documents"][i],
+                        metadata=meta, # Убедитесь, что здесь есть 'article', 'sku' и т.д.
+                    )
+                    self.nodes.append(node)
+                
+                logger.info(f"Successfully loaded {len(self.nodes)} nodes with metadata.")
+            else:
+                logger.warning("No data returned from Chroma get()")
 
-            logger.debug(f"Loaded {len(self.nodes)} nodes directly from Chroma")
-
-            metadata = await self.load_index_metadata()
-            if metadata:
-                logger.debug(f"Loaded index ID from metadata: {metadata.get('index_id')}. Actual index ID: {self._index.index_id}")
-
-            logger.debug("Loaded persisted index from global collection")
             return self._index
 
         except Exception as e:
-            logger.error(f"Failed to load index: {str(e)}")
+            logger.error(f"Failed to load index from Chroma: {str(e)}", exc_info=True)
             return None
 
     async def reload_index(self) -> None:
