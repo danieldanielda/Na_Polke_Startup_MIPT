@@ -3,7 +3,8 @@
 Строго по методике:
 - H1: Recall@5 на наборе NL-запросов.
 - H2: Macro-Recall классификации INCI (≥ 0.8).
-Без LLM-Judge, без Embeddings. Только фактические метрики соответствия эталону.
+Эталон H2 верифицирован независимо через LLM-as-Judge (EWG/CIR/EU).
+Для оценки используются только строгие метрики соответствия (без Judge/Embeddings на этапе прогона).
 Запуск:
     python evaluate.py --exp h1 --limit 4 
     python evaluate.py --exp h2 --limit 4

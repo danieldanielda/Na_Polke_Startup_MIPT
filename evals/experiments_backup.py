@@ -1,4 +1,7 @@
 """
+ФАЙЛ НУЖЕН ТАК КАК НА ОСНОВЕ НЕГО СТРОИЛИСЬ ДРУГИЕ
+ОН СОХРАНЕН НА ВСЯКИЙ СЛУЧАЙ
+
 Воспроизводимая оценка RAG системы на датасетах H1 и H2
 Поддерживает:
 - H1: evals/eval_dataset_nl_queries.jsonl (рекомендации)
@@ -6,7 +9,6 @@
 - LLM-as-Judge для factual accuracy
 - Полная воспроизводимость через seed, temperature=0, кэширование
 """
-
 import json
 import os
 import requests
@@ -75,7 +77,6 @@ class DeterministicCache:
     def clear(self):
         for f in self.cache_dir.glob("*.pkl"):
             f.unlink()
-
 
 cache = DeterministicCache()
 
