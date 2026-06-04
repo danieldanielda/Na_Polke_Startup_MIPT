@@ -166,24 +166,30 @@ def extract_articles_strict(text: str) -> List[str]:
         return []
     
     articles = []
-    # Ищем форматы: [article: 19...], article: 19..., SKU: 19..., арт. 19...
+    
+    # Паттерны для извлечения артикулов
     patterns = [
-        r'(?:\[?(?:article|арт|sku|код)[\s:]*#?\]?[\s:]*)(\d{10,14})',
-        r'\b(19\d{8})\b',  # специфичный префикс Gold Apple
+        # [article: 19...], article: 19..., SKU: 19..., арт. 19...
+        r'(?:\[?\s*(?:article|арт|sku|код)\s*[:#]?\s*\]?[\s:]*)(\d{10,14})',
+        # Просто число 19... (11 цифр: 19 + 9)
+        r'\b(19\d{9})\b',
+        # Fallback: любое число 10-14 цифр (на случай других форматов)
+        r'\b(\d{10,14})\b',
     ]
     
     for pattern in patterns:
         found = re.findall(pattern, text, re.IGNORECASE)
         articles.extend(found)
-        
-    # Убираем дубликаты, сохраняем порядок появления
+    
     seen = set()
     unique_articles = []
     for a in articles:
-        if a not in seen:
-            seen.add(a)
-            unique_articles.append(a)
-            
+        a_clean = str(a).strip()
+        if a_clean and a_clean not in seen:
+            seen.add(a_clean)
+            unique_articles.append(a_clean)
+    
+    print(unique_articles)
     return unique_articles
 
 
@@ -215,6 +221,7 @@ def call_recommendation_api(query: str, db_index: Dict[str, dict] = None) -> Tup
         resp = requests.post(url, json=payload, headers=headers, timeout=600)
         resp.raise_for_status()
         data = resp.json()
+        print(data)
         
         response_text = data.get("raw_text") or data.get("recommendations") or ""
         if not isinstance(response_text, str):
