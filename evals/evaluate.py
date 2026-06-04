@@ -130,8 +130,7 @@ def normalize_ingredient_key(key: str) -> str:
         })
         return key_clean.translate(translit_map)
     
-    # 3. Если уже латиница — просто чистим
-    return re.sub(r'[^a-z0-9\-]', '', key_clean)  
+    return re.sub(r'[^a-z0-9\s\-]', '', key_clean).strip() 
 
 def set_seed(seed: int = 42):
     """Фиксация seed для воспроизводимости (хотя API детерминизм зависит от бэкенда)"""
@@ -509,7 +508,8 @@ def run_h1(limit: int = None, seed: int = 42):
         _, retrieved_articles = call_recommendation_api(query_text, db_index=db_index)
         
         # Берём эталонные SKU из датасета
-        gt_skus = q.get('ground_truth_product_ids', [])
+        # Поддержка обоих имён для надёжности
+        gt_skus = q.get('ground_truth_articles') or q.get('ground_truth_product_ids', [])
         
         # Считаем Recall@5 строго по методике
         recall = calculate_recall_at_k_strict(retrieved_articles, gt_skus, k=5)
