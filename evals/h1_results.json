@@ -3,143 +3,143 @@
   "details": [
     {
       "query_id": "nl_001",
-      "recall": 0.7562,
-      "retrieved_count": 3
+      "recall": 1.0,
+      "retrieved_count": 5
     },
     {
       "query_id": "nl_002",
-      "recall": 0.9686,
-      "retrieved_count": 4
+      "recall": 1.0,
+      "retrieved_count": 5
     },
     {
       "query_id": "nl_003",
-      "recall": 0.9729,
+      "recall": 1.0,
       "retrieved_count": 4
     },
     {
       "query_id": "nl_004",
-      "recall": 0.9825,
-      "retrieved_count": 4
-    },
-    {
-      "query_id": "nl_005",
       "recall": 1.0,
       "retrieved_count": 5
     },
     {
-      "query_id": "nl_006",
-      "recall": 0.8606,
-      "retrieved_count": 3
+      "query_id": "nl_005",
+      "recall": 0.8,
+      "retrieved_count": 4
     },
     {
-      "query_id": "nl_007",
-      "recall": 0.9586,
+      "query_id": "nl_006",
+      "recall": 1.0,
       "retrieved_count": 5
     },
     {
+      "query_id": "nl_007",
+      "recall": 1.0,
+      "retrieved_count": 3
+    },
+    {
       "query_id": "nl_008",
-      "recall": 0.9925,
+      "recall": 1.0,
       "retrieved_count": 5
     },
     {
       "query_id": "nl_009",
-      "recall": 1.0,
-      "retrieved_count": 5
+      "recall": 0.0,
+      "retrieved_count": 0
     },
     {
       "query_id": "nl_010",
       "recall": 1.0,
-      "retrieved_count": 4
+      "retrieved_count": 5
     },
     {
       "query_id": "nl_011",
-      "recall": 0.6199,
-      "retrieved_count": 3
+      "recall": 1.0,
+      "retrieved_count": 4
     },
     {
       "query_id": "nl_012",
-      "recall": 0.9897,
-      "retrieved_count": 4
+      "recall": 1.0,
+      "retrieved_count": 5
     },
     {
       "query_id": "nl_013",
-      "recall": 0.9893,
-      "retrieved_count": 4
+      "recall": 0.6,
+      "retrieved_count": 3
     },
     {
       "query_id": "nl_014",
-      "recall": 0.9938,
+      "recall": 1.0,
       "retrieved_count": 5
     },
     {
       "query_id": "nl_015",
-      "recall": 0.8804,
-      "retrieved_count": 4
+      "recall": 1.0,
+      "retrieved_count": 5
     },
     {
       "query_id": "nl_016",
-      "recall": 0.2135,
-      "retrieved_count": 1
+      "recall": 0.0,
+      "retrieved_count": 0
     },
     {
       "query_id": "nl_017",
-      "recall": 0.9762,
-      "retrieved_count": 4
+      "recall": 1.0,
+      "retrieved_count": 5
     },
     {
       "query_id": "nl_018",
-      "recall": 0.9922,
+      "recall": 1.0,
       "retrieved_count": 4
     },
     {
       "query_id": "nl_019",
-      "recall": 0.3471,
-      "retrieved_count": 0
+      "recall": 0.5,
+      "retrieved_count": 2
     },
     {
       "query_id": "nl_020",
-      "recall": 0.9841,
-      "retrieved_count": 4
+      "recall": 1.0,
+      "retrieved_count": 5
     },
     {
       "query_id": "nl_021",
-      "recall": 0.9617,
+      "recall": 1.0,
       "retrieved_count": 5
     },
     {
       "query_id": "nl_022",
       "recall": 1.0,
-      "retrieved_count": 4
+      "retrieved_count": 3
     },
     {
       "query_id": "nl_023",
-      "recall": 0.9688,
+      "recall": 1.0,
       "retrieved_count": 5
     },
     {
       "query_id": "nl_024",
-      "recall": 0.9875,
+      "recall": 1.0,
       "retrieved_count": 4
     },
     {
       "query_id": "nl_025",
-      "recall": 0.9867,
+      "recall": 1.0,
       "retrieved_count": 5
     },
     {
       "query_id": "nl_026",
-      "recall": 0.9978,
+      "recall": 1.0,
       "retrieved_count": 5
     },
     {
       "query_id": "nl_027",
-      "recall": 0.9677,
+      "recall": 0.8,
       "retrieved_count": 4
     },
     {
       "query_id": "nl_028",
-      "recall": 0.9611,
-      "retrieved_count": 4
+      "recall": 1.0,
+      "retrieved_count": 5
     },
     {
       "query_id": "nl_029",
@@ -153,353 +153,353 @@
     },
     {
       "query_id": "nl_031",
-      "recall": 0.8646,
-      "retrieved_count": 2
+      "recall": 0.0,
+      "retrieved_count": 0
     },
     {
       "query_id": "nl_032",
-      "recall": 0.9614,
-      "retrieved_count": 4
+      "recall": 1.0,
+      "retrieved_count": 5
     },
     {
       "query_id": "nl_033",
-      "recall": 0.9901,
-      "retrieved_count": 4
+      "recall": 1.0,
+      "retrieved_count": 5
     },
     {
       "query_id": "nl_034",
-      "recall": 0.9997,
-      "retrieved_count": 4
+      "recall": 1.0,
+      "retrieved_count": 3
     },
     {
       "query_id": "nl_035",
-      "recall": 0.9649,
-      "retrieved_count": 4
+      "recall": 1.0,
+      "retrieved_count": 5
     },
     {
       "query_id": "nl_036",
-      "recall": 0.9393,
-      "retrieved_count": 5
+      "recall": 0.6,
+      "retrieved_count": 3
     },
     {
       "query_id": "nl_037",
-      "recall": 0.8922,
-      "retrieved_count": 3
+      "recall": 1.0,
+      "retrieved_count": 5
     },
     {
       "query_id": "nl_038",
-      "recall": 0.9584,
-      "retrieved_count": 5
+      "recall": 1.0,
+      "retrieved_count": 4
     },
     {
       "query_id": "nl_039",
-      "recall": 0.9676,
-      "retrieved_count": 4
+      "recall": 1.0,
+      "retrieved_count": 5
     },
     {
       "query_id": "nl_040",
-      "recall": 0.9072,
-      "retrieved_count": 5
+      "recall": 0.8,
+      "retrieved_count": 4
     },
     {
       "query_id": "nl_041",
-      "recall": 0.9619,
-      "retrieved_count": 4
-    },
-    {
-      "query_id": "nl_042",
-      "recall": 0.8787,
-      "retrieved_count": 2
-    },
-    {
-      "query_id": "nl_043",
-      "recall": 0.8926,
-      "retrieved_count": 3
-    },
-    {
-      "query_id": "nl_044",
-      "recall": 0.9682,
-      "retrieved_count": 4
-    },
-    {
-      "query_id": "nl_045",
-      "recall": 0.9681,
+      "recall": 1.0,
       "retrieved_count": 5
     },
     {
+      "query_id": "nl_042",
+      "recall": 1.0,
+      "retrieved_count": 5
+    },
+    {
+      "query_id": "nl_043",
+      "recall": 0.0,
+      "retrieved_count": 0
+    },
+    {
+      "query_id": "nl_044",
+      "recall": 1.0,
+      "retrieved_count": 5
+    },
+    {
+      "query_id": "nl_045",
+      "recall": 1.0,
+      "retrieved_count": 4
+    },
+    {
       "query_id": "nl_046",
-      "recall": 0.9849,
+      "recall": 1.0,
       "retrieved_count": 5
     },
     {
       "query_id": "nl_047",
-      "recall": 0.9915,
-      "retrieved_count": 5
+      "recall": 0.5,
+      "retrieved_count": 2
     },
     {
       "query_id": "nl_048",
-      "recall": 0.9685,
+      "recall": 1.0,
       "retrieved_count": 5
     },
     {
       "query_id": "nl_049",
-      "recall": 0.9757,
+      "recall": 1.0,
       "retrieved_count": 5
     },
     {
       "query_id": "nl_050",
-      "recall": 0.9783,
-      "retrieved_count": 5
+      "recall": 1.0,
+      "retrieved_count": 3
     },
     {
       "query_id": "nl_051",
-      "recall": 0.9754,
-      "retrieved_count": 4
+      "recall": 1.0,
+      "retrieved_count": 5
     },
     {
       "query_id": "nl_052",
-      "recall": 0.7066,
-      "retrieved_count": 2
+      "recall": 0.8,
+      "retrieved_count": 4
     },
     {
       "query_id": "nl_053",
-      "recall": 0.9891,
+      "recall": 1.0,
       "retrieved_count": 5
     },
     {
       "query_id": "nl_054",
-      "recall": 0.9942,
-      "retrieved_count": 4
+      "recall": 1.0,
+      "retrieved_count": 5
     },
     {
       "query_id": "nl_055",
-      "recall": 0.9705,
+      "recall": 1.0,
       "retrieved_count": 4
     },
     {
       "query_id": "nl_056",
-      "recall": 0.9938,
-      "retrieved_count": 4
+      "recall": 0.0,
+      "retrieved_count": 0
     },
     {
       "query_id": "nl_057",
-      "recall": 0.9961,
+      "recall": 1.0,
       "retrieved_count": 5
     },
     {
       "query_id": "nl_058",
-      "recall": 0.9468,
-      "retrieved_count": 4
+      "recall": 1.0,
+      "retrieved_count": 5
     },
     {
       "query_id": "nl_059",
-      "recall": 0.9911,
-      "retrieved_count": 4
+      "recall": 0.6,
+      "retrieved_count": 3
     },
     {
       "query_id": "nl_060",
-      "recall": 0.9988,
+      "recall": 1.0,
       "retrieved_count": 5
     },
     {
       "query_id": "nl_061",
-      "recall": 0.9657,
+      "recall": 1.0,
       "retrieved_count": 4
     },
     {
       "query_id": "nl_062",
-      "recall": 0.9845,
-      "retrieved_count": 4
+      "recall": 1.0,
+      "retrieved_count": 5
     },
     {
       "query_id": "nl_063",
-      "recall": 0.9683,
-      "retrieved_count": 4
+      "recall": 1.0,
+      "retrieved_count": 5
     },
     {
       "query_id": "nl_064",
-      "recall": 0.9977,
+      "recall": 0.8,
       "retrieved_count": 4
     },
     {
       "query_id": "nl_065",
-      "recall": 0.9861,
-      "retrieved_count": 4
+      "recall": 1.0,
+      "retrieved_count": 5
     },
     {
       "query_id": "nl_066",
-      "recall": 0.9622,
-      "retrieved_count": 4
-    },
-    {
-      "query_id": "nl_067",
-      "recall": 0.6311,
+      "recall": 1.0,
       "retrieved_count": 3
     },
     {
+      "query_id": "nl_067",
+      "recall": 0.0,
+      "retrieved_count": 0
+    },
+    {
       "query_id": "nl_068",
-      "recall": 0.9709,
-      "retrieved_count": 4
+      "recall": 1.0,
+      "retrieved_count": 5
     },
     {
       "query_id": "nl_069",
-      "recall": 0.9851,
+      "recall": 1.0,
       "retrieved_count": 5
     },
     {
       "query_id": "nl_070",
-      "recall": 0.9594,
-      "retrieved_count": 4
+      "recall": 0.5,
+      "retrieved_count": 2
     },
     {
       "query_id": "nl_071",
-      "recall": 0.8762,
+      "recall": 1.0,
       "retrieved_count": 4
     },
     {
       "query_id": "nl_072",
-      "recall": 0.9587,
-      "retrieved_count": 4
+      "recall": 1.0,
+      "retrieved_count": 5
     },
     {
       "query_id": "nl_073",
-      "recall": 0.9705,
-      "retrieved_count": 4
+      "recall": 1.0,
+      "retrieved_count": 5
     },
     {
       "query_id": "nl_074",
-      "recall": 0.6968,
-      "retrieved_count": 3
-    },
-    {
-      "query_id": "nl_075",
-      "recall": 0.9711,
+      "recall": 0.8,
       "retrieved_count": 4
     },
     {
+      "query_id": "nl_075",
+      "recall": 1.0,
+      "retrieved_count": 5
+    },
+    {
       "query_id": "nl_076",
-      "recall": 0.9574,
+      "recall": 1.0,
       "retrieved_count": 5
     },
     {
       "query_id": "nl_077",
-      "recall": 0.974,
-      "retrieved_count": 5
-    },
-    {
-      "query_id": "nl_078",
-      "recall": 0.8979,
+      "recall": 1.0,
       "retrieved_count": 3
     },
     {
+      "query_id": "nl_078",
+      "recall": 0.0,
+      "retrieved_count": 0
+    },
+    {
       "query_id": "nl_079",
-      "recall": 0.8802,
-      "retrieved_count": 2
+      "recall": 1.0,
+      "retrieved_count": 5
     },
     {
       "query_id": "nl_080",
       "recall": 1.0,
-      "retrieved_count": 5
+      "retrieved_count": 4
     },
     {
       "query_id": "nl_081",
-      "recall": 0.9671,
-      "retrieved_count": 4
+      "recall": 0.6,
+      "retrieved_count": 3
     },
     {
       "query_id": "nl_082",
-      "recall": 0.9377,
-      "retrieved_count": 5
-    },
-    {
-      "query_id": "nl_083",
-      "recall": 0.9742,
-      "retrieved_count": 5
-    },
-    {
-      "query_id": "nl_084",
-      "recall": 0.9995,
-      "retrieved_count": 4
-    },
-    {
-      "query_id": "nl_085",
       "recall": 1.0,
       "retrieved_count": 5
     },
     {
+      "query_id": "nl_083",
+      "recall": 1.0,
+      "retrieved_count": 5
+    },
+    {
+      "query_id": "nl_084",
+      "recall": 1.0,
+      "retrieved_count": 5
+    },
+    {
+      "query_id": "nl_085",
+      "recall": 0.8,
+      "retrieved_count": 4
+    },
+    {
       "query_id": "nl_086",
-      "recall": 0.9893,
+      "recall": 1.0,
       "retrieved_count": 5
     },
     {
       "query_id": "nl_087",
-      "recall": 0.9653,
-      "retrieved_count": 5
+      "recall": 1.0,
+      "retrieved_count": 4
     },
     {
       "query_id": "nl_088",
-      "recall": 0.9976,
-      "retrieved_count": 4
+      "recall": 1.0,
+      "retrieved_count": 5
     },
     {
       "query_id": "nl_089",
-      "recall": 0.9877,
-      "retrieved_count": 4
+      "recall": 0.0,
+      "retrieved_count": 0
     },
     {
       "query_id": "nl_090",
-      "recall": 0.9882,
+      "recall": 1.0,
       "retrieved_count": 5
     },
     {
       "query_id": "nl_091",
-      "recall": 0.8453,
-      "retrieved_count": 4
+      "recall": 1.0,
+      "retrieved_count": 3
     },
     {
       "query_id": "nl_092",
-      "recall": 0.9716,
-      "retrieved_count": 4
+      "recall": 0.5,
+      "retrieved_count": 2
     },
     {
       "query_id": "nl_093",
-      "recall": 0.9093,
-      "retrieved_count": 4
-    },
-    {
-      "query_id": "nl_094",
-      "recall": 0.9761,
-      "retrieved_count": 4
-    },
-    {
-      "query_id": "nl_095",
-      "recall": 0.973,
+      "recall": 1.0,
       "retrieved_count": 5
     },
     {
+      "query_id": "nl_094",
+      "recall": 1.0,
+      "retrieved_count": 5
+    },
+    {
+      "query_id": "nl_095",
+      "recall": 1.0,
+      "retrieved_count": 4
+    },
+    {
       "query_id": "nl_096",
-      "recall": 0.3915,
-      "retrieved_count": 0
+      "recall": 0.8,
+      "retrieved_count": 4
     },
     {
       "query_id": "nl_097",
-      "recall": 0.9898,
+      "recall": 1.0,
       "retrieved_count": 5
     },
     {
       "query_id": "nl_098",
-      "recall": 0.796,
-      "retrieved_count": 2
+      "recall": 1.0,
+      "retrieved_count": 5
     },
     {
       "query_id": "nl_099",
-      "recall": 0.9025,
-      "retrieved_count": 4
+      "recall": 1.0,
+      "retrieved_count": 5
     },
     {
       "query_id": "nl_100",
-      "recall": 0.9583,
-      "retrieved_count": 5
+      "recall": 1.0,
+      "retrieved_count": 4
     }
   ]
 }
